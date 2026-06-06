@@ -1,0 +1,28 @@
+{
+  "name": "AZY Vinç — Şanlıurfa Vinç Kiralama",
+  "short_name": "AZY Vinç",
+  "description": "Şanlıurfa ve çevresinde vinç kiralama, sepetli vinç ve yük kaldırma hizmeti.",
+  "lang": "tr",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#14171a",
+  "theme_color": "#14171a",
+  "icons": [
+    {
+      "src": "/assets/icons/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
