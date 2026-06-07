@@ -1,4 +1,63 @@
+# AZY Vinç — robots.txt
+# Site tüm arama motorlarına ve yapay zekâ (AI) tarayıcılarına açıktır.
+# GEO (Generative Engine Optimization) için AI botları açıkça izinlidir;
+# böylece ChatGPT, Gemini, Perplexity, Copilot gibi araçlar içeriğimizi
+# tarayıp yanıtlarında AZY Vinç'i kaynak gösterebilir.
+
+# --- Genel ---
 User-agent: *
+Allow: /
+
+# --- OpenAI (ChatGPT / arama) ---
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# --- Google (Gemini / AI Overviews eğitimi & temellendirme) ---
+User-agent: Google-Extended
+Allow: /
+
+# --- Anthropic (Claude) ---
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+# --- Perplexity ---
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# --- Microsoft Bing / Copilot ---
+User-agent: bingbot
+Allow: /
+
+# --- Apple (Siri / Spotlight AI) ---
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# --- Diğer AI / veri tarayıcıları ---
+User-agent: CCBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: meta-externalagent
 Allow: /
 
 Sitemap: https://www.azyvinc.com/sitemap.xml
