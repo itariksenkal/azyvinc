@@ -113,7 +113,7 @@ p  { margin: 0 0 1rem; }
   content: ""; position: absolute; inset: 0;
   background: radial-gradient(circle at 80% 20%, rgba(255,193,7,.22), transparent 45%);
 }
-.hero__inner { position: relative; z-index: 1; padding: 84px 0 90px; max-width: 760px; }
+.hero__inner { position: relative; z-index: 1; padding: 84px 20px 90px; max-width: 760px; }
 .hero h1 { color: #fff; }
 .hero h1 .accent { color: var(--accent); }
 .hero__lead { font-size: 1.18rem; color: #cdd8e6; max-width: 600px; }
@@ -124,7 +124,7 @@ p  { margin: 0 0 1rem; }
 
 /* ---------- Şerit (öne çıkan değerler) ---------- */
 .strip { background: var(--accent); color: #1a1100; }
-.strip__inner { display: flex; flex-wrap: wrap; justify-content: center; gap: 14px 40px; padding: 16px 0; font-weight: 700; }
+.strip__inner { display: flex; flex-wrap: wrap; justify-content: center; gap: 14px 40px; padding: 16px 20px; font-weight: 700; }
 .strip__inner span { display: inline-flex; align-items: center; gap: 8px; }
 
 /* ---------- Kartlar (hizmetler) ---------- */
@@ -259,6 +259,32 @@ p  { margin: 0 0 1rem; }
 .social--light a { background: var(--bg-soft); color: var(--brand); border: 1px solid var(--line); }
 .social--light a:hover { background: var(--accent); color: #14171a; border-color: var(--accent); }
 
+/* ---------- Çerez onay bandı ---------- */
+.cookie {
+  position: fixed; left: 16px; right: 16px; bottom: 16px; z-index: 300; max-width: 880px; margin: 0 auto;
+  background: #14171a; color: #e8ebee; border: 1px solid #2a2f36; border-radius: 14px;
+  box-shadow: 0 18px 50px rgba(0,0,0,.35); padding: 14px 16px;
+  display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
+}
+.cookie__txt { margin: 0; font-size: .9rem; line-height: 1.5; flex: 1 1 320px; }
+.cookie__txt a { color: var(--accent); font-weight: 700; text-decoration: underline; }
+.cookie__btns { display: flex; gap: 10px; flex: 0 0 auto; }
+.btn-cookie { border: 0; cursor: pointer; font-weight: 700; border-radius: 999px; padding: 10px 18px; font-size: .9rem; font-family: inherit; }
+.btn-cookie--ok { background: var(--accent); color: #14171a; }
+.btn-cookie--ghost { background: transparent; color: #cdd3d9; border: 1px solid #3a4048; }
+
+/* Harita onay yer tutucu */
+.map-consent {
+  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 12px; text-align: center;
+  aspect-ratio: 16/11; background: var(--bg-soft); border: 1px dashed var(--line); border-radius: var(--radius);
+  padding: 24px; color: var(--muted); font-size: .92rem;
+}
+@media (max-width: 720px) {
+  .cookie { left: 8px; right: 8px; bottom: 64px; padding: 12px 14px; }
+  .cookie__btns { width: 100%; }
+  .btn-cookie { flex: 1; }
+}
+
 /* ---------- Yüzen (sabit) tıkla-ara & WhatsApp ---------- */
 .float-actions { position: fixed; right: 16px; bottom: 16px; z-index: 200; display: flex; flex-direction: column; gap: 12px; }
 .float-actions a {
@@ -282,7 +308,7 @@ p  { margin: 0 0 1rem; }
 }
 @media (max-width: 720px) {
   .section { padding: 52px 0; }
-  .nav, .header__phone { display: none; }
+  .nav, .header__phone, .header__cta .btn--accent { display: none; }
   .nav-toggle { display: block; }
   .nav.is-open {
     display: flex; flex-direction: column; position: absolute; top: 72px; left: 0; right: 0;
