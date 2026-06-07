@@ -333,3 +333,10 @@ p  { margin: 0 0 1rem; }
 @media (max-width: 460px) {
   .post-list, .gallery { grid-template-columns: 1fr; }
 }
+
+/* ---------- Sayfa geçiş animasyonu (basit & hızlı) ---------- */
+/* Her sayfa açıldığında içerik hızlıca belirir. Sadece opaklık — sabit öğeleri bozmaz. */
+@media (prefers-reduced-motion: no-preference) {
+  body { animation: pageFade .18s ease-out both; }
+  @keyframes pageFade { from { opacity: 0; } to { opacity: 1; } }
+}
