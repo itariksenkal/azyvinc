@@ -334,9 +334,57 @@ p  { margin: 0 0 1rem; }
   .post-list, .gallery { grid-template-columns: 1fr; }
 }
 
-/* ---------- Sayfa geçiş animasyonu (basit & hızlı) ---------- */
-/* Her sayfa açıldığında içerik hızlıca belirir. Sadece opaklık — sabit öğeleri bozmaz. */
+/* ---------- Sayfa geçiş animasyonu (yumuşak slide + fade) ---------- */
+@view-transition { navigation: auto; }
 @media (prefers-reduced-motion: no-preference) {
-  body { animation: pageFade .18s ease-out both; }
-  @keyframes pageFade { from { opacity: 0; } to { opacity: 1; } }
+  /* Modern tarayıcı (Chrome/Edge): çıkan sayfa söner, gelen sayfa hafifçe yukarı kayarak belirir */
+  ::view-transition-old(root) { animation: vtOut .22s ease both; }
+  ::view-transition-new(root) { animation: vtIn .42s cubic-bezier(.22,.61,.36,1) both; }
+  /* View Transitions desteklemeyen tarayıcı: nazik beliriş (sabit öğeleri bozmamak için sadece opaklık) */
+  @supports not (view-transition-name: none) {
+    body { animation: pageFade .4s ease-out both; }
+  }
 }
+@keyframes vtOut { to { opacity: 0; } }
+@keyframes vtIn { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+@keyframes pageFade { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) {
+  ::view-transition-old(root), ::view-transition-new(root) { animation: none; }
+}
+
+/* ---------- Foto büyütme (lightbox) ---------- */
+.gallery img, .post-cover img { cursor: zoom-in; }
+.lightbox {
+  position: fixed; inset: 0; z-index: 1000; display: none;
+  align-items: center; justify-content: center; padding: 24px;
+  background: rgba(10,12,15,.93);
+}
+.lightbox.is-open { display: flex; animation: lbFade .2s ease; }
+@keyframes lbFade { from { opacity: 0; } to { opacity: 1; } }
+.lb-stage { margin: 0; display: flex; flex-direction: column; align-items: center; gap: 12px; }
+.lb-stage img { max-width: 92vw; max-height: 80vh; width: auto; height: auto; border-radius: 10px; box-shadow: 0 24px 70px rgba(0,0,0,.55); cursor: default; }
+.lb-stage figcaption { color: #cfd6dd; font-size: .9rem; text-align: center; max-width: 720px; }
+.lb-close, .lb-nav {
+  position: absolute; border: 0; cursor: pointer; color: #fff;
+  background: rgba(255,255,255,.12); border-radius: 50%; line-height: 1; transition: background .15s, color .15s;
+}
+.lb-close { top: 16px; right: 18px; width: 44px; height: 44px; font-size: 26px; }
+.lb-nav { top: 50%; transform: translateY(-50%); width: 50px; height: 50px; font-size: 30px; }
+.lb-prev { left: 16px; } .lb-next { right: 16px; }
+.lb-close:hover, .lb-nav:hover { background: var(--accent); color: #14171a; }
+.lb-lock { position: fixed; left: 0; right: 0; width: 100%; overflow: hidden; }
+@media (max-width: 600px) {
+  .lb-nav { width: 42px; height: 42px; font-size: 24px; }
+  .lb-prev { left: 8px; } .lb-next { right: 8px; }
+  .lb-close { top: 10px; right: 10px; }
+}
+
+/* ---------- Blog sayfalama (pagination) ---------- */
+.pagination { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-top: 38px; }
+.pg-btn {
+  min-width: 42px; height: 42px; padding: 0 14px; border: 1px solid var(--line); background: #fff; color: var(--brand);
+  border-radius: 10px; font-weight: 700; font-family: inherit; font-size: .95rem; cursor: pointer; transition: border-color .15s, background .15s;
+}
+.pg-btn:hover:not(:disabled) { border-color: var(--accent); }
+.pg-btn.is-active { background: var(--accent); border-color: var(--accent); color: #14171a; }
+.pg-btn:disabled { opacity: .45; cursor: default; }
