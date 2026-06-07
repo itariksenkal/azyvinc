@@ -13,3 +13,7 @@ Desktop.ini
 *.download
 *.tmp
 *.log
+
+# Teslim raporu ve logo paketi (gizli bilgi icerebilir; repoya girmemeli)
+AZY-Vinc-Rapor/
+AZY-Vinc-Logo-Paketi/
