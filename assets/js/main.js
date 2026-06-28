@@ -155,4 +155,25 @@
     });
     render();
   })();
+
+  // ---- Google Ads dönüşüm izleme: arama & WhatsApp tıklamaları ----
+  // tel: linkleri çevirici açar (sayfa kapanmaz), wa.me linkleri yeni sekmede
+  // açılır; her iki durumda da sayfa kaldığından dönüşüm güvenle gönderilir.
+  (function () {
+    var CALL_SEND_TO = "AW-18219228365/HLGmCIPZ0bocEM25ze9D"; // Telefon Araması
+    var WA_SEND_TO = "AW-18219228365/-PguCNjVqMccEM25ze9D";   // WhatsApp Tıklaması
+
+    function fire(sendTo) {
+      if (typeof window.gtag !== "function") return;
+      window.gtag("event", "conversion", { send_to: sendTo, value: 1.0, currency: "TRY" });
+    }
+
+    document.addEventListener("click", function (e) {
+      var a = e.target && e.target.closest ? e.target.closest("a[href]") : null;
+      if (!a) return;
+      var href = a.getAttribute("href") || "";
+      if (href.indexOf("tel:") === 0) { fire(CALL_SEND_TO); }
+      else if (/wa\.me|api\.whatsapp\.com|whatsapp:/i.test(href)) { fire(WA_SEND_TO); }
+    }, true);
+  })();
 })();
