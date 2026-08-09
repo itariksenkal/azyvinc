@@ -159,9 +159,33 @@
   // ---- Google Ads dönüşüm izleme: arama & WhatsApp tıklamaları ----
   // tel: linkleri çevirici açar (sayfa kapanmaz), wa.me linkleri yeni sekmede
   // açılır; her iki durumda da sayfa kaldığından dönüşüm güvenle gönderilir.
+  //
+  // ETKİLEŞİM FİLTRESİ (2026-08): Reklam trafiğinde kazara dokunuşlar gerçek
+  // arama gibi sayılıyordu — 6 Haz-8 Ağu arasında 184 "dönüşüm" kaydedildi ama
+  // tek bir telefon gelmedi. Dönüşüm artık yalnızca ziyaretçi gerçekten
+  // etkileşime girdiyse Google Ads'e gönderilir.
+  //
+  // ÖNEMLİ: Filtre yalnızca RAPORLAMAYI etkiler. Link her koşulda normal
+  // çalışır; arama veya WhatsApp ASLA engellenmez.
   (function () {
     var CALL_SEND_TO = "AW-18219228365/HLGmCIPZ0bocEM25ze9D"; // Telefon Araması
     var WA_SEND_TO = "AW-18219228365/-PguCNjVqMccEM25ze9D";   // WhatsApp Tıklaması
+
+    var MIN_MS = 3000;    // bundan hızlı dokunuş, okumadan yapılmış kabul edilir
+    var MIN_SCROLL = 50;  // px — sayfayı gerçekten kaydırdı mı
+
+    var start = Date.now();
+    var engaged = false;
+    function markEngaged() { engaged = true; }
+
+    // Gerçek etkileşim sinyalleri. Tek bir dokunuş touchmove üretmez; bu yüzden
+    // kazara dokunuşlar bu sinyallerin hiçbirini tetiklemez.
+    setTimeout(markEngaged, MIN_MS);
+    window.addEventListener("scroll", function () {
+      if ((window.scrollY || window.pageYOffset || 0) > MIN_SCROLL) markEngaged();
+    }, { passive: true });
+    window.addEventListener("touchmove", markEngaged, { passive: true });
+    window.addEventListener("keydown", markEngaged);
 
     function fire(sendTo) {
       if (typeof window.gtag !== "function") return;
@@ -172,8 +196,24 @@
       var a = e.target && e.target.closest ? e.target.closest("a[href]") : null;
       if (!a) return;
       var href = a.getAttribute("href") || "";
-      if (href.indexOf("tel:") === 0) { fire(CALL_SEND_TO); }
-      else if (/wa\.me|api\.whatsapp\.com|whatsapp:/i.test(href)) { fire(WA_SEND_TO); }
+      var kind = null;
+      if (href.indexOf("tel:") === 0) { kind = "call"; }
+      else if (/wa\.me|api\.whatsapp\.com|whatsapp:/i.test(href)) { kind = "whatsapp"; }
+      if (!kind) return;
+
+      // GA4'e her tıklama gönderilir (filtrelenen dahil) — böylece kazara
+      // dokunuşların gerçek oranını ölçebiliriz. GTM: "cta_click" etkinliği.
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({
+        event: "cta_click",
+        cta_type: kind,
+        ms_on_page: Date.now() - start,
+        engaged: engaged
+      });
+
+      // Google Ads dönüşümü yalnızca gerçek etkileşimde gönderilir.
+      if (!engaged) return;
+      fire(kind === "call" ? CALL_SEND_TO : WA_SEND_TO);
     }, true);
   })();
 })();
