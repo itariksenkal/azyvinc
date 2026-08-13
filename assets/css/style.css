@@ -159,6 +159,8 @@ p  { margin: 0 0 1rem; }
   border: 1px solid rgba(255,255,255,.18); background: rgba(255,255,255,.04);
   padding: 9px 18px; border-radius: 999px; font-weight: 600; font-size: .95rem;
 }
+a.tag { color: inherit; text-decoration: none; }
+a.tag:hover { background: rgba(255,255,255,.12); }
 
 /* ---------- Galeri ---------- */
 .gallery { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
