@@ -7,57 +7,74 @@
 # --- Genel ---
 User-agent: *
 Allow: /
+# Yayin kuyrugu (taslaklar) dizine eklenmesin
+Disallow: /taslak/
 
 # --- OpenAI (ChatGPT / arama) ---
 User-agent: GPTBot
 Allow: /
+Disallow: /taslak/
 
 User-agent: OAI-SearchBot
 Allow: /
+Disallow: /taslak/
 
 User-agent: ChatGPT-User
 Allow: /
+Disallow: /taslak/
 
 # --- Google (Gemini / AI Overviews eğitimi & temellendirme) ---
 User-agent: Google-Extended
 Allow: /
+Disallow: /taslak/
 
 # --- Anthropic (Claude) ---
 User-agent: ClaudeBot
 Allow: /
+Disallow: /taslak/
 
 User-agent: anthropic-ai
 Allow: /
+Disallow: /taslak/
 
 User-agent: Claude-Web
 Allow: /
+Disallow: /taslak/
 
 # --- Perplexity ---
 User-agent: PerplexityBot
 Allow: /
+Disallow: /taslak/
 
 User-agent: Perplexity-User
 Allow: /
+Disallow: /taslak/
 
 # --- Microsoft Bing / Copilot ---
 User-agent: bingbot
 Allow: /
+Disallow: /taslak/
 
 # --- Apple (Siri / Spotlight AI) ---
 User-agent: Applebot
 Allow: /
+Disallow: /taslak/
 
 User-agent: Applebot-Extended
 Allow: /
+Disallow: /taslak/
 
 # --- Diğer AI / veri tarayıcıları ---
 User-agent: CCBot
 Allow: /
+Disallow: /taslak/
 
 User-agent: Amazonbot
 Allow: /
+Disallow: /taslak/
 
 User-agent: meta-externalagent
 Allow: /
+Disallow: /taslak/
 
 Sitemap: https://www.azyvinc.com/sitemap.xml

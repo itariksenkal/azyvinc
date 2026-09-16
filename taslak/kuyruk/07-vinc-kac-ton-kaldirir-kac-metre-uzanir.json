@@ -1,0 +1,112 @@
+{
+ "slug": "vinc-kac-ton-kaldirir-kac-metre-uzanir",
+ "title": "Vinç Kaç Ton Kaldırır, Kaç Metre Uzanır? Türlere Göre",
+ "ogTitle": "Vinç Kaç Ton Kaldırır, Kaç Metreye Uzanır? Mobil, Hiyap ve Sepetli Vinç",
+ "h1": "Vinç Kaç Ton Kaldırır, Kaç Metre Uzanır?",
+ "desc": "Mobil vinç, hiyap ve sepetli vinç kaç ton kaldırır, kaç metreye uzanır? Katalogdaki tonajın sahada neden düştüğünü örnekle anlatıyoruz.",
+ "image": "mobil-vinc-saha-azy-vinc.jpeg",
+ "imageAlt": "Sahada bomu açılmış mobil vinç",
+ "caption": "Vincin adındaki tonaj, sahada kaldırabileceği yükün tavanıdır — tabanı değil.",
+ "intro": "\"Bu vinç kaç ton kaldırır?\" sorusunun kısa cevabı şudur: adındaki tonajı yalnızca en ideal koşulda kaldırır. Yük uzaklaştıkça, bom yükseldikçe kapasite hızla düşer. Bu yazıda türlere göre genel bir tablo veriyor ve sahadaki gerçek kapasitenin nasıl hesaplandığını basitçe anlatıyoruz.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "Türlere göre genel çerçeve"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Vinç türü",
+    "Kaldırma",
+    "Uzanım"
+   ],
+   "rows": [
+    [
+     "Hiyap (araç üstü)",
+     "Küçük-orta yükler",
+     "Orta; bom katlanır ve kademeli uzar"
+    ],
+    [
+     "Mobil vinç (lastik tekerlekli)",
+     "Küçük modellerden çok büyük modellere geniş aralık",
+     "Teleskopik bom ile yüksek"
+    ],
+    [
+     "Sepetli vinç",
+     "Yük değil personel ve el aleti",
+     "Çok katlı binalara ulaşır"
+    ],
+    [
+     "Paletli ve kule vinç",
+     "Büyük şantiye ve tesis yükleri",
+     "Çok yüksek"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Farklı türlerin ne işe yaradığını <a href=\"/blog/vinc-cesitleri-ve-farklari\">vinç çeşitleri</a> yazımızda anlattık."
+  },
+  {
+   "type": "h2",
+   "text": "Neden adındaki tonajı kaldıramaz?"
+  },
+  {
+   "type": "p",
+   "text": "Vinci bir tahterevalli gibi düşünün. Yük, vincin dönüş merkezinden ne kadar uzaktaysa devirme etkisi o kadar büyür. Bu yüzden kapasite, yükün ağırlığı ile mesafesinin çarpımına göre belirlenir."
+  },
+  {
+   "type": "p",
+   "text": "Basit bir örnek: adında yüksek tonaj yazan bir mobil vinç, yükü birkaç metre uzağa koyarken bu değere yakın çalışabilir. Aynı vinç yükü çok daha uzağa koymak zorunda kaldığında kaldırabileceği yük, adındaki değerin küçük bir kısmına düşebilir. Kesin değer her modelin yük tablosunda yazar."
+  },
+  {
+   "type": "h2",
+   "text": "Kapasiteyi düşüren diğer etkenler"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Bom uzunluğu ve açısı",
+    "Ayakların tam açılamaması (dar sokak)",
+    "Kanca bloğu, sapan ve aparatların ağırlığı (yüke eklenir)",
+    "Rüzgâr, özellikle geniş yüzeyli yüklerde",
+    "Zemin taşıma gücü"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Sepetli vinç kaç metre?"
+  },
+  {
+   "type": "p",
+   "text": "Sepetli vinçlerde soru tonaj değil yüksekliktir. Burada da benzer bir kural geçerlidir: yükseğe çıkmak ile yana uzanmak aynı anda en yüksek değerde yapılamaz. Hem yükseğe hem uzağa çıkmak gerekiyorsa daha büyük bir platform seçilir."
+  },
+  {
+   "type": "h2",
+   "text": "Doğru vinci seçmek için"
+  },
+  {
+   "type": "p",
+   "text": "Telefonda bize üç bilgi vermeniz yeterli: yükün yaklaşık ağırlığı, aracın yanaşabileceği yer ile yükün konacağı yer arasındaki mesafe ve konacağı yükseklik. Bu üç bilgiyle hangi tonaj sınıfının gerektiğini hesaplıyoruz. Kendiniz ön hesap yapmak isterseniz <a href=\"/blog/kac-tonluk-vinc-gerekir\">kaç tonluk vinç gerekir</a> rehberimizi kullanabilirsiniz."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Bir vinç kaç ton kaldırır?",
+   "a": "Türüne ve modeline göre değişir. Adındaki tonaj en ideal koşuldaki üst sınırdır; yük uzaklaştıkça kapasite düşer."
+  },
+  {
+   "q": "Vinç kaç metre uzar?",
+   "a": "Bom uzunluğu modele göre değişir. Uzanım arttıkça kaldırabileceği yük azalır."
+  },
+  {
+   "q": "Kanca ve sapan ağırlığı hesaba katılır mı?",
+   "a": "Evet. Kanca bloğu ve bağlama ekipmanı yükün bir parçası sayılır."
+  },
+  {
+   "q": "Hangi vincin gerektiğini nasıl bilirim?",
+   "a": "Yükün ağırlığını, mesafesini ve yüksekliğini bize iletin; uygun sınıfı biz hesaplayalım."
+  }
+ ],
+ "_hedef": "vinç kaç ton kaldırır, vinç kaç metre uzar, mobil vinç kaç ton, sepetli vinç kaç metre"
+}
