@@ -1,0 +1,141 @@
+{
+ "slug": "mobil-vinc-gunluk-kontrol-formu",
+ "title": "Mobil Vinç Günlük Kontrol Formu: Madde Madde Liste",
+ "ogTitle": "Mobil Vinç Günlük Kontrol Formu: İşe Başlamadan Önce 25 Madde",
+ "h1": "Mobil Vinç Günlük Kontrol Formu",
+ "desc": "Mobil vinçte işe başlamadan önce operatörün yaptığı günlük kontroller: halat, kanca, hidrolik, ayaklar, emniyet sistemleri. Kopyalanabilir liste.",
+ "image": "celik-konstruksiyon-cati-kiris-montaj-agir-yuk-vinc.jpeg",
+ "imageAlt": "Çelik konstrüksiyon montajında mobil vinç",
+ "caption": "Günlük kontrol beş dakika sürer; atlandığında bedeli çok daha ağır olur.",
+ "intro": "Yıllık periyodik kontrol vincin resmî muayenesidir; günlük kontrol ise operatörün her sabah, işe başlamadan önce yaptığı kısa ama kritik incelemedir. Aşağıdaki liste, sahada kullanılan günlük kontrol formlarının ortak maddelerini bir araya getiriyor. Kendi formunuzu hazırlarken temel alabilirsiniz; makinenin kullanım kılavuzundaki maddeler her zaman önceliklidir.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "1. Araç ve şasi"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Lastiklerde hasar, basınç ve bijon kontrolü",
+    "Motor yağı, soğutma suyu ve yakıt seviyesi",
+    "Araç altında yağ veya sıvı kaçağı",
+    "Farlar, tepe lambası ve geri vites ikaz sesi"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. Hidrolik sistem"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Hidrolik yağ seviyesi",
+    "Hortum ve bağlantılarda sızıntı, çatlak, sürtünme izi",
+    "Silindirlerde yağ kaçağı ve çizik"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "3. Bom ve halat"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Bom bölümlerinde ezilme, çatlak ve kaynak hasarı",
+    "Çelik halatta kopuk tel, ezilme, bükülme, kuş kafesi oluşumu",
+    "Halatın tambura düzgün sarılması",
+    "Makaralarda aşınma ve dönme serbestliği"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "4. Kanca ve bağlantı ekipmanı"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Kanca emniyet mandalının çalışması",
+    "Kancada açılma, çatlak veya aşınma",
+    "Sapan, zincir ve kilitlerin etiket ve hasar kontrolü"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Sapan ve bağlama ekipmanının seçimi ayrı bir konudur; <a href=\"/blog/vinc-sapan-halat-zincir-baglama-teknikleri\">sapan, halat ve zincir rehberimizde</a> ayrıntılı anlattık."
+  },
+  {
+   "type": "h2",
+   "text": "5. Emniyet sistemleri"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Yük moment göstergesinin (LMI) açılışta hata vermeden çalışması",
+    "Aşırı kaldırma (kanca üst sınır) şalterinin çalışması",
+    "Acil stop butonlarının çalışması",
+    "Terazi (seviye) göstergesi"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Bu sistemlerin nasıl çalıştığını <a href=\"/blog/vinc-guvenlik-sistemleri-yuk-moment-gostergesi\">vinç güvenlik sistemleri</a> yazımızda anlattık."
+  },
+  {
+   "type": "h2",
+   "text": "6. Ayaklar ve kurulum"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Ayak silindirlerinde kaçak ve hasar",
+    "Sedye plakalarının araçta olması ve sağlam olması",
+    "Zemin kontrolü: rögar, dolgu, çukur, eğim",
+    "Aracın terazide kurulması"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "7. Çalışma alanı"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Enerji hatlarına mesafe",
+    "Rüzgâr ve hava durumu",
+    "Çalışma alanının şerit veya bariyerle ayrılması",
+    "İşaretçinin belirlenmesi ve işaretlerin konuşulması"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Formu nasıl kullanmalı?"
+  },
+  {
+   "type": "p",
+   "text": "Her madde için \"uygun / uygun değil / not\" sütunu bırakın. Uygun olmayan bir madde varsa vinç o eksik giderilmeden çalıştırılmaz. Form tarihlenir, operatör tarafından imzalanır ve araçta ya da şantiye dosyasında saklanır. Denetimde ilk istenen belgelerden biri budur."
+  },
+  {
+   "type": "p",
+   "text": "Operatörlü kiralamada bu kontrolü operatörümüz yapar. AZY Vinç araçlarında günlük kontrol, sahaya çıkmadan önce tamamlanır; isterseniz formun kopyasını iş dosyanıza ekliyoruz."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Günlük kontrol formunu kim doldurur?",
+   "a": "Makineyi kullanan operatör doldurur ve imzalar."
+  },
+  {
+   "q": "Günlük kontrol ile periyodik kontrol aynı şey mi?",
+   "a": "Hayır. Periyodik kontrol yetkili kişilerce belirli aralıklarla yapılan resmî muayenedir; günlük kontrol operatörün her gün işe başlamadan yaptığı incelemedir."
+  },
+  {
+   "q": "Kontrolde uygunsuzluk çıkarsa ne olur?",
+   "a": "Eksik giderilene kadar vinç çalıştırılmaz."
+  },
+  {
+   "q": "Form ne kadar süre saklanmalı?",
+   "a": "İşyerinizin kayıt düzenine göre saklanır; denetimde geriye dönük istenebileceği için iş dosyasında tutulması önerilir."
+  }
+ ],
+ "_hedef": "mobil vinç günlük kontrol formu, vinç günlük kontrol listesi"
+}

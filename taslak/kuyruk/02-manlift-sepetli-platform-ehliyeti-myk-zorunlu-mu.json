@@ -1,0 +1,110 @@
+{
+ "slug": "manlift-sepetli-platform-ehliyeti-myk-zorunlu-mu",
+ "title": "Manlift ve Sepetli Vinç Ehliyeti: MYK Belgesi Şart mı?",
+ "ogTitle": "Manlift ve Sepetli Platform Ehliyeti: Hangi Belge Gerekir, MYK Zorunlu mu?",
+ "h1": "Manlift ve Sepetli Platform İçin Hangi Belge Gerekir?",
+ "desc": "Manlift ve sepetli vinç kullanmak için ehliyet, operatörlük belgesi ve MYK şartı. Akülü platform ile araç üstü sepetli vinç farkı.",
+ "image": "cadde-tabela-aydinlatma-sepetli-platform.jpeg",
+ "imageAlt": "Cadde üzerinde sepetli platformla aydınlatma çalışması",
+ "caption": "Sepetteki kişi ile platformu kullanan kişi çoğu zaman aynıdır; bu yüzden eğitim şarttır.",
+ "intro": "Manlift ve sepetli platformlar, sepetteki kişinin makineyi kendisinin kullandığı araçlardır. Bu yüzden \"sadece yukarı çıkıp iş yapacağım\" düşüncesi yanıltıcıdır: sepetteki kişi aynı zamanda operatördür. Hangi belgenin gerektiği makinenin türüne ve nerede kullanılacağına göre değişir.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "İki farklı makine, iki farklı durum"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Makine",
+    "Yolda sürme",
+    "Kullanım için"
+   ],
+   "rows": [
+    [
+     "Araç üstü sepetli vinç (kamyon üzerinde)",
+     "Kamyonun sınıfına uygun ehliyet",
+     "Sepetli platform operatörlük eğitimi/belgesi"
+    ],
+    [
+     "Kendinden yürür sepetli platform, eklemli/teleskopik",
+     "İş makinesi niteliğinde ise G sınıfı",
+     "Platform operatörlük eğitimi/belgesi"
+    ],
+    [
+     "Akülü makaslı platform, akülü manlift (kapalı alan)",
+     "Genellikle trafiğe çıkmaz",
+     "Platform kullanım eğitimi/belgesi"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Yani ehliyet, makinenin trafiğe çıkıp çıkmadığıyla ilgilidir; kullanım belgesi ise her durumda gündemdedir."
+  },
+  {
+   "type": "h2",
+   "text": "Manlift için MYK belgesi zorunlu mu?"
+  },
+  {
+   "type": "p",
+   "text": "Yüksekte çalışma, iş güvenliği mevzuatında en çok üzerinde durulan konulardan biri. Tehlikeli ve çok tehlikeli işlerde çalışanların mesleki eğitim alması ve belirli meslekler için MYK belgesi aranması öngörülüyor. Kullandığınız platform türünün zorunlu meslekler listesinde olup olmadığını MYK'nın güncel listesinden kontrol edin; işyerinizin iş güvenliği uzmanı da bu konuda bağlayıcı yönlendirmeyi yapar."
+  },
+  {
+   "type": "p",
+   "text": "Uygulamada denetimlerde ilk sorulan şey, platformu kullanan kişinin eğitim kaydı ve makinenin periyodik kontrol raporudur. İkisi de yoksa ceza riski doğar; bu cezaların güncel hâlini <a href=\"/blog/vinc-yuksekte-calisma-isg-idari-para-cezalari\">yüksekte çalışma İSG cezaları</a> yazımızda derledik."
+  },
+  {
+   "type": "h2",
+   "text": "Kendi personelim platformu kullanabilir mi?"
+  },
+  {
+   "type": "p",
+   "text": "Operatörsüz (kuru) kiralanan akülü platformlarda makineyi sizin personeliniz kullanır; bu durumda eğitim ve belge sorumluluğu da büyük ölçüde sizdedir. Operatörlü sepetli vinç kiralamada ise platformu belgeli operatörümüz kullanır, sizin personeliniz sepette işini yapar."
+  },
+  {
+   "type": "h2",
+   "text": "Sepette kimler çalışabilir?"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Emniyet kemeri (tam vücut) takmış ve sepete bağlanmış kişiler",
+    "Sepet kapasitesini aşmayacak sayıda kişi ve malzeme",
+    "Yüksekte çalışma eğitimi almış personel",
+    "Baş dönmesi, yükseklik korkusu gibi sağlık engeli olmayan kişiler"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Kişisel koruyucu donanımın tam listesi için <a href=\"/blog/yuksekte-calisma-is-guvenligi-kkd-sepetli-platform\">yüksekte çalışma KKD rehberimize</a> göz atabilirsiniz."
+  },
+  {
+   "type": "h2",
+   "text": "Şanlıurfa'da operatörlü sepetli vinç"
+  },
+  {
+   "type": "p",
+   "text": "Belge ve eğitim süreçleriyle uğraşmak istemeyen müşterilerimiz için AZY Vinç, Şanlıurfa (Urfa) ve ilçelerinde operatörlü sepetli vinç hizmeti veriyor. Operatör belgesini ve periyodik kontrol raporunu talep ettiğinizde iş başlamadan paylaşıyoruz."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Sepetli vinç hangi ehliyet ile kullanılır?",
+   "a": "Kamyon üstü sepetli vinçte aracı sürmek için kamyon sınıfına uygun ehliyet, platformu kullanmak için ayrıca operatörlük eğitimi ve belgesi gerekir."
+  },
+  {
+   "q": "Akülü manlift için ehliyet gerekir mi?",
+   "a": "Trafiğe çıkmayan akülü platformlarda sürücü belgesi genellikle gündeme gelmez; ancak kullanım eğitimi ve belgesi gerekir."
+  },
+  {
+   "q": "Manlift MYK zorunlu mu?",
+   "a": "Zorunluluk mesleğin listede yer almasına bağlı. Güncel durumu MYK'nın zorunlu meslekler listesinden ve iş güvenliği uzmanınızdan teyit edin."
+  },
+  {
+   "q": "Operatörlü kiralarsam belge sorumluluğu kimde?",
+   "a": "Platformu kullanan operatörün belgesi kiralama firmasının sorumluluğundadır. Sepette çalışan kendi personelinizin eğitimi ise sizin sorumluluğunuzdadır."
+  }
+ ],
+ "_hedef": "manlift ehliyeti, sepetli vinç hangi ehliyet kullanır, manlift myk zorunlu mu"
+}

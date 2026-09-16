@@ -1,0 +1,93 @@
+{
+ "slug": "manlift-devrilir-mi-sepetli-platform-devrilme",
+ "title": "Manlift Devrilir mi? Sepetli Platformda Devrilme Nedenleri",
+ "ogTitle": "Manlift Devrilir mi? Sepetli Platform Devrilmesinin 7 Nedeni ve Önlemleri",
+ "h1": "Manlift Devrilir mi? Devrilme Nedenleri ve Önlemler",
+ "desc": "Manlift ve sepetli platformlar hangi koşullarda devrilir? Zemin, eğim, rüzgâr, aşırı yük ve sepetten dışarı uzanma. Sahada alınması gereken önlemler.",
+ "image": "sahne-iskele-montaj-sepetli-vinc.jpeg",
+ "imageAlt": "Sahne montajında kullanılan sepetli vinç",
+ "caption": "Doğru kurulmuş bir platform, kendi başına devrilmez.",
+ "intro": "Manlift, doğru kurulup doğru kullanıldığında son derece güvenli bir makinedir. Devrilme kazalarının neredeyse tamamı birkaç tekrar eden hatadan kaynaklanır. Bu hataları bilmek, hem sepette çalışanı hem de aşağıdakileri korur.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "Devrilmenin 7 yaygın nedeni"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<strong>Zayıf zemin:</strong> Ayak ya da teker, rögar kapağı, dolgu toprak veya yağıştan yumuşamış zemine basar.",
+    "<strong>Eğim:</strong> Makine izin verilen eğimin üzerinde kurulur ya da yükseltilmiş hâlde eğimli zeminde yürütülür.",
+    "<strong>Rüzgâr:</strong> Sepet yükseldikçe rüzgârın etkisi artar; geniş pano veya levha taşınıyorsa etki katlanır.",
+    "<strong>Aşırı yük:</strong> Sepet kapasitesini aşan kişi ve malzeme.",
+    "<strong>Dışarı uzanma ve itme:</strong> Sepetten dışarı sarkarak çekme veya itme, yana yük bindirir.",
+    "<strong>Ayakların tam açılmaması:</strong> Dar alanda ayakları eksik açıp tam kapasite çalışmak.",
+    "<strong>Çarpma:</strong> Sepet ya da kolun bir yapıya veya araca takılması."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Makinedeki koruma sistemleri"
+  },
+  {
+   "type": "p",
+   "text": "Modern platformlarda eğim ikazı, aşırı yük sensörü ve ayak kontrol sistemleri bulunur. Bu sistemler uyarı verdiğinde çalışma durdurulmalıdır; ikazı susturup devam etmek, kazaların en tipik hikâyesidir. Sistemlerin çalıştığı her gün <a href=\"/blog/manlift-sepetli-platform-gunluk-kontrol-formu\">günlük kontrolde</a> doğrulanmalıdır."
+  },
+  {
+   "type": "h2",
+   "text": "Zemin kontrolü"
+  },
+  {
+   "type": "p",
+   "text": "Kurulumdan önce ayakların basacağı noktalar tek tek kontrol edilir. Rögar, su kanalı, kaldırım kenarı ve yeni dolgu alanları özellikle risklidir. Sedye plakaları basıncı geniş alana yayar. Bu konuyu <a href=\"/blog/vinc-ayak-outrigger-zemin-basinci-sedye-plakasi\">ayak basıncı ve sedye plakası</a> yazımızda ayrıntılı anlattık."
+  },
+  {
+   "type": "h2",
+   "text": "Rüzgâr sınırı"
+  },
+  {
+   "type": "p",
+   "text": "Her platformun üreticinin belirlediği bir rüzgâr sınırı vardır ve bu sınır sepetteki rüzgâr için geçerlidir; yerde hissedilen rüzgâr yukarıda daha güçlüdür. Rüzgâr sınırlarını <a href=\"/blog/vinc-ruzgar-hava-kosullari-calisma-sinirlari\">hava koşulları rehberimizde</a> anlattık."
+  },
+  {
+   "type": "h2",
+   "text": "Sepetteki kişi ne yapmalı?"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Emniyet kemerini sepete bağlamalı; kemer devrilmede fırlamayı önler",
+    "Korkuluk üzerine çıkmamalı, dışarı sarkmamalı",
+    "İkaz sesi duyduğunda hareketi durdurmalı",
+    "Yükü veya malzemeyi sepetten dışarı doğru itmemeli"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Operatörlü hizmetin avantajı"
+  },
+  {
+   "type": "p",
+   "text": "Operatörlü sepetli vinç hizmetimizde zemin kontrolü, kurulum ve rüzgâr değerlendirmesi deneyimli operatörümüz tarafından yapılır. Şanlıurfa (Urfa) genelinde sepetli vinç ihtiyacınız için arayabilirsiniz."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Manlift devrilir mi?",
+   "a": "Doğru kurulup kullanıldığında devrilme riski çok düşüktür. Kazalar genellikle zayıf zemin, eğim, rüzgâr ve aşırı yükten kaynaklanır."
+  },
+  {
+   "q": "Eğim ikazı öterse ne yapılmalı?",
+   "a": "Hareket durdurulmalı, sepet indirilmeli ve kurulum düzeltilmelidir."
+  },
+  {
+   "q": "Emniyet kemeri devrilmede işe yarar mı?",
+   "a": "Evet. Sepete bağlı kemer, sarsıntı veya devrilme anında kişinin fırlamasını önler."
+  },
+  {
+   "q": "Rüzgârlı havada çalışılır mı?",
+   "a": "Makinenin rüzgâr sınırının altında çalışılır; sınır aşılırsa iş ertelenir."
+  }
+ ],
+ "_hedef": "manlift devrilir mi, sepetli platform devrilmesi, sepetli vinç kazası nedenleri"
+}
