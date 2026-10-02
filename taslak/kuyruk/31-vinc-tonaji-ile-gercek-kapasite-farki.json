@@ -1,0 +1,62 @@
+{
+ "slug": "vinc-tonaji-ile-gercek-kapasite-farki",
+ "_hedef": "50 tonluk vinç kaç ton kaldırır / vinç tonajı gerçek kapasite",
+ "title": "50 Tonluk Vinç Neden 50 Ton Kaldırmaz? Örnek Hesap",
+ "ogTitle": "Vinç Tonajı ile Gerçek Kapasite Farkı: 50 Tonluk Vincin Yarıçapta Kaldırdığı Yük, Adım Adım Örnek",
+ "h1": "Vinç tonajı ile gerçek kapasite farkı: 50 tonluk vinç uzakta kaç ton kaldırır?",
+ "desc": "50 tonluk vinç neden 50 ton kaldırmaz? Vinç tonajı ile gerçek kapasite farkını yarıçap, bom ve aparat payıyla adım adım çözülmüş bir örnekle anlatıyoruz.",
+ "image": "celik-konstruksiyon-cati-kiris-montaj-agir-yuk-vinc.jpeg",
+ "imageAlt": "Çelik konstrüksiyon çatı kirişini kaldıran vinç",
+ "caption": "Kiriş hafif olabilir; asıl soru kaç metre uzağa bırakılacağıdır.",
+ "intro": "50 tonluk bir vinç, 50 tonu yalnızca bom en kısa, yük vince en yakın ve ayaklar tam açıkken kaldırır; 15–20 metre yarıçapta kaldırabildiği yük çoğu zaman adındaki değerin beşte biri, hatta daha azıdır. Bu yazıda bunu tekrar kuramla anlatmak yerine baştan sona çözülmüş bir örnek veriyoruz. Yük tablosunun nasıl okunduğunu merak ediyorsanız önce <a href=\"/blog/vinc-yuk-tablosu-load-chart-nasil-okunur\">yük tablosu (load chart) nasıl okunur</a> yazımıza bakın; burada o bilgiyi bir iş üzerinde uyguluyoruz.",
+ "body": [
+  {"type": "h2", "text": "Önce kısa bir hatırlatma"},
+  {"type": "p", "text": "Vincin adındaki tonaj, üreticinin yük tablosundaki en büyük sayıdır. Tablodaki diğer bütün hücreler daha küçüktür. Yük uzaklaştıkça devirme momenti büyür, bom uzadıkça bomun kendi ağırlığı ve esnemesi devreye girer; ikisi de net kapasiteyi aşağı çeker. Bunun genel mantığını <a href=\"/blog/vinc-kac-ton-kaldirir-kac-metre-uzanir\">vinç kaç ton kaldırır, kaç metre uzanır</a> yazısında anlattık. Şimdi sayılarla gidelim."},
+  {"type": "h2", "text": "Örnek iş: çatıya 4,2 tonluk klima santrali"},
+  {"type": "p", "text": "Senaryo şu: bir fabrika binasının çatısına 4,2 ton ağırlığında bir klima santrali konacak. Vinç binanın ön tarafında, yol kenarına park edebiliyor. Santralin oturacağı kaide, vincin dönüş merkezinden yatayda 18 metre uzakta ve çatı kotu 9 metre. Önümüzde 50 tonluk sınıfta bir mobil vinç var."},
+  {"type": "p", "text": "Aşağıdaki tablo değerleri gerçek bir modelin yük tablosu değildir; 50 ton sınıfı bir mobil vincin tam açık ayak ve tam karşı ağırlıkla tipik olarak gösterdiği eğilimi anlatmak için yuvarlanmış örnek değerlerdir. Gerçek işte mutlaka o aracın kendi tablosu kullanılır."},
+  {"type": "table", "head": ["Yarıçap", "Kısa bom (yaklaşık 10–12 m)", "Orta bom (yaklaşık 20–25 m)", "Uzun bom (yaklaşık 30–38 m)"], "rows": [
+   ["3 m", "Adındaki değere yakın", "Daha düşük", "Kullanılamaz veya çok düşük"],
+   ["8 m", "Yaklaşık 15–20 ton", "Yaklaşık 13–17 ton", "Yaklaşık 10–13 ton"],
+   ["12 m", "Bom yetmez", "Yaklaşık 8–10 ton", "Yaklaşık 7–9 ton"],
+   ["18 m", "Bom yetmez", "Yaklaşık 4–5,5 ton", "Yaklaşık 4–5 ton"],
+   ["24 m", "Bom yetmez", "Bom yetmez", "Yaklaşık 2,5–3,5 ton"]
+  ]},
+  {"type": "h2", "text": "Adım adım çözüm"},
+  {"type": "h3", "text": "Adım 1: Gerçek yükü bul"},
+  {"type": "p", "text": "Santralin etiket ağırlığı 4,2 ton. Üstüne kaldırma aparatlarını ekliyoruz: kanca bloğu, dört kollu zincir sapan ve santralin üst yüzeyini ezmemek için bir travers. Bu örnekte bunların toplamını 0,4 ton kabul edelim. Kancadaki gerçek yük: 4,2 + 0,4 = 4,6 ton."},
+  {"type": "h3", "text": "Adım 2: Yarıçapı ve bomu belirle"},
+  {"type": "p", "text": "Bırakma yarıçapı 18 metre. Çatı kotu 9 metre, santralin yüksekliği ve sapan boyu da eklenince kancanın yaklaşık 16–17 metre yükseğe çıkması gerekiyor. 18 metre yarıçapta bu yüksekliğe ulaşmak için orta bom yetmeyebilir; çatı saçağını da aşmak gerektiği için uzun boma yakın bir konfigürasyon gerekiyor."},
+  {"type": "h3", "text": "Adım 3: Tabloda hücreyi oku"},
+  {"type": "p", "text": "Örnek tabloda 18 metre ve uzun bom hücresi yaklaşık 4–5 ton. Gerçek yükümüz 4,6 ton. Kağıt üzerinde \"sığıyor\" gibi duruyor. Ama bu, tablonun yüzde 92'sine ve üstüne denk gelir."},
+  {"type": "h3", "text": "Adım 4: Güvenlik payını uygula"},
+  {"type": "p", "text": "Sahada tablonun sonuna kadar çalışmayız. Pek çok firma ve kaldırma prosedürü, tablonun belirli bir oranını aşan kaldırmaları ek planlama gerektiren iş olarak sınıflar; oran firmaya ve prosedüre göre değişir. Rüzgar, zemin oturması ve yükün salınımı hesabın gösterdiğinden fazlasını isteyebilir. Bu örnekte 50 tonluk vinç tek başına sınırda kalıyor ve kabul etmiyoruz."},
+  {"type": "h3", "text": "Adım 5: Seçenekleri karşılaştır"},
+  {"type": "ul", "items": [
+   "<strong>Vinci yaklaştırmak:</strong> Vinç binanın yan cephesine, 11–12 metre yarıçapa gelebiliyorsa aynı 50 tonluk vinç orta bomla yaklaşık 8–10 ton verir. İş rahatlıkla yapılır. Önce zemin ve ayak alanı kontrol edilir.",
+   "<strong>Bir üst sınıf vinç:</strong> Vinç yerinden kıpırdayamıyorsa 80–100 ton sınıfı bir vinç 18 metrede rahat bir pay bırakır. Maliyet ve kurulum süresi artar.",
+   "<strong>Yükü bölmek:</strong> Santralin modülleri ayrılabiliyorsa iki ayrı kaldırma ile her parça payın içinde kalır.",
+   "<strong>Aparatı hafifletmek:</strong> Travers gerçekten gerekmiyorsa daha hafif bir bağlama ile birkaç yüz kilo kazanılabilir; ama bu payı tek başına kurtarmaz."
+  ]},
+  {"type": "p", "text": "Bu örnekte en ekonomik çözüm çoğu zaman vinci yaklaştırmaktır. Fark, vincin tonajında değil vincin park ettiği noktadadır."},
+  {"type": "h2", "text": "Kendi işiniz için 60 saniyelik ön hesap"},
+  {"type": "ul", "items": [
+   "Yükün ağırlığını yazın, belgede yoksa yukarı yuvarlayın.",
+   "Kanca ve aparat için pay ekleyin; bilmiyorsanız firmaya sorun.",
+   "Vincin durabileceği noktadan yükün ineceği noktaya yatay mesafeyi metreyle ölçün. Uydu haritası bile iyi bir başlangıçtır.",
+   "Yükün ineceği yüksekliği ve aradaki engelleri (saçak, duvar, ağaç, hat) not edin.",
+   "Bu dört bilgiyi vinç firmasına verin. \"Kaç tonluk vinç?\" sorusunu firmanın cevaplaması gerekir, sizin değil."
+  ]},
+  {"type": "p", "text": "Bu dört bilgiyle tonaj seçiminin nasıl yapıldığını <a href=\"/blog/kac-tonluk-vinc-gerekir\">kaç tonluk vinç gerekir</a> yazısında anlattık. Teklif alırken bu bilgilerin sorulup sorulmadığına da dikkat edin; <a href=\"/blog/vinc-kiralama-kesif-neden-onemli\">keşif neden önemli</a> yazısı tam olarak bunun içindir."},
+  {"type": "h2", "text": "Sahada gördüğümüz en sık hata"},
+  {"type": "p", "text": "En sık karşılaştığımız durum, işin \"yük 3 ton, 25 tonluk vinç fazlasıyla yeter\" diye planlanması. Vinç sahaya geliyor, yük binanın arka tarafına gidecek, yarıçap 20 metreyi buluyor ve 25 tonluk vinç o mesafede 3 tonu güvenle taşıyamıyor. Ya iş erteleniyor ya da ikinci bir vinç çağrılıyor. İki durumda da maliyet ilk baştaki doğru seçimden yüksek oluyor. Yarıçapı baştan konuşmak bu sürprizi ortadan kaldırır."},
+  {"type": "p", "text": "İkinci sık hata, ayak açıklığının hesaba katılmaması. Yukarıdaki örnek değerler tam açık ayak içindir. Dar bir sokakta ayaklar yarım açılabiliyorsa aynı vinç aynı yarıçapta belirgin biçimde daha az kaldırır; tablo değişir. Bu yüzden keşifte vincin park edeceği yerin genişliğini de ölçeriz. Üçüncüsü ise yükün ağırlığının tahminle söylenmesi: irsaliyede veya etikette yazan değer yoksa her zaman yukarı yuvarlanmış bir değerle hesap yapılır."}
+ ],
+ "faqs": [
+  {"q": "50 tonluk vinç kaç ton kaldırır?", "a": "Bom en kısa ve yük çok yakınken adındaki değere yaklaşır. 15–20 metre yarıçapta ise tipik olarak birkaç ton seviyesine iner. Kesin değer o aracın yük tablosunda yazar."},
+  {"q": "Vinç tonajı neyi ifade eder?", "a": "Üreticinin en ideal konfigürasyonda verdiği azami kaldırma değerini, yani yük tablosundaki en büyük sayıyı. Sahadaki işlerin çoğu bu değerin çok altında yapılır."},
+  {"q": "Kanca ve sapan ağırlığı tonajdan düşülür mü?", "a": "Evet. Tablodaki değer brüttür; kanca bloğu, sapan, travers ve varsa jib ağırlığı düşüldükten sonra kalan net kapasite yükle karşılaştırılır."},
+  {"q": "Daha büyük vinç çağırmak her zaman çözüm mü?", "a": "Hayır. Çoğu zaman vinci yüke yaklaştırmak, yani yarıçapı kısaltmak daha ucuz ve daha hızlı çözümdür. Bunun için zeminin ve ayak alanının uygun olması gerekir."},
+  {"q": "Tablonun tamamını kullanmak yasak mı?", "a": "Tablo değeri üreticinin izin verdiği sınırdır. Ancak sahada rüzgar, zemin ve salınım nedeniyle pay bırakmak iyi uygulamadır; sınıra yakın kaldırmalar genellikle ayrıca planlanır."}
+ ]
+}

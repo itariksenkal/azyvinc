@@ -1,0 +1,166 @@
+{
+ "slug": "sepetli-vinc-kac-kata-cikar",
+ "_hedef": "sepetli vinç kaç kata çıkar / asansörlü vinç",
+ "title": "Sepetli Vinç Kaç Kata Çıkar? Kat–Metre Tablosu",
+ "ogTitle": "Sepetli Vinç Kaç Kata Çıkar? Kat ve Metre Karşılığı, Engel Üstünden Uzanma ve Asansörlü Vinç Farkı",
+ "h1": "Sepetli vinç kaç kata çıkar? Kat–metre tablosu ve engel üstünden uzanma",
+ "desc": "Sepetli vinç kaç kata çıkar? Kat sayısını metreye çeviren tablo, ağaç ve duvar üstünden uzanınca kaybedilen yükseklik ve asansörlü vinç ile farkı.",
+ "image": "piazza-avm-sanliurfa-cephe-tabela-sepetli-vinc.jpeg",
+ "imageAlt": "Şanlıurfa'da AVM cephesinde tabela işinde sepetli vinç",
+ "caption": "Kat sayısı kadar, aracın binadan ne kadar uzakta durduğu da belirleyicidir.",
+ "intro": "Sepetli vinç, konutlarda kat başına yaklaşık 3 metre hesabıyla, 16 metrelik bir platformla yaklaşık 4. kata, 22 metreyle 6. kata, 30 metreyle 8–9. kata, 40 metre sınıfıyla ise 12. kata kadar çıkar; ama bu, aracın binanın dibine yanaşabildiği durum içindir. Araç ağaç, duvar veya park etmiş araçların arkasında kalıyorsa sepetin yana uzanması gerekir ve çıkılabilen kat düşer. Aşağıdaki tablo kat sayısını metreye çevirir; ardından engel üstünden uzanmanın hesabını ve sık karıştırılan \"asansörlü vinç\" konusunu anlatıyoruz.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "Kat sayısını metreye çevirmek"
+  },
+  {
+   "type": "p",
+   "text": "Platform kataloglarında yazan rakam genellikle çalışma yüksekliğidir, yani sepetteki kişinin elini uzatarak ulaşabildiği seviye. Sepet tabanı bundan yaklaşık 2 metre aşağıdadır. Bu ayrımı <a href=\"/blog/sepetli-vinc-kapasite-erisim-yuksekligi\">sepetli vinç kapasite ve erişim yüksekliği</a> yazısında ayrıntılı anlattık. Aşağıdaki tablo konut binaları için kat başına yaklaşık 3 metre kabulüyle hazırlandı; hedef, o katın pencere ve balkon üst seviyesine el ile çalışabilmek."
+  },
+  {
+   "type": "table",
+   "head": [
+    "Çalışılacak kat",
+    "Hedef yükseklik (yaklaşık)",
+    "Gereken çalışma yüksekliği sınıfı"
+   ],
+   "rows": [
+    [
+     "1. kat",
+     "5–6 m",
+     "12 m sınıfı yeter"
+    ],
+    [
+     "2. kat",
+     "8–9 m",
+     "12–14 m sınıfı"
+    ],
+    [
+     "3. kat",
+     "11–12 m",
+     "14–16 m sınıfı"
+    ],
+    [
+     "4. kat",
+     "14–15 m",
+     "16–18 m sınıfı"
+    ],
+    [
+     "5. kat",
+     "17–18 m",
+     "20–22 m sınıfı"
+    ],
+    [
+     "6. kat",
+     "20–21 m",
+     "22–24 m sınıfı"
+    ],
+    [
+     "8. kat",
+     "26–27 m",
+     "28–30 m sınıfı"
+    ],
+    [
+     "10. kat",
+     "32–33 m",
+     "35 m ve üzeri"
+    ],
+    [
+     "12. kat",
+     "38–39 m",
+     "40 m ve üzeri"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Bu tablo dikkatle kullanılmalı. Kat yükseklikleri binadan binaya değişir. Ticari binalarda, AVM'lerde ve dükkânlı zemin katlarda kat yüksekliği 3,5–4,5 metreyi bulabilir; zemin kat dükkânsa bütün değerlere 1–2 metre eklemek gerekir. Çatı saçağı, parapet veya tabela gibi hedefler katın değil binanın üst kotuna göre ölçülür. En güvenli yol, hedef noktanın yüksekliğini bir lazer metreyle ya da bilinen kat sayısı ve kat yüksekliğinden hesaplayıp firmaya metre olarak bildirmektir."
+  },
+  {
+   "type": "h2",
+   "text": "Engel üstünden uzanma: kaybedilen kat"
+  },
+  {
+   "type": "p",
+   "text": "Tablo, aracın binanın dibine yakın durduğunu varsayar. Sahada çoğu zaman öyle olmaz: bahçe duvarı, ağaçlar, ön bahçe, kaldırım, park etmiş araçlar veya bir saçak, aracı binadan birkaç metre uzakta tutar. Bu durumda sepetin hem yükselmesi hem de yana uzanması gerekir. Bir platform en yüksek noktaya genellikle neredeyse dik konumda ulaşır; yana açıldıkça çıkabildiği yükseklik azalır."
+  },
+  {
+   "type": "p",
+   "text": "Her platformun bir erişim diyagramı vardır: yatay eksende yana uzanma, dikey eksende yükseklik. Hangi mesafede hangi yüksekliğe çıkılabildiği bu diyagramdan okunur. Kesin değer modele bağlı olduğu için burada sayı vermiyoruz; ama pratik kural şudur: araç binadan ne kadar uzakta duruyorsa bir üst sınıf platform düşünmek gerekir. Eklemli kollar engelin üstünden aşıp aşağı sarkabildiği için bu tür işlerde avantajlıdır; farkı <a href=\"/blog/eklemli-teleskopik-platform-farki\">eklemli ve teleskopik platform</a> yazısında anlattık."
+  },
+  {
+   "type": "h3",
+   "text": "Hızlı karar kuralı"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Araç bina dibine 1–2 metreye kadar yanaşabiliyorsa: tablodaki sınıf genellikle yeterlidir.",
+    "Araç ile bina arasında 3–6 metre varsa (ağaç, bahçe, park şeridi): bir üst sınıfı ve erişim diyagramını kontrol edin.",
+    "Araç ile bina arasında yüksek bir engel varsa (duvar, ağaç tacı, saçak): eklemli kollu bir platform düşünün; engelin yüksekliğini de bildirin.",
+    "Hem yükseklik hem uzaklık fazlaysa: daha büyük platform, farklı park noktası veya işin iki ayrı konumdan yapılması değerlendirilir."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Ölçümü kendiniz nasıl yaparsınız?"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Çalışılacak en yüksek noktanın kotunu bulun: kat sayısı × kat yüksekliği, artı pencere veya tabela üst seviyesi.",
+    "Aracın park edebileceği en yakın noktayı belirleyin ve bu noktadan bina cephesine yatay mesafeyi ölçün.",
+    "Arada kalan en yüksek engelin yüksekliğini ve yerini not edin.",
+    "Çalışma boyunca cephe boyunca ne kadar yana kayılacağını yazın; uzun cephelerde araç birkaç kez yer değiştirir.",
+    "Bu dört bilgiyi ve birkaç fotoğrafı firmaya gönderin."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "\"Asansörlü vinç\" ile sepetli vinç aynı şey mi?"
+  },
+  {
+   "type": "p",
+   "text": "Hayır. Aramalarda \"asansörlü vinç\" ifadesi genellikle iki farklı şeyi anlatmak için kullanılır. Birincisi, ev eşyası taşımacılığında pencereye dayanan, eşya taşıyan merdivenli dış cephe asansörüdür. Bu araç eşya taşır, insan taşımaz. İkincisi ise bazı kişilerin sepetli platformu kastetmek için kullandığı gündelik bir isimdir. Hangisine ihtiyacınız olduğunu işin ne olduğu belirler: eşyayı yukarı çıkarmak mı, yoksa bir kişiyi yükseğe çıkarıp orada çalıştırmak mı? Bu ayrımı <a href=\"/blog/asansorlu-nakliyat-mi-vinc-mi\">asansörlü nakliyat mı vinç mi</a> yazısında ayrıntılı ele aldık."
+  },
+  {
+   "type": "p",
+   "text": "Sepetli vinç ise insanı ve onun alet-malzemesini yükseğe çıkarmak için tasarlanmıştır. Sepet kapasitesinin sınırları vardır; ağır eşya veya malzeme taşımak için uygun değildir. Kat yüksekliğine göre doğru platformu seçerken sepete kaç kişinin bineceğini ve ne kadar malzeme alınacağını da düşünmek gerekir."
+  },
+  {
+   "type": "h2",
+   "text": "Sahadan bir örnek"
+  },
+  {
+   "type": "p",
+   "text": "5 katlı bir apartmanın en üst kat balkonunda bir tamir işi düşünelim. Kat yükseklikleri 3 metre, zemin kat dükkân ve 4 metre. Balkon korkuluğunun üstü yaklaşık 4 + 4 × 3 + 1 = 17 metre. Araç bina önüne yanaşabiliyorsa 20–22 metre sınıfı bir platform yeterli görünür. Ancak bina önünde 4 metrelik ağaçlı bir şerit varsa ve araç kaldırımın dışında kalıyorsa yana uzanma devreye girer; erişim diyagramına bakıp 24–28 metre sınıfına çıkmak gerekebilir. Fiyat farkını daha baştan görmek için <a href=\"/blog/sepetli-platform-kiralama-fiyatlari\">sepetli platform kiralama fiyatları</a> yazısındaki etkenlere bakabilirsiniz."
+  },
+  {
+   "type": "p",
+   "text": "Bir de eğim konusunu hesaba katın. Bina önündeki yol eğimliyse araç ayaklarla terazilenir, ama bu bazı durumlarda aracın konumunu ve dolayısıyla erişimi değiştirir. Dik sokaklarda araç bazen binanın yanından değil, daha düz bir noktadan çalışmak zorunda kalır ve uzanma mesafesi artar. Keşif sırasında bu tür ayrıntılar görülür; fotoğrafla iletilen işlerde yolun eğimini de belirtmeniz faydalı olur."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Sepetli vinç kaç kata çıkar?",
+   "a": "Konutlarda kat başına yaklaşık 3 metre hesabıyla 16 metrelik platform yaklaşık 4. kata, 22 metrelik 6. kata, 30 metrelik 8–9. kata çıkar. Araç binadan uzakta duruyorsa çıkılabilen kat düşer."
+  },
+  {
+   "q": "10 katlı binaya sepetli vinç çıkar mı?",
+   "a": "10. katın üst seviyesi yaklaşık 32–33 metredir; bu iş için 35 metre ve üzeri sınıfta bir platform gerekir. Araç binaya yanaşamıyorsa daha büyük sınıf düşünülmelidir."
+  },
+  {
+   "q": "Asansörlü vinç ile sepetli vinç aynı mı?",
+   "a": "Hayır. Asansörlü araç genellikle ev eşyası taşımak içindir ve insan taşımaz. Sepetli vinç ise insanı ve alet-malzemesini yükseğe çıkarır."
+  },
+  {
+   "q": "Sepetli vinç binaya ne kadar uzaktan çalışabilir?",
+   "a": "Platformun erişim diyagramına bağlıdır. Yana uzandıkça çıkılabilen yükseklik azalır; bu yüzden araç ile bina arasındaki mesafe mutlaka bildirilmelidir."
+  },
+  {
+   "q": "Kat yüksekliğini bilmiyorsam ne yapmalıyım?",
+   "a": "Kat sayısını, zemin katın dükkân olup olmadığını ve birkaç fotoğrafı firmaya gönderin. Gerekirse hedef noktanın yüksekliği lazer metreyle ölçülür."
+  }
+ ]
+}

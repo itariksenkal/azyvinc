@@ -1,0 +1,168 @@
+{
+ "slug": "vinc-kurulum-suresi-kac-dakika",
+ "_hedef": "vinç kurulumu kaç dakika sürer / vinç kurulum süresi",
+ "title": "Vinç Kurulumu Kaç Dakika Sürer? Tiplere Göre Süreler",
+ "ogTitle": "Vinç Kurulum Süresi: Hiyap, Sepetli Platform, Mobil ve Paletli Vinç Sahada Kaç Dakikada Hazır Olur, Ne Geciktirir",
+ "h1": "Vinç kurulumu kaç dakika sürer? Tiplere göre süreler ve işi yavaşlatanlar",
+ "desc": "Vinç kurulumu kaç dakika sürer? Hiyap, sepetli platform, mobil ve paletli vinç için tipik kurulum süreleri ve sahada süreyi uzatan durumlar için kontrol listesi.",
+ "image": "tp-akaryakit-totem-mobil-vinc-sepetli-platform.jpeg",
+ "imageAlt": "Akaryakıt istasyonunda totem montajında mobil vinç ve sepetli platform",
+ "caption": "Vinç sahaya geldiği an iş başlamaz; önce konum, ayak ve kontrol gelir.",
+ "intro": "Vinç kurulumu, sahaya uygun bir yer hazırsa hiyap ve sepetli platformlarda genellikle 10–20 dakika, küçük ve orta mobil vinçlerde 15–45 dakika, karşı ağırlığı ayrı gelen büyük mobil vinçlerde birkaç saat, paletli vinçlerde ise bir günden birkaç güne kadar sürer. Bu süreler sahadaki tecrübemize ve sınıfların genel özelliğine dayanan tipik aralıklardır; asıl farkı vinç değil saha yaratır. Aşağıda süreyi neyin uzattığını ve sizin neyi önceden hazırlayabileceğinizi anlatıyoruz.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "Kurulum dediğimiz şey ne?"
+  },
+  {
+   "type": "p",
+   "text": "Vinç sahaya geldiğinde şu adımlar sırayla yapılır: aracın doğru noktaya konumlanması, zeminin kontrolü, sedye plakalarının serilmesi, ayakların açılıp aracın terazilenmesi, gerekiyorsa karşı ağırlık veya jib takılması, güvenlik sistemlerinin konfigürasyona göre ayarlanması, yasak bölgenin şeritle çevrilmesi ve deneme askısı. Kurulum süresi, bu adımların toplamıdır. Sökme de benzer, genellikle biraz daha kısa bir süre ister."
+  },
+  {
+   "type": "h2",
+   "text": "Tiplere göre tipik kurulum süreleri"
+  },
+  {
+   "type": "p",
+   "text": "Aşağıdaki değerler saha hazır, zemin sağlam ve ek ekipman gerekmiyorsa geçerli olan tipik aralıklardır. Belirli bir model için kesin süre değildir."
+  },
+  {
+   "type": "table",
+   "head": [
+    "Vinç tipi",
+    "Tipik kurulum",
+    "Süreyi en çok uzatan"
+   ],
+   "rows": [
+    [
+     "Hiyap (kamyon üstü)",
+     "Yaklaşık 10–20 dk",
+     "Dar sokakta yanaşma, ayak altı zemin"
+    ],
+    [
+     "Araç üstü sepetli platform",
+     "Yaklaşık 10–20 dk",
+     "Eğimli yol, park etmiş araçlar"
+    ],
+    [
+     "Örümcek / mini vinç",
+     "Yaklaşık 15–30 dk",
+     "Bina içine taşıma ve kapı geçişleri"
+    ],
+    [
+     "Mobil vinç, küçük-orta sınıf",
+     "Yaklaşık 15–45 dk",
+     "Ayak alanı, terazileme, plaka ihtiyacı"
+    ],
+    [
+     "Mobil vinç, büyük sınıf",
+     "Birkaç saat",
+     "Ayrı gelen karşı ağırlık, jib takılması, ikinci araç"
+    ],
+    [
+     "Paletli vinç",
+     "Bir günden birkaç güne",
+     "Tır sayısı, yardımcı vinç, zemin hazırlığı"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Tabloyu okurken şunu unutmayın: büyük sınıfta süreyi uzatan şeyin çoğu, vincin kendisinden değil yanında gelen ekipmandan kaynaklanır. Karşı ağırlık ve jib konusunu ayrıca anlattık; jibli işlerde neden ek süre gerektiğini <a href=\"/blog/vinc-terimleri-sozlugu\">vinç terimleri sözlüğü</a> yazısında kısaca bulabilirsiniz."
+  },
+  {
+   "type": "h2",
+   "text": "Kurulumu yavaşlatan 8 sebep"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<strong>Vincin duracağı yerin dolu olması:</strong> Park etmiş araçlar, malzeme yığını veya konteyner. En sık ve en kolay önlenebilen gecikme budur.",
+    "<strong>Zeminin belirsiz olması:</strong> Yeni dolgu, ıslak toprak, rögar kapağı. Ek plaka serilir, bazen konum değiştirilir. Bkz. <a href=\"/blog/vinc-ayak-outrigger-zemin-basinci-sedye-plakasi\">zemin basıncı ve sedye plakası</a>.",
+    "<strong>Ayakların tam açılamaması:</strong> Dar sokakta ayak açıklığını ve buna uygun tabloyu belirlemek zaman alır.",
+    "<strong>Eğim:</strong> Rampa veya bombeli yolda terazileme için ek takoz ve ayar gerekir.",
+    "<strong>Havai hat ve engeller:</strong> Elektrik hattı, ağaç dalı, saçak. Konum yeniden düşünülür.",
+    "<strong>Trafik ve yaya:</strong> Yol veya kaldırım kapatılacaksa önce güvenli alan oluşturulur. İzin konusu için <a href=\"/blog/vinc-calismasi-yol-kapatma-isgaliye-izni\">yol kapatma ve işgaliye izni</a> yazısına bakın.",
+    "<strong>Yükün hazır olmaması:</strong> Yük henüz gelmemiş, ambalajı açılmamış, kaldırma noktaları belirsiz.",
+    "<strong>Bilginin sahada değişmesi:</strong> Yük ağırlığı veya bırakma noktası telefonda söylenenden farklı çıkınca hesap yeniden yapılır."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Örnek: aynı iş, iki farklı sabah"
+  },
+  {
+   "type": "p",
+   "text": "Senaryo: bir iş yerinin önüne hiyapla 2 tonluk bir jeneratör indirilecek. Birinci sabah, iş sahibi önceki akşam dükkanın önündeki iki aracı çektirmiş, rögar kapağının yerini telefonda söylemiş, jeneratör paletin üzerinde ve kaldırma kulakları belli. Hiyap geliyor, yanaşıyor, ayaklar açılıyor; yaklaşık 15 dakika sonra yük havada."
+  },
+  {
+   "type": "p",
+   "text": "İkinci sabah, aynı iş: önde park etmiş bir araç var, sahibine ulaşılması yarım saat sürüyor. Ayak altında daha önce bilinmeyen bir kanal kapağı çıkıyor, vinç bir metre kaydırılıyor ve yarıçap değişiyor. Jeneratörün kulakları ambalajın içinde. Aynı iş, aynı vinç; kurulum bir saati geçiyor. Fark tamamen hazırlıkta."
+  },
+  {
+   "type": "h2",
+   "text": "Kurulumu kısaltmak için iş sahibinin kontrol listesi"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Vincin duracağı alanı önceden boşaltın; gerekiyorsa bir gece önce araçları çektirin.",
+    "Rögar, kanal kapağı, yer altı tesisatı ve yeni dolgu varsa yerini firmaya söyleyin.",
+    "Yükün ağırlığını belgeden verin, kaldırma noktalarını açıkta bırakın.",
+    "Bırakma noktasını önceden hazırlayın: kaide, takoz, kapı veya pencere açıklığı.",
+    "Sahada karar verebilecek bir kişi bulundurun.",
+    "Vinç firmasına birkaç fotoğraf gönderin; çoğu sürprizi önceden yakalarız."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Bu listenin uzun versiyonu <a href=\"/blog/vinc-kiralama-oncesi-kontrol-listesi\">vinç kiralama öncesi kontrol listesi</a> yazımızda var."
+  },
+  {
+   "type": "h2",
+   "text": "Kurulum süresi fiyata yansır mı?"
+  },
+  {
+   "type": "p",
+   "text": "Çoğu kiralamada süre, vincin sahaya gelişinden ayrılışına kadar hesaplanır; kurulum ve söküm de bu sürenin içindedir. Bu yüzden saha hazırlığı doğrudan bütçeyi etkiler. Saatlik ve günlük kiralamanın nasıl işlediğini <a href=\"/blog/saatlik-gunluk-aylik-vinc-kiralama\">saatlik, günlük, aylık vinç kiralama</a> yazısında anlattık. Büyük vinçlerde ayrıca karşı ağırlık taşıma ve kurulum için ayrı kalemler olabilir; teklifte bunların yazılı olmasını isteyin."
+  },
+  {
+   "type": "h2",
+   "text": "Sökme ve sahadan ayrılma"
+  },
+  {
+   "type": "p",
+   "text": "Kurulum kadar sökme de zaman alır ve planlamada çoğu zaman unutulur. Hiyap ve sepetli platformlarda bu genellikle birkaç dakikadır; ayaklar toplanır, plakalar kaldırılır, araç yola hazırlanır. Büyük mobil vinçlerde karşı ağırlığın sökülüp ayrı araca yüklenmesi, paletli vinçlerde ise bütün parçaların ayrılıp tırlara yüklenmesi gerekir. Aynı gün birden fazla noktada çalışılacaksa her nokta için kurulum ve sökme süresi ayrı ayrı hesaba katılmalıdır; iki işi aynı konumdan yapabilmek bu yüzden ciddi zaman kazandırır."
+  },
+  {
+   "type": "p",
+   "text": "Bir ipucu: aynı sahada farklı günlerde birkaç kaldırma varsa, hepsini tek bir güne ve mümkünse tek bir vinç konumuna toplamaya çalışın. Bu hem kurulum sayısını azaltır hem de günlük kiralamada bütçeyi rahatlatır."
+  },
+  {
+   "type": "p",
+   "text": "Hava da kurulum süresini etkiler. Yağmur sonrası zemin kontrolü uzar, sert rüzgarda büyük vinçlerin bom açma ve jib takma işlemleri ertelenebilir, yaz sıcağında asfalt yumuşadığı için daha geniş plaka serilir. Sabah erken saatte başlanan işler hem trafik hem sıcak açısından genellikle daha rahat ilerler. Bu nedenle kritik ya da büyük vinçli işlerde günü ve saati belirlerken hava tahminine de bakmak gerekir."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Mobil vinç kaç dakikada kurulur?",
+   "a": "Küçük ve orta sınıf mobil vinçler, saha hazırsa tipik olarak 15–45 dakikada çalışmaya hazır olur. Karşı ağırlığı ayrı gelen büyük vinçlerde süre birkaç saate çıkabilir."
+  },
+  {
+   "q": "Hiyap kurulumu ne kadar sürer?",
+   "a": "Yanaşma alanı boş ve zemin sağlamsa genellikle 10–20 dakika. Dar sokak ve belirsiz zemin süreyi uzatır."
+  },
+  {
+   "q": "Paletli vinç kaç günde kurulur?",
+   "a": "Modele, bom uzunluğuna ve karşı ağırlığa göre bir günden birkaç güne kadar sürebilir. Parçalar tırlarla gelir ve çoğu zaman yardımcı vinçle birleştirilir."
+  },
+  {
+   "q": "Kurulum süresi kiralama süresine dahil mi?",
+   "a": "Çoğu kiralamada evet; süre vincin sahaya gelişinden ayrılışına kadar sayılır. Ayrıntılar teklif ve sözleşmede yazmalıdır."
+  },
+  {
+   "q": "Kurulumu hızlandırmak için ne yapabilirim?",
+   "a": "Vincin duracağı alanı boşaltın, zemindeki kapak ve tesisatları bildirin, yükü kaldırmaya hazır tutun ve firmaya önceden fotoğraf gönderin."
+  }
+ ]
+}

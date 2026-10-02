@@ -1,0 +1,77 @@
+{
+ "slug": "vinc-calisma-izni-formu",
+ "_hedef": "vinç çalışma izni formu",
+ "title": "Vinç Çalışma İzni Formu: Bölümler ve Doldurulmuş Örnek",
+ "ogTitle": "Vinç Çalışma İzni Formu (Kaldırma İş İzni): Hangi Bölümler Olmalı, Nasıl Doldurulur? Örnekli Rehber",
+ "h1": "Vinç çalışma izni formu: bölümler ve doldurulmuş örnek",
+ "desc": "Vinç çalışma izni formu (kaldırma iş izni) hangi bölümlerden oluşur, kim düzenler, kim onaylar? Doldurulmuş örnek alanlar ve izin kapatma adımlarıyla.",
+ "image": "sahne-iskele-montaj-sepetli-vinc.jpeg",
+ "imageAlt": "Sahne iskelesi montajında çalışan sepetli vinç",
+ "caption": "İş izni, kaldırma başlamadan önce herkesin aynı plan üzerinde anlaştığını gösteren imzalı kayıttır.",
+ "intro": "Vinç çalışma izni formu, bir kaldırma işinin hangi koşullarda, kimler tarafından, hangi kontrollerden sonra başlatılabileceğini gösteren ve işin sorumlularınca imzalanan izin belgesidir. Fabrikalarda, OSB tesislerinde, enerji ve petrol sahalarında vinç sahaya girmeden önce bu form istenir. Mevzuatta herkesin kullanmak zorunda olduğu tek tip bir \"vinç iş izni formu\" yoktur; işyerleri risk değerlendirmelerinin sonucu olarak kendi iş izni sistemlerini kurar. Bu yazıda böyle bir formda bulunması gereken bölümleri, her bölümü kimin doldurduğunu ve doldurulmuş örnek alanları veriyoruz. Formu işyerinizin iş güvenliği uzmanıyla birlikte kendi sisteminize uyarlayın.",
+ "body": [
+  {"type": "h2", "text": "İş izni, risk değerlendirmesi ve kaldırma planı arasındaki fark"},
+  {"type": "p", "text": "Üç belge sık karıştırılır. Risk değerlendirmesi, işyerindeki tehlikeleri ve kontrol önlemlerini genel olarak belirler. Kaldırma planı, belirli bir kaldırmanın teknik olarak nasıl yapılacağını anlatır: vinç, yarıçap, sapan, ekip. İş izni ise o gün, o saatte, o alanda işin başlayabileceğini gösteren kısa süreli onaydır ve planlanan önlemlerin gerçekten alındığının sahada kontrol edildiğini kayda geçirir. İzin, işin sonunda kapatılır."},
+  {"type": "p", "text": "Kaldırma planının içeriğini <a href=\"/blog/vinc-kaldirma-plani-lift-plan-nasil-hazirlanir\">kaldırma planı nasıl hazırlanır</a> yazımızda anlattık. İş izni formu genellikle bu plana atıf yapar, onu tekrar etmez."},
+  {"type": "h2", "text": "Formun bölümleri"},
+  {"type": "table", "head": ["Bölüm", "İçerik", "Dolduran"], "rows": [
+   ["1. İzin bilgisi", "İzin no, tarih, geçerlilik saati (başlangıç-bitiş), alan / bina / ünite", "İzni veren (işyeri)"],
+   ["2. İşin tanımı", "Ne kaldırılacak, nereden nereye, ağırlık, ölçü, kaldırma planı referansı", "İşi talep eden"],
+   ["3. Ekipman", "Vinç tipi, plaka, kapasite, periyodik kontrol tarihi, sapan ve aksesuarlar", "Vinç firması"],
+   ["4. Ekip", "Operatör, işaretçi, sapancı, gözcü adları ve belgeleri", "Vinç firması, işi talep eden"],
+   ["5. Ön kontroller", "Zemin, enerji hattı, alan kapatma, hava, diğer işlerle çakışma", "İzni veren ve operatör birlikte"],
+   ["6. Ek izinler", "Sıcak iş, yüksekte çalışma, kapalı alan, elektrik kesme (LOTO) gerekiyor mu?", "İzni veren"],
+   ["7. KKD", "Baret, yelek, iş ayakkabısı, eldiven, gerekiyorsa tam vücut kemer", "İşi talep eden"],
+   ["8. Acil durum", "Toplanma noktası, ilk yardımcı, acil telefon, yük askıdayken arıza senaryosu", "İzni veren"],
+   ["9. Onay", "İzni talep eden, izni veren, operatör, gerekiyorsa İSG uzmanı imzaları", "İlgili kişiler"],
+   ["10. Kapatma", "İş bitti / yarım kaldı, alan temizlendi, makine sahadan çıktı, saat ve imza", "İzni talep eden ve izni veren"]
+  ]},
+  {"type": "h2", "text": "Ön kontroller bölümü: örnek sorular"},
+  {"type": "p", "text": "Formun en önemli kısmı burasıdır ve evet / hayır / uygulanamaz kutucuklarıyla doldurulur. Tek bir \"hayır\", izin verilmemesi veya önce eksiğin giderilmesi demektir."},
+  {"type": "ul", "items": [
+   "Vincin kurulacağı zemin değerlendirildi mi; altında boşluk, kanal, rögar var mı?",
+   "Sedye plakaları kullanılacak mı, ebatları yeterli mi?",
+   "Bomun ulaşabileceği en uç noktada enerji hattına olan mesafe ölçüldü mü?",
+   "Yükün ağırlığı belgelendi mi; yarıçapa göre yük tablosundan kontrol edildi mi?",
+   "Çalışma alanı ve yükün geçeceği güzergah kapatıldı mı; yük altında kimse kalmayacak mı?",
+   "Rüzgar hızı ölçüldü mü, üreticinin sınırının altında mı?",
+   "Aynı alanda başka bir kaldırma ekipmanı veya sıcak iş var mı; koordinasyon sağlandı mı?",
+   "İşaretçi belirlendi mi, haberleşme yöntemi (telsiz / el işareti) kararlaştırıldı mı?",
+   "Operatörün günlük kontrol formu dolduruldu mu, yük moment göstergesi çalışıyor mu?"
+  ]},
+  {"type": "h2", "text": "Doldurulmuş örnek alanlar"},
+  {"type": "p", "text": "Aşağıdaki örnek, bir OSB tesisinde üretim hattına yeni bir pres makinesinin çatı açıklığından indirilmesi için düzenlenmiş bir izni gösteriyor. Ad ve numaralar temsilidir."},
+  {"type": "table", "head": ["Alan", "Örnek giriş"], "rows": [
+   ["İzin no / tarih", "KI-2026-114 / 14.10.2026"],
+   ["Geçerlilik", "08.00-16.00 (aynı gün). Süre uzarsa izin yenilenir"],
+   ["Alan", "B Blok üretim holü, çatı açıklığı 3 ve önündeki saha yolu"],
+   ["İşin tanımı", "Pres makinesinin tır üzerinden alınıp çatı açıklığından hol içine indirilmesi. Kaldırma planı KP-022"],
+   ["Yük", "Makine 7,8 t (üretici etiketi), kaldırma aparatıyla toplam 8,3 t"],
+   ["Ekipman", "Mobil vinç, periyodik kontrol tarihi ve rapor no; 4 bacaklı zincir sapan, kilitli kancalar"],
+   ["Ekip", "Operatör, işaretçi (çatıda), sapancı (zeminde), gözcü (saha yolu)"],
+   ["Ön kontroller", "Zemin: beton saha, kanal yok - Evet. Enerji hattı: yok - Uygulanamaz. Rüzgar: ölçüldü, sınırın altında - Evet. Alan kapatma: saha yolu forklift trafiğine kapatıldı - Evet"],
+   ["Ek izinler", "Çatıda yüksekte çalışma izni YC-2026-087 bağlandı"],
+   ["KKD", "Baret, yelek, S3 ayakkabı, eldiven; çatıda tam vücut kemer ve yaşam hattı"],
+   ["Acil durum", "Toplanma noktası A kapısı, ilk yardımcı vardiya amiri, acil telefon 112"],
+   ["Onay", "İzni talep eden (bakım şefi), izni veren (vardiya müdürü), İSG uzmanı, operatör imzaları"],
+   ["Kapatma", "13.40 iş tamamlandı, çatı açıklığı kapatıldı, vinç 14.10'da sahadan çıktı; iki imza"]
+  ]},
+  {"type": "h2", "text": "Pratik kurallar"},
+  {"type": "ul", "items": [
+   "İzin, işin yapılacağı yerde ve iş başlamadan önce imzalanır; ofiste önceden imzalanıp sahaya gönderilmez.",
+   "İzin süresi sınırlıdır; vardiya değişince veya iş ertesi güne kalırsa yeniden kontrol yapılır.",
+   "Koşullar değişirse (rüzgar arttı, alana başka ekip girdi) izin askıya alınır.",
+   "Formun bir kopyası iş süresince sahada, vincin yanında durur.",
+   "İş bitince izin mutlaka kapatılır; açık kalan izin bir sonraki ekibi yanıltır."
+  ]},
+  {"type": "p", "text": "Vinç firmasından iş izni için isteyeceğiniz belgeler (periyodik kontrol raporu, operatör belgesi, sigorta) <a href=\"/blog/vinc-firmasindan-istenecek-evraklar-isg-dosyasi\">İSG dosyası</a> yazımızda listelendi. Operatörün iş başı kontrolü için <a href=\"/blog/mobil-vinc-gunluk-kontrol-formu\">mobil vinç günlük kontrol formu</a>, işaretçinin kullandığı işaretler için <a href=\"/blog/vinc-el-isaretleri-isaretci-rehberi\">vinç el işaretleri</a> yazımıza bakabilirsiniz. OSB ve fabrika işlerimiz için <a href=\"/blog/sanliurfa-osb-vinc-hizmeti\">Şanlıurfa OSB vinç hizmeti</a> sayfamızı inceleyebilirsiniz."},
+  {"type": "p", "text": "AZY Vinç olarak iş izni sistemi olan tesislerde, izin toplantısına operatörümüzle birlikte katılıyor ve ekipmanla ilgili bölümleri sahada birlikte dolduruyoruz. Belgelerimizi iş gününden önce göndermemizi isterseniz, izin süreci sahada çok daha kısa sürer."}
+ ],
+ "faqs": [
+  {"q": "Vinç çalışma izni formu zorunlu mu?", "a": "Mevzuatta herkes için tek tip bir vinç iş izni formu öngörülmemiştir. Ancak işyerleri risk değerlendirmesi sonucunda yüksek riskli işler için iş izni sistemi kurar ve bu sistem içinde kaldırma işleri için izin ister. Kendi işyerinizdeki uygulamayı iş güvenliği uzmanınıza sorun."},
+  {"q": "Kaldırma iş iznini kim verir?", "a": "Genellikle işyerinin yetkilendirdiği kişi verir: vardiya müdürü, tesis sorumlusu veya bakım müdürü gibi. İzni işi talep eden birim ister, vinç firması ekipman ve ekip bölümlerini doldurur, gerekiyorsa iş güvenliği uzmanı onaylar."},
+  {"q": "İş izni ne kadar süre geçerlidir?", "a": "Süre işyerinin sistemine göre belirlenir; yaygın uygulama tek vardiya veya tek gündür. İş uzarsa, vardiya değişirse ya da koşullar değişirse izin yenilenir veya askıya alınır."},
+  {"q": "İş izni ile kaldırma planı aynı şey mi?", "a": "Hayır. Kaldırma planı işin teknik olarak nasıl yapılacağını anlatır; iş izni ise planlanan önlemlerin sahada alındığını kontrol edip o gün, o saatte işin başlamasına onay verir."},
+  {"q": "Vinç iş izninde hangi ek izinler gerekebilir?", "a": "İşe göre yüksekte çalışma, sıcak iş, kapalı alan ve elektrik kesme (enerji izolasyonu) izinleri gerekebilir. Bunlar ayrı formlarla düzenlenip kaldırma iznine bağlanır."}
+ ]
+}

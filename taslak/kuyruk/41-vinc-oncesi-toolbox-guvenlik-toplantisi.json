@@ -1,0 +1,214 @@
+{
+ "slug": "vinc-oncesi-toolbox-guvenlik-toplantisi",
+ "_hedef": "vinç öncesi toolbox toplantısı / iş başı güvenlik toplantısı vinç",
+ "title": "Vinç Öncesi Toolbox Toplantısı: 10 Dakikalık Metin",
+ "ogTitle": "Vinç kaldırması öncesi 10 dakikalık toolbox (iş başı) güvenlik toplantısı: okunacak metin, kontrol listesi ve katılım tutanağı",
+ "h1": "Vinç öncesi toolbox toplantısı: 10 dakikalık metin ve kontrol listesi",
+ "desc": "Vinç kaldırması öncesi toolbox toplantısı için dakika dakika okunacak metin, kontrol listesi ve tutanak. İş başı güvenlik konuşmasını 10 dakikada bitirin.",
+ "image": "tp-totem-tabela-sepetli-vinc.jpeg",
+ "imageAlt": "Akaryakıt istasyonunda totem tabela montajı öncesi sahada konumlanmış sepetli vinç",
+ "caption": "On dakikalık konuşma, saatlerce sürecek bir kaldırmayı güvenli hâle getirir.",
+ "intro": "Vinç öncesi toolbox toplantısı, kaldırmaya katılacak herkesin vincin yanında ayakta yaptığı, yaklaşık 10 dakikalık bir iş başı güvenlik konuşmasıdır: iş, yük, roller, işaretler, tehlikeler ve durdurma yetkisi bir kez yüksek sesle söylenir, katılanlar imza atar. Aşağıda sahada kullandığımız akışı dakika dakika okunabilir bir metin hâlinde veriyoruz. Bu toplantı kaldırma planının yerine geçmez; planın sahadaki herkese anlatıldığı andır. Planın kendisini <a href=\"/blog/vinc-kaldirma-plani-lift-plan-nasil-hazirlanir\">kaldırma planı nasıl hazırlanır</a> yazımızda anlattık.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "Toplantıyı kim yönetir, kimler katılır?"
+  },
+  {
+   "type": "p",
+   "text": "Toplantıyı kaldırmadan sorumlu kişi yönetir: büyük işlerde şantiye şefi veya kaldırma sorumlusu, küçük işlerde çoğu zaman vinç operatörü. Katılması gerekenler operatör, işaretçi, sapancılar, yükü yukarıda karşılayacak ekip ve alanda çalışmaya devam edecek diğer ekiplerin bir temsilcisidir. Sonradan sahaya gelen biri kaldırma ekibine katılacaksa toplantının özeti ona ayrıca anlatılır ve imzası alınır."
+  },
+  {
+   "type": "p",
+   "text": "Yer olarak vincin yanını seçin; yükü, iniş noktasını ve kaldırma yolunu toplantı sırasında elle göstermek, krokiden anlatmaktan çok daha etkilidir. Gürültülü ekipmanlar bu on dakika boyunca susturulmalıdır."
+  },
+  {
+   "type": "h2",
+   "text": "Dakika dakika toplantı metni"
+  },
+  {
+   "type": "h3",
+   "text": "0-1. dakika: İş ne?"
+  },
+  {
+   "type": "p",
+   "text": "\"Bugün [yükün adı]nı [nereden] alıp [nereye] koyacağız. Yükün ağırlığı yaklaşık [ton], sapan ve aparatlarla birlikte [ton]. Vinç [konum]da, ayaklar tam açık ve altında plaka var. Bom en uzak noktada [metre] uzanacak; yük tablosuna göre bu mesafede kapasite yeterli.\""
+  },
+  {
+   "type": "h3",
+   "text": "1-3. dakika: Kim ne yapacak?"
+  },
+  {
+   "type": "p",
+   "text": "\"Operatör [ad]. İşaretçi [ad]; komutu sadece o verecek. Bağlamayı [ad] yapacak. Yukarıda yükü [ad] ve [ad] karşılayacak, kılavuz halatı [ad] tutacak. Dur komutunu herkes verebilir; kimden gelirse gelsin operatör duracak.\""
+  },
+  {
+   "type": "h3",
+   "text": "3-4. dakika: Nasıl konuşacağız?"
+  },
+  {
+   "type": "p",
+   "text": "\"Görüş açıkken el işaretiyle, iniş noktası görünmezse telsizle çalışacağız. Kanal [numara]. Telsiz susarsa operatör durur. Sağ ve sol yerine 'binaya doğru' ve 'yola doğru' diyeceğiz.\" El işaretleri ve telsiz dili için <a href=\"/blog/vinc-el-isaretleri-isaretci-rehberi\">vinç el işaretleri rehberimize</a> bakabilirsiniz."
+  },
+  {
+   "type": "h3",
+   "text": "4-7. dakika: Bu işin tehlikeleri"
+  },
+  {
+   "type": "p",
+   "text": "Burada genel tehlikeleri sıralamak yerine bu işe özgü olanları söyleyin. Sık karşılaştıklarımız:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "\"Bomun dönüş alanında [elektrik hattı / ağaç / bina çıkıntısı] var; [metre]den fazla yaklaşmayacağız.\" Elektrik hatları için <a href=\"/blog/vinc-elektrik-hattina-yaklasma-guvenlik-mesafesi\">güvenlik mesafesi yazımıza</a> bakın.",
+    "\"Rüzgâr şu an [değer]. Yük geniş yüzeyli; rüzgâr artarsa kaldırmayı durduracağız.\"",
+    "\"Zemin [dolgu / asfalt / toprak]. Ayakların altına plaka koyduk; çökme belirtisi görürseniz hemen dur deyin.\"",
+    "\"Yaya ve araç trafiği [nereden] geçiyor; şerit çektik, [ad] bariyerde bekleyecek.\"",
+    "\"Yükün altına ve düşme hattına kimse girmeyecek. Yük elle itilmeyecek, kılavuz halat kullanılacak.\""
+   ]
+  },
+  {
+   "type": "h3",
+   "text": "7-9. dakika: Deneme askısı ve durdurma"
+  },
+  {
+   "type": "p",
+   "text": "\"Yükü önce yerden 10-20 santim kaldıracağız, dengeyi ve frenleri kontrol edeceğiz. Yük eğilirse indirip sapanı ayarlayacağız. Herhangi bir şeyden emin olmayan kimse, işi durdurma hakkına sahip; bunu yaptığınız için kimse size kızmayacak.\""
+  },
+  {
+   "type": "h3",
+   "text": "9-10. dakika: Soru ve imza"
+  },
+  {
+   "type": "p",
+   "text": "\"Sorusu olan var mı? Kendini iyi hissetmeyen, ilaç kullanan, uykusuz olan varsa şimdi söylesin.\" Ardından herkes katılım tutanağını imzalar. Sorulara verilen cevaplar not edilir."
+  },
+  {
+   "type": "h2",
+   "text": "Toplantı kontrol listesi"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Madde",
+    "Kontrol",
+    "Not"
+   ],
+   "rows": [
+    [
+     "Yük ağırlığı ve aparat ağırlığı söylendi",
+     "Evet / Hayır",
+     ""
+    ],
+    [
+     "En uzak mesafede yük tablosu kapasitesi kontrol edildi",
+     "Evet / Hayır",
+     ""
+    ],
+    [
+     "Operatör, işaretçi, sapancı adları söylendi",
+     "Evet / Hayır",
+     ""
+    ],
+    [
+     "Komut veren tek kişi ve herkesin dur yetkisi söylendi",
+     "Evet / Hayır",
+     ""
+    ],
+    [
+     "Telsiz kanalı ve çağrı adları denendi",
+     "Evet / Hayır / Gerekmiyor",
+     ""
+    ],
+    [
+     "Elektrik hattı, engel, rüzgâr ve zemin konuşuldu",
+     "Evet / Hayır",
+     ""
+    ],
+    [
+     "Yaya ve araç trafiği için şerit ve bariyer görevlisi var",
+     "Evet / Hayır",
+     ""
+    ],
+    [
+     "Deneme askısı yapılacağı söylendi",
+     "Evet / Hayır",
+     ""
+    ],
+    [
+     "Herkes uygun kişisel koruyucu donanımla sahada",
+     "Evet / Hayır",
+     ""
+    ],
+    [
+     "Katılım tutanağı imzalandı",
+     "Evet / Hayır",
+     ""
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Tablonun altına tarih, saat, iş yeri, toplantıyı yöneten kişi ve katılanların ad, görev ve imzalarını yazacağınız bir bölüm ekleyin. Bu tutanak, işyerinin iş güvenliği dosyasında saklanmalıdır. Hangi evrakların dosyaya girmesi gerektiğini <a href=\"/blog/vinc-firmasindan-istenecek-evraklar-isg-dosyasi\">vinç firmasından istenecek evraklar</a> listemizde bulabilirsiniz."
+  },
+  {
+   "type": "h2",
+   "text": "Toplantıyı yeniden yapmanız gereken durumlar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Kaldırma planı değiştiyse (yük, konum, vinç, bom uzunluğu),",
+    "Ekibe yeni biri katıldıysa,",
+    "Hava koşulları belirgin şekilde değiştiyse,",
+    "Uzun bir aradan sonra işe yeniden başlanıyorsa (öğle arası, ertesi gün),",
+    "Bir ramak kala olay yaşandıysa: önce iş durur, ne olduğu konuşulur, sonra devam edilir.",
+    "Operatör veya işaretçi değiştiyse: yeni kişi en azından rolleri, komut dilini ve bu işe özgü tehlikeleri dinlemeden göreve başlamaz.",
+    "Sahaya yeni bir ekip veya makine girdiyse (beton pompası, forklift, ikinci bir vinç)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Örnek: küçük bir iş için kısaltılmış toplantı"
+  },
+  {
+   "type": "p",
+   "text": "Bir dükkân önüne tek parça tabela indireceğiniz yarım saatlik bir işte de toplantı yapılır, sadece kısalır. Operatör iki dakikada şunları söyler: yükün ağırlığı ve kimin bağlayacağı, komutu kimin vereceği, yaya şeridinin nereden geçtiği, yukarıda bir elektrik hattı olup olmadığı ve herkesin dur diyebileceği. Kısa iş, toplantısız iş demek değildir; en çok \"beş dakikalık iş\" diye başlanan kaldırmalarda ramak kala yaşıyoruz."
+  },
+  {
+   "type": "h2",
+   "text": "Toplantıyı etkisiz yapan alışkanlıklar"
+  },
+  {
+   "type": "p",
+   "text": "Toplantının en büyük düşmanı rutindir. Her gün aynı cümlelerin okunduğu, kimsenin dinlemediği ve imzanın sonradan toplandığı bir toplantı kâğıt üzerinde vardır, sahada yoktur. Bunu önlemek için her gün en az bir maddeyi soruyla sorun: \"Bugün dur komutunu kim verebilir?\" gibi. Cevap gelmiyorsa toplantı amacına ulaşmamıştır."
+  },
+  {
+   "type": "p",
+   "text": "Günlük makine kontrolü de bu toplantıdan önce bitmiş olmalıdır; bunun için <a href=\"/blog/mobil-vinc-gunluk-kontrol-formu\">mobil vinç günlük kontrol formumuzu</a> kullanabilirsiniz. AZY Vinç operatörleri Şanlıurfa ve çevre illerde iş başında bu toplantıyı müşteri ekibiyle birlikte yapar; kendi şantiye formunuz varsa onu kullanırız."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Toolbox toplantısı nedir?",
+   "a": "İş başlamadan önce işi yapacak ekibin sahada ayakta yaptığı kısa güvenlik konuşmasıdır. Vinç işlerinde iş, yük, roller, işaretler, tehlikeler ve durdurma yetkisi konuşulur."
+  },
+  {
+   "q": "Vinç öncesi toolbox toplantısı ne kadar sürer?",
+   "a": "Standart bir kaldırma için 10 dakika genellikle yeterlidir. Kritik ve çok aşamalı kaldırmalarda daha uzun bir toplantı ve yazılı kaldırma planı gerekir."
+  },
+  {
+   "q": "Toolbox toplantısını kim yapar?",
+   "a": "Kaldırmadan sorumlu kişi yönetir; bu şantiye şefi, kaldırma sorumlusu veya küçük işlerde vinç operatörü olabilir. Kaldırmaya katılan herkes dinler ve imzalar."
+  },
+  {
+   "q": "Toolbox toplantısı tutanağı gerekli mi?",
+   "a": "Ne konuşulduğunu ve kimin katıldığını kanıtlamanın en kolay yolu imzalı tutanaktır. Hangi kayıtların tutulacağına işyerinin iş güvenliği uzmanı karar verir."
+  },
+  {
+   "q": "Toplantı her gün tekrar yapılmalı mı?",
+   "a": "Her iş gününün başında ve plan, ekip ya da hava koşulları değiştiğinde yeniden yapılmalıdır."
+  }
+ ]
+}

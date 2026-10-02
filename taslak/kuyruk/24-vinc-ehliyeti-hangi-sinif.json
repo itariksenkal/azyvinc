@@ -1,0 +1,53 @@
+{
+ "slug": "vinc-ehliyeti-hangi-sinif",
+ "_hedef": "vinç ehliyeti hangi sınıf / vinç kullanmak için hangi ehliyet gerekli",
+ "title": "Vinç Ehliyeti Hangi Sınıf? Vinç Türüne Göre Tablo",
+ "ogTitle": "Vinç ehliyeti hangi sınıf? Mobil vinç, hiyap, sepetli araç ve kule vinç için sürücü belgesi ve operatör belgesi tablosu",
+ "h1": "Vinç ehliyeti hangi sınıf: vinç türüne göre ehliyet ve belge tablosu",
+ "desc": "Vinç ehliyeti hangi sınıf? İş makinesi tescilli vinçte G, kamyon üstü hiyapta C1 ya da C. Operatör belgesi ayrıca gerekir. Vinç türüne göre tablo burada.",
+ "image": "mobil-vinc-saha-azy-vinc.jpeg",
+ "imageAlt": "Sahada ayakları açılmış AZY Vinç mobil vinci",
+ "caption": "Yolda sürmek bir belge, sahada kaldırmak başka bir belge ister.",
+ "intro": "Vinç için tek bir \"vinç ehliyeti\" sınıfı yoktur: aracın ruhsatında iş makinesi olarak kayıtlı vinçler için <strong>G sınıfı</strong>, kamyon şasisine monte hiyap ve sepetli araçlar için kamyonun ağırlığına göre <strong>C1 veya C sınıfı</strong> sürücü belgesi gerekir. Hangi sınıf olursa olsun, vinci sahada çalıştırmak için ayrıca operatörlük belgesi aranır. Aşağıda bu ayrımı vinç türlerine göre bir tabloya döktük; sürücü belgesiyle operatör belgesinin genel farkını ve operatör belgesinin nasıl alındığını <a href=\"/blog/vinc-ehliyeti-operator-belgesi-nasil-alinir\">vinç ehliyeti ve operatör belgesi nasıl alınır</a> yazımızda anlattığımız için burada tekrar etmiyoruz.",
+ "body": [
+  {"type": "h2", "text": "Önce kuralı netleştirelim: ehliyet ruhsata bakar"},
+  {"type": "p", "text": "Sürücü belgesi sınıfını belirleyen şey makineye sahada ne dendiği değil, aracın trafikte nasıl kayıtlı olduğudur. 2918 sayılı Karayolları Trafik Kanunu'na göre G sınıfı sürücü belgesi iş makinesi türünden motorlu araçları kullanacaklara verilir. Aynı kanun A, F, G ve H sınıfı belgelerle yalnızca kendi sınıflarındaki araçların kullanılabileceğini söyler; yani G sınıfı ehliyetle kamyon, B ya da C sınıfı ehliyetle iş makinesi kullanılamaz."},
+  {"type": "p", "text": "Pratik karar kuralımız şu: <strong>aracın ruhsatını açın, cinsine bakın.</strong> İş makinesi olarak tescil edilmişse G, kamyon olarak tescil edilmişse kamyonun azami yüklü ağırlığına göre C1 veya C gerekir. Arkasına römork takılarak yola çıkılıyorsa ilgili E'li sınıf (C1E, CE) gündeme gelir. Aynı görünen iki sepetli araçtan biri iş makinesi, diğeri kamyon olarak kayıtlı olabilir; bu yüzden tahmin etmek yerine ruhsata bakmak gerekir."},
+  {"type": "h2", "text": "Vinç türüne göre ehliyet ve belge tablosu"},
+  {"type": "table", "head": ["Makine", "Yolda sürmek için (genel durum)", "Sahada kullanmak için"], "rows": [
+   ["Mobil vinç (lastik tekerlekli, kendi motoruyla yola çıkan)", "İş makinesi olarak tescilliyse G sınıfı", "Mobil vinç operatörlüğü belgesi"],
+   ["Hiyap (kamyon üstü katlanır bomlu vinç)", "Kamyonun ağırlığına göre C1 veya C; römorkla CE", "Vinci kullanmak için operatörlük eğitimi ve belgesi"],
+   ["Kamyon üstü sepetli vinç / sepetli araç", "Kamyon olarak tescilliyse C1 veya C, iş makinesi olarak tescilliyse G", "Sepetli platform operatörlüğü eğitimi ve belgesi"],
+   ["Kendinden yürür eklemli veya teleskopik platform (manlift)", "Trafiğe çıkıyorsa genellikle G; çoğu zaman taşıyıcıyla getirilir", "Platform operatörlüğü eğitimi ve belgesi"],
+   ["Akülü makaslı platform", "Trafiğe çıkmaz, taşıyıcıyla gelir", "Platform kullanım eğitimi ve belgesi"],
+   ["Kule vinç", "Yolda sürülmez, parça parça taşınır", "Kule vinç operatörlüğü belgesi"],
+   ["Paletli vinç", "Yolda sürülmez, lowbed ile taşınır", "Operatörlük belgesi"],
+   ["Örümcek (mini) vinç", "Yolda sürülmez, römork veya kamyonla gelir", "Operatörlük eğitimi ve belgesi"],
+   ["Telehandler (teleskopik yükleyici)", "Trafiğe çıkıyorsa G sınıfı", "İş makinesi operatörlüğü belgesi"]
+  ]},
+  {"type": "p", "text": "Tablodaki \"genel durum\" ifadesi bilinçli: tescil, makinenin üreticisine, şasisine ve ithalat biçimine göre farklılık gösterebilir. Kesin cevap her zaman aracın ruhsatındadır. Yolda sürülmeyen makinelerde ise taşıyan çekicinin şoförü kendi aracına uygun ehliyete sahip olmalıdır; bu ayrı bir konudur ve ağır tonajlı taşımaların izinlerini <a href=\"/blog/vinc-araci-gabari-agir-tasit-yol-izni\">gabari ve ağır taşıt yol izni</a> yazımızda anlattık."},
+  {"type": "h2", "text": "C1 ve C arasındaki fark hiyapta neden önemli?"},
+  {"type": "p", "text": "Sürücü belgesi sınıflarında C1, azami yüklü ağırlığı 3.500 kilogramı geçen ancak 7.500 kilogramı geçmeyen kamyonları kapsar; C sınıfında ise üst sınır yoktur. Küçük hiyaplar çoğu zaman C1 sınırında kalırken, kasasında yük taşıyan orta ve büyük hiyaplar C sınıfı ister. Hiyabın üstündeki vinç de aracın ağırlığına dahil olduğu için \"küçük vinç\" görüntüsü yanıltıcı olabilir. Ruhsattaki azami yüklü ağırlık değeri bu sorunun tek doğru cevabıdır."},
+  {"type": "h2", "text": "Operatör belgesi hangi makine için ayrı mı alınır?"},
+  {"type": "p", "text": "Evet, operatörlük belgesi makine türüne göre düzenlenir. Mobil vinç belgesi olan birinin otomatik olarak kule vinç ya da sepetli platform kullanabileceği varsayılmamalıdır. Mesleki Yeterlilik Kurumu'nun (MYK) ulusal yeterlilikleri de bu ayrımı yapar: Mobil Vinç Operatörü (Seviye 3), Kule Vinç Operatörü (Seviye 3) ve Köprülü Vinç Operatörü (Seviye 3) ayrı yeterliliklerdir. Sepetli platformda hangi belgenin geçerli olduğunu <a href=\"/blog/manlift-sepetli-platform-ehliyeti-myk-zorunlu-mu\">manlift ve sepetli platform ehliyeti</a> yazımızda ayrıca ele aldık."},
+  {"type": "h2", "text": "Örnek: aynı işte üç farklı belge"},
+  {"type": "p", "text": "Bir akaryakıt istasyonunda totem montajı düşünün. Totemi hiyap getirir, mobil vinç yerine oturtur, sepetli araç da üst bağlantıları ve tabela kablolamasını yapar. Bu işte:"},
+  {"type": "ul", "items": [
+   "Hiyap şoförünün kamyonun ağırlığına uygun C1 veya C ehliyeti ve vinci kullanmak için operatörlük belgesi,",
+   "Mobil vinç operatörünün aracı yolda sürmek için G sınıfı ehliyeti ve mobil vinç operatörlüğü belgesi,",
+   "Sepetli aracı kullanan kişinin araç kamyon tescilliyse C1 veya C, iş makinesi tescilliyse G ehliyeti ve platform operatörlüğü belgesi"
+  ]},
+  {"type": "p", "text": "olması gerekir. Sahadaki yetkilinin bu belgeleri tek tek görmesi zaman almaz ve bir denetimde ilk sorulan şeylerdir. İstenecek evrakların tamamı için <a href=\"/blog/vinc-firmasindan-istenecek-evraklar-isg-dosyasi\">vinç firmasından istenecek evraklar</a> listemize bakabilirsiniz."},
+  {"type": "h2", "text": "Şantiye içinde ehliyet gerekir mi?"},
+  {"type": "p", "text": "Trafiğe kapalı bir şantiye veya fabrika sahasında makinenin yalnızca saha içinde hareket etmesi trafik mevzuatının kapsamı dışında kalabilir. Ancak bu, makineyi herkesin kullanabileceği anlamına gelmez; iş güvenliği mevzuatı iş ekipmanının yalnızca eğitimli ve yetkili kişilerce kullanılmasını ister. Yani şantiye içinde ehliyet sorusu geri plana düşse de operatör belgesi sorusu düşmez. Kendi sahanızda kimin hangi makineyi kullanabileceğine işyerinizin iş güvenliği uzmanı karar verir."},
+  {"type": "h2", "text": "Kiralarken bu karmaşayla uğraşmak zorunda mısınız?"},
+  {"type": "p", "text": "Operatörlü kiralamada ehliyet ve operatör belgesi kiralama firmasının sorumluluğundadır; sizin göreviniz belgeyi istemek ve sahada kontrol etmektir. AZY Vinç olarak Şanlıurfa ve çevre illerde mobil vinç, hiyap ve sepetli araçlarımızı belgeli operatörlerle gönderiyoruz; talep edildiğinde ehliyet, operatör belgesi ve periyodik kontrol raporunu iş başlamadan paylaşıyoruz. Hizmetlerimizin tamamını <a href=\"/hizmetler\">hizmetler</a> sayfasında görebilirsiniz."}
+ ],
+ "faqs": [
+  {"q": "Vinç ehliyeti hangi sınıf?", "a": "Ruhsatta iş makinesi olarak kayıtlı vinçler için G sınıfı, kamyon üstü hiyap ve kamyon tescilli sepetli araçlar için kamyonun ağırlığına göre C1 veya C sınıfı sürücü belgesi gerekir. Vinci sahada kullanmak için ayrıca operatörlük belgesi aranır."},
+  {"q": "Vinç kullanmak için hangi ehliyet gerekli?", "a": "Aracın trafikte nasıl tescil edildiğine bakın. İş makinesiyse G, kamyonsa C1 veya C gerekir. Ehliyet sadece yolda sürme yetkisidir; kaldırma işi için makine türüne uygun operatör belgesi şarttır."},
+  {"q": "B sınıfı ehliyetle vinç kullanılır mı?", "a": "Hayır. Karayolları Trafik Kanunu'na göre G sınıfındaki iş makineleri yalnızca G sınıfı belgeyle kullanılabilir; kamyon üstü vinçler de 3.500 kilogramı geçtiği için C1 veya C ister."},
+  {"q": "G sınıfı ehliyetle hiyap kullanılır mı?", "a": "Hiyap kamyon olarak tescilli olduğu için G sınıfı ehliyetle yolda kullanılamaz. Kamyonun azami yüklü ağırlığına göre C1 veya C gerekir."},
+  {"q": "Kule vinç için ehliyet gerekir mi?", "a": "Kule vinç yolda sürülmediği için sürücü belgesi gündeme gelmez; ancak kule vinç operatörlüğü belgesi gerekir."}
+ ]
+}

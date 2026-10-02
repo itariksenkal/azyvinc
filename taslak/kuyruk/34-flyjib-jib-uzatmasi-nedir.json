@@ -1,0 +1,183 @@
+{
+ "slug": "flyjib-jib-uzatmasi-nedir",
+ "_hedef": "flyjib nedir / jib uzatması",
+ "title": "Flyjib (Jib Uzatması) Nedir, Ne Zaman Takılır?",
+ "ogTitle": "Flyjib ve Jib Uzatması Nedir? Ne Zaman Gerekir, Kapasiteden Ne Götürür, Sahada Nasıl Karar Verilir",
+ "h1": "Flyjib (jib uzatması) nedir, ne zaman takılır ve kapasiteden ne götürür?",
+ "desc": "Flyjib nedir? Mobil vincin ana bomunun ucuna takılan jib uzatmasının ne işe yaradığını, ne zaman gerektiğini ve kapasiteden neler götürdüğünü anlatıyoruz.",
+ "image": "celik-konstruksiyon-cati-kiris-montaj-agir-yuk-vinc.jpeg",
+ "imageAlt": "Çelik çatı kirişi montajında çalışan vinç",
+ "caption": "Jib, bomun ulaşamadığı yükseklik ve mesafe için takılır; yük için değil.",
+ "intro": "Flyjib (jib uzatması), mobil vincin teleskopik ana bomunun ucuna takılan, çoğunlukla kafes yapılı ek koldur; vince ana bomun tek başına veremeyeceği yükseklik ve erişimi kazandırır, ama bunu kaldırma kapasitesinden vererek yapar. Kısaca: jib erişim kazandırır, kapasite kazandırmaz. Bu yazıda jibin ne zaman gerçekten gerektiğini, takılınca nelerin değiştiğini ve iş sahibinin bunu planlarken nelere dikkat etmesi gerektiğini anlatıyoruz.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "Jib, flyjib, bom uzatması: aynı şey mi?"
+  },
+  {
+   "type": "p",
+   "text": "Sahada bu kelimeler karışık kullanılır. Genel olarak: <strong>ana bom</strong>, vincin teleskopik olarak açılan asıl koludur. <strong>Jib</strong> veya <strong>flyjib</strong>, bu bomun ucuna sonradan bağlanan ek koldur. Bazı modellerde jib birkaç parçadan oluşur, bazılarında açısı değiştirilebilir (ofset jib), bazılarında hidrolik olarak açısı kabinden ayarlanır. Üreticiler ayrıca bomun ucuna takılan kısa bir ek makara başlığından da söz eder; bu da yük tablosunda ayrı bir konfigürasyon olarak geçer. Terimlerin kısa açıklamaları için <a href=\"/blog/vinc-terimleri-sozlugu\">vinç terimleri sözlüğü</a> yazımıza bakabilirsiniz."
+  },
+  {
+   "type": "p",
+   "text": "Taşıma sırasında jib çoğu modelde ana bomun yanına katlı olarak durur, bazılarında ise ayrı araçla gelir. Bu fark, kurulum süresini doğrudan etkiler."
+  },
+  {
+   "type": "h2",
+   "text": "Jib ne zaman gerekir?"
+  },
+  {
+   "type": "p",
+   "text": "Jib, ana bomun tam açık hâlinin bile yetmediği veya yükün bir engelin üstünden aşırılması gerektiği durumlarda takılır. Sahada en sık gördüğümüz durumlar şunlardır:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Yüksek bir çatının arka tarafına, saçağı aşarak hafif bir yük bırakmak",
+    "Baz istasyonu, anten direği veya minare gibi yüksek ve dar noktalara hafif ekipman çıkarmak",
+    "Vincin binaya yaklaşamadığı, yükün binanın üstünden aşırılması gereken işler",
+    "Yüksek bir cephede hafif panel, tabela veya aydınlatma elemanı montajı",
+    "Kafes çatı veya konstrüksiyonun en üst noktasında hafif parçaların yerleştirilmesi"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Ortak nokta: yük hafif, mesafe veya yükseklik fazla. Yük ağırsa jib çoğu zaman çözüm değildir; daha büyük bir vinç veya vincin yüke daha yakın konumlanması gerekir."
+  },
+  {
+   "type": "h2",
+   "text": "Jib takılınca neler değişir?"
+  },
+  {
+   "type": "h3",
+   "text": "Ayrı bir yük tablosu kullanılır"
+  },
+  {
+   "type": "p",
+   "text": "Jibli konfigürasyon için üretici ayrı bir tablo verir. Bu tablolar jib uzunluğuna ve jib açısına göre değişir. Ana bom tablosundaki değer jibli çalışmada geçerli değildir. Tablonun genel okunuşunu <a href=\"/blog/vinc-yuk-tablosu-load-chart-nasil-okunur\">yük tablosu nasıl okunur</a> yazısında anlattık."
+  },
+  {
+   "type": "h3",
+   "text": "Kapasite düşer"
+  },
+  {
+   "type": "p",
+   "text": "Jibin kendi ağırlığı bomun en ucuna, yani en elverişsiz noktaya biner. Ayrıca kaldıraç kolu uzar. Bu iki etki nedeniyle jibli çalışmada kaldırılabilen yük, aynı vincin ana bomla verdiği değerlerin belirgin biçimde altındadır. Bazı üreticiler, jib takılı ama kullanılmıyorken bile ana bom kapasitesinden bir düşüm yapılmasını ister; bu düşüm tablonun notlarında yazar."
+  },
+  {
+   "type": "h3",
+   "text": "Kanca ve halat düzeni değişir"
+  },
+  {
+   "type": "p",
+   "text": "Jib ucunda genellikle tek makaralı, daha hafif bir kanca ile çalışılır. Halat donanımı (kaç kat halat) düşer, bu da kaldırma kapasitesini ayrıca sınırlar. Bazı vinçlerde ana kanca ve jib kancası aynı anda donatılıdır; yine de aynı anda iki kancayla yük kaldırılmaz."
+  },
+  {
+   "type": "h3",
+   "text": "Rüzgar daha belirleyici olur"
+  },
+  {
+   "type": "p",
+   "text": "Uzun ve yüksek bir konfigürasyon rüzgarı daha çok alır. Jibli işlerde rüzgar sınırı ana bomla çalışmaya göre daha düşük olabilir; değer yine üreticinin tablosundan okunur. Genel çerçeve için <a href=\"/blog/vinc-ruzgar-hava-kosullari-calisma-sinirlari\">vinç ve rüzgar sınırları</a> yazısına bakabilirsiniz."
+  },
+  {
+   "type": "h3",
+   "text": "Kurulum alanı ve süresi artar"
+  },
+  {
+   "type": "p",
+   "text": "Jibi açıp bağlamak için bomun önünde boş alan gerekir; çoğu modelde jib yerdeyken veya bom yatay pozisyondayken kurulur. Bu iş ekip ve model durumuna göre ek süre ister. Sokak üzerinde çalışılıyorsa bu alan da trafik planına dahil edilmelidir."
+  },
+  {
+   "type": "h2",
+   "text": "Karar kuralı: jib mi, büyük vinç mi, yer değişikliği mi?"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Durum",
+    "Önce düşünülecek çözüm",
+    "Neden"
+   ],
+   "rows": [
+    [
+     "Yük hafif, yükseklik veya engel fazla",
+     "Jibli konfigürasyon",
+     "Erişim kazanılır, düşük kapasite yeterli olur"
+    ],
+    [
+     "Yük ağır, mesafe fazla",
+     "Daha büyük vinç veya vinci yaklaştırmak",
+     "Jib ağır yükte kapasiteyi daha da düşürür"
+    ],
+    [
+     "Vinç binaya yaklaşabiliyor",
+     "Ana bomla yakın konum",
+     "En yüksek kapasite en kısa yarıçapta"
+    ],
+    [
+     "Çok sayıda hafif parça, uzun süre",
+     "Jibli mobil vinç veya kule vinç değerlendirmesi",
+     "Süre uzadıkça çözüm değişebilir"
+    ],
+    [
+     "Personel yükseğe çıkacak",
+     "Sepetli platform",
+     "Jibli vinç yük içindir, personel için değil"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "İş sahibi olarak ne söylemelisiniz?"
+  },
+  {
+   "type": "p",
+   "text": "Jib gerekip gerekmediğine vinç firması karar verir, ama bu kararı doğru verebilmesi için sizin vereceğiniz bilgiler belirleyicidir: yükün ağırlığı ve ölçüsü, yükün çıkacağı en yüksek nokta, vincin park edebileceği yer ve aradaki en yüksek engel (saçak, korkuluk, ağaç, hat). Bir fotoğraf ve kabaca ölçülmüş mesafeler çoğu zaman yeterlidir. Mesafe ve tonajın birbirini nasıl etkilediğini <a href=\"/blog/kac-tonluk-vinc-gerekir\">kaç tonluk vinç gerekir</a> yazısında ayrıca anlattık."
+  },
+  {
+   "type": "p",
+   "text": "Teklif aşamasında jibli çalışma gerekiyorsa bunun teklifte açıkça yazmasını isteyin. Jibin taşınması ve kurulması süre ekler; teklifte görünmeyen bir jib ihtiyacı sahada hem süre hem fiyat tartışmasına dönüşebilir."
+  },
+  {
+   "type": "h2",
+   "text": "Jibli işte sahada sık yapılan hatalar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Ana bom tablosuna bakıp jibli kaldırmaya karar vermek. Jib takıldığı an geçerli tablo değişir.",
+    "Jibin kendi ağırlığını ve jib kancasını hesaba katmamak. Bu ağırlıklar bomun en ucunda olduğu için etkisi büyüktür.",
+    "Jib açısını işe göre seçmemek. Ofset açısı arttıkça engelin üstünden aşmak kolaylaşır ama kapasite genellikle düşer.",
+    "Rüzgarı yerdeki hissine göre değerlendirmek. Jib ucunda rüzgar yerdekinden belirgin biçimde güçlü olabilir; ölçüm bom ucundaki anemometreden veya güvenilir bir kaynaktan alınmalıdır.",
+    "Kurulum alanını hesaplamamak. Jib açılırken bomun önünde gereken boşluk, dar sokakta işin yapılabilirliğini doğrudan belirler."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Bu hataların hepsi aynı kökten çıkar: jibi ana bomun bir uzantısı gibi görmek. Oysa jib takıldığında vinç, kapasitesi ve davranışı farklı ayrı bir makine gibi düşünülmelidir. Planlamayı buna göre yaparsanız jib, doğru yerde çok işe yarayan bir donanımdır."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Flyjib nedir?",
+   "a": "Mobil vincin teleskopik ana bomunun ucuna takılan ek koldur. Vince daha fazla yükseklik ve erişim kazandırır, ancak kaldırma kapasitesini düşürür."
+  },
+  {
+   "q": "Jib takılınca vinç daha çok yük kaldırır mı?",
+   "a": "Hayır. Jib erişim kazandırır, kapasite kazandırmaz. Jibli çalışmada kaldırılabilen yük ana bomla çalışmaya göre belirgin biçimde düşüktür ve ayrı bir yük tablosundan okunur."
+  },
+  {
+   "q": "Her mobil vinçte jib var mı?",
+   "a": "Hayır. Jib model ve donanıma bağlıdır; bazı vinçlerde standart, bazılarında opsiyoneldir, bazılarında hiç yoktur. Firmaya önceden sorulmalıdır."
+  },
+  {
+   "q": "Jib takmak ne kadar sürer?",
+   "a": "Modele, jibin araç üzerinde katlı olup olmadığına ve ekibin deneyimine göre değişir. Ayrı araçla gelen jiblerde süre uzar; bu yüzden ihtiyaç teklif aşamasında belirtilmelidir."
+  },
+  {
+   "q": "Jibli vinçle personel kaldırılır mı?",
+   "a": "Personel yükseltmek için tasarlanmış ekipman, yani sepetli platform tercih edilir. Vinçle personel kaldırma ayrı ve sıkı kurallara tabidir."
+  }
+ ]
+}

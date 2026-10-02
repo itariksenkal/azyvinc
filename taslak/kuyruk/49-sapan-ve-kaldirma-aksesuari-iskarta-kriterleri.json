@@ -1,0 +1,63 @@
+{
+ "slug": "sapan-ve-kaldirma-aksesuari-iskarta-kriterleri",
+ "_hedef": "sapan bağlama yöntemleri / sapan ıskarta kriterleri",
+ "title": "Sapan Iskarta Kriterleri: Kumaş, Çelik Halat, Zincir, Kilit",
+ "ogTitle": "Sapan ve kaldırma aksesuarı ıskarta kriterleri: kumaş sapan, çelik halat sapan, zincir sapan ve kilit (şakıl) için kontrol ve kullanımdan kaldırma tablosu",
+ "h1": "Sapan ve kaldırma aksesuarı ne zaman ıskartaya çıkar?",
+ "desc": "Sapan bağlama yöntemleri kadar ıskarta kriterleri de önemli. Kumaş, çelik halat, zincir sapan ve kilit için EN standartlarına dayanan kontrol tablosu.",
+ "image": "aytemiz-akaryakit-totem-montaj-hiyap-vinc.jpeg",
+ "imageAlt": "Akaryakıt istasyonunda totem tabelanın hiyap vinçle sapanlanarak montajı",
+ "caption": "Sapan tamir edilmez; ya kontrolden geçer ya sahadan çıkar.",
+ "intro": "Sapan ve kaldırma aksesuarları, üzerindeki etiket okunmuyorsa ya da standarttaki hasar sınırlarından birini aşıyorsa kullanımdan kaldırılır: çelik halat sapanda örneğin 6 halat çapı boyunda 6 rastgele kopuk dış tel, 30 çap boyunda 14 kopuk tel veya tek damarda yan yana 3 kopuk tel ıskarta sebebidir. Sapan bağlama yöntemlerini, açı kaybını ve sapan türlerini <a href=\"/blog/vinc-sapan-halat-zincir-baglama-teknikleri\">sapan, halat ve zincir bağlama teknikleri</a> yazımızda anlattık. Bu yazı bir sonraki adıma, yani elinizdeki sapanın kullanılabilir olup olmadığına nasıl karar vereceğinize ve hangi standardın neyi söylediğine odaklanıyor.",
+ "body": [
+  {"type": "h2", "text": "Hangi aksesuar hangi standarda bağlı?"},
+  {"type": "p", "text": "Avrupa standartları (Türkiye'de TS EN olarak yayımlanır) her aksesuar türü için hem üretim şartlarını hem de üreticinin kullanıcıya vermesi gereken kullanım ve bakım bilgilerini tanımlar. Sapanınızın etiketinde ya da sertifikasında hangi standarda göre üretildiği yazar."},
+  {"type": "table", "head": ["Aksesuar", "İlgili standart", "Ne düzenler"], "rows": [
+   ["Düz dokuma kumaş (polyester) sapan", "EN 1492-1", "İnsan yapımı liflerden düz dokuma sapanların güvenlik şartları"],
+   ["Yuvarlak (round) sapan", "EN 1492-2", "Yuvarlak sapanlar; kapasiteye göre renk kodu (mor 1 t, yeşil 2 t, sarı 3 t ve devamı)"],
+   ["Çelik halat sapan", "EN 13414-1 ve EN 13414-2", "Birinci bölüm üretim şartları, ikinci bölüm kullanım, bakım ve ıskarta bilgileri"],
+   ["Zincir sapan (Grade 8)", "EN 818-4 ve EN 818-6", "EN 818-4 Grade 8 zincir sapanlar, EN 818-6 kullanım ve bakım bilgileri"],
+   ["Kanca, bağlantı baklası gibi bileşenler", "EN 1677 serisi", "Sapanlarda kullanılan dövme çelik bileşenler; örneğin emniyet mandallı kancalar"],
+   ["Kilit (şakıl, shackle)", "EN 13889", "Genel kaldırma amaçlı dövme çelik D ve omega (bow) tipi kilitler, Grade 6"]
+  ]},
+  {"type": "p", "text": "Kaldırma halatının kendisi (vincin tamburundaki halat) bu tablonun konusu değildir; o halatın kontrolü ve değişimi vincin üreticisinin talimatına ve vincin periyodik kontrolüne bağlıdır."},
+  {"type": "h2", "text": "Her kullanımdan önce: ortak kurallar"},
+  {"type": "ul", "items": [
+   "<strong>Etiket veya künye:</strong> sapanın kimliği ve çalışma yük sınırı (WLL) okunmuyorsa sapan kullanılmaz. Kapasitesi bilinmeyen sapan, kapasitesi sıfır kabul edilir.",
+   "<strong>Isı ve kimyasal:</strong> erimiş, sertleşmiş, rengi değişmiş, kimyasal lekeli bölge varsa sapan sahadan çıkarılır.",
+   "<strong>Uç bağlantıları:</strong> göz, pres kovan, kanca ve bakla deforme, çatlak veya aşınmışsa sapan kullanılmaz.",
+   "<strong>Tamir yok:</strong> sahada düğüm atarak, bantla sararak ya da kaynak yaparak tamir edilmiş sapan kullanılmaz."
+  ]},
+  {"type": "h2", "text": "Iskarta kriterleri tablosu"},
+  {"type": "table", "head": ["Aksesuar", "Kullanımdan kaldırma sebebi"], "rows": [
+   ["Kumaş ve yuvarlak sapan (EN 1492-1, -2)", "Okunmayan etiket; dış kılıfta kesik, yırtık veya delik (yuvarlak sapanda iç lifler görünüyorsa); ısı veya sürtünme yanığı; kimyasal hasar; dikişlerde açılma; göz bölgesinde aşınma; içine sert parça veya talaş girmiş olması"],
+   ["Çelik halat sapan (EN 13414-2)", "6d boyunda 6 rastgele kopuk dış tel veya 30d boyunda 14 rastgele kopuk tel (d: halat anma çapı); tek damarda yan yana 3 kopuk dış tel; anma çapının yüzde 10'unu aşan aşınma; ezilme, kink (bükülme), kuş kafesi veya öz dışarı çıkması; korozyon; ısı hasarı; pres kovan ve uçlarda çatlak veya deformasyon"],
+   ["Zincir sapan (EN 818-6)", "Uzamış, bükülmüş, çatlamış veya çentikli bakla; aşınma ile bakla kesitinin belirgin şekilde incelmesi; bakla eklem yerlerinde aşırı aşınma; okunmayan künye; kancada açılma veya mandal arızası. Ölçü sınırları için üreticinin EN 818-6'ya göre verdiği kullanım talimatı esas alınır"],
+   ["Kilit / şakıl (EN 13889)", "Gövdede açılma veya bükülme; pimin düz olmaması, dişinde hasar veya elle tam oturmaması; çatlak, çentik, aşınma; okunmayan çalışma yük sınırı ve sınıf işareti; orijinal olmayan pim"],
+   ["Kanca (EN 1677)", "Ağız açıklığında büyüme, gövdede bükülme veya dönme; emniyet mandalının çalışmaması; çatlak veya derin çentik"]
+  ]},
+  {"type": "p", "text": "Zincir için sahada sıkça duyulan \"yüzde 5 uzama, yüzde 10 aşınma\" sınırları, Grade 8 zincir üreticilerinin kullanım talimatlarında yaygın olarak yer alır. Ancak bizim bu değerleri standardın kendi metninden doğrulama imkânımız olmadı; zincirinizin üreticisinin talimatındaki ölçü sınırlarını esas alın ve sınırda olduğunu düşündüğünüz zinciri yetkili kişiye ölçtürün."},
+  {"type": "h2", "text": "Kullanım öncesi kontrol ile periyodik kontrol farkı"},
+  {"type": "p", "text": "Sahada her kullanımdan önce yapılan kontrol gözle ve elle yapılır; şüpheli bir şey görülen aksesuar ayrılır. Bunun yanında sapan ve kaldırma aksesuarlarının belirli aralıklarla yetkili kişiler tarafından ayrıntılı muayenesi gerekir. EN 13414-2, çelik halat sapanlar için ayrıntılı muayenenin 12 ayı aşmayan aralıklarla, ağır kullanım koşullarında daha sık yapılmasını önerir. Türkiye'de iş ekipmanlarının periyodik kontrolü İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği'ne bağlıdır; Aralık 2025'teki değişiklikle yalnızca Yönetmeliğin Ek-III tablolarında yer alan ekipmanların periyodik kontrole tabi olduğu vurgulandı. Sapanlarınız için kontrol sıklığını ve kimin yapacağını işyerinizin iş güvenliği uzmanına ve periyodik kontrol hizmeti aldığınız kuruluşa sorun."},
+  {"type": "h2", "text": "Sapan bağlama yöntemleri ve aksesuar ömrü"},
+  {"type": "p", "text": "Sapanların çoğu yanlış kullanım yüzünden erken ıskartaya çıkar. Ömrü uzatan birkaç alışkanlık:"},
+  {"type": "ul", "items": [
+   "Keskin köşelerde köşe koruyucu ya da hortum kılıf kullanmak; kumaş sapan keskin kenarda saniyeler içinde kesilebilir.",
+   "Boğma bağlamada sapanı kendi üzerine zorla çekip sıkıştırmamak, kancayı boğma noktasına çarptırmamak.",
+   "Yükün altından sapanı çekip çıkarmamak; yük kalaslar üzerine indirilerek sapanın serbest kalması sağlanır.",
+   "Kilit pimini sonuna kadar elle sıkmak, yan yükleme yapmamak; kilit çok yönlü yükleniyorsa üreticinin yük tablosuna bakmak.",
+   "Kullanılmayan sapanı kuru, gölge ve kimyasaldan uzak bir yerde asılı saklamak.",
+   "Çelik halat sapanı kink oluşturacak şekilde katlamamak; yumuşak gözlü sapanlarda kanca veya pim çapı halat çapının en az iki katı olmalıdır."
+  ]},
+  {"type": "h2", "text": "Iskartaya ayrılan aksesuara ne olur?"},
+  {"type": "p", "text": "Iskartaya çıkan sapan sahada \"yedek\" olarak bekletilmemelidir; bir başkası onu tekrar kullanabilir. Sapanı keserek, kilidi işaretleyerek ya da ayrı bir kırmızı kutuya koyarak kullanılamaz hâle getirmek gerekir. Bunu kayda geçirmek, aksesuar envanterinin güncel kalmasını sağlar."},
+  {"type": "p", "text": "Yük düşmesinin bağlantıdan kaynaklanan nedenlerini <a href=\"/blog/vinc-guvenlik-sistemleri-yuk-moment-gostergesi\">vinç güvenlik sistemleri</a> ve <a href=\"/blog/yuk-agirlik-merkezi-ve-dengeli-kaldirma\">dengeli kaldırma</a> yazılarımızla birlikte okumanızı öneririz. AZY Vinç olarak Şanlıurfa ve çevre illerde sahaya getirdiğimiz sapan ve aksesuarları kullanım öncesi kontrolden geçiriyor, şüpheli olanı işten önce ayırıyoruz."}
+ ],
+ "faqs": [
+  {"q": "Sapan ne zaman ıskartaya çıkar?", "a": "Etiketi okunmuyorsa, kesik, yanık, kimyasal hasar, deforme uç bağlantısı varsa veya ilgili EN standardındaki hasar sınırlarından birini aşıyorsa kullanımdan kaldırılır. Sapan tamir edilmez."},
+  {"q": "Çelik halat sapanda kaç kopuk tel ıskarta sebebidir?", "a": "EN 13414-2'ye göre 6 halat çapı boyunda 6 rastgele kopuk dış tel, 30 halat çapı boyunda 14 rastgele kopuk tel veya tek damarda yan yana 3 kopuk dış tel. Anma çapının yüzde 10'unu aşan aşınma da ıskarta sebebidir."},
+  {"q": "Yuvarlak sapan renkleri ne anlama gelir?", "a": "EN 1492-2'ye göre renk kapasiteyi gösterir: mor 1 ton, yeşil 2 ton, sarı 3 ton ve devamı. Yine de esas alınacak bilgi etiketteki çalışma yük sınırıdır."},
+  {"q": "Kilit (şakıl) hangi standarda göre üretilir?", "a": "Genel kaldırma amaçlı dövme çelik D ve omega tipi kilitler EN 13889 kapsamındadır. Pimi eğilmiş, gövdesi açılmış veya işareti okunmayan kilit kullanılmaz."},
+  {"q": "Sapanlar ne sıklıkla kontrol edilmeli?", "a": "Her kullanımdan önce gözle kontrol edilir. Ayrıntılı muayene için EN 13414-2 çelik halat sapanlarda 12 ayı aşmayan aralık önerir; işyerinizdeki sıklığı İSG uzmanı ve periyodik kontrol kuruluşu belirler."}
+ ]
+}

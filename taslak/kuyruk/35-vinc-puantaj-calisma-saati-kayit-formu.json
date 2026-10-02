@@ -1,0 +1,65 @@
+{
+ "slug": "vinc-puantaj-calisma-saati-kayit-formu",
+ "_hedef": "vinç puantaj formu",
+ "title": "Vinç Puantaj Formu: Çalışma Saati Nasıl Kaydedilir?",
+ "ogTitle": "Vinç Puantaj Formu: Günlük Çalışma Saati Kaydı, Kim İmzalar, Anlaşmazlık Nasıl Çözülür?",
+ "h1": "Vinç puantaj formu: çalışma saati nasıl kayda geçirilir?",
+ "desc": "Vinç puantaj formunda hangi alanlar olmalı, kim imzalar, bekleme ve arıza nasıl yazılır? Saat anlaşmazlığını önleyen örnek form ve doldurma kuralları.",
+ "image": "celik-konstruksiyon-cati-kiris-montaj-agir-yuk-vinc.jpeg",
+ "imageAlt": "Çelik çatı kirişi montajında çalışan mobil vinç",
+ "caption": "Çok günlü montajlarda faturanın dayanağı, gün sonunda imzalanan puantajdır.",
+ "intro": "Vinç puantaj formu, makinenin sahaya geliş saatinden ayrılış saatine kadar ne kadar çalıştığını, ne kadar beklediğini ve neden beklediğini gösteren, gün sonunda iki tarafın imzaladığı kayıttır. Saatlik veya günlük faturalanan her işte faturanın dayanağı budur. Bizim tecrübemizde saat anlaşmazlıklarının neredeyse tamamı aynı sebepten çıkıyor: kayıt ya hiç tutulmamış ya da hafta sonunda hafızadan doldurulmuş. Bu yazıda kullandığımız formun alanlarını, kimin imzalayacağını, bekleme ve arızanın nasıl yazılacağını ve itiraz olduğunda ne yapılacağını anlatıyoruz.",
+ "body": [
+  {"type": "h2", "text": "Puantaj neden gerekli?"},
+  {"type": "p", "text": "Tek saatlik bir işte puantaj tartışması çıkmaz; vinç gelir, iş biter, gider. Ama çelik montaj, prefabrik kurulum veya fabrika taşıma gibi günlerce süren işlerde \"bugün kaç saat çalışıldı?\" sorusu her gün sorulur. Teklifte asgari süre, ek saat ve bekleme bedeli tanımlanmışsa bu tanımların hangisinin o gün gerçekleştiği ancak bir kayıtla gösterilebilir. Kayıt; fatura, hakediş ve kurumsal işlerde iç denetim için de belgedir."},
+  {"type": "h2", "text": "Formda olması gereken alanlar"},
+  {"type": "p", "text": "Aşağıdaki tablo, sahada kullandığımız günlük formun alanlarını ve her birinin neden orada olduğunu gösteriyor. Kendi formunuzu hazırlarken bu listeyi temel alabilirsiniz."},
+  {"type": "table", "head": ["Bölüm", "Alan", "Neden önemli"], "rows": [
+   ["Kimlik", "Tarih, müşteri, şantiye adresi, sipariş / sözleşme no", "Faturayla eşleştirmek için"],
+   ["Makine", "Makine tipi, kapasitesi, plakası", "Teklifteki makineyle aynı mı?"],
+   ["Personel", "Operatör adı, varsa işaretçi ve sapancı", "Kimin çalıştığı ve ek personel ücreti"],
+   ["Saatler", "Sahaya varış, kurulum bitişi, ilk kaldırma, son kaldırma, toplama bitişi, sahadan ayrılış", "Asgari süre ve ek saat hesabı"],
+   ["Molalar", "Mola başlangıç ve bitişleri", "Molanın çalışma süresinden düşülüp düşülmeyeceği sözleşmeye göre"],
+   ["Bekleme", "Başlangıç, bitiş, sebep (malzeme gelmedi, alan hazır değil, rüzgar, elektrik kesilmedi vb.)", "Bekleme bedeli ve kusurun kimde olduğu"],
+   ["Arıza", "Arızanın saati, giderilme saati, açıklama", "Makine arızası süresi müşteriye yansıtılmaz"],
+   ["Yapılan iş", "Kısa açıklama, kaldırılan parça sayısı, kat/aks", "Hakedişte iş miktarıyla karşılaştırma"],
+   ["Ek kalemler", "Gece, hafta sonu çalışması, ek ekipman", "Teklifteki ek ücretlerle eşleşme"],
+   ["Onay", "Operatör imzası, müşteri yetkilisi adı-unvanı-imzası, not / itiraz alanı", "Kaydın iki tarafça kabulü"]
+  ]},
+  {"type": "h2", "text": "Doldurma kuralları"},
+  {"type": "ul", "items": [
+   "Form gün içinde, olay anında doldurulur. Saatler tahminle değil, saat bakılarak yazılır.",
+   "Her bekleme ayrı satıra, sebebiyle birlikte yazılır. \"Bekleme 2 saat\" yazmak yetmez; \"10.15-12.10, beton pompası alanı boşaltmadı\" yazılır.",
+   "Rüzgar veya hava nedeniyle durma varsa, durma kararını kimin verdiği ve okunan değer not edilir.",
+   "Makine arızası ayrı satırda gösterilir; arıza süresi müşteriye faturalanmaz.",
+   "Silinti yapılmaz; hata varsa üstü çizilip yanına doğrusu yazılır ve iki taraf paraf atar.",
+   "Gün sonunda iki taraf imzalar; birer kopya taraflarda kalır veya fotoğrafı anında mesajla gönderilir."
+  ]},
+  {"type": "h2", "text": "Kim imzalamalı?"},
+  {"type": "p", "text": "Operatör imzası makinenin tarafını, müşteri yetkilisinin imzası ise işin sahibini temsil eder. Müşteri tarafında imzayı kimin atacağı iş başlamadan önce yazılı olarak belirlenmelidir: şantiye şefi, saha mühendisi, formen veya fabrikanın bakım sorumlusu. Bunu belirlemezseniz akşam saatinde formu imzalayacak kimse bulunamaz ya da yetkisi olmayan biri imzalar ve sonradan \"o kişinin imzası bizi bağlamaz\" itirazı gelir."},
+  {"type": "p", "text": "İmzalayan kişinin adının ve unvanının okunaklı yazılması, imzanın kendisi kadar önemlidir. Kurumsal müşterilerimizde, sözleşmeye \"puantajı imzalamaya yetkili kişiler\" diye bir madde eklemeyi öneriyoruz. Sözleşmede bulunması gereken diğer maddeleri <a href=\"/blog/vinc-kiralama-sozlesmesinde-dikkat\">vinç kiralama sözleşmesinde dikkat edilecekler</a> yazımızda topladık."},
+  {"type": "h2", "text": "Örnek: doldurulmuş bir gün"},
+  {"type": "table", "head": ["Saat", "Olay", "Süre", "Not"], "rows": [
+   ["07.30", "Sahaya varış", "-", "Giriş kapısında 15 dk bekleme, güvenlik kaydı"],
+   ["07.45-08.20", "Kurulum, ayakların açılması", "35 dk", "Sedye plakaları kullanıldı"],
+   ["08.20-12.00", "Kiriş montajı", "3 sa 40 dk", "A aksı, 6 kiriş"],
+   ["12.00-13.00", "Öğle molası", "1 sa", "Sözleşmeye göre süreden düşülür"],
+   ["13.00-14.30", "Bekleme", "1 sa 30 dk", "Cıvatalar sahaya gelmedi (müşteri kaynaklı)"],
+   ["14.30-17.00", "Kiriş montajı", "2 sa 30 dk", "B aksı, 4 kiriş"],
+   ["17.00-17.30", "Toplama, sahadan ayrılış", "30 dk", "-"]
+  ]},
+  {"type": "p", "text": "Bu günün özeti forma şöyle yazılır: çalışma 6 sa 10 dk, müşteri kaynaklı bekleme 1 sa 30 dk, kurulum ve toplama 1 sa 5 dk, mola 1 sa. Hangi sürelerin faturalanacağı formun değil teklifin konusudur; form yalnızca ne olduğunu kaydeder. Kurulum ve toplama süresinin, molanın ve beklemenin nasıl ücretlendirileceği teklifte yazılı değilse bu, o işin en büyük tartışma kaynağı olur."},
+  {"type": "h2", "text": "Anlaşmazlık çıktığında"},
+  {"type": "p", "text": "Müşteri yetkilisi bir satıra itiraz ediyorsa formu imzalamamak yerine itirazını not alanına yazıp imzalamasını isteriz. Böylece üzerinde uzlaşılan saatler kesinleşir, tartışma yalnızca itiraz edilen satırla sınırlı kalır. Çok günlü işlerde puantajları her akşam kurumsal müşterinin ilgili kişisine toplu olarak göndermek de işe yarar: hafta sonunda fatura kesildiğinde sürpriz bir satır kalmaz, itirazlar olay tazeyken aynı gün konuşulur. Bekleme sebebini gösteren fotoğraf (boş malzeme alanı, rüzgar ölçer ekranı, kapalı yol) kayda eklenirse tartışma çoğu zaman aynı gün kapanır."},
+  {"type": "p", "text": "Faturada bekleme ve ek saat kalemlerinin nasıl ele alındığını <a href=\"/blog/vinc-kiralama-odeme-kapora-iptal-bekleme-bedeli\">kapora, iptal ve bekleme bedeli</a> yazımızda, operatörün günlük çalışma süresi ve vardiya planını ise <a href=\"/blog/vinc-operatoru-gunde-kac-saat-calisir\">vinç operatörü günde kaç saat çalışır</a> yazımızda anlattık. Kamu işlerinde puantaj hakedişin eki olur; bu konu için <a href=\"/blog/vinc-kiralama-birim-fiyat-pozu-hakedis\">birim fiyat ve hakediş</a> yazımıza bakın."},
+  {"type": "h3", "text": "Puantaj ile günlük kontrol formu karıştırılmasın"},
+  {"type": "p", "text": "Puantaj saatleri kaydeder; makinenin güvenli olup olmadığını göstermez. Operatörün iş başı kontrolleri ayrı bir formdur ve <a href=\"/blog/mobil-vinc-gunluk-kontrol-formu\">mobil vinç günlük kontrol formu</a> yazımızda anlatılmıştır. İkisini aynı kağıtta birleştirmek mümkündür ama imzalayan kişiler ve amaçları farklıdır."}
+ ],
+ "faqs": [
+  {"q": "Vinç puantajını kim tutar?", "a": "Formu genellikle operatör doldurur; müşteri tarafının yetkili kişisi gün sonunda kontrol edip imzalar. İmzaya yetkili kişinin kim olduğu iş başlamadan yazılı olarak belirlenmelidir."},
+  {"q": "Bekleme süresi puantaja nasıl yazılır?", "a": "Başlangıç ve bitiş saati ile sebebi birlikte yazılır. Sebebin müşteri kaynaklı mı, hava kaynaklı mı, makine kaynaklı mı olduğu belli olmalıdır; çünkü faturalanıp faturalanmayacağı buna göre değişir."},
+  {"q": "Makine arızalanırsa o süre ödenir mi?", "a": "Genel uygulamada kiralanan makinenin arızasından kaynaklanan süre müşteriye faturalanmaz. Bu nedenle arıza başlangıç ve bitiş saati puantajda ayrı satırda gösterilir."},
+  {"q": "Müşteri puantajı imzalamazsa ne olur?", "a": "İmzasız kayıt tartışmaya açıktır. İtiraz edilen satır varsa itirazın not alanına yazılarak formun imzalanmasını isteyin; uzlaşılan saatler böylece kesinleşir. Fotoğraf ve mesajla gönderilen anlık kayıtlar da destekleyici delil olur."},
+  {"q": "Kurulum ve toplama süresi çalışma süresine dahil mi?", "a": "Bu, puantajın değil teklifin ve sözleşmenin konusudur. Puantajda bu süreler ayrı yazılır; nasıl ücretlendirileceği teklifte açıkça belirtilmelidir."}
+ ]
+}

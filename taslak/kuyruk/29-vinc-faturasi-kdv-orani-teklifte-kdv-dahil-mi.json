@@ -1,0 +1,67 @@
+{
+ "slug": "vinc-faturasi-kdv-orani-teklifte-kdv-dahil-mi",
+ "_hedef": "vinç kiralama kdv oranı",
+ "title": "Vinç Kiralama KDV Oranı: Teklifte KDV Dahil mi?",
+ "ogTitle": "Vinç Kiralama KDV Oranı Kaç? \"KDV Hariç\" Teklif Nasıl Okunur, Ödenecek Tutar Nasıl Hesaplanır?",
+ "h1": "Vinç kiralama KDV oranı ve \"KDV hariç\" teklifi doğru okumak",
+ "desc": "Vinç kiralama KDV oranı genel oran olan %20'dir. \"KDV hariç\" teklif nasıl okunur, ek kalemlerde KDV, tevkifatlı faturada ödenecek tutar nasıl hesaplanır?",
+ "image": "tp-akaryakit-totem-mobil-vinc-sepetli-platform.jpeg",
+ "imageAlt": "Akaryakıt istasyonunda totem montajında mobil vinç ve sepetli platform",
+ "caption": "Teklifteki rakam ile ödenecek tutar arasındaki fark çoğu zaman KDV satırındadır.",
+ "intro": "Vinç kiralama, sepetli platform ve hiyap hizmetlerinde KDV oranı genel oran olan yüzde 20'dir; bu hizmetler için indirimli bir oran bulunmuyor. Teklifte \"KDV hariç\" yazıyorsa, yazan rakamın üzerine yüzde 20 eklenerek ödenecek tutar bulunur. Telefonda en sık yaşadığımız yanlış anlaşılma budur: müşteri \"bin beş yüz dediniz, neden faturada daha fazla?\" diye sorar, cevap KDV satırındadır. Bu yazıda teklifleri doğru okumanın yolunu, tek tek kalemlerde KDV'yi ve tevkifatlı faturada ödenecek tutarın nasıl çıktığını anlatıyoruz. Tevkifatın hangi işlerde gündeme geldiği için <a href=\"/blog/vinc-kiralama-kdv-tevkifat-fatura-2026\">vinç kiralama KDV tevkifatı yazımıza</a> bakın.",
+ "body": [
+  {"type": "h2", "text": "Oran neden yüzde 20?"},
+  {"type": "p", "text": "Türkiye'de KDV'nin genel oranı, 7 Temmuz 2023 tarihli Resmî Gazete'de yayımlanan 7346 sayılı Cumhurbaşkanı Kararıyla yüzde 18'den yüzde 20'ye çıkarıldı ve 10 Temmuz 2023'ten beri uygulanıyor. İndirimli oranlar (yüzde 1 ve yüzde 10) belirli mal ve hizmetler için listelenmiştir; vinç, iş makinesi kiralama ve kaldırma hizmetleri bu listelerde yer almadığı için genel oran uygulanır."},
+  {"type": "p", "text": "Oranlar Cumhurbaşkanı Kararıyla değiştirilebilir. Uzun süreli bir sözleşme yapıyorsanız fiyatı KDV hariç belirleyip KDV'yi \"yürürlükteki oranda\" eklemek, ileride bir oran değişikliğinde tartışmayı önler."},
+  {"type": "h2", "text": "\"KDV hariç\" ve \"KDV dahil\" teklif nasıl okunur?"},
+  {"type": "p", "text": "Sektörde kurumsal tekliflerin büyük kısmı KDV hariç verilir, çünkü karşı taraf KDV'yi indirim konusu yapacaktır ve karşılaştırmayı net tutar üzerinden yapar. Bireysel müşteriye ise ödeyeceği toplamı söylemek daha doğrudur. Bir teklifte şu üç şeyden biri yazmalıdır; hiçbiri yoksa sorun:"},
+  {"type": "table", "head": ["Teklifte yazan", "Anlamı", "Ödenecek tutar (teklif 10.000 TL ise)"], "rows": [
+   ["10.000 TL + KDV", "KDV hariç fiyat", "12.000 TL"],
+   ["10.000 TL (KDV dahil)", "Toplam ödenecek tutar", "10.000 TL; bunun 1.666,67 TL'si KDV"],
+   ["Sadece \"10.000 TL\"", "Belirsiz", "Yazılı olarak netleştirin"]
+  ]},
+  {"type": "p", "text": "KDV dahil bir tutarın içindeki KDV'yi bulmak için tutarı 1,20'ye bölüp kalanı çıkarırsınız: 10.000 / 1,20 = 8.333,33 TL net bedel, fark 1.666,67 TL KDV'dir. Tutarın yüzde 20'sini almak (2.000 TL) yanlış sonuç verir; bu, en sık yapılan hesap hatasıdır."},
+  {"type": "h2", "text": "Ek kalemlerde de KDV var"},
+  {"type": "p", "text": "Vinç teklifindeki ana fiyatın dışında kalan kalemler de faturaya girdiğinde KDV'ye tabidir. Teklifleri karşılaştırırken bu kalemlerin KDV'li toplamını hesaba katmazsanız ucuz görünen teklif sahada pahalıya döner."},
+  {"type": "ul", "items": [
+   "Yol ve mobilizasyon ücreti",
+   "Asgari saati aşan ek saatler ve fazla mesai",
+   "Bekleme bedeli",
+   "Ayrı bir araçla getirilen karşı ağırlık veya ekipman nakliyesi",
+   "İşaretçi, sapancı gibi ek personel",
+   "Gece, hafta sonu veya bayram çalışması farkı"
+  ]},
+  {"type": "p", "text": "Bu kalemlerin her biri tekliften ayrıca istenmelidir. Hangi gizli kalemlerin sonradan faturaya eklendiğini <a href=\"/blog/vinc-kiralamada-gizli-maliyetler\">vinç kiralamada gizli maliyetler</a> yazımızda, teklifleri satır satır karşılaştırma yöntemini ise <a href=\"/blog/vinc-kiralama-teklifi-nasil-karsilastirilir\">teklif karşılaştırma</a> yazımızda anlattık."},
+  {"type": "h2", "text": "Tevkifatlı faturada ödenecek tutar"},
+  {"type": "p", "text": "Kurumsal müşterilerin kafasını en çok karıştıran durum, faturadaki KDV'nin bir kısmının hizmeti verene değil vergi dairesine alıcı tarafından ödenmesidir. Tevkifat varsa fatura üzerinde iki toplam görürsünüz: tevkifat dahil toplam ve tevkifattan sonra tahsil edilecek tutar. Hizmeti verene ödenen ikincisidir."},
+  {"type": "table", "head": ["Kalem", "Tevkifatsız fatura", "Tevkifatlı fatura (örnek 9/10)"], "rows": [
+   ["KDV hariç bedel", "50.000 TL", "50.000 TL"],
+   ["Hesaplanan KDV (%20)", "10.000 TL", "10.000 TL"],
+   ["Alıcının tevkif edip beyan edeceği KDV", "Yok", "9.000 TL"],
+   ["Hizmeti verene ödenecek tutar", "60.000 TL", "51.000 TL"],
+   ["Alıcının toplam maliyeti", "60.000 TL", "60.000 TL (51.000 + 9.000)"]
+  ]},
+  {"type": "p", "text": "Görüldüğü gibi tevkifat alıcı için ek bir maliyet yaratmaz; KDV'nin bir kısmını kimin beyan edip ödeyeceğini değiştirir. Alıcı, tevkif ettiği tutarı 2 No.lu KDV Beyannamesi ile beyan eder. Tevkifat yalnızca KDV dahil bedeli o yılın fatura düzenleme sınırını aşan işlemlerde uygulanır; 2026 için bu sınır KDV dahil 12.000 TL'dir. Oran ise işin türüne göre değişir; tablodaki 9/10 yalnızca örnek amaçlıdır."},
+  {"type": "h3", "text": "Kapora ve avans ödemelerinde KDV"},
+  {"type": "p", "text": "Büyük işlerde iş başlamadan bir kapora veya avans istenebilir. Burada sık sorulan soru, ödenen tutarın KDV dahil mi hariç mi olduğudur. Kapora tutarını da teklifte olduğu gibi açıkça yazdırın: \"toplam bedelin şu kadarı, KDV dahil\" gibi. Avans için ne zaman fatura düzenleneceği ve KDV'nin hangi döneme ait olacağı ise vergi kurallarına göre belirlenir; bu konuyu kendi mali müşavirinizle netleştirin. Kapora ve iptal koşullarını <a href=\"/blog/vinc-kiralama-odeme-kapora-iptal-bekleme-bedeli\">kapora, iptal ve bekleme bedeli</a> yazımızda anlattık."},
+  {"type": "h2", "text": "Bireysel müşteri için kısa yol"},
+  {"type": "p", "text": "Vergi mükellefi değilseniz KDV'yi indirim konusu yapamazsınız; sizin için önemli olan tek rakam toplamdır. Telefonda fiyat sorarken \"KDV dahil toplam ne kadar, yol ücreti buna dahil mi?\" diye sormanız yeterli. Faturayı mutlaka isteyin: olası bir hasar veya anlaşmazlıkta hizmetin varlığını kanıtlayan ilk belge odur."},
+  {"type": "h2", "text": "Teklif okurken kontrol listesi"},
+  {"type": "ul", "items": [
+   "Fiyatın KDV hariç mi dahil mi olduğu açıkça yazıyor mu?",
+   "Süre esası belli mi: saatlik, yarım gün, tam gün, proje?",
+   "Yol, mobilizasyon ve bekleme ayrı mı, dahil mi?",
+   "Ek saat ücreti ve fazla mesai farkı yazılı mı?",
+   "Kurumsal işte tevkifat uygulanacak mı, hangi oranla? Bunu teklif aşamasında muhasebenizle konuşun.",
+   "Teklifin geçerlilik süresi ne kadar?"
+  ]},
+  {"type": "p", "text": "Fiyatı etkileyen etkenlerin tamamını <a href=\"/blog/vinc-kiralama-fiyatlari-nelere-bagli\">vinç kiralama fiyatları nelere bağlı</a> yazımızda topladık. AZY Vinç olarak tekliflerimizi kurumsal müşterilere KDV hariç, bireysel müşterilere KDV dahil toplamla birlikte veriyoruz; ek kalemler varsa teklif üzerinde ayrı satırda yazıyoruz."}
+ ],
+ "faqs": [
+  {"q": "Vinç kiralama KDV oranı yüzde kaç?", "a": "Vinç kiralama ve kaldırma hizmetlerinde genel KDV oranı olan yüzde 20 uygulanır. Bu oran 10 Temmuz 2023'ten beri geçerlidir. Bu hizmetler indirimli oran listelerinde yer almaz."},
+  {"q": "Sepetli platform ve hiyap kiralamada KDV farklı mı?", "a": "Hayır. Sepetli platform, manlift ve hiyap hizmetleri de genel oran olan yüzde 20 KDV'ye tabidir. Fark, işin niteliğine göre tevkifat uygulanıp uygulanmayacağında ortaya çıkabilir."},
+  {"q": "KDV dahil fiyattan KDV nasıl ayrılır?", "a": "Tutarı 1,20'ye bölün; sonuç KDV hariç bedeldir, aradaki fark KDV'dir. Örneğin 12.000 TL KDV dahil tutarın 10.000 TL'si bedel, 2.000 TL'si KDV'dir. Tutarın doğrudan yüzde 20'sini almak yanlış sonuç verir."},
+  {"q": "Teklifte KDV yazmıyorsa fiyat KDV dahil mi sayılır?", "a": "Bunun için genel geçer bir kural yoktur ve tartışma çıkar. Teklifin KDV hariç mi dahil mi olduğunu yazılı olarak sorun ve onaylatın. Kurumsal tekliflerde sektörde yaygın olan KDV hariç fiyat vermektir."},
+  {"q": "Tevkifat olunca vinç daha ucuza mı gelir?", "a": "Hayır. Toplam maliyet değişmez. Tevkifatta KDV'nin bir kısmını hizmeti veren yerine alıcı beyan edip öder; bu yüzden hizmeti verene yapılan ödeme azalır ama alıcının toplam maliyeti aynı kalır."}
+ ]
+}

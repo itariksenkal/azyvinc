@@ -1,0 +1,58 @@
+{
+ "slug": "nakliye-ile-vinc-hizmeti-tevkifat-farki",
+ "_hedef": "nakliye tevkifat sınırı 2026",
+ "title": "Nakliye Tevkifat Sınırı 2026: Vinç ve Nakliye Farkı",
+ "ogTitle": "Nakliye Tevkifat Sınırı 2026: Aynı Faturada Nakliye ve Vinç Hizmeti Nasıl Ayrılır?",
+ "h1": "Nakliye tevkifat sınırı 2026: aynı faturada nakliye ve vinç hizmeti",
+ "desc": "Nakliye tevkifat sınırı 2026'da KDV dahil 12.000 TL, oran 2/10. Hiyapla taşıma, lowbed nakliye ve yerinde vinç kaldırma aynı faturada nasıl ayrılır?",
+ "image": "elektrik-diregi-hiyap-vinc-kis.jpeg",
+ "imageAlt": "Hiyap vinçli kamyonla elektrik direği taşıma ve dikme çalışması",
+ "caption": "Hiyap hem taşır hem kaldırır; faturada hangisinin yapıldığı ayrıca belli olmalı.",
+ "intro": "Karayoluyla yük taşımacılığında 2026 tevkifat sınırı da diğer kısmi tevkifat işlemleriyle aynıdır: KDV dahil 12.000 TL. Bu tutarı aşan nakliye faturalarında alıcı, KDV mükellefi olsa bile KDV'nin 2/10'unu tevkif eder. Vinç işlerinde mesele şu: aynı araç hem yükü taşıyıp hem kaldırabiliyor. Hiyap malzemeyi depodan alıp şantiyeye götürüp indiriyorsa iş nakliye midir, vinç hizmeti midir? Bu yazıda bu ayrımı, aynı faturada iki kalem bulunduğunda nasıl davranılacağını ve sınırın nasıl hesaplanacağını anlatıyoruz. Vinç tevkifatının genel mantığı <a href=\"/blog/vinc-kiralama-kdv-tevkifat-fatura-2026\">vinç kiralama KDV tevkifatı yazımızda</a> yer alıyor.",
+ "body": [
+  {"type": "h2", "text": "Yük taşımacılığı tevkifatı kimleri kapsar?"},
+  {"type": "p", "text": "KDV Genel Uygulama Tebliğinin taşımacılık hizmetleri bölümüne göre, hem KDV mükellefleri hem de Tebliğde sayılan belirlenmiş alıcılar, karayoluyla yapılan yük taşımacılığı hizmeti alımlarında 2/10 oranında tevkifat uygular. Kargo işletmeciliği yetki belgesine sahip firmaların kargo taşımaları bu kapsamın dışındadır. Taşımanın özmal veya sözleşmeli araçla yapılması, ilgili taşımacılık belgelerinin alınıp alınmamış olması tevkifat uygulamasına engel değildir."},
+  {"type": "p", "text": "Bu, vinç hizmetinden önemli bir farktır. Sevk ve idaresi kiralayan firmada kalan operatörlü vinç işi özel sektöre çoğunlukla tevkifatsız faturalanırken, aynı müşteriye kesilen nakliye faturası sınırı aşıyorsa 2/10 tevkifatlı olur."},
+  {"type": "h2", "text": "Nakliye mi, vinç hizmeti mi? Ayırt edici soru"},
+  {"type": "p", "text": "Pratikte en işe yarayan soru şudur: müşterinin malı bir yerden başka bir yere götürüldü mü? Götürüldüyse ortada bir taşıma vardır. Mal yerinde kaldırılıp indirildiyse, montajı yapıldıysa ya da bir kattan diğerine çıkarıldıysa iş taşımacılık değil kaldırma hizmetidir. Vincin kendisinin şantiyeye gelmesi müşterinin yükünü taşımak anlamına gelmez; yol ve mobilizasyon ücreti, vinç hizmetinin bir parçası olarak düşünülür. Bu son nokta yaygın görüştür; işinize özgü değerlendirmeyi mali müşavirinize bırakın."},
+  {"type": "table", "head": ["İş", "Muhtemel nitelik", "Tevkifat (KDV mükellefi alıcı, sınır aşıldıysa)"], "rows": [
+   ["Mobil vinç sahaya gelir, çelik kirişleri kaldırıp yerine koyar", "Vinç hizmeti", "Sevk-idare bizdeyse genellikle yok"],
+   ["Hiyap, müşterinin deposundan jeneratörü alıp başka bir adrese götürüp indirir", "Yük taşımacılığı (yükleme-indirme dahil)", "624, 2/10"],
+   ["Lowbed, müşterinin iş makinesini başka ile taşır", "Yük taşımacılığı", "624, 2/10"],
+   ["Hiyap aynı şantiye içinde malzemeyi istif alanından bina dibine çeker", "Ağırlıklı olarak kaldırma ve yerinde taşıma; değerlendirme gerekir", "Mali müşavirle netleştirin"],
+   ["Vincin kendisinin yol ücreti / mobilizasyon", "Vinç hizmetinin parçası", "Ana hizmete göre"],
+   ["Ağır parçayı hiyap getirir, mobil vinç montajını yapar, tek faturada", "İki ayrı hizmet", "Her kalem kendi niteliğine göre"]
+  ]},
+  {"type": "h2", "text": "Aynı faturada iki kalem varsa"},
+  {"type": "p", "text": "Fabrika taşıma, trafo yerleştirme ve makine relokasyonu gibi işlerde nakliye ve kaldırma birlikte verilir. Bu durumda faturayı kesen olarak bizim tercihimiz kalemleri ayrı satırlarda göstermektir: biri nakliye, biri vinç hizmeti. e-Faturada her satıra kendi niteliğine uygun KDV ve tevkifat bilgisi girilebilir. Böylece alıcı nakliye satırına 2/10 tevkifat uygularken vinç satırını kendi durumuna göre değerlendirir."},
+  {"type": "p", "text": "İki kalemi tek satırda \"nakliye ve montaj\" diye birleştirmek, alıcının muhasebesini işin tamamına tek bir oran uygulamaya iter ve tartışma doğurur. Ayrı satırların bir yararı daha var: teklif ile faturayı karşılaştırmak kolaylaşır. Taşıma kaleminde nereden nereye gidildiği irsaliye veya fatura açıklamasında yazılı olursa, muhasebe biriminin satırın niteliğini sorgulamasına da gerek kalmaz."},
+  {"type": "h3", "text": "Sınır hangi tutara göre bakılır?"},
+  {"type": "p", "text": "Tebliğ, sınırın her bir işlemin KDV dahil bedeline göre değerlendirileceğini ve aynı işleme ait bedellerin parçalara ayrılamayacağını söyler. Nakliye satırı tek başına 12.000 TL'nin altında kalıyor ama aynı işin toplamı sınırı aşıyorsa ne olacağı, iki kalemin aynı işlem mi ayrı işlemler mi sayıldığına bağlıdır. Bu sorunun cevabı sözleşmeye ve işin yapısına göre değişir; burada kesin bir kural vermek yerine mali müşavirinize danışmanızı öneriyoruz. Sınırın genel işleyişini ayrı bir yazımızda örneklerle ele alıyoruz."},
+  {"type": "h2", "text": "Sayısal örnek"},
+  {"type": "p", "text": "Bir un fabrikası, eski tesisinden yeni tesisine bir değirmen valsini taşıtıyor. İş iki kalemden oluşuyor: lowbed ile nakliye ve iki uçta mobil vinçle yükleme-indirme. Kalemleri ayrı satırlarda gösteren fatura şöyle görünür:"},
+  {"type": "table", "head": ["Satır", "KDV hariç", "KDV (%20)", "Tevkifat", "Satıcıya ödenecek"], "rows": [
+   ["Lowbed nakliye", "30.000 TL", "6.000 TL", "2/10: 1.200 TL alıcı beyan eder", "34.800 TL"],
+   ["Mobil vinçle yükleme ve indirme (sevk-idare bizde)", "20.000 TL", "4.000 TL", "Yok", "24.000 TL"],
+   ["Toplam", "50.000 TL", "10.000 TL", "1.200 TL", "58.800 TL"]
+  ]},
+  {"type": "p", "text": "Aynı iş tek satırda \"nakliye ve vinç hizmeti 50.000 TL\" diye yazılsaydı, alıcının muhasebesi büyük ihtimalle tamamına 2/10 uygulayacak ya da faturayı iade edecekti. Bu örnek yalnızca hesabı göstermek içindir; gerçek oranlar ve tutarlar işinize göre değişir."},
+  {"type": "h2", "text": "Belirlenmiş alıcılarda durum"},
+  {"type": "p", "text": "Alıcı bir kamu idaresi, belediye, döner sermayeli kuruluş veya banka ise nakliye satırı yine 2/10 ile tevkifata tabidir. Vinç satırı ise bu alıcılar için çoğu durumda \"diğer hizmetler\" kapsamında 5/10 tevkifata girer; iş bir yapım işinin parçasıysa yapım işleri oranı gündeme gelir. Kamuya yapılan işlerde evrak düzenini <a href=\"/blog/belediye-kamu-ihalesi-vinc-hizmet-alimi\">kamu vinç hizmet alımı</a> yazımızda anlattık."},
+  {"type": "h2", "text": "Kontrol listesi"},
+  {"type": "ul", "items": [
+   "Teklifte nakliye ve kaldırma kalemlerini ayrı isteyin.",
+   "Taşıma varsa nereden nereye yapıldığını faturaya veya eki irsaliyeye yazdırın.",
+   "Vincin kendi yol ücretini nakliye kalemiyle karıştırmayın.",
+   "Belirlenmiş alıcıysanız her satır için oranı ayrı kontrol edin.",
+   "Toplamın ve satırların sınırla ilişkisini fatura kesilmeden önce mali müşavirinizle netleştirin."
+  ]},
+  {"type": "p", "text": "Ağır yük nakliyesinde araç seçimini <a href=\"/blog/agir-yuk-tasima-lowbed-ve-treyler\">lowbed ve treyler</a> yazımızda, fabrika taşıma işlerini ise <a href=\"/blog/fabrika-tasima-ve-makine-relokasyonu\">fabrika taşıma ve makine relokasyonu</a> yazımızda anlattık."}
+ ],
+ "faqs": [
+  {"q": "Nakliye tevkifat sınırı 2026'da ne kadar?", "a": "Karayoluyla yük taşımacılığında da kısmi tevkifat sınırı 2026 yılı fatura düzenleme sınırına bağlıdır: KDV dahil 12.000 TL. Bu tutarı aşan nakliye faturalarında 2/10 oranında tevkifat uygulanır."},
+  {"q": "Nakliye tevkifatını kimler uygular?", "a": "KDV mükellefi alıcılar ve Tebliğde sayılan belirlenmiş alıcılar. Yani özel sektördeki bir şirket de sınırı aşan nakliye faturasında KDV'nin 2/10'unu tevkif edip 2 No.lu KDV Beyannamesi ile beyan eder."},
+  {"q": "Vincin yol ücreti nakliye sayılır mı?", "a": "Vincin kendisinin sahaya gelmesi müşterinin yükünü taşımak anlamına gelmediği için yol ve mobilizasyon ücreti yaygın olarak vinç hizmetinin parçası kabul edilir. İşinize özgü değerlendirmeyi mali müşavirinize danışın."},
+  {"q": "Hiyapla taşıma yük taşımacılığı mıdır?", "a": "Hiyap müşterinin malını bir adresten alıp başka bir adrese götürüyorsa işlem yük taşımacılığıdır ve 2/10 tevkifat kapsamına girer. Hiyap yalnızca yerinde kaldırma ve montaj yapıyorsa iş kaldırma hizmeti olarak değerlendirilir."},
+  {"q": "Nakliye ve vinç aynı faturada olabilir mi?", "a": "Olabilir; ancak kalemlerin ayrı satırlarda gösterilmesi gerekir. Böylece her satıra kendi niteliğine uygun tevkifat bilgisi girilir ve alıcının muhasebesi işin tamamına tek bir oran uygulamak zorunda kalmaz."}
+ ]
+}

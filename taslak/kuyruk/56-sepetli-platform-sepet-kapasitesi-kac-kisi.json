@@ -1,0 +1,165 @@
+{
+ "slug": "sepetli-platform-sepet-kapasitesi-kac-kisi",
+ "_hedef": "sepetli platform sepet kapasitesi kaç kişi",
+ "title": "Sepetli Platform Sepeti Kaç Kişi, Kaç Kilo Alır?",
+ "ogTitle": "Sepetli Platform Sepet Kapasitesi: Kaç Kişi Biner, Alet ve Malzemeye Ne Kadar Pay Kalır? Hesap Örnekleriyle",
+ "h1": "Sepetli platformda sepet kaç kişi alır? Kapasite, alet ve malzeme hesabı",
+ "desc": "Sepetli platform sepet kapasitesi kaç kişi, kaç kilo? Etiketteki SWL ve kişi sayısının anlamı, EN 280'deki hesap mantığı, alet ve malzeme için örnek hesaplar.",
+ "image": "cadde-tabela-aydinlatma-sepetli-platform.jpeg",
+ "imageAlt": "Cadde aydınlatma işinde yükseltilmiş sepetli platform",
+ "caption": "Sepetteki her şey tartıya girer: kişi, alet, malzeme.",
+ "intro": "Sepetli platformda sepetin kaç kişi alacağı, sepetin üzerindeki etikette iki ayrı bilgi olarak yazar: azami yük (kilogram) ve azami kişi sayısı. İkisine birden uyulur; hangisi önce dolarsa sınır odur. Tipik olarak 120 kg'lık sepet bir kişi, 200–230 kg'lık sepetler iki kişi, 300 kg ve üzeri sepetler modele göre iki ya da üç kişi içindir. Sepetli vinçlerin genel yükseklik ve kapasite aralıklarını <a href=\"/blog/sepetli-vinc-kapasite-erisim-yuksekligi\">sepetli vinç kapasite ve erişim</a> yazımızda verdik; burada sadece sepetin içini, yani kişi, alet ve malzeme hesabını ele alıyoruz.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "Etiketteki iki sayı: kilogram ve kişi"
+  },
+  {
+   "type": "p",
+   "text": "Sepet etiketinde genellikle \"SWL\" veya \"azami yük\" ifadesiyle bir kilogram değeri ve bir de kişi sayısı bulunur. Kilogram değeri, sepete binen her şeyin toplamıdır. Kişi sayısı ise ayrı bir sınırdır: sepette ağırlık kalsa bile etiketteki kişi sayısından fazla kişi binmez. Bunun sebebi sadece ağırlık değil; kişilerin sepet kenarına yaslanması, ani hareketleri ve sepet içindeki yer de hesaba girer."
+  },
+  {
+   "type": "h2",
+   "text": "Üreticiler bu değeri nasıl hesaplar?"
+  },
+  {
+   "type": "p",
+   "text": "Mobil yükseltilebilir iş platformları için Avrupa'da kullanılan EN 280 standardı, sepet kapasitesini hesaplarken her kişi için 80 kg ve alet-malzeme için en az 40 kg kabul eder. Yani bir kişilik sepet en az 80 + 40 = 120 kg, iki kişilik sepet en az 2 × 80 + 40 = 200 kg olarak tasarlanır. Sahadaki sepetlerin 120, 200, 230 gibi değerlerle karşımıza çıkmasının sebebi budur."
+  },
+  {
+   "type": "p",
+   "text": "Burada önemli bir uyarı var: 80 kg, standart hesap için kabul edilen bir değerdir; sahadaki bir ustanın iş kıyafeti, ayakkabısı ve emniyet kemeriyle 80 kg'ı geçmesi çok olağandır. Bu yüzden hesabı kişi sayısıyla değil, gerçek kilolarla yapmak gerekir."
+  },
+  {
+   "type": "h2",
+   "text": "Sepet sınıflarına göre pratik kullanım"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Sepet azami yükü",
+    "Tipik kişi sınırı",
+    "Sahada uygun iş"
+   ],
+   "rows": [
+    [
+     "Yaklaşık 120 kg",
+     "1 kişi",
+     "Ampul, kamera, küçük tamir, hafif el aletleri"
+    ],
+    [
+     "Yaklaşık 200–230 kg",
+     "Genelde 2 kişi",
+     "Tabela bağlantısı, klima montajı, cephe tamiri"
+    ],
+    [
+     "Yaklaşık 250–300 kg",
+     "Modele göre 2–3 kişi",
+     "Malzemeli işler, iki usta ve orta ağırlıkta parça"
+    ],
+    [
+     "300 kg üzeri",
+     "Etikete göre",
+     "Cam, panel gibi malzemeyle çalışma; modele özel"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Tablo tipik aralıkları gösterir. Belirli bir aracın değeri sepet etiketinde ve kullanım kılavuzunda yazar; çelişki olursa etiket geçerlidir."
+  },
+  {
+   "type": "h2",
+   "text": "Kendi işiniz için hesap: üç örnek"
+  },
+  {
+   "type": "h3",
+   "text": "Örnek 1: Tek usta, aydınlatma bakımı"
+  },
+  {
+   "type": "p",
+   "text": "Usta 85 kg, iş kıyafeti ve kemerle 90 kg. Alet çantası 8 kg, yedek armatür 6 kg, kablo ve küçük malzeme 4 kg. Toplam 108 kg. 120 kg'lık sepet yeterli, pay 12 kg. Ama ikinci bir armatür eklenirse pay kapanır; bu durumda malzeme iki seferde çıkarılır."
+  },
+  {
+   "type": "h3",
+   "text": "Örnek 2: İki usta, tabela bağlantısı"
+  },
+  {
+   "type": "p",
+   "text": "Birinci usta 80 kg, ikinci usta 95 kg, kıyafet ve kemerle toplam yaklaşık 185 kg. Matkap, bağlantı elemanları ve alet çantası 15 kg. Toplam 200 kg. 200 kg'lık sepet tam sınırda; 230 kg'lık sepet daha doğru. Tabelanın kendisi sepete alınmayacak, vinçle ayrıca kaldırılacak."
+  },
+  {
+   "type": "h3",
+   "text": "Örnek 3: İki usta ve cam panel"
+  },
+  {
+   "type": "p",
+   "text": "İki usta toplam 180 kg, aletler 15 kg, cam panel 70 kg. Toplam 265 kg. 230 kg'lık sepet yetmez. Ya 300 kg sınıfı bir sepet gerekir ya da cam vinçle veya vakumlu kaldırıcıyla ayrıca getirilir. Ayrıca sepet dışına taşan uzun malzeme rüzgar alır ve dengeyi etkiler; büyük panellerde bu ayrıca değerlendirilir. Cam işleri için <a href=\"/blog/cam-vitrin-ve-cephe-kaplama-montaji\">cam ve cephe kaplama montajı</a> yazısına bakabilirsiniz."
+  },
+  {
+   "type": "h2",
+   "text": "Sepete binmeden önce 30 saniyelik kontrol"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Etiketteki kilogram ve kişi sayısını okudum.",
+    "Sepete binecek herkesin kıyafetli kilosunu topladım.",
+    "Aletleri, yedek parçaları ve malzemeyi tartıya ekledim.",
+    "Toplam, etiketteki değerin altında ve bir miktar pay kalıyor.",
+    "Sepet dışına taşan, rüzgar alacak büyük malzeme yok.",
+    "Herkesin emniyet kemeri sepetteki bağlantı noktasına takılı."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Kapasite ile yükseklik ve erişim ilişkisi"
+  },
+  {
+   "type": "p",
+   "text": "Bazı platformlarda sepet kapasitesi, kolun konumuna göre değişir: kol yana çok uzandığında üretici daha düşük bir sepet yükü belirleyebilir. Bu araçlarda genellikle iki farklı kapasite bölgesi tanımlıdır ve araç, sepet ağırlığını algılayarak erişimi sınırlar. Bu yüzden \"sepet 230 kg, biz 220 kg'ız, sorun yok\" demeden önce, çalışılacak noktada hangi kapasite bölgesinin geçerli olduğunu operatöre sormak gerekir. Devrilme riskini ayrıca <a href=\"/blog/manlift-devrilir-mi-sepetli-platform-devrilme\">sepetli platform devrilir mi</a> yazısında anlattık."
+  },
+  {
+   "type": "h2",
+   "text": "Sepetle malzeme taşımak serbest mi?"
+  },
+  {
+   "type": "p",
+   "text": "Sepet, kişileri ve onların işi için gereken alet ve malzemeyi taşımak için tasarlanmıştır; bir yük asansörü veya vinç kancası gibi kullanılmaz. Sepetin dışına malzeme asılmaz, sepet kenarına yük bağlanmaz. Ağır veya büyük parça varsa ayrıca vinçle kaldırılır, sepetteki usta yalnızca yerleştirir. Yüksekte çalışmanın genel güvenlik kurallarını <a href=\"/blog/yuksekte-calisma-is-guvenligi-kkd-sepetli-platform\">yüksekte çalışma ve KKD</a> yazısında bulabilirsiniz."
+  },
+  {
+   "type": "h2",
+   "text": "Sepette aşırı yük olursa ne olur?"
+  },
+  {
+   "type": "p",
+   "text": "Birçok güncel platformda sepet altında bir yük algılama sistemi bulunur. Sepetteki ağırlık izin verilen değeri aştığında sistem uyarı verir ve sepetin hareketini kısıtlar; çoğu durumda yükseltme ve uzanma durdurulur, sadece güvenli konuma indirme yapılabilir. Bu bir arıza değil, tam olarak olması gereken davranıştır. Sistemi devre dışı bırakmak veya yükü \"biraz\" aşmak kabul edilemez."
+  },
+  {
+   "type": "p",
+   "text": "Eski veya basit modellerde böyle bir sistem olmayabilir. Bu durumda sorumluluk tamamen sahadaki ekibin hesabına kalır. Bu yüzden hangi aracın geleceğini ve sepette yük algılama olup olmadığını önceden sormak yerindedir. Platformun günlük kontrolünde neye bakıldığını <a href=\"/blog/manlift-sepetli-platform-gunluk-kontrol-formu\">sepetli platform günlük kontrol formu</a> yazısında bulabilirsiniz."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Sepetli platform kaç kişi alır?",
+   "a": "Etikette yazan kişi sayısı kadar. Tipik olarak 120 kg'lık sepet bir kişi, 200–230 kg'lık sepet iki kişi içindir; 300 kg sınıfında modele göre iki veya üç kişi olabilir."
+  },
+  {
+   "q": "Sepet kapasitesine aletler dahil mi?",
+   "a": "Evet. Etiketteki kilogram değeri sepetteki her şeyin toplamıdır: kişiler, kıyafet, emniyet kemeri, aletler ve malzeme."
+  },
+  {
+   "q": "Kilo yetiyorsa etiketteki kişi sayısından fazla kişi binebilir mi?",
+   "a": "Hayır. Kişi sayısı ayrı bir sınırdır ve ağırlık kalsa bile aşılmaz."
+  },
+  {
+   "q": "EN 280 standardında bir kişi kaç kilo kabul edilir?",
+   "a": "Hesapta kişi başına 80 kg ve alet-malzeme için en az 40 kg kabul edilir. Sahada gerçek kilolarla hesap yapmak daha güvenlidir."
+  },
+  {
+   "q": "Sepetle cam veya panel taşınabilir mi?",
+   "a": "Toplam ağırlık sepet kapasitesinin içindeyse ve malzeme sepet dışına taşmıyorsa küçük parçalar taşınabilir. Büyük ve ağır parçalar vinçle ayrıca kaldırılmalıdır."
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "slug": "kule-vinc-kurulumu-ve-sokumu-mobil-vinc",
+ "_hedef": "kule vinç kurulumu mobil vinç",
+ "title": "Kule Vinç Kurulumu ve Sökümü İçin Mobil Vinç Seçimi",
+ "ogTitle": "Kule Vinç Kurulumu ve Sökümü: Mobil Vinç Nasıl Seçilir, Saha Nasıl Hazırlanır?",
+ "h1": "Kule Vinç Kurulumu ve Sökümünde Mobil Vinç: Seçim, Hazırlık ve Kontrol Listesi",
+ "desc": "Kule vinç kurulumu ve söküm işinde mobil vinç tonajı en ağır parçaya ve en uzak yarıçapa göre seçilir. Saha hazırlığı, izinler, riskler ve kontrol listesi.",
+ "image": "mobil-vinc-saha-azy-vinc.jpeg",
+ "imageAlt": "Şantiye sahasında ayakları açılmış AZY Vinç mobil vinci",
+ "caption": "Kule vinç montajında mobil vinç, en ağır parçayı en uzak noktaya taşıyabilecek konumda kurulur.",
+ "intro": "Kule vinç kurulumu ve söküm işinde mobil vinci belirleyen şey kule vincin toplam ağırlığı değil, tek seferde kaldırılacak en ağır parçanın (genellikle döner tabla-kabin grubu veya karşı ağırlık blokları) hangi yükseklik ve yarıçapta yerine konacağıdır. Bu yüzden doğru tonaj, kule vinç üreticisinin montaj kılavuzundaki parça listesi ile mobil vincin yük tablosu yan yana konarak bulunur. Aşağıda bu işi sahada nasıl planladığımızı, keşifte hangi soruları sorduğumuzu ve montaj günü neyi kontrol ettiğimizi anlatıyoruz.",
+ "body": [
+  {"type": "h2", "text": "İş tam olarak neyi kapsıyor?"},
+  {"type": "p", "text": "Kule vinç, şantiyeye parçalar halinde tır ile gelir: temel ankrajı veya şasi, kule (mast) segmentleri, döner tabla ve kabin, karşı bom (kontra bom), ana bom (jib) parçaları, araba ve kanca grubu, son olarak karşı ağırlık blokları. Mobil vincin görevi bu parçaları sırasıyla kaldırıp kule vinç montaj ekibinin yerine bağlamasını sağlamaktır. Montajın kendisini, yani pimleri takan, cıvataları sıkan, elektrik ve emniyet sistemlerini bağlayan ekip kule vinç firmasının ya da üreticinin yetkili montaj ekibidir. Biz kaldırma tarafını üstleniriz; iki ekibin aynı plan üzerinde çalışması işin özüdür."},
+  {"type": "p", "text": "Söküm aynı işin tersidir ama genellikle daha zordur. Bina yükselmiş, çevrede iskele, cephe ve komşu yapılar oluşmuştur; mobil vincin kurulabileceği alan daralmıştır. Kule vinç kurulurken boş olan arsa, söküm günü kalıp, malzeme ve araçlarla doludur. Bu nedenle sökümün planını kurulum günü yapmak en doğrusudur: mobil vincin ileride nereye kurulacağı o gün belirlenir ve o alan şantiye boyunca boş tutulur."},
+  {"type": "h2", "text": "Mobil vinç nasıl seçilir: karar kuralı"},
+  {"type": "p", "text": "Kule vinç firmasından üç bilgiyi yazılı isteriz: her parçanın ağırlığı (kaldırma aparatı dahil), parçanın bağlanacağı yükseklik ve kule ekseninin mobil vincin kurulabileceği noktaya yatay mesafesi. Sonra her parça için mobil vincin yük tablosunda o yarıçap ve bom boyunda kapasiteye bakarız. En az kapasite payı kalan parça, aracı belirler. Çoğu zaman bu parça en ağır olan değil, en yüksekte ve en uzakta takılan parçadır; ana bomun uç segmenti veya kule tepesindeki döner tabla grubu gibi."},
+  {"type": "table", "head": ["Parça", "Neden kritik", "Keşifte sorduğumuz"], "rows": [
+   ["Mast (kule) segmentleri", "Sayısı fazla, yükseklik her segmentte artar", "Kaç segment, kurulum yüksekliği kaç metre?"],
+   ["Döner tabla ve kabin grubu", "Genellikle tek parçadaki en ağır yük, en tepeye çıkar", "Grup halinde mi, ayrı ayrı mı kaldırılacak?"],
+   ["Kontra bom", "Uzun ve dengesiz, rüzgar yüzeyi büyük", "Ağırlık merkezi ve bağlama noktaları nerede?"],
+   ["Ana bom (jib)", "Yatay uzunluk fazla, iki noktadan bağlanır", "Yerde mi birleşecek, kaç parça halinde kalkacak?"],
+   ["Karşı ağırlık blokları", "Tek tek ağır, sıralı ve hassas yerleşim", "Blok sayısı ve tek blok ağırlığı?"]
+  ]},
+  {"type": "p", "text": "Yük tablosunun nasıl okunduğunu <a href=\"/blog/vinc-yuk-tablosu-load-chart-nasil-okunur\">load chart rehberimizde</a>, kapasite ile yarıçap ilişkisini de <a href=\"/blog/kac-tonluk-vinc-gerekir\">kaç tonluk vinç gerekir</a> yazımızda ayrıntılı anlattık. Kule vinç işlerinde bu hesabı yazılı bir <a href=\"/blog/vinc-kaldirma-plani-lift-plan-nasil-hazirlanir\">kaldırma planına</a> dökmeden çalışmayız."},
+  {"type": "h2", "text": "Keşifte sorduğumuz sorular"},
+  {"type": "ul", "items": [
+   "Kule vinç marka ve modeli nedir, montaj kılavuzu ve parça ağırlık listesi elinizde var mı?",
+   "Kule sabit temelli mi, raylı ya da şasili mi? Temel betonu ne zaman döküldü, montaja hazır mı?",
+   "Mobil vinç kule eksenine en fazla kaç metre yaklaşabilir? Arada kazı, şev, bodrum perdesi var mı?",
+   "Parçaları getiren tırlar nereye yanaşacak, mobil vincin döndüğü alanla çakışıyor mu?",
+   "Bom dönüş alanında enerji hattı, komşu bina, ağaç veya yol var mı?",
+   "Söküm günü mobil vinç nereye kurulacak, o alan şantiye boyunca boş kalabilecek mi?",
+   "Montaj ekibi kimin, kaç kişi, işaretçi kim olacak?"
+  ]},
+  {"type": "h2", "text": "Zemin ve kurulum yeri"},
+  {"type": "p", "text": "Kule vinç montajında mobil vinç uzun bom ve yüksek yarıçapla çalıştığı için ayak basınçları yüksektir. Ayakların kazı kenarına, yeni dolguya, rögar veya altyapı hattının üstüne gelmemesi gerekir. Şehir içindeki şantiyelerde çoğu zaman mobil vinç yola kurulur; bu durumda belediyeden yol kapatma izni alınır. Ayak yerini ve sedye plakası boyutunu <a href=\"/blog/vinc-ayak-outrigger-zemin-basinci-sedye-plakasi\">zemin basıncı yazımızdaki</a> mantıkla belirleriz. Yol izni için <a href=\"/blog/vinc-calismasi-yol-kapatma-isgaliye-izni\">işgaliye ve yol kapatma</a> yazısına bakabilirsiniz."},
+  {"type": "h2", "text": "İzinler ve belgeler"},
+  {"type": "p", "text": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği'ne göre güvenliği kurulma ve montaj şartlarına bağlı ekipmanlar, kurulduktan sonra ve ilk kez kullanılmadan önce periyodik kontrol yapmaya yetkili kişilerce kontrol edilir; kule vinç gibi sonradan yükseltilen ekipmanlarda bu kontrol yükseltme veya değişiklikten sonra tekrarlanır. Kontrolü kimin yaptıracağını ve takvimini şantiyenin İSG uzmanıyla netleştirin. Mobil vinç tarafında operatör belgesi, periyodik kontrol raporu ve sigorta evrakını işten önce şantiye şefine veririz. Kule vinç tarafında ise montaj ekibinin yetki belgeleri ve üreticinin montaj talimatı sahada bulunmalıdır."},
+  {"type": "h2", "text": "Tipik riskler"},
+  {"type": "ul", "items": [
+   "Rüzgar: Bom ve kontra bom gibi geniş yüzeyli parçalar düşük rüzgarda bile döner. Montaj sabah erken, rüzgarın sakin olduğu saatlerde yapılır; üreticinin montaj için verdiği rüzgar sınırı esas alınır.",
+   "Yanlış ağırlık bilgisi: Parça listesi eski modele aitse veya ek ekipman takılmışsa ağırlık değişir. Belirsiz parçada kapasite payını büyük tutarız.",
+   "Kılavuz halatsız kaldırma: Uzun parçalar mutlaka iki uçtan kılavuz halatla yönlendirilir, kimse yükün altına girmez.",
+   "Sıralama hatası: Karşı ağırlık, ana bom takılmadan konursa kule devrilme yönünde zorlanır. Sıra kılavuza göre yapılır, montaj şefi onaylamadan sonraki parça kalkmaz.",
+   "Sökümde sıkışma: Bina yükseldiği için mobil vinç daha uzak kurulur ve daha büyük tonaj gerekir. Bunu kurulum günü bilmezseniz söküm günü sürpriz yaşarsınız."
+  ]},
+  {"type": "h2", "text": "Montaj günü kontrol listesi"},
+  {"type": "ul", "items": [
+   "Kaldırma planı imzalı, parça sırası ve ağırlıkları herkesin elinde.",
+   "Temel ankraj veya şasi hazır, beton yaşı montaj ekibince onaylandı.",
+   "Mobil vinç ayak yerleri işaretli, sedye plakaları yerinde, alan bariyerle kapatıldı.",
+   "Rüzgar ölçümü yapıldı, iş durdurma sınırı önceden konuşuldu.",
+   "Sapan, ceraskal ve kilitler parça ağırlığına uygun, etiketleri okunuyor.",
+   "Tek işaretçi belirlendi, telsiz kanalı test edildi.",
+   "Tır sırası belirli, parçalar montaj sırasına göre indiriliyor.",
+   "Montaj bitince kule vinç, yetkili kontrol yapılmadan yük kaldırmaya başlamıyor."
+  ]},
+  {"type": "p", "text": "Şanlıurfa merkez ve ilçelerinde kule vinç montajı ve söküm işleri için keşif talebini <a href=\"/bolgeler/sanliurfa-vinc-kiralama\">Şanlıurfa vinç kiralama</a> sayfamızdan ya da <a href=\"/hizmetler\">hizmetler</a> bölümünden iletebilirsiniz. Parça listesini önceden gönderirseniz tonajı keşiften önce kabaca söyleyebiliriz."}
+ ],
+ "faqs": [
+  {"q": "Kule vinç kurulumu için kaç tonluk mobil vinç gerekir?", "a": "Tek cevabı yok. Kule vinç modelinin en ağır ve en yüksekte takılan parçası, mobil vincin kurulabileceği noktadan kule eksenine olan mesafeyle birlikte değerlendirilir. Parça listesi ve saha ölçüsü olmadan söylenen tonaj tahmindir."},
+  {"q": "Kule vinç kurulumu kaç gün sürer?", "a": "Kaldırma kısmı çoğu zaman tek günde biter; ancak kule yüksekliği, parça sayısı, hava ve montaj ekibinin hızı süreyi belirler. Rüzgar nedeniyle işin ertesi güne sarkması olağandır, bunu sözleşmede konuşmak gerekir."},
+  {"q": "Kule vinç söküm maliyeti neden kurulumdan yüksek olabilir?", "a": "Bina yükseldiği ve çevre dolduğu için mobil vinç daha uzağa kurulur. Uzak yarıçapta aynı parçayı kaldırmak için daha büyük vinç gerekir. Söküm yerini kurulum günü planlamak bu farkı azaltır."},
+  {"q": "Kule vincin montajını mobil vinç firması mı yapar?", "a": "Hayır. Mobil vinç firması parçaları kaldırır; pim, cıvata, elektrik ve emniyet bağlantılarını kule vinç firmasının ya da üreticinin yetkili montaj ekibi yapar."},
+  {"q": "Mobil vinç yola kurulacaksa izin gerekir mi?", "a": "Genellikle evet. Yolun ya da kaldırımın kapatılması için ilgili belediyeden izin alınır; trafik düzeni için kolluk ile koordinasyon gerekebilir. Ayrıntılar belediyeye göre değişir."}
+ ]
+}

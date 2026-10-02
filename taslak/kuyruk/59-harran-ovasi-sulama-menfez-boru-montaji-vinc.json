@@ -1,0 +1,165 @@
+{
+ "slug": "harran-ovasi-sulama-menfez-boru-montaji-vinc",
+ "_hedef": "sulama borusu menfez montajı vinç Harran",
+ "title": "Harran Ovası'nda Sulama Borusu ve Menfez Montajında Vinç",
+ "ogTitle": "Harran Ovası'nda Sulama Borusu, Prefabrik Menfez ve Pompa İstasyonu Montajı: Vinç Seçimi ve Saha Planı",
+ "h1": "Harran Ovası'nda Sulama Borusu, Menfez ve Pompa İstasyonu Montajında Vinç",
+ "desc": "Harran Ovası'nda sulama borusu, prefabrik menfez ve pompa istasyonu montajında vinç seçimi, kanal kenarı zemini, sulama takvimi, riskler ve kontrol listesi.",
+ "image": "elektrik-diregi-hiyap-vinc-kis.jpeg",
+ "imageAlt": "Kış koşullarında arazide elektrik direği işinde çalışan hiyap vinç",
+ "caption": "Ovada vinç işinin takvimini çoğu zaman sulama programı belirler.",
+ "intro": "Harran Ovası'ndaki sulama projelerinde büyük çaplı boruların hendeğe indirilmesi, prefabrik menfez ve kutu kesitli elemanların yerleştirilmesi ve pompa istasyonu ekipmanlarının montajı hiyap veya mobil vinçle yapılır; işin en zor kısmı kanal ve hendek kenarındaki yumuşak zemindir. Vinci hendeğin dibine değil, kenardan güvenli mesafeye kurup yükü bomla taşırız. Aşağıda ova işlerinde sahada neye baktığımızı, hangi makineyi neden seçtiğimizi anlatıyoruz.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "Ovanın koşulları"
+  },
+  {
+   "type": "p",
+   "text": "Harran Ovası, GAP kapsamında Atatürk Barajı'ndan Şanlıurfa Tünelleri ile getirilen suyla sulanan geniş bir tarım alanıdır. Ana ve yedek kanallar, kanaletler, sulama birliklerinin işlettiği şebekeler ve son yıllarda yaygınlaşan basınçlı (borulu) sulama sistemleri ovada sürekli bir bakım, yenileme ve yeni yapım işi doğuruyor. Bu işlerin çoğu Harran, Akçakale ve Eyyübiye arazilerinde, yolu toprak, zemini killi ve sulamayla kolayca yumuşayan sahalarda yapılıyor. Genel olarak ova işlerimizi <a href=\"/bolgeler/harran-vinc-kiralama\">Harran</a> ve <a href=\"/bolgeler/akcakale-vinc-kiralama\">Akçakale</a> sayfalarımızda anlattık."
+  },
+  {
+   "type": "h2",
+   "text": "Hangi iş, hangi makine?"
+  },
+  {
+   "type": "table",
+   "head": [
+    "İş",
+    "Tipik makine",
+    "Belirleyici"
+   ],
+   "rows": [
+    [
+     "Büyük çaplı boru (beton, CTP, çelik, HDPE) hendeğe indirme",
+     "Hiyap veya mobil vinç; uzun hatlarda paletli ekskavatörle birlikte",
+     "Boru boyu ve hendek kenarına mesafe"
+    ],
+    [
+     "Prefabrik menfez, kutu kesit, kanalet elemanı",
+     "Mobil vinç",
+     "Tek eleman ağırlığı ve kanal karşı kıyısına uzanma"
+    ],
+    [
+     "Pompa istasyonu: pompa, motor, vana, kollektör",
+     "Hiyap veya mobil vinç; bina içinde kren yoksa",
+     "Çatı açıklığı veya kapı, iç yerleşim"
+    ],
+    [
+     "Trafo ve pano",
+     "Hiyap",
+     "Enerji hattı mesafesi"
+    ],
+    [
+     "Kanal kapakları, savak elemanları",
+     "Hiyap",
+     "Kanal kenarı zemini"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Tarla tipi pompa ve tarım makinesi işlerini <a href=\"/blog/tarim-makinesi-sulama-pompasi-vinc\">sulama pompası yazımızda</a>, büyük su yapılarındaki kapak ve ekipman işlerini <a href=\"/blog/baraj-ve-su-yapilarinda-vinc\">baraj ve su yapıları</a> yazısında ele aldık. Bu yazı, ovadaki şebeke ve sanat yapısı montajına odaklanıyor."
+  },
+  {
+   "type": "h2",
+   "text": "Hendek ve kanal kenarında kurulum: karar kuralı"
+  },
+  {
+   "type": "p",
+   "text": "Hendek veya kanal şevine yakın kurulan vincin ayağı, şevin kaymasına ya da kenarın çökmesine yol açabilir. Kendi pratiğimizde kullandığımız basit kural şu: vinç ayağı ile hendek kenarı arasındaki mesafe en az hendek derinliği kadar olmalı, zemin ıslak veya dolguysa bu mesafeyi daha da artırırız. Bu kesin bir mühendislik hesabı değildir; derin kazılarda ve şüpheli zeminde şantiye mühendisinin veya zemin raporunun söylediği geçerlidir. Mesafe arttıkça yarıçap büyür ve vinç tonajı yükselir; bu yüzden ova işlerinde küçük bir eleman için bile beklenenden büyük bir vinç gelebilir. Ayak basıncı ve sedye plakası için <a href=\"/blog/vinc-ayak-outrigger-zemin-basinci-sedye-plakasi\">bu yazıya</a> bakabilirsiniz."
+  },
+  {
+   "type": "h2",
+   "text": "Sulama takvimi ve hava"
+  },
+  {
+   "type": "p",
+   "text": "Ovada iş planını çoğu zaman sulama programı belirler. Yan parselin sulandığı gün tarla yolları ve hendek kenarı çamura döner; ağır araç saplanır, ayak zemine gömülür. Yeni yapım işleri genellikle kanallara su verilmediği dönemlere sıkıştırılır; bu dönemde ovada vinç talebi de yoğunlaşır. İşverenden sulama birliğinin veya DSİ'nin su verme takvimini öğrenmesini ve vinci buna göre rezerve etmesini isteriz. Sezonluk yoğunluk için <a href=\"/blog/sezonluk-vinc-talebi-ve-rezervasyon\">rezervasyon yazımıza</a> bakabilirsiniz. Yaz aylarında ise sıcak nedeniyle işi sabah erken saatlere çekiyoruz."
+  },
+  {
+   "type": "h2",
+   "text": "Keşifte sorduğumuz sorular"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Proje kimin: DSİ, sulama birliği, belediye mi, özel işletme mi? Yüklenici ve şantiye şefi kim?",
+    "Boru veya prefabrik elemanın tipi, boyu ve tek parça ağırlığı nedir?",
+    "Hendek derinliği ve genişliği ne kadar, iksa var mı?",
+    "Vinç hendeğin hangi tarafına kurulacak, karşı tarafa uzanmak gerekiyor mu?",
+    "Sahaya ulaşım yolu ağır araç taşır mı? Yağmur veya sulama sonrası durum nasıl?",
+    "Saha üzerinden veya yanından orta gerilim hattı geçiyor mu?",
+    "Bir günde kaç eleman yerleştirilecek, malzeme sahaya hangi sırayla gelecek?"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Günlük verimi artırmak"
+  },
+  {
+   "type": "p",
+   "text": "Hat boyunca boru veya menfez elemanı yerleştiren bir işte vinç sürekli yer değiştirir. Her yer değiştirmede ayaklar toplanır, araç ilerler, ayaklar tekrar açılır ve plakalar yerleştirilir. Bu döngünün sayısını azaltmak, günlük verimi en çok etkileyen şeydir. Bunun için malzemeyi hat boyunca, vincin bir kurulumda erişebileceği mesafe içinde gruplar halinde dizdirmeyi öneriyoruz. Vinç bir noktada hem sağına hem soluna belirli bir yarıçapta ulaşabiliyorsa, o aralıktaki tüm elemanlar o kurulumda yerleştirilir. Bu dizilim yapılmazsa vinç her eleman için ayrı kurulum yapar ve iş yavaşlar."
+  },
+  {
+   "type": "p",
+   "text": "Saatlik ve günlük kiralama arasındaki farkı <a href=\"/blog/saatlik-gunluk-aylik-vinc-kiralama\">bu yazıda</a> anlattık; hat işlerinde çoğu zaman günlük veya haftalık kiralama daha ekonomik olur. Malzemenin sahaya geliş sırası da önemlidir: tırlar montaj sırasına göre yüklenirse vinç aynı gün hem boşaltma hem yerleştirme yapabilir."
+  },
+  {
+   "type": "h2",
+   "text": "Tipik riskler"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Hendek kenarının çökmesi ve vincin yana yatması.",
+    "Hendek içinde çalışan personelin yükün altında kalması; eleman inerken hendekte kimse olmamalı.",
+    "Ovadaki enerji hatları: Tarlaların üzerinden geçen hatlara bom yaklaşması en ciddi risklerden biridir. Ayrıntı için <a href=\"/blog/vinc-elektrik-hattina-yaklasma-guvenlik-mesafesi\">güvenlik mesafesi</a> yazımızı okuyun.",
+    "Uzun boruların rüzgarda dönmesi; kılavuz halat ve iki noktadan bağlama şart.",
+    "Saplanma: Çamura gömülen aracı çıkarmak, işin kendisinden uzun sürebilir."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Kontrol listesi"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Sulama takvimi öğrenildi, saha kuru.",
+    "Ulaşım yolu ağır araca uygun, gerekirse stabilize edildi.",
+    "Vinç ayakları hendek kenarından güvenli mesafede, sedye plakaları altında.",
+    "Eleman ağırlıkları yazılı, kaldırma aparatları uygun.",
+    "Hendekteki ekip eleman inerken dışarıda, tek işaretçi belirli.",
+    "Enerji hatları işaretlendi, bom dönüş alanı sınırlandı.",
+    "Malzeme montaj sırasına göre dizildi; vinç gereksiz yer değiştirmiyor."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Sulama borusu hendeğe vinçle mi indirilir?",
+   "a": "Büyük çaplı ve ağır borular genellikle hiyap veya mobil vinçle, bazen ekskavatörle birlikte indirilir. Küçük çaplı ve hafif borularda vinç gerekmeyebilir."
+  },
+  {
+   "q": "Prefabrik menfez için kaç tonluk vinç gerekir?",
+   "a": "Tek elemanın ağırlığı ile vincin hendek kenarından uzak kurulma zorunluluğu birlikte belirler. Yarıçap büyüdükçe tonaj artar; eleman ağırlığını ve hendek ölçüsünü göndermeniz gerekir."
+  },
+  {
+   "q": "Yağmurdan sonra ovada vinç çalışabilir mi?",
+   "a": "Çoğu zaman zemin kuruyana kadar çalışmayız. Killi ova toprağı ıslandığında hem ulaşım hem ayak güvenliği riskli hale gelir."
+  },
+  {
+   "q": "Pompa istasyonuna pompa ve motor montajı yapıyor musunuz?",
+   "a": "Evet. Bina içinde kren yoksa ekipmanı çatı açıklığından veya kapıdan vinçle içeri alıyoruz. İç yerleşim ve bağlantıyı montaj ekibi yapar."
+  },
+  {
+   "q": "Harran dışında ova işi yapıyor musunuz?",
+   "a": "Evet, Akçakale, Eyyübiye, Viranşehir ve Ceylanpınar ovalarında da benzer sulama ve altyapı işlerinde çalışıyoruz."
+  },
+  {
+   "q": "Sulama projesinde vinç günlük mü, sefer başına mı kiralanır?",
+   "a": "Tek bir pompa veya trafo indirmesi gibi kısa işlerde sefer veya saat bazında çalışılır. Hat boyunca çok sayıda boru ya da menfez elemanı yerleştirilecekse günlük, haftalık ya da aylık kiralama genellikle daha ekonomiktir. Seçim, günlük eleman sayısına ve malzemenin sahaya geliş düzenine bağlıdır; bunu keşifte birlikte netleştiririz."
+  }
+ ]
+}

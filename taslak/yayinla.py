@@ -4,6 +4,8 @@
     python taslak/yayinla.py          -> siradaki 1 taslagi yayinlar
     python taslak/yayinla.py 2        -> siradaki 2 taslagi yayinlar
     python taslak/yayinla.py --list   -> bekleyenleri listeler
+    python taslak/yayinla.py --gunluk -> bugun hic yayin yoksa 1 taslak yayinlar
+                                         (GitHub Actions her gun bunu calistirir)
 
 Repo kokunden calistirin. Tarih her zaman bugundur; ileri tarihli yazi olusmaz.
 Her yazi: blog/<slug>.html uretilir, blog listesine, sitemap.xml'e ve
@@ -17,6 +19,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from azy_mk import build, read, write, BASE, TR  # noqa: E402
 
 KUYRUK = "taslak/kuyruk"
+GUNLUK = "taslak/yayin-gunlugu.txt"
 
 arg = sys.argv[1] if len(sys.argv) > 1 else "1"
 files = sorted(glob.glob(KUYRUK + "/*.json"))
@@ -28,12 +31,19 @@ if arg == "--list":
         print("  %s  (hedef: %s)" % (os.path.basename(f)[:-5], d.get("_hedef", "")))
     sys.exit(0)
 
+today = datetime.date.today()
+iso = today.isoformat()
+
+if arg == "--gunluk":
+    gecmis = open(GUNLUK, encoding="utf-8").read().split() if os.path.exists(GUNLUK) else []
+    if iso in gecmis:
+        print("Bugun zaten yayin yapildi."); sys.exit(0)
+    arg = "1"
+
 n = int(arg)
 if not files:
     print("Bekleyen taslak yok."); sys.exit(0)
 
-today = datetime.date.today()
-iso = today.isoformat()
 trd = "%d %s %d" % (today.day, TR[today.month], today.year)
 
 bi, sm, lt = read("blog/index.html"), read("sitemap.xml"), read("llms.txt")
@@ -63,6 +73,8 @@ for f in files[:n]:
                         % (BASE, s, iso), 1)
     lt = lt.rstrip() + "\n- [%s](%s/blog/%s): %s\n" % (p["h1"], BASE, s, p["desc"])
     os.remove(f)
+    with open(GUNLUK, "a", encoding="utf-8", newline="\n") as g:
+        g.write("%s %s\n" % (iso, s))
     print("  yayinlandi  %s  (%s, %d kelime)" % (s, iso, words))
 
 write("blog/index.html", bi); write("sitemap.xml", sm); write("llms.txt", lt)

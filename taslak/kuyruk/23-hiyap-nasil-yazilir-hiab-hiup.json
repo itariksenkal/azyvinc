@@ -1,0 +1,57 @@
+{
+ "slug": "hiyap-nasil-yazilir-hiab-hiup",
+ "_hedef": "hiyap nasıl yazılır / hiyap vinç nasıl yazılır / hiup / hi up vinç",
+ "title": "Hiyap Nasıl Yazılır? Hiab, Hiyab, Hiup Farkı",
+ "ogTitle": "Hiyap nasıl yazılır? Hiab, hiyab, hiup ve hi up vinç yazımlarının kökeni ve doğru kullanım",
+ "h1": "Hiyap nasıl yazılır: hiab mı, hiyab mı, hiup mu?",
+ "desc": "Hiyap nasıl yazılır? Kelime İsveçli HIAB markasından gelir; hiyap, hiyab, hiup ve hi up aynı vinci anlatır. Teknik adı ve doğru kullanım bu yazıda.",
+ "image": "avm-magaza-tabela-hiyap-vinc.jpeg",
+ "imageAlt": "Kamyon üstüne monte hiyap vinç ile AVM önünde mağaza tabelası montajı",
+ "caption": "Adı nasıl yazılırsa yazılsın, iş aynı: kamyon üstü katlanır bomlu vinç.",
+ "intro": "Hiyap kelimesinin tek bir resmî yazımı yoktur; kökeni İsveçli <strong>HIAB</strong> markasıdır ve Türkçede söylendiği gibi \"hiyap\" diye yazılması yerleşmiştir. Hiyab, hiab, hiup ve hi up yazımlarının hepsi aynı makineyi, yani kamyonun üzerine monte edilmiş katlanır bomlu vinci anlatır. Telefonla iş alırken bu yazımların hepsini duyuyoruz; bu yazıda hangisinin nereden geldiğini, resmî bir metinde ne yazmanız gerektiğini ve kısaca makinenin ne olduğunu anlatıyoruz.",
+ "body": [
+  {"type": "h2", "text": "Kelime nereden geliyor?"},
+  {"type": "p", "text": "HIAB, İsveç'te 1944 yılında kurulan <strong>Hydrauliska Industri AB</strong> şirketinin kısaltmasıdır. Şirket, kamyon motorunun gücünü hidrolikle vince aktaran sistemi geliştirmiş ve 1947'de kamyon üstü hidrolik vinci seri üretime almıştır. Ürün o kadar yaygınlaştı ki birçok ülkede marka adı makinenin genel adına dönüştü. Bizde de durum, kâğıt mendile \"selpak\" denmesine benzer: sahada kimse \"araç üstü katlanır bomlu vinç\" demez, \"hiyap çağıralım\" der."},
+  {"type": "p", "text": "Marka adı İngilizce okunuşla \"hayab\" değil, İsveççeye yakın biçimde \"hi-ab\" diye söylendi. Türkçede iki sesli harf arasına y kaynaştırma sesi girdi, sondaki b de yumuşamadan \"p\" ile söylenmeye başlandı. Hiyap yazımı buradan doğdu."},
+  {"type": "h2", "text": "Hangi yazım ne anlama geliyor?"},
+  {"type": "table", "head": ["Yazım", "Kökeni", "Nerede karşınıza çıkar"], "rows": [
+   ["HIAB / Hiab", "Markanın kendi adı", "Vincin üzerindeki etiket, katalog, marka bayisi"],
+   ["Hiyap", "Türkçe söyleniş, sonda p", "Sahada ve aramalarda en yaygın yazım"],
+   ["Hiyab", "Söylenişe y eklenmiş, b korunmuş", "İlanlar ve sosyal medya"],
+   ["Hiup", "Kulaktan yazım, ab sesinin up diye duyulması", "Bazı firma sitelerinde ve ilanlarda"],
+   ["Hi up / hi-up", "İngilizce \"high up\" (yukarı) sanılarak ayrı yazılması", "Arama motorunda, mesajlaşmada"],
+   ["Araç üstü vinç, kamyon üstü vinç, katlanır bomlu vinç", "Teknik ve resmî karşılık", "Teklif, sözleşme, şartname, ruhsat ve periyodik kontrol raporu"]
+  ]},
+  {"type": "p", "text": "\"Hi up\" yazımı ilginçtir: makine yükü yukarı kaldırdığı için insanlar adı İngilizce \"high up\" sözünden geliyor sanıyor. Böyle bir köken yok; ses benzerliğinden doğan bir halk etimolojisi. Yine de arayan kişinin ne istediği bellidir ve biz de \"hiup lazım\" diyen müşteriye düzeltme yapmadan aynı aracı göndeririz."},
+  {"type": "h2", "text": "Resmî yazıda hangisini kullanmalı?"},
+  {"type": "p", "text": "Günlük konuşmada hepsi doğru kabul edilir. Ancak yazının bir hukuki ya da teknik karşılığı olacaksa marka adını değil makinenin cinsini yazmak gerekir. Bunun basit bir nedeni var: hiyap dediğiniz araç başka bir marka da olabilir. Sahada çalışan katlanır bomlu vinçlerin bir kısmı HIAB, bir kısmı başka yerli ve yabancı markalardır."},
+  {"type": "ul", "items": [
+   "<strong>Teklif ve sözleşme:</strong> \"araç üstü katlanır bomlu vinç (hiyap), operatörlü\" gibi hem teknik adı hem yerleşik adı birlikte yazın.",
+   "<strong>Şartname ve hakediş:</strong> kapasiteyi ton-metre ya da belirli mesafede kaldırma değeriyle tanımlayın; \"hiyap\" kelimesi tek başına kapasite bilgisi vermez.",
+   "<strong>Periyodik kontrol raporu ve iş güvenliği dosyası:</strong> bu belgelerde araç genellikle teknik adıyla, marka ve modeliyle geçer. Raporla sahaya gelen aracı karşılaştırırken plaka ve vinç seri numarasına bakın.",
+   "<strong>İlan ve web sayfası:</strong> insanlar farklı yazımlarla aradığı için metinde \"hiyap (hiab)\" gibi bir parantez kullanmak okuyanı yormadan herkese ulaşır."
+  ]},
+  {"type": "p", "text": "Belediye ya da kamu ihalesinde iş tanımı yazıyorsanız marka adını kullanmamaya özellikle dikkat edin; teknik şartnamelerde belirli bir markayı işaret etmek rekabeti kısıtladığı gerekçesiyle sorun çıkarabilir. Bu konuda <a href=\"/blog/belediye-kamu-ihalesi-vinc-hizmet-alimi\">kamu ihalesinde vinç hizmet alımı</a> ve <a href=\"/blog/vinc-kiralama-teknik-sartnamesi-ornegi\">teknik şartname örneği</a> yazılarımız yardımcı olur."},
+  {"type": "h3", "text": "Hiyapçı, hiyap şoförü, hiyap operatörü"},
+  {"type": "p", "text": "Kelime makinenin adı olunca etrafında başka kelimeler de türedi. Sahada \"hiyapçı\" denince genellikle aracı kullanan ve vinci çalıştıran kişi kastedilir. Burada küçük ama önemli bir ayrım var: aracı yolda sürmek için kamyonun sınıfına uygun sürücü belgesi, vinci çalıştırmak için ise ayrıca operatörlük eğitimi ve belgesi gerekir. Bu konuyu <a href=\"/blog/vinc-ehliyeti-operator-belgesi-nasil-alinir\">vinç ehliyeti ve operatör belgesi</a> yazımızda anlattık."},
+  {"type": "h2", "text": "Kısaca hiyap nedir?"},
+  {"type": "p", "text": "Hiyap, kamyonun kabini ile kasası arasına (bazen kasanın arkasına) monte edilen, eklem yerlerinden katlanan bomlu bir vinçtir. Kendi kasasında yük taşıyabildiği için yükü bir yerden alıp başka bir yere götürür ve oraya indirir; ayrıca bir nakliye aracına gerek kalmaz. Bom kullanılmadığında katlanıp kabinin arkasına toplanır, bu yüzden araç trafikte normal bir kamyon gibi hareket eder."},
+  {"type": "p", "text": "Kaldırma kapasitesi bomun ne kadar açıldığına bağlıdır; araca yakın yükte katalog değerine yaklaşılır, bom uzadıkça kapasite hızla düşer. Hangi işlerde kullanıldığı, kaç ton kaldırdığı ve kiralama ücretini neyin belirlediği <a href=\"/blog/hiyap-nedir-kac-ton-kaldirir-kiralama\">hiyap nedir, kaç ton kaldırır</a> yazımızda ayrıntılı anlatılıyor. Mobil vinçle arasında kararsızsanız <a href=\"/blog/hiyap-arac-ustu-vinc-mi-mobil-vinc-mi\">hiyap mı mobil vinç mi</a> karşılaştırmasına bakın."},
+  {"type": "h2", "text": "Telefonda doğru hiyabı istemek için ne söylemeli?"},
+  {"type": "p", "text": "Kelimeyi nasıl yazdığınız önemli değil; doğru aracın gelmesini sağlayan şey yük bilgisidir. Bize ya da başka bir firmaya ararken şu dört bilgiyi hazır tutarsanız konuşma iki dakikada biter:"},
+  {"type": "ul", "items": [
+   "Yükün yaklaşık ağırlığı ve ölçüsü (totem, jeneratör, palet, konteyner gibi)",
+   "Aracın yanaşabileceği en yakın nokta ile yükün konacağı nokta arasındaki yatay mesafe",
+   "Yükün kaldırılacağı yükseklik (zemin, çatı, kat)",
+   "Yük sizde mi duruyor, yoksa hiyap bir yerden alıp mı getirecek"
+  ]},
+  {"type": "p", "text": "Bu dört bilgiyle hangi büyüklükte araç gerektiğini söyleyebiliriz. AZY Vinç olarak Şanlıurfa merkez ve ilçelerinde, ayrıca Diyarbakır, Mardin, Gaziantep, Adıyaman ve Kilis'te operatörlü hiyap ile çalışıyoruz; hizmet bölgelerinin tamamı için <a href=\"/bolgeler/sanliurfa-vinc-kiralama\">Şanlıurfa vinç kiralama</a> sayfamıza bakabilirsiniz."}
+ ],
+ "faqs": [
+  {"q": "Hiyap nasıl yazılır, doğrusu hangisi?", "a": "Tek bir resmî yazım yok. Kelime İsveçli HIAB markasından gelir ve Türkçede söylendiği gibi \"hiyap\" yazımı en yaygın olanıdır. Resmî bir belgede \"araç üstü katlanır bomlu vinç\" yazıp parantez içinde hiyap demek en güvenli yoldur."},
+  {"q": "Hiup ile hiyap aynı şey mi?", "a": "Evet. Hiup, HIAB adının kulaktan yazılmış hâlidir. Hiab, hiyab, hiyap, hiup ve hi up yazımlarının hepsi kamyon üstü katlanır bomlu vinci anlatır."},
+  {"q": "Hi up vinç İngilizce bir kelime mi?", "a": "Hayır. Makine yukarı kaldırdığı için \"high up\" sözünden geldiği sanılır, ama asıl kaynağı Hydrauliska Industri AB şirketinin kısaltması olan HIAB'dır."},
+  {"q": "Her hiyap HIAB marka mıdır?", "a": "Hayır. Hiyap artık bir makine türünün genel adı gibi kullanılıyor; sahada çalışan katlanır bomlu vinçlerin farklı markaları var. Marka ve modeli aracın vinç etiketinden ve periyodik kontrol raporundan görebilirsiniz."},
+  {"q": "Sözleşmeye hiyap yazmak sorun olur mu?", "a": "Sorun olmaz, ama tek başına yetmez. Kapasiteyi, çalışma mesafesini ve operatörlü olup olmadığını da yazın; \"hiyap\" kelimesi aracın büyüklüğü hakkında bilgi vermez."}
+ ]
+}

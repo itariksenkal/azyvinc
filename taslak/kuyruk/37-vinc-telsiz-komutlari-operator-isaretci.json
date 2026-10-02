@@ -1,0 +1,211 @@
+{
+ "slug": "vinc-telsiz-komutlari-operator-isaretci",
+ "_hedef": "vinç komutları / vinç telsiz komutları",
+ "title": "Vinç Komutları: Telsizde Operatör ve İşaretçi Dili",
+ "ogTitle": "Vinç komutları: operatör ile işaretçi arasında telsizde kullanılacak standart ifadeler, mesafe sayımı ve iletişim kopunca yapılacaklar",
+ "h1": "Vinç komutları: telsizde operatör ile işaretçi nasıl konuşur?",
+ "desc": "Vinç komutları telsizde kısa, tek anlamlı ve tekrar edilerek verilir. Standart ifadeler tablosu, mesafe sayımı, kanal kontrolü ve iletişim kopunca yapılacaklar.",
+ "image": "piazza-avm-sanliurfa-cephe-tabela-sepetli-vinc.jpeg",
+ "imageAlt": "Şanlıurfa'da AVM cephesinde tabela montajı yapan sepetli vinç",
+ "caption": "Operatör yükü göremiyorsa, işaretçinin sesi onun gözü olur.",
+ "intro": "Telsizde vinç komutu üç parçadan oluşur: kime (çağrı adı), ne yapılacağı (tek fiil: kaldır, indir, döndür, dur) ve ne kadar (metre ya da santim). Her komut kısa tutulur, hareket boyunca işaretçi konuşmaya devam eder ve telsiz sustuğu anda operatör durur. El işaretlerini ve işaretçinin nerede duracağını <a href=\"/blog/vinc-el-isaretleri-isaretci-rehberi\">vinç el işaretleri rehberimizde</a> anlattık; bu yazı, operatörün yükü göremediği işlerde telsizde kullanılacak dili ve protokolü sahada kullandığımız biçimiyle veriyor.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "Ne zaman telsize geçilir?"
+  },
+  {
+   "type": "p",
+   "text": "El işaretleri, işaretçi ile operatör birbirini net gördüğünde en güvenilir yöntemdir. Telsize şu durumlarda geçiyoruz:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Yük bina arkasına, çatıya, avluya ya da çukura indiriliyorsa ve operatör iniş noktasını göremiyorsa,",
+    "İşaretçi ile operatör arasındaki mesafe el işaretlerinin güvenle okunamayacağı kadar uzunsa,",
+    "Gece çalışmasında veya güneşin operatörün gözüne geldiği saatlerde,",
+    "Bağlama noktası ile iniş noktasında iki ayrı işaretçinin görev yaptığı işlerde."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Telsiz, el işaretinin yerine geçmez; tamamlar. Görüş varsa işaretçi el işaretini de sürdürür."
+  },
+  {
+   "type": "h2",
+   "text": "İşe başlamadan önce: telsiz kontrolü"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<strong>Kanal:</strong> işe özel bir kanal seçin. Aynı şantiyede başka ekipler varsa onların kanalını kullanmayın.",
+    "<strong>Çağrı adları:</strong> \"Vinç\", \"Yukarı\", \"Aşağı\" gibi kısa ve birbirine benzemeyen adlar belirleyin. İki işaretçi varsa birine \"Çatı\", diğerine \"Zemin\" demek karışıklığı önler.",
+    "<strong>Test:</strong> operatör ve işaretçi birbirini en uç çalışma noktasından duyuyor mu? Bina içine giren işaretçinin sesi kesiliyor mu?",
+    "<strong>Pil:</strong> yedek pil veya şarjlı ikinci telsiz sahada hazır mı?",
+    "<strong>Komut sahibi:</strong> telsizden komut verecek tek kişinin adı ekibe söylendi mi?"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Standart komut ifadeleri"
+  },
+  {
+   "type": "p",
+   "text": "Aşağıdaki ifadeleri ekiplerimizde kullanıyoruz. Önemli olan bu kelimelerin kendisi değil, işe başlamadan önce ekipçe aynı kelimelerde anlaşmaktır. Toplantıda bu tabloyu bir kez okumak yeterlidir."
+  },
+  {
+   "type": "table",
+   "head": [
+    "Komut",
+    "Anlamı",
+    "Operatörün cevabı"
+   ],
+   "rows": [
+    [
+     "Vinç, kaldır",
+     "Kancayı yavaşça yukarı al",
+     "Kaldırıyorum"
+    ],
+    [
+     "Vinç, indir",
+     "Kancayı yavaşça aşağı ver",
+     "İndiriyorum"
+    ],
+    [
+     "Bom kaldır / bom indir",
+     "Bom açısını değiştir, kanca yüksekliği değişebilir",
+     "Bom kaldırıyorum / bom indiriyorum"
+    ],
+    [
+     "Bom uzat / bom kısalt",
+     "Teleskopik bomu aç veya topla",
+     "Uzatıyorum / kısaltıyorum"
+    ],
+    [
+     "Sağa döndür / sola döndür",
+     "Operatöre göre sağ ve sol; yön işaretçiye göre değil operatörün oturduğu yere göre",
+     "Sağa / sola dönüyorum"
+    ],
+    [
+     "Yavaş",
+     "Hızı en aza indir, harekete devam",
+     "Yavaş"
+    ],
+    [
+     "Dur",
+     "Tüm hareketleri durdur",
+     "Durdum"
+    ],
+    [
+     "Acil dur",
+     "Tüm hareketleri derhal durdur, ikinci komut gelene kadar hiçbir kola dokunma",
+     "Acil durdum"
+    ],
+    [
+     "Yük yerde, gevşet",
+     "Yük oturdu, halatı hafifçe boşalt",
+     "Gevşetiyorum"
+    ],
+    [
+     "İş bitti",
+     "Bu kaldırma tamamlandı",
+     "Anlaşıldı, iş bitti"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "\"Sağ\" ve \"sol\" en çok karışan komutlardır. İşaretçi binanın arkasında, operatöre bakan tarafta duruyorsa onun sağı operatörün soludur. Bu yüzden bazı ekipler sağ ve sol yerine sabit referanslar kullanır: \"binaya doğru döndür\", \"yola doğru döndür\". İşe başlamadan bu referansları belirlemek sağ-sol karışıklığını tamamen ortadan kaldırır."
+  },
+  {
+   "type": "h2",
+   "text": "Mesafe sayımı: hareket boyunca konuşmak"
+  },
+  {
+   "type": "p",
+   "text": "Telsizde en güvenli yöntem sürekli konuşmadır. İşaretçi hareket boyunca kalan mesafeyi sayar, operatör de hızını buna göre ayarlar. Örnek bir indirme:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "\"Vinç, indir. Beş metre... dört... üç... yavaş... iki metre... bir metre... elli santim... yirmi... on... dur.\"",
+    "Operatör: \"Durdum.\"",
+    "\"Yük yerde, gevşet.\" Operatör: \"Gevşetiyorum.\"",
+    "\"Sapanlar boş, kancayı kaldır, bir metre... dur. İş bitti.\""
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Burada iki kural var. Birincisi, mesafe somut söylenir: \"azıcık\", \"biraz daha\", \"hafif\" gibi ölçüsüz kelimeler telsizde kullanılmaz. İkincisi, işaretçi her iki üç saniyede bir konuşur; uzun bir sessizlik, operatör için durma sinyalidir."
+  },
+  {
+   "type": "h2",
+   "text": "Teyit kuralı: komutu tekrar etmek"
+  },
+  {
+   "type": "p",
+   "text": "Operatör her yeni komutu kısaca tekrar eder. Bu, gereksiz bir formalite gibi görünse de rüzgârlı ya da gürültülü bir sahada \"kaldır\" ile \"kaldırma\" arasındaki farkı yakalar. İşaretçi tekrar edilen komutun yanlış olduğunu duyarsa hemen \"dur\" der ve komutu yeniden verir. Mesafe sayımı sırasında her sayıyı tekrar etmek gerekmez; yeni bir hareket başladığında tekrar yeterlidir."
+  },
+  {
+   "type": "h2",
+   "text": "İletişim koparsa"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Operatör hareketi durdurur ve kolları nötrde tutar.",
+    "Yük havadaysa ve güvenli bir konumdaysa olduğu yerde bekletilir; kör bir noktaya indirmeye çalışılmaz.",
+    "Operatör korna ile ya da önceden belirlenen bir işaretle sahayı uyarır.",
+    "İletişim yeniden kurulduğunda işaretçi önce yükün durumunu söyler, sonra yeni komutu verir; kesintiden önceki komut kendiliğinden devam etmez."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Komut devri: iki işaretçili işler"
+  },
+  {
+   "type": "p",
+   "text": "Yük bir işaretçinin görüşünden çıkıp diğerinin görüşüne girdiğinde komutun el değiştirmesi açık bir cümleyle yapılır. Zemindeki işaretçi \"Vinç, komut Çatı'da\" der, çatıdaki işaretçi \"Komut bende\" diye cevap verir, operatör \"Çatı'dan alıyorum\" diye teyit eder. Bu üç cümle duyulmadan operatör yeni işaretçinin komutuyla hareket etmez. Devirden sonra ilk işaretçi susar; yalnızca dur komutu verme hakkını korur."
+  },
+  {
+   "type": "h2",
+   "text": "Sık yapılan telsiz hataları"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Telsize birden fazla kişinin komut vermesi. \"Dur\" dışındaki komutları yalnızca belirlenen işaretçi verir; dur komutunu ise sahadaki herkes verebilir.",
+    "Telsizi bas-konuş tuşu basılı unutulmuş biçimde cebe koymak; kanal kilitlenir, kimse konuşamaz.",
+    "Telefonla konuşarak komut vermek. Hat gecikmesi ve kopmalar nedeniyle telefon bir telsiz yerine kullanılmamalıdır.",
+    "Komutla birlikte açıklama yapmak: \"şimdi şu tarafa biraz alalım çünkü...\" gibi uzun cümleler komutu boğar.",
+    "Kanalı sohbet için kullanmak. Kaldırma sürerken kanalda yalnızca komut ve teyit duyulmalı; malzeme siparişi, mola ya da başka işler için ikinci bir kanal veya telefon kullanılmalıdır."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Telsiz protokolü, kaldırma öncesi kısa toplantıda konuşulması gereken başlıklardan biridir. Kaldırmanın genel planlaması için <a href=\"/blog/vinc-kaldirma-plani-lift-plan-nasil-hazirlanir\">kaldırma planı nasıl hazırlanır</a>, gece çalışmaları için <a href=\"/blog/gece-vinc-calismasi-yaz-sicagi-vardiya\">gece vinç çalışması</a> yazılarımıza bakabilirsiniz. AZY Vinç olarak Şanlıurfa ve çevre illerde kör noktalı işlere telsiz setiyle gidiyor, protokolü işe başlamadan ekiple birlikte gözden geçiriyoruz."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Vinç komutları nelerdir?",
+   "a": "Temel komutlar kaldır, indir, bom kaldır, bom indir, bom uzat, bom kısalt, sağa veya sola döndür, yavaş, dur ve acil dur'dur. Telsizde komut çağrı adı, fiil ve mesafe ile verilir."
+  },
+  {
+   "q": "Telsizde operatör komutu tekrar etmeli mi?",
+   "a": "Evet. Operatör her yeni komutu kısaca tekrar eder; böylece yanlış anlaşılan komut hareket başlamadan yakalanır."
+  },
+  {
+   "q": "Telsiz koparsa operatör ne yapar?",
+   "a": "Hareketi durdurur, kolları nötrde tutar ve iletişim yeniden kurulana kadar bekler. Sessizlik devam etme izni değil, durma emridir."
+  },
+  {
+   "q": "Telsizde sağ ve sol karışıklığı nasıl önlenir?",
+   "a": "Yön operatörün oturduğu yere göre verilir. Daha güvenli yol, işe başlamadan sabit referanslar belirlemektir: binaya doğru, yola doğru gibi."
+  },
+  {
+   "q": "Vinç komutunu telefonla vermek doğru mu?",
+   "a": "Hayır. Telefon hatlarında gecikme ve kopma olur; vinç işlerinde işe özel kanalda telsiz kullanılmalıdır."
+  }
+ ]
+}

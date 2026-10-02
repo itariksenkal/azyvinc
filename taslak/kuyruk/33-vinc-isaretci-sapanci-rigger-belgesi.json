@@ -1,0 +1,153 @@
+{
+ "slug": "vinc-isaretci-sapanci-rigger-belgesi",
+ "_hedef": "vinç işaretçi sapancı rigger belgesi",
+ "title": "Vinç İşaretçisi, Sapancı, Rigger: Kim, Hangi Belge?",
+ "ogTitle": "Vinç işaretçisi, sapancı ve rigger kimdir? Hangi belge aranır, görev sınırları nerede başlar ve biter",
+ "h1": "Vinç işaretçisi, sapancı ve rigger: kim, hangi belgeyle, ne yapar?",
+ "desc": "Vinç işaretçisi, sapancı ve rigger kimdir, hangi belge aranır? MYK İşaretçi (Seviye 2) yeterliliğinin kapsamı ve sahada görev paylaşımı tablosu.",
+ "image": "sahne-iskele-montaj-sepetli-vinc.jpeg",
+ "imageAlt": "Sahne iskelesi montajında vinçle kaldırılan yük ve yerde bekleyen ekip",
+ "caption": "Operatör kancayı, sapancı bağlamayı, işaretçi yönü yönetir.",
+ "intro": "Sapancı yükü kancaya bağlayan, işaretçi operatöre komut veren, rigger ise bu iki işi yapan ve çoğu zaman kaldırma düzeninin tamamından sorumlu tutulan kişiye sahada verilen addır; küçük işlerde üçü aynı kişi olabilir. Türkiye'de bu görev için MYK'nın <strong>15UY0218-2 İşaretçi (Seviye 2)</strong> adlı bir ulusal yeterliliği var, ancak bu yeterlilik liman elleçleme odaklıdır; şantiyede işaretçi ve sapancı için hangi eğitimin yeterli sayılacağını çoğu zaman işyerinin risk değerlendirmesi belirler. El işaretlerini <a href=\"/blog/vinc-el-isaretleri-isaretci-rehberi\">vinç el işaretleri ve işaretçi rehberi</a> yazımızda, bağlama tekniklerini <a href=\"/blog/vinc-sapan-halat-zincir-baglama-teknikleri\">sapan ve bağlama rehberinde</a> anlattık; bu yazı kimin ne yapacağına ve hangi belgenin arandığına odaklanıyor.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "Üç isim, üç görev"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Rol",
+    "Ana görevi",
+    "Yapmaması gereken"
+   ],
+   "rows": [
+    [
+     "Sapancı (yük bağlayıcı)",
+     "Yükün ağırlığını ve ağırlık merkezini değerlendirmek, uygun sapan ve aksesuarı seçmek, bağlamak, deneme askısında dengeyi kontrol etmek",
+     "Kapasitesi bilinmeyen, etiketsiz veya hasarlı aksesuarı kullanmak; yük havadayken bağlantıya müdahale etmek"
+    ],
+    [
+     "İşaretçi",
+     "Operatörle tek iletişim kanalı olmak, kaldırma yolunu ve iniş noktasını görmek, komut vermek, gerektiğinde durdurmak",
+     "Aynı anda başka iş yapmak, yükün altında veya düşme hattında durmak"
+    ],
+    [
+     "Rigger",
+     "Sahada genellikle sapancı ile işaretçinin birlikte adı; büyük projelerde kaldırma düzeninin (sapan seti, travers, bağlama noktaları) hazırlanmasından sorumlu kişi",
+     "Kaldırma planını tek başına değiştirmek"
+    ],
+    [
+     "Kaldırma sorumlusu / kaldırma yöneticisi",
+     "Kritik ve çok aşamalı kaldırmalarda planı onaylayan, ekibi koordine eden kişi",
+     "Plan dışı bir kaldırmayı sözlü onayla başlatmak"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "\"Rigger\" İngilizce bir terimdir ve Türkçede tek bir resmî karşılığı yoktur. Sahada \"yer adamı\", \"bağlamacı\", \"sapancı\" gibi isimler de aynı anlamda kullanılıyor. Önemli olan ismin değil, sorumluluğun önceden yazılı olarak belirlenmesidir: kim bağlıyor, kim komut veriyor, kim durdurma yetkisine sahip?"
+  },
+  {
+   "type": "h2",
+   "text": "MYK İşaretçi (Seviye 2) yeterliliği neyi kapsıyor?"
+  },
+  {
+   "type": "p",
+   "text": "MYK'nın ulusal yeterlilik listesinde \"İşaretçi\" adıyla tek bir yeterlilik bulunuyor: 15UY0218-2 İşaretçi (Seviye 2). Bu yeterlilik Türkiye Liman İşletmecileri Derneği tarafından hazırlanmış, MYK Ulaştırma, Lojistik ve Haberleşme Sektör Komitesi tarafından incelenmiş ve son olarak 2023'te revize edilmiştir. Birimleri İSG, çevre güvenliği ve kalite; liman sapancılık işlemleri; iş organizasyonu ve elleçleme işlemleridir. Belge geçerlilik süresi 5 yıldır."
+  },
+  {
+   "type": "p",
+   "text": "Yani bu yeterlilik konteyner, gemi ve liman sahası diliyle yazılmıştır. Şantiyede mobil vinçle tabela, kiriş veya jeneratör kaldıran bir ekip için birebir tasarlanmamıştır. Ekim 2026 itibarıyla MYK portalında yaptığımız aramada inşaat veya genel kaldırma işleri için ayrı bir \"sapancı\" ya da \"rigger\" ulusal yeterliliği göremedik. Piyasada \"sapancı MYK belgesi\" diye sunulan belgelerin hangi ulusal yeterliliğe dayandığını sorun ve kodunu MYK portalından kontrol edin."
+  },
+  {
+   "type": "h2",
+   "text": "Peki şantiyede işaretçiden hangi belge istenmeli?"
+  },
+  {
+   "type": "p",
+   "text": "Belirli bir şantiye işaretçisi belgesinin zorunlu olduğuna dair doğrulayabildiğimiz bir düzenleme yok. Bununla birlikte iş güvenliği mevzuatı iki şeyi açıkça ister: işverenin çalışanlara yaptıkları işe uygun eğitim vermesi ve iş ekipmanlarının yalnızca bu iş için görevlendirilmiş, eğitim almış kişilerce kullanılması. Pratikte şantiyelerde gördüğümüz düzen şöyle:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "İşaretçi ve sapancı için işyerinin iş güvenliği uzmanı tarafından planlanan, kayıt altına alınan bir yük bağlama ve işaretleşme eğitimi,",
+    "Liman veya benzeri sahalarda MYK İşaretçi (Seviye 2) belgesi,",
+    "Bazı ana yüklenicilerde MEB onaylı kurs belgesi ya da yüklenicinin kendi kaldırma ekibi sertifikası,",
+    "Kritik kaldırmalarda, kaldırma planında adıyla yazılmış işaretçi ve sapancı."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Hangisinin yeterli olduğuna işyerinin risk değerlendirmesi ve İSG uzmanı karar verir. Biz ana yüklenicinin istediği belgeyi işin başında soruyor, buna göre ekip gönderiyoruz."
+  },
+  {
+   "type": "h2",
+   "text": "Bir işaretçide aradığımız yetkinlikler"
+  },
+  {
+   "type": "p",
+   "text": "Belge kâğıt üzerinde yeterliliği gösterir; sahada ise şu soruların cevabına bakıyoruz:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Yükün yaklaşık ağırlığını ve ağırlık merkezini tahmin edebiliyor mu? Bu konuyu <a href=\"/blog/yuk-agirlik-merkezi-ve-dengeli-kaldirma\">ağırlık merkezi ve dengeli kaldırma</a> yazımızda anlattık.",
+    "Sapan açısının kapasiteyi nasıl düşürdüğünü biliyor mu?",
+    "Standart el işaretlerini ve telsiz protokolünü operatörle aynı biçimde kullanıyor mu?",
+    "Rüzgârda, elektrik hattı yakınında ya da kör noktada işi durdurma kararını verebiliyor mu?",
+    "Yükü yönlendirmek için kılavuz halat kullanıyor, yükü elle itmekten kaçınıyor mu?"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Görev çakışması: tek kişi her şeyi yapınca"
+  },
+  {
+   "type": "p",
+   "text": "Küçük işlerde (bir klima dış ünitesi, bir palet malzeme) sapancı ve işaretçi çoğu zaman aynı kişidir ve bu kabul edilebilir. Sorun, bu kişiye üçüncü bir görev verildiğinde başlar: hem bağlayıp hem işaret verip hem de yükü yukarıda karşılamaya çalışan biri, bu üç işin hiçbirini tam yapamaz. Bizim kuralımız şu: yük operatörün görüş alanından çıkıyorsa veya iniş noktası ile bağlama noktası farklı kotlardaysa, iniş noktasında ayrı bir işaretçi olur."
+  },
+  {
+   "type": "h2",
+   "text": "Örnek görev dağılımı: çatıya klima santrali"
+  },
+  {
+   "type": "p",
+   "text": "Zeminden alınan bir klima santralinin çatıya konduğu bir işte tipik dağılım şöyledir: zeminde bir sapancı yükü bağlar ve deneme askısında dengeyi kontrol eder; zemindeki işaretçi yük çatı kotuna çıkana kadar operatöre el işaretiyle komut verir; yük parapetin üstüne geldiğinde komut, telsizle önceden anlaşılan bir cümleyle çatıdaki işaretçiye devredilir. Çatıdaki işaretçi yükü indirir, kılavuz halatı tutan kişi yükü yönlendirir. Devir anı toplantıda konuşulmamışsa iki kişinin aynı anda komut vermesi ya da kimsenin vermemesi en olası hatadır."
+  },
+  {
+   "type": "h2",
+   "text": "Kiralayan olarak sizin sorumluluğunuz"
+  },
+  {
+   "type": "p",
+   "text": "Operatörlü vinç kiraladığınızda bağlama ve işaretleşmeyi kimin yapacağı sözleşmede veya teklifte açıkça yazılmalıdır. Kendi personelinizi sapancı olarak kullanacaksanız eğitimleri sizin sorumluluğunuzdadır. Sorumluluk paylaşımını <a href=\"/blog/vinc-kiralama-sozlesmesi-sigorta-hasar-kim-oder\">kiralama sözleşmesi ve hasar sorumluluğu</a> yazımızda ele aldık."
+  },
+  {
+   "type": "p",
+   "text": "AZY Vinç olarak Şanlıurfa ve çevre illerde sahaya operatörüyle birlikte gelir, işin büyüklüğüne göre bağlama ve işaretleşme düzenini kaldırmadan önce sizinle birlikte netleştiririz."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Vinç işaretçisi için MYK belgesi var mı?",
+   "a": "MYK'da 15UY0218-2 İşaretçi (Seviye 2) adlı bir ulusal yeterlilik var. Ancak bu yeterlilik liman elleçleme odaklıdır; şantiyede hangi eğitimin yeterli olduğunu işyerinin risk değerlendirmesi ve İSG uzmanı belirler."
+  },
+  {
+   "q": "Sapancı ile işaretçi aynı kişi olabilir mi?",
+   "a": "Küçük ve görüşün açık olduğu işlerde olabilir. Yük operatörün görüşünden çıkıyorsa veya bağlama ile iniş noktası farklı yerlerdeyse iniş noktasında ayrı bir işaretçi gerekir."
+  },
+  {
+   "q": "Rigger ne demek?",
+   "a": "Rigger, yükün bağlanması ve kaldırma düzeninin hazırlanmasından sorumlu kişiye verilen İngilizce addır. Türkçede sapancı, yer adamı veya bağlamacı da denir."
+  },
+  {
+   "q": "Sapancı MYK belgesi zorunlu mu?",
+   "a": "Şantiye sapancılığı için zorunlu bir MYK belgesini doğrulayamadık. Sunulan belgenin hangi ulusal yeterliliğe dayandığını sorun ve kodunu MYK portalından kontrol edin."
+  },
+  {
+   "q": "İşaretçinin belge geçerlilik süresi ne kadar?",
+   "a": "MYK İşaretçi (Seviye 2) belgesinin geçerlilik süresi 5 yıldır. Kurum içi eğitimlerin tazelenme sıklığını işyerinin İSG uzmanı belirler."
+  }
+ ]
+}

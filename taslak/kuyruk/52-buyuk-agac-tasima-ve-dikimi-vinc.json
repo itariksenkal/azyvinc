@@ -1,0 +1,181 @@
+{
+ "slug": "buyuk-agac-tasima-ve-dikimi-vinc",
+ "_hedef": "büyük ağaç taşıma vinç",
+ "title": "Büyük Ağaç Taşıma ve Dikimi: Vinçle Nasıl Yapılır?",
+ "ogTitle": "Yetişkin Ağaç Taşıma ve Dikiminde Vinç: Kök Topu, Sapan Düzeni, Keşif ve Kontrol Listesi",
+ "h1": "Büyük Ağaç Taşıma ve Dikiminde Vinç Kullanımı",
+ "desc": "Büyük ağaç taşıma vinçle nasıl yapılır? Kök topu ağırlığı, gövdeyi korumak için sapan düzeni, makine seçimi, mevsim, riskler ve dikim günü kontrol listesi.",
+ "image": "mobil-vinc-saha-azy-vinc.jpeg",
+ "imageAlt": "Saha çalışmasında ayakları açık mobil vinç",
+ "caption": "Ağaç taşımada yükün büyük kısmı gövdede değil, kök topundadır.",
+ "intro": "Büyük bir ağacı vinçle taşımak ve dikmek mümkündür; ancak kaldırılan yükün büyük kısmı ağacın gövdesi değil, toprağıyla birlikte sökülen kök topudur ve doğru vinç bu kök topunun ağırlığına göre seçilir. İşin ikinci yarısı ağacın yaşamasıdır: sapan gövdeyi ezerse, kök topu dağılırsa ya da dikim yanlış mevsimde yapılırsa ağaç yerinde kurur. Aşağıda ağaç firması veya peyzaj ekibiyle birlikte bu işi nasıl yürüttüğümüzü anlatıyoruz.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "İş kimde, vinç kimde?"
+  },
+  {
+   "type": "p",
+   "text": "Yetişkin ağaç taşıma bir peyzaj ve fidancılık işidir. Ağacın sökülmesi, kök topunun hazırlanıp çuval ve tel kafesle sarılması, yeni çukurun açılması, dikim sonrası can suyu ve destek kazıkları ağaç firmasının ya da ziraat mühendisinin sorumluluğundadır. Vinç; kök topu hazırlanmış ağacı kaldırır, nakliye aracına yükler, yeni yerinde çukura indirir ve ekip ağacı dik tutup yönünü ayarlarken yükü bekletir. Ağaç budama ve kesim işleri ayrı bir konu; onları <a href=\"/blog/agac-budama-kesimi-sepetli-vinc\">budama ve kesim yazımızda</a> anlattık."
+  },
+  {
+   "type": "h2",
+   "text": "Ağırlık: tahmin değil, ölçüyle"
+  },
+  {
+   "type": "p",
+   "text": "Kök topunun ağırlığı çapına, derinliğine ve toprağın cinsine göre çok değişir. Islak killi toprak kuru kumlu topraktan belirgin şekilde ağırdır; aynı ağaç sulamadan sonra sökülürse daha ağır gelir. Bu yüzden ağaç firmasından kök topu çapını ve derinliğini, gövde çapını ve ağaç boyunu isteriz. Firma ağırlığı bilmiyorsa kök topunun hacminden ve toprak tipinden güvenli bir üst sınır hesaplar, kapasite payını geniş tutarız. Ağaç kaldırılırken toprağın bir kısmı dökülebilir, ama hesabı dökülmeyecekmiş gibi yaparız."
+  },
+  {
+   "type": "table",
+   "head": [
+    "Bilgi",
+    "Kimden",
+    "Neden"
+   ],
+   "rows": [
+    [
+     "Kök topu çapı ve derinliği",
+     "Ağaç firması",
+     "Ağırlığın ana kalemi"
+    ],
+    [
+     "Toprak cinsi ve son sulama",
+     "Ağaç firması",
+     "Ağırlık tahmini"
+    ],
+    [
+     "Gövde çapı ve ağaç boyu",
+     "Ağaç firması",
+     "Sapan yeri ve denge"
+    ],
+    [
+     "Taç genişliği",
+     "Keşif",
+     "Enerji hattı ve bina mesafesi"
+    ],
+    [
+     "Söküm ve dikim yerleri arası yol",
+     "Keşif",
+     "Nakliye aracı ve gabari"
+    ],
+    [
+     "Vincin her iki noktadaki kurulum yeri",
+     "Keşif",
+     "Yarıçap ve tonaj"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Hangi makine?"
+  },
+  {
+   "type": "p",
+   "text": "Küçük ve orta boy ağaçlarda, söküm ve dikim yerine yakın yanaşabiliyorsak hiyap işi tek araçla çözer: ağacı kaldırır, kasasına yatırır ve yeni yerde diker. Kök topu büyüdükçe veya ağaç bahçe içinde vinçten uzak bir noktaya dikilecekse mobil vinç gerekir; bu durumda nakliye ayrı bir kamyonla yapılır. Tonajı belirleyen yine yarıçaptır; bunu <a href=\"/blog/kac-tonluk-vinc-gerekir\">kapasite rehberimizde</a> anlattık. Hiyap ve mobil vinç seçimini <a href=\"/blog/hiyap-arac-ustu-vinc-mi-mobil-vinc-mi\">bu karşılaştırmada</a> bulabilirsiniz."
+  },
+  {
+   "type": "h2",
+   "text": "Sapan düzeni: ağacı korumak"
+  },
+  {
+   "type": "p",
+   "text": "Ağaç asla çıplak gövdesinden çelik halat veya zincirle kaldırılmaz. Gövde kabuğu ezilir ya da soyulursa ağaç taşınsa bile zarar görür. Ağaç firmasının tercihine göre iki yöntem kullanılır: kök topunun altından ve çevresinden geçen geniş kayış sapanlarla topun kendisini taşımak, ya da gövdeye kalın koruyucu sarıp geniş kayışla gövdeden tutmak ve kök topunu ayrıca desteklemek. Ağaç kalkarken eğilmeye başlar; dik tutmak için gövdenin üst kısmına ikinci bir kayış ve aşağıdan kılavuz halat bağlanır. Bağlama prensipleri için <a href=\"/blog/vinc-sapan-halat-zincir-baglama-teknikleri\">sapan ve halat yazımıza</a> bakabilirsiniz."
+  },
+  {
+   "type": "h2",
+   "text": "Mevsim ve Şanlıurfa koşulları"
+  },
+  {
+   "type": "p",
+   "text": "Hangi ağacın hangi mevsimde taşınabileceği türe göre değişir ve bu kararı ağaç firması ya da ziraat mühendisi verir. Bizim tarafımızdan söyleyebileceğimiz şu: Şanlıurfa'da yaz sıcağında yapılan taşımalarda ağacın açıkta kaldığı süreyi kısaltmak çok önemli. Bu yüzden yaz aylarındaki işleri sabahın erken saatlerine alıyor, söküm ile dikim arasındaki süreyi en aza indirecek şekilde aracı ve vinci sıralıyoruz. Genel çalışma saatlerimiz için <a href=\"/blog/gece-vinc-calismasi-yaz-sicagi-vardiya\">yaz sıcağında vardiya</a> yazımıza bakabilirsiniz."
+  },
+  {
+   "type": "h2",
+   "text": "Keşifte sorduğumuz sorular"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Ağacın türü, boyu, gövde çapı ve taç genişliği nedir?",
+    "Kök topu ne zaman ve hangi ölçüde hazırlanacak, kim hazırlayacak?",
+    "Söküm ve dikim yerleri arasında mesafe ne kadar, yol üstünde alçak köprü, kablo veya dar geçit var mı?",
+    "Yeni çukur açıldı mı? Derinliği kök topuna uygun mu?",
+    "Her iki noktada vinç nereye kurulacak, zemin sağlam mı?",
+    "Taç enerji hattına yaklaşıyor mu?",
+    "Ağaç kamu alanından mı alınıyor? Gerekli izin alındı mı?"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "İzinler"
+  },
+  {
+   "type": "p",
+   "text": "Özel bahçedeki ağaç taşıması genellikle izne tabi değildir; ancak kamuya ait park, refüj veya yol kenarındaki bir ağacın taşınması için belediyenin ilgili biriminden izin gerekir. Ağaç yolu kapatarak taşınacaksa veya nakliye aracı genişliği aşıyorsa ayrıca yol izni gerekebilir. Bu konuda <a href=\"/blog/vinc-calismasi-yol-kapatma-isgaliye-izni\">yol kapatma yazımızı</a> okuyabilirsiniz."
+  },
+  {
+   "type": "h2",
+   "text": "Örnek akış: bahçeden bahçeye taşıma"
+  },
+  {
+   "type": "p",
+   "text": "Bir villanın eski bahçesinden yeni bahçesine orta boy bir zeytin ağacı taşınacağını düşünelim. Ağaç firması kök topunu önceden hazırlar ve sarar. İş günü sabah erken vinç kurulur, kök topunun altından geçen iki geniş kayışla ağaç kaldırılır; gövdedeki koruyucunun üstüne bağlanan üçüncü kayış ağacın dik kalmasını sağlar. Ağaç kamyonun kasasına yan yatırılarak konur, taç sarılır ve yol üstündeki kablolara takılmaması için yükseklik ölçülür. Yeni bahçede vinç yeniden kurulur, ağaç dik konumda kaldırılır ve çukura yavaşça indirilir. Ağaç firması yönünü çevirirken vinç yükü tutar; destek kazıkları bağlanıp toprak doldurulmaya başlandıktan sonra kayışlar gevşetilir."
+  },
+  {
+   "type": "p",
+   "text": "Bu akışta en çok zaman kaybettiren şey, yeni çukurun kök topundan küçük çıkmasıdır. Ağaç havadayken çukurun genişletilmesi beklenir. Bu yüzden ağaç firmasından çukur ölçüsünü kök topu ölçüsüyle karşılaştırmasını isteriz."
+  },
+  {
+   "type": "h2",
+   "text": "Tipik riskler"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Kök topunun dağılması ve yükün aniden hafifleyip savrulması.",
+    "Ağacın kalkarken yatması; tacın enerji hattına veya binaya değmesi.",
+    "Ağırlığın düşük tahmin edilmesi; özellikle ıslak toprakta.",
+    "Kabuk ve gövde hasarı.",
+    "Nakliye sırasında tacın yol üstündeki kablolara takılması."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Dikim günü kontrol listesi"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Kök topu sarılı ve sağlam, ağaç firması kaldırmaya onay verdi.",
+    "Yeni çukur hazır, dikim yönü (güney yüzü vb.) ağaç firmasınca işaretlendi.",
+    "Gövde koruyucu, geniş kayış sapanlar ve kılavuz halat hazır.",
+    "Vinç her iki noktada sağlam zeminde kuruldu, dönüş alanı boş.",
+    "Taç ile enerji hattı arasındaki mesafe kontrol edildi.",
+    "Ağaç çukura indirildikten sonra destek kazıkları bağlanana kadar vinç yükü bırakmıyor."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Büyük bir ağaç vinçle taşınırsa yaşar mı?",
+   "a": "Bu büyük ölçüde ağacın türüne, kök topunun doğru hazırlanmasına, mevsime ve dikim sonrası bakıma bağlıdır. Vinç işi doğru yapılırsa ağaca zarar vermez; yaşama kararı peyzaj tarafındadır."
+  },
+  {
+   "q": "Ağaç taşıma için kaç tonluk vinç gerekir?",
+   "a": "Kök topu ağırlığı ve vincin dikim noktasına olan mesafesi belirler. Küçük ağaçlarda hiyap yeterli olur, büyük kök toplarında ve uzak dikim noktalarında mobil vinç gerekir."
+  },
+  {
+   "q": "Ağaç gövdesinden kaldırılabilir mi?",
+   "a": "Çıplak gövdeden halat veya zincirle asla kaldırılmaz. Gövde korumaya alınarak geniş kayışla tutulabilir ya da kök topu altından taşınır; yöntemi ağaç firmasıyla birlikte seçeriz."
+  },
+  {
+   "q": "Belediyeye ait bir ağacı taşımak için izin gerekir mi?",
+   "a": "Evet, kamu alanındaki ağaçlar için ilgili belediye biriminden izin alınması gerekir. Hangi belgenin istendiğini belediyeye sorun."
+  },
+  {
+   "q": "Ağaç taşıma işini siz mi organize ediyorsunuz?",
+   "a": "Biz kaldırma ve gerekirse nakliye tarafını yapıyoruz. Kök topu hazırlığı ve dikim sonrası bakım için bir ağaç firması veya peyzaj ekibiyle birlikte çalışmanız gerekir."
+  }
+ ]
+}
