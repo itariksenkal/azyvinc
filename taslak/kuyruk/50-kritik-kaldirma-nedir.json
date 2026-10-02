@@ -1,0 +1,211 @@
+{
+ "slug": "kritik-kaldirma-nedir",
+ "_hedef": "kritik kaldırma nedir / critical lift",
+ "title": "Kritik Kaldırma Nedir? Hangi Vinç İşi Kritik Sayılır?",
+ "ogTitle": "Kritik Kaldırma (Critical Lift) Nedir? Hangi İşler Kritik Sayılır ve Normal Kaldırmaya Göre Hangi Ek Kontroller Gerekir",
+ "h1": "Kritik kaldırma nedir? Hangi vinç işi kritik sayılır, neler ek olarak yapılır?",
+ "desc": "Kritik kaldırma nedir? Bir vinç işini kritik yapan durumlar, sahada uygulanan ek kontroller ve iş sahibinin hazırlaması gerekenler için pratik bir sınıflandırma.",
+ "image": "sanliurfa-dergah-tarihi-alan-vinc.jpeg",
+ "imageAlt": "Şanlıurfa'da tarihi alan yakınında çalışan vinç",
+ "caption": "Hassas çevrede yapılan kaldırma, yük hafif olsa bile kritik sayılabilir.",
+ "intro": "Kritik kaldırma, hata payının normalden dar olduğu ya da bir hatanın sonucunun normalden ağır olacağı vinç işidir: yük vincin o yarıçaptaki kapasitesine çok yakınsa, iki vinç birlikte kaldırıyorsa, yük insanların, enerji hattının veya değerli bir yapının üstünden geçiyorsa iş kritik sayılır. Kritik kaldırmada normal hazırlığa ek olarak yazılı plan, ek kontroller ve tek bir sorumlu kişi bulunur. Planın içeriğini <a href=\"/blog/vinc-kaldirma-plani-lift-plan-nasil-hazirlanir\">kaldırma planı nasıl hazırlanır</a> yazısında anlattık; burada hangi işin kritik sayılacağına ve kritik olunca nelerin değiştiğine odaklanıyoruz.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "Mevzuat ne diyor, \"kritik\" kelimesi nereden geliyor?"
+  },
+  {
+   "type": "p",
+   "text": "Türkiye'de İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği, bütün yük kaldırma işlerinin işçilerin güvenliğini koruyacak şekilde uygun biçimde planlanmasını ve gözetim altında yürütülmesini ister. Yani planlama, kritik olsun olmasın her kaldırma için geçerli bir yükümlülüktür. \"Kritik kaldırma\" ise mevzuatta ayrıca tanımlanmış bir sınıf olarak karşımıza çıkmaz; uluslararası standartlarda, büyük firmaların ve şantiyelerin kaldırma prosedürlerinde kullanılan bir kavramdır. Bu yüzden hangi işin kritik sayılacağını genellikle şantiyenin veya ana yüklenicinin prosedürü belirler. Çalıştığınız sahada böyle bir prosedür varsa onu esas alın; yoksa aşağıdaki ölçütler iyi bir başlangıçtır. Sahaya özel sorularda iş güvenliği uzmanınıza danışın."
+  },
+  {
+   "type": "h2",
+   "text": "Bir kaldırmayı kritik yapan durumlar"
+  },
+  {
+   "type": "p",
+   "text": "Aşağıdaki tabloda yaygın kullanılan ölçütleri topladık. Bir işte bunlardan biri bile varsa, işi kritik kabul edip ona göre hazırlanmak doğru yaklaşımdır."
+  },
+  {
+   "type": "table",
+   "head": [
+    "Ölçüt",
+    "Örnek",
+    "Neden kritik"
+   ],
+   "rows": [
+    [
+     "Kapasiteye yakın kaldırma",
+     "Yük, yük tablosundaki değerin büyük bölümünü kullanıyor (eşik prosedüre göre değişir)",
+     "Rüzgar, salınım veya ölçüm hatası için pay kalmıyor"
+    ],
+    [
+     "Birden fazla vinçle kaldırma",
+     "İki vinçle uzun kiriş veya tank çevirme",
+     "Yük vinçler arasında beklenmedik biçimde paylaşılabilir"
+    ],
+    [
+     "İnsanların üstünden veya yakınından geçiş",
+     "İşletme açıkken, yoldan veya kalabalık alandan geçen yük",
+     "Hata doğrudan can kaybına dönüşür"
+    ],
+    [
+     "Enerji hattı yakını",
+     "Havai hat altında veya yakınında çalışma",
+     "Temas olmadan bile atlama riski var"
+    ],
+    [
+     "Değerli veya yeri doldurulamaz yük",
+     "Trafo, özel makine, tarihi yapı parçası",
+     "Hasarın maliyeti çok yüksek"
+    ],
+    [
+     "Operatörün görmediği iniş",
+     "Çatı arkası, bina içi, kör nokta",
+     "Kontrol tamamen işaretçiye bağlı"
+    ],
+    [
+     "Belirsiz zemin veya yapı üstü",
+     "Döşeme, dolgu, kanal kenarı",
+     "Devrilme en çok zeminden başlar"
+    ],
+    [
+     "Personel kaldırma",
+     "Vinç kancasında adam sepeti",
+     "Yükün kendisi insan"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Kapasite eşiği konusunda farklı prosedürler farklı oranlar kullanır. Burada bir sayı vermiyoruz; çalıştığınız şantiyenin prosedürü ne diyorsa o geçerlidir. Tablo değerinin nasıl okunduğu <a href=\"/blog/vinc-yuk-tablosu-load-chart-nasil-okunur\">yük tablosu</a> yazısında var."
+  },
+  {
+   "type": "h2",
+   "text": "Kritik olunca ne değişir? Normal ve kritik kaldırma farkı"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Konu",
+    "Normal kaldırma",
+    "Kritik kaldırma"
+   ],
+   "rows": [
+    [
+     "Plan",
+     "Sözlü veya kısa yazılı plan",
+     "Yazılı, imzalı, yük ve yarıçap hesabı ekli plan"
+    ],
+    [
+     "Yük ağırlığı",
+     "Bilinen veya tahmini değer",
+     "Belgeyle doğrulanmış değer; yoksa tartı veya hesap"
+    ],
+    [
+     "Saha kontrolü",
+     "Gelişte göz kontrolü",
+     "Önceden keşif; zemin, engel ve hatlar ölçülür"
+    ],
+    [
+     "Ekip",
+     "Operatör ve işaretçi",
+     "Ek olarak tek bir kaldırma sorumlusu, gerektiğinde gözcü"
+    ],
+    [
+     "Brifing",
+     "Kısa konuşma",
+     "Herkesin katıldığı, rollerin tek tek söylendiği brifing"
+    ],
+    [
+     "Deneme",
+     "Kısa deneme askısı",
+     "Deneme askısında ayak, denge ve bağlantıların ayrıca kontrolü"
+    ],
+    [
+     "Durdurma kriterleri",
+     "Genel kural",
+     "Rüzgar eşiği ve dur kararını kimin vereceği önceden yazılı"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Kritik kaldırma için ek kontrol listesi"
+  },
+  {
+   "type": "p",
+   "text": "Kaldırma planındaki maddelere ek olarak kritik işlerde biz şu kontrolleri ayrıca yapıyoruz:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Yükün ağırlığı imalatçı belgesi veya proje verisiyle doğrulandı mı? Belge yoksa yukarı yuvarlanmış değer mi kullanıldı?",
+    "En kötü yarıçap (alma, geçiş ve bırakma noktalarının en uzağı) için kapasite kontrol edildi mi?",
+    "Vinç güvenlik sistemleri ve yük moment göstergesi çalışıyor mu? Ayrıntı: <a href=\"/blog/vinc-guvenlik-sistemleri-yuk-moment-gostergesi\">yük moment göstergesi</a>.",
+    "Sapan, kilit ve travers belgeli ve sağlam mı? Bağlama yöntemi yükün ağırlık merkezine uygun mu?",
+    "Yasak bölge şeritle kapatıldı mı, kimin girebileceği belli mi?",
+    "Elektrik hattı varsa hat sahibiyle iletişim kuruldu mu, güvenlik mesafesi ölçüldü mü? Bkz. <a href=\"/blog/vinc-elektrik-hattina-yaklasma-guvenlik-mesafesi\">elektrik hattına yaklaşma mesafesi</a>.",
+    "Operatör ve işaretçi arasındaki iletişim yöntemi (telsiz, el işareti) denendi mi?",
+    "Dur kararını kim verecek ve herkes bunu biliyor mu?",
+    "Yük havada kalırsa ne yapılacağı konuşuldu mu?"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "İş sahibinin kritik kaldırmada hazırlaması gerekenler"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Yükün belgeli ağırlığı ve ağırlık merkezi bilgisi (imalatçı föyü, çizim veya irsaliye)",
+    "Kaldırma noktalarının yeri; yükte kulak, mapa veya özel kaldırma aparatı var mı?",
+    "Sahada yer altı tesisatı, rögar ve döşeme bilgisi",
+    "İşletme açıksa, kaldırma sırasında alanın boşaltılacağı saat aralığı",
+    "Yol veya kaldırım kullanılacaksa gerekli izinlerin durumu"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Bu bilgilerin önceden gelmesi, kritik işin sahada uzamasını önleyen en önemli şeydir. Belge sorulduğunda neyin istenebileceğini <a href=\"/blog/vinc-firmasindan-istenecek-evraklar-isg-dosyasi\">vinç firmasından istenecek evraklar</a> yazısında özetledik."
+  },
+  {
+   "type": "h2",
+   "text": "Sahadan: hafif ama kritik işler"
+  },
+  {
+   "type": "p",
+   "text": "Kritik kaldırma denince akla hep ağır yük gelir. Oysa bizim en dikkatli planladığımız işlerin bir kısmı hafif yüklerdir: tarihi bir yapının yanında, kalabalık bir caddede, işletme açıkken yapılan bir montaj. Yük birkaç yüz kilo olabilir; ama altında insan, yanında koruma altında bir yapı varsa iş kritik sayılır. Tersine, boş bir sahada kapasitenin rahat içinde yapılan ağır bir kaldırma rutin bir iş olabilir. Kritikliği ton değil, hata payı ve hatanın sonucu belirler."
+  },
+  {
+   "type": "h2",
+   "text": "Kritik kaldırmadan sonra"
+  },
+  {
+   "type": "p",
+   "text": "Kritik bir kaldırma bittiğinde iş bitmiş sayılmaz. Kısa bir değerlendirme yapılır: plan sahada uygulanabildi mi, nerede değişiklik gerekti, beklenmedik bir durum oldu mu? Bu notlar, benzer bir sonraki iş için planı daha gerçekçi yapar. Plan dosyası, imzalı brifing kaydı ve varsa kontrol formları iş dosyasında saklanır. Böylece iş sahibi de vinç firması da işin nasıl yapıldığını gerektiğinde gösterebilir."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Kritik kaldırma nedir?",
+   "a": "Hata payının dar olduğu veya hatanın sonucunun ağır olacağı kaldırmadır. Kapasiteye yakın kaldırma, iki vinçle kaldırma, insanların veya enerji hattının yakınında çalışma tipik örneklerdir."
+  },
+  {
+   "q": "Kritik kaldırma mevzuatta tanımlı mı?",
+   "a": "Yönetmelik bütün kaldırmaların planlanmasını ve gözetim altında yapılmasını ister. Kritik kaldırma ayrı bir yasal sınıf olarak değil, standartlarda ve şantiye prosedürlerinde kullanılan bir kavram olarak karşımıza çıkar. Sahaya özel değerlendirme için iş güvenliği uzmanına danışılmalıdır."
+  },
+  {
+   "q": "Yüzde kaç kapasite kritik sayılır?",
+   "a": "Prosedürden prosedüre değişir. Çalıştığınız şantiyenin veya ana yüklenicinin kaldırma prosedüründeki eşik esas alınır."
+  },
+  {
+   "q": "İki vinçle kaldırma her zaman kritik midir?",
+   "a": "Evet, yaygın uygulamada iki veya daha fazla vinçle yapılan kaldırmalar kritik kabul edilir; çünkü yük vinçler arasında beklenmedik biçimde paylaşılabilir."
+  },
+  {
+   "q": "Kritik kaldırmada kim sorumludur?",
+   "a": "Plan üzerinde tek bir kaldırma sorumlusu belirlenir ve dur kararı dahil son söz ondadır. Operatör, işaretçi ve iş sahibinin rolleri brifingde ayrıca söylenir."
+  }
+ ]
+}

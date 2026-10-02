@@ -1,0 +1,62 @@
+{
+ "slug": "kepce-ile-yuk-kaldirma-yasak-mi",
+ "_hedef": "kepçe ile yük kaldırma yasak mı",
+ "title": "Kepçe ile Yük Kaldırma Yasak mı? İSG Kuralları",
+ "ogTitle": "Kepçe veya Ekskavatörle Yük Kaldırma Yasak mı? Mevzuat Ne Diyor, Daha Güvenli Seçenekler Neler?",
+ "h1": "Kepçe ile yük kaldırma yasak mı? Mevzuat ve güvenli seçenekler",
+ "desc": "Kepçe ile yük kaldırma ancak makine bu iş için tasarlanmış ve donatılmışsa mümkün; kepçe dişine zincir dolamak değil. Mevzuat ne diyor, ne zaman vinç gerekir?",
+ "image": "elektrik-diregi-hiyap-vinc-kis.jpeg",
+ "imageAlt": "Hiyap vinçle elektrik direği kaldırma çalışması",
+ "caption": "Kancalı kaldırma için tasarlanmış makine, kepçe dişine bağlanan zincirden çok daha öngörülebilir çalışır.",
+ "intro": "Mevzuatta kepçe adını anan özel bir kaldırma yasağı yok; ama İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği, iş ekipmanının yalnızca tasarım ve imalat amacına uygun işlerde kullanılmasını, yük kaldırmada kullanılan ekipmanın kaldırabileceği azami yükün üzerinde işaretli olmasını ve işin planlanıp gözetim altında yapılmasını ister. Kepçe dişine zincir dolayıp boru kaldırmak bu şartların hiçbirini karşılamaz. Şantiyelerde en sık gördüğümüz riskli alışkanlıklardan biri bu: \"vinç çağırmaya gerek yok, kepçe kaldırır\". Bu yazıda mevzuatın ne dediğini, ekskavatörün hangi koşulda kaldırma yapabileceğini ve daha güvenli seçenekleri anlatıyoruz. İşyerinize özgü kararı iş güvenliği uzmanınız verir.",
+ "body": [
+  {"type": "h2", "text": "Mevzuat ne diyor?"},
+  {"type": "p", "text": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği'nin EK-II'si, yük kaldırmada kullanılan iş ekipmanıyla ilgili hükümler içerir. Bizim sahada en çok başvurduğumuz maddeler şunlar:"},
+  {"type": "ul", "items": [
+   "Yük kaldırmak için tasarlanmış seyyar ekipmanın, zemin özellikleri de dikkate alınarak bütün kullanım şartlarında sağlam ve kararlı şekilde kullanılması sağlanır (3.1.1).",
+   "İnsan kaldırmak amacıyla üretilmemiş iş ekipmanı yalnızca olağanüstü veya acil istisnai durumlarda, gerekli önlemler alınarak ve gözetim altında insan kaldırmada kullanılabilir (3.1.2.1). Kepçe kovasında insan taşımak bu yüzden olağan bir uygulama olamaz.",
+   "Teknik zorunluluk olmadıkça kaldırılan yükün altında insan bulunmaması için tedbir alınır (3.1.3).",
+   "Yük kaldırmada kullanılan makinelerde kaldırılabilecek azami yük açıkça görünecek şekilde işaretlenir; kaldırma aksesuarları da güvenli kullanım özelliklerini gösterecek şekilde işaretlenir (3.2.2, 3.2.2.1).",
+   "Bütün yük kaldırma işleri uygun şekilde planlanır ve gözetim altında yürütülür (3.2.5)."
+  ]},
+  {"type": "p", "text": "Yönetmeliğin EK-I'inde yer alan bir hüküm meseleyi özetler: iş ekipmanı sadece tasarım ve imalat amacına uygun işlerde ve şartlarda kullanılır (2.12). Çalışanlara verilecek yazılı talimatlar da imalatçının Türkçe kullanım kılavuzu dikkate alınarak hazırlanır. Ekskavatör veya yükleyicinin kullanma kılavuzu kancalı kaldırmaya izin vermiyorsa ya da bunun için bir kaldırma kapasite tablosu içermiyorsa, o makineyle kaldırma yapmak hem mevzuata hem üreticinin talimatına aykırı düşer."},
+  {"type": "h2", "text": "Ekskavatör hangi durumda kaldırma yapabilir?"},
+  {"type": "p", "text": "Bazı hidrolik ekskavatörler üreticisi tarafından kaldırma işine uygun donatılarak satılır. Bu makinelerde genellikle kaldırma kapasite tablosu, sertifikalı bir kaldırma kancası veya bağlantı noktası, aşırı yük uyarı sistemi ve hortum patlamasına karşı bomun düşmesini önleyen valfler bulunur. Bu donanım ve tablo varsa, makine ilgili standart ve kılavuza göre kaldırma yapabilir. Hidrolik kazıcıların periyodik kontrolü, Yönetmeliğin EK-III'ünde TS EN 474-5 standardına göre ve standartta süre belirtilmemişse yılda bir yapılacak şekilde düzenlenmiştir."},
+  {"type": "table", "head": ["Kontrol", "Evet ise", "Hayır ise"], "rows": [
+   ["Kullanma kılavuzunda kaldırma moduna ve kancalı kullanıma izin var mı?", "Devam", "Kaldırma yapılmaz, vinç çağrılır"],
+   ["Makinede kaldırma kapasite tablosu var mı ve yük, yarıçap bu tabloda karşılanıyor mu?", "Devam", "Kaldırma yapılmaz"],
+   ["Sertifikalı kanca veya kaldırma noktası var mı? (Kepçe dişi değil)", "Devam", "Kaldırma yapılmaz"],
+   ["Aşırı yük uyarısı ve hortum patlama emniyet valfi var ve çalışıyor mu?", "Devam", "Kaldırma yapılmaz"],
+   ["Güncel periyodik kontrol raporu var mı?", "Devam", "Kaldırma yapılmaz"],
+   ["Operatör bu makinede kaldırma konusunda yetkin mi, işaretçi ve sapancı belirlendi mi?", "Devam", "Önce yetkinlik ve ekip sağlanır"],
+   ["Kaldırma planlandı mı, yükün altı ve dönüş alanı boşaltıldı mı?", "Kaldırma yapılabilir", "Plan yapılmadan başlanmaz"]
+  ]},
+  {"type": "p", "text": "Bu tabloyu iş güvenliği uzmanınızla birlikte risk değerlendirmenize uyarlayın. Tek bir \"hayır\" bile kaldırmayı durdurmak için yeterlidir."},
+  {"type": "h2", "text": "Kepçe ile kaldırma neden riskli?"},
+  {"type": "ul", "items": [
+   "Kepçe dişine dolanan zincir veya sapan kayar; yük bir anda serbest kalabilir.",
+   "Kazı için tasarlanmış hidrolik sistem, askıdaki yükü hassas indirmeye göre ayarlı değildir; yük salınır.",
+   "Kaldırma kapasite tablosu olmayan makinede operatör, belirli bir uzaklıkta kaç ton kaldırabileceğini bilemez; devrilme sınırı tahmine kalır.",
+   "Yükleyici (lastik tekerlekli kepçe) kovayı yükselttikçe ağırlık merkezi yükselir; yan eğimde devrilme riski artar.",
+   "Kaldırma sırasında insanlar yükü elle yönlendirmek için makineye yaklaşır; bu da en ağır kazaların başladığı andır."
+  ]},
+  {"type": "h2", "text": "Daha güvenli seçenekler"},
+  {"type": "table", "head": ["İş", "Uygun ekipman", "Not"], "rows": [
+   ["Kanal içine beton boru indirme", "Hiyap veya mobil vinç; büyük projelerde boru döşeyici", "Kanal kenarına yük gelmeyecek şekilde konumlanma"],
+   ["Kısa mesafede palet veya torba taşıma", "Forklift, teleskopik yükleyici (çatal ile)", "Ekipmanın kendi kapasite tablosu kullanılır"],
+   ["Trafo, jeneratör, depo yerleştirme", "Mobil vinç veya hiyap", "Kaldırma planı ve uygun sapan"],
+   ["Direk dikme", "Hiyap", "Elektrik hattı varsa güvenlik mesafesi"],
+   ["Çatıya malzeme çıkarma", "Mobil vinç, hiyap veya caraskal", "Yükseklik ve erişime göre seçim"]
+  ]},
+  {"type": "p", "text": "Forklift ile vinç arasındaki seçimi <a href=\"/blog/forklift-mi-vinc-mi-sepetli-platform-mu-hangisi-secilir\">forklift mi vinç mi</a>, teleskopik yükleyici seçeneğini <a href=\"/blog/telehandler-teleskopik-yukleyici-mi-vinc-mi\">telehandler mı vinç mi</a> yazımızda anlattık. Elektrik hattının yakınındaki işlerde <a href=\"/blog/vinc-elektrik-hattina-yaklasma-guvenlik-mesafesi\">elektrik hattına yaklaşma mesafesi</a> yazımıza mutlaka göz atın."},
+  {"type": "h2", "text": "\"Vinç pahalı, kepçe zaten sahada\" düşüncesi"},
+  {"type": "p", "text": "Bu düşünceyi anlıyoruz; makine sahada, operatör hazır, vinç için ayrıca ücret ödemek gereksiz görünüyor. Ama kepçeyle yapılan kaldırmada bir şey ters giderse ortaya çıkan maliyet yalnızca hasarlı boru değildir: iş kazası, idari para cezası ve sigortanın uygun olmayan kullanımı gerekçesiyle ödeme yapmaması ihtimali de vardır. Kısa işler için hiyap veya küçük tonajlı bir vinç, çoğu zaman düşünüldüğünden daha ekonomiktir. Yüksekte çalışma ve kaldırma işlerindeki idari para cezalarını <a href=\"/blog/vinc-yuksekte-calisma-isg-idari-para-cezalari\">İSG idari para cezaları</a> yazımızda derledik."}
+ ],
+ "faqs": [
+  {"q": "Kepçe ile yük kaldırmak yasak mı?", "a": "Kepçe adını anan özel bir yasak yoktur. Ancak İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği, iş ekipmanının yalnızca tasarım ve imalat amacına uygun işlerde kullanılmasını, kaldırmada kullanılan ekipmanın bu işe uygun ve azami yükünün işaretli olmasını, işin planlanıp gözetim altında yapılmasını ister. Kaldırma için tasarlanmamış ve donatılmamış bir kepçeyle kaldırma bu şartları karşılamaz."},
+  {"q": "Ekskavatörle boru indirmek serbest mi?", "a": "Makine üreticisi tarafından kaldırma için donatılmışsa, kaldırma kapasite tablosu, sertifikalı kaldırma noktası ve emniyet sistemleri varsa ve kılavuz izin veriyorsa yapılabilir. Kepçe dişine zincir dolayarak boru indirmek ise güvenli bir yöntem değildir."},
+  {"q": "Kepçe kovasında insan taşınabilir mi?", "a": "Yönetmeliğe göre insan kaldırmak için üretilmemiş ekipman yalnızca olağanüstü veya acil istisnai durumlarda, gerekli önlemlerle ve gözetim altında kullanılabilir. Kepçe kovası olağan işlerde insan kaldırmak için kullanılmamalıdır; bunun için sepetli platform gerekir."},
+  {"q": "Kepçenin periyodik kontrolü gerekli mi?", "a": "Evet. Yönetmeliğin EK-III'ünde yükleyiciler, kazıcı yükleyiciler ve hidrolik kazıcılar için ilgili TS EN 474 standartlarına göre, standartta süre belirtilmemişse yılda bir periyodik kontrol öngörülür."},
+  {"q": "Kepçe yerine hangi makine kullanılmalı?", "a": "İşe göre değişir: kanal içine boru indirmek ve trafo yerleştirmek için hiyap veya mobil vinç, palet taşımak için forklift veya teleskopik yükleyici, insanlı çalışma için sepetli platform uygundur."}
+ ]
+}

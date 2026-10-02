@@ -1,0 +1,75 @@
+{
+ "slug": "vinc-calismasinda-komsu-mulke-zarar-sorumluluk",
+ "_hedef": "vinç komşu araca zarar verdi kim öder",
+ "title": "Vinç Çalışmasında Komşu Mülke Zarar: Kim Sorumlu?",
+ "ogTitle": "Vinç Çalışmasında Komşu Binaya ve Park Halindeki Araca Zarar: Kim Sorumlu, Nasıl Önlenir, Sigortaya Ne Sorulur?",
+ "h1": "Vinç çalışmasında komşu mülke ve araçlara zarar: kim sorumlu?",
+ "desc": "Vinç çalışmasında komşu binaya veya park halindeki araca zarar gelirse kim sorumlu? Sorumluluk dağılımı, önleme kontrol listesi ve sigortaya sorulacak sorular.",
+ "image": "piazza-avm-sanliurfa-cephe-tabela-sepetli-vinc.jpeg",
+ "imageAlt": "Şanlıurfa'da AVM cephesinde tabela çalışması yapan sepetli vinç",
+ "caption": "Kalabalık cadde ve otopark çevresindeki işlerde asıl risk, alanın dışındaki mülklerdir.",
+ "intro": "Vinç çalışması sırasında komşu binaya, duvara veya park halindeki bir araca zarar gelirse zarar gören kişi, zarara kimin kusuruyla yol açıldığına bakmadan önce genellikle hem vinç firmasına hem işi yaptıran tarafa başvurur; sorumluluk sonra kusur ve sözleşme üzerinden paylaştırılır. Operatör hatası, yanlış bağlama, zemin çökmesi ve alanın kapatılmaması farklı tarafları işaret eder. Şehir içinde, dar sokaklarda ve otopark kenarlarında çalışan bir firma olarak en çok sorulan sorulardan biri bu. Bu yazıda kimin hangi durumda öne çıktığını, zararı baştan nasıl önlediğimizi ve sigortacıya hangi soruları sormanız gerektiğini anlatıyoruz. Hukuki değerlendirme her olayda ayrıdır; somut bir olayda bir avukattan görüş alın.",
+ "body": [
+  {"type": "h2", "text": "Hukuki çerçeve kısaca"},
+  {"type": "p", "text": "Üçüncü kişinin malına verilen zarar Türk Borçlar Kanunu'nun haksız fiil hükümlerine göre değerlendirilir. Kusurla ve hukuka aykırı olarak zarar veren, zararı gidermekle yükümlüdür (TBK md. 49). Çalışanının işini görürken verdiği zarardan işveren de sorumludur; özen gösterdiğini ispat ederse sorumluluktan kurtulabilir (TBK md. 66). Önemli ölçüde tehlike arz eden bir işletmenin faaliyetinden doğan zararlarda ise işletme sahibi ve işletenin kusursuz sorumluluğu gündeme gelir (TBK md. 71). Vinç bir motorlu araç olduğundan, olayın niteliğine göre Karayolları Trafik Kanunu hükümleri de tartışılabilir."},
+  {"type": "p", "text": "Pratik sonuç şudur: zarar gören kişi kendi zararını tazmin ettirmek için çoğu zaman birden fazla kişiye başvurabilir. Taraflar arasındaki iç paylaşım ise sözleşmeye, kusur oranına ve olayın oluş şekline göre belirlenir. Bu paylaşımın mahkemelerde nasıl ele alındığına <a href=\"/blog/vinc-kazasinda-hukuki-sorumluluk-tazminat-emsal-kararlar\">vinç kazasında hukuki sorumluluk</a> yazımızda değindik."},
+  {"type": "h2", "text": "Hangi durumda kim öne çıkar?"},
+  {"type": "p", "text": "Aşağıdaki tablo, sahada gördüğümüz tipik durumları ve sorumluluk tartışmasında ilk akla gelen tarafı gösterir. Kesin bir hüküm değildir; somut olayda bilirkişi raporu ve sözleşme belirleyici olur."},
+  {"type": "table", "head": ["Olay", "İlk bakılan taraf", "Neden"], "rows": [
+   ["Bom döndürülürken komşu binanın saçağına çarpılması", "Vinç firması / operatör", "Makinenin kullanımı ve çalışma alanının kontrolü operatördedir"],
+   ["Yanlış bağlanan yükün kayıp park halindeki araca düşmesi", "Bağlamayı yapan taraf", "Sapancı müşterinin personeliyse müşteri, vinç firmasınınsa firma öne çıkar"],
+   ["Ayağın altındaki rögar kapağının çökmesi ve vincin yaslanması", "Paylaşımlı", "Zemin bilgisini vermek iş sahibinin, zemini değerlendirmek operatörün görevidir"],
+   ["Alan kapatılmadığı için yük alanına araç park edilmesi ve zarar görmesi", "Alanı kapatmakla yükümlü taraf", "Sözleşmede kimin alan güvenliğini sağlayacağı yazılmalıdır"],
+   ["Müşterinin bildirdiği ağırlığın yanlış çıkması, devrilme", "İş sahibi ağırlıklı, firma da tartışılır", "Yanlış bilgi verilmiştir; ancak firmanın ölçme ve sınır sistemlerini kullanması beklenir"],
+   ["Rüzgar uyarısına rağmen müşteri ısrarıyla devam edilmesi", "Paylaşımlı", "Operatörün durdurma yetkisi vardır; ısrar eden de kusur payı alabilir"]
+  ]},
+  {"type": "h2", "text": "Önleme: iş başlamadan kontrol listesi"},
+  {"type": "p", "text": "Zararların büyük kısmı kaldırmadan önceki yarım saatte önlenebilir. Sahaya vardığımızda uyguladığımız kontroller:"},
+  {"type": "ul", "items": [
+   "Bomun dönüş alanını çizgi halinde kontrol ederiz: saçak, balkon, tabela, ağaç dalı, kablo.",
+   "Yükün geçeceği güzergahın altında park halindeki araç varsa sahibine ulaşılıp aracın çekilmesini isteriz; ulaşılamıyorsa güzergahı değiştiririz.",
+   "Çalışma alanını şerit ve konilerle kapatır, gerekiyorsa yaya geçişini başka yöne yönlendiririz.",
+   "Ayak koyulacak noktada rögar, altyapı kapağı, eski kuyu veya dolgu olup olmadığını sorarız ve bakarız.",
+   "Komşu binaların cephesinin ve araçların çalışma öncesi fotoğrafını çekeriz; mevcut çizik ve çatlaklar sonradan tartışma konusu olmasın.",
+   "Kaldırma güzergahını yükün komşu mülkün üzerinden geçmeyeceği şekilde planlarız; mümkün değilse komşuyu önceden bilgilendiririz."
+  ]},
+  {"type": "p", "text": "Yol veya kaldırım kapatmak gerekiyorsa bunun için belediyeden izin alınması gerekebilir. Bu süreci <a href=\"/blog/vinc-calismasi-yol-kapatma-isgaliye-izni\">yol kapatma ve işgaliye izni</a> yazımızda anlattık. Dar sokaklarda makine seçimi için <a href=\"/blog/dar-sokak-yuksek-kat-vinc-erisimi\">dar sokak ve yüksek kat erişimi</a> yazımıza bakabilirsiniz."},
+  {"type": "h2", "text": "Zarar olursa ilk bir saat"},
+  {"type": "ul", "items": [
+   "Kaldırmayı güvenli şekilde durdurun; yük askıdaysa operatörün talimatıyla indirin.",
+   "Kimse yaralanmadıysa bile alanı kapatın ve kimseyi yaklaştırmayın.",
+   "Zararı tarih ve saatli fotoğraf ve videoyla belgeleyin; tanıkların adını ve telefonunu alın.",
+   "Zarar gören mülkün sahibine ulaşın; araç zararında gerekirse kolluğa haber verin.",
+   "Vinç firmasının ve kendi sigortacınızın acentesine aynı gün yazılı bildirim yapın.",
+   "Olayı anlatan kısa bir tutanak hazırlayıp taraflara imzalatın; imzalamayan olursa bunu tutanağa yazın."
+  ]},
+  {"type": "p", "text": "Yaralanma varsa öncelik her zaman insandır; ilk müdahale adımlarını <a href=\"/blog/santiyede-vinc-kazasi-ilk-mudahale\">şantiyede vinç kazası ilk müdahale</a> yazımızda topladık."},
+  {"type": "h2", "text": "Sigortacıya sorulacak sorular"},
+  {"type": "p", "text": "Vinç firmasının sigortası olduğunu duymak yeterli değildir; hangi riski hangi limitle karşıladığını bilmek gerekir. Teklif aşamasında şu soruları sorun ve poliçenin ilgili sayfasını isteyin:"},
+  {"type": "table", "head": ["Soru", "Neden sormalı"], "rows": [
+   ["Üçüncü şahıs mali sorumluluk teminatı var mı, limiti ne?", "Komşu binaya veya araca verilen zarar bu teminatla karşılanır"],
+   ["Teminat, makinenin çalışırken (kaldırma yaparken) verdiği zararı kapsıyor mu?", "Bazı poliçeler yalnızca seyir halindeki riski karşılar"],
+   ["Kaldırılan yükün kendisi teminatta mı?", "Yükün zararı çoğu zaman ayrı bir teminat gerektirir"],
+   ["Muafiyet tutarı ne kadar, kim karşılar?", "Küçük zararlar muafiyetin altında kalabilir"],
+   ["Poliçe hangi il ve çalışma alanlarında geçerli?", "İl dışı işlerde kapsam değişebilir"],
+   ["Bizim (iş sahibinin) sorumluluk poliçemiz bu işi kapsıyor mu?", "İnşaat all-risk veya işveren sorumluluk poliçeniz de devreye girebilir"]
+  ]},
+  {"type": "p", "text": "Hangi poliçenin hangi durumda devreye girdiğini sigortacınız ve poliçe genel şartları belirler; burada yazdıklarımız soru listesidir, teminat taahhüdü değildir. Kasko, makine kırılması ve sözleşmedeki hasar maddeleri için <a href=\"/blog/vinc-kiralama-sozlesmesi-sigorta-hasar-kim-oder\">vinç kiralama sözleşmesi ve sigorta</a> yazımıza bakın."},
+  {"type": "h2", "text": "Sözleşmeye yazılması gerekenler"},
+  {"type": "ul", "items": [
+   "Çalışma alanının kapatılması ve trafik/yaya yönlendirmesinin kimde olduğu",
+   "Zemin ve yeraltı altyapı bilgisinin kim tarafından verileceği",
+   "Yükün ağırlık ve bağlama noktası bilgisinin kim tarafından verileceği",
+   "Sapancı ve işaretçinin hangi tarafın personeli olduğu",
+   "Tarafların sigorta poliçeleri ve limitleri",
+   "Hasar halinde bildirim süresi ve tutanak usulü"
+  ]}
+ ],
+ "faqs": [
+  {"q": "Vinç park halindeki araca zarar verirse kim öder?", "a": "Araç sahibi genellikle hem vinç firmasına hem işi yaptırana başvurabilir. Zarar operatörün kullanım hatasından doğduysa vinç firması, yanlış bağlama veya alanın kapatılmaması gibi iş sahibinin üstlendiği bir kusurdan doğduysa iş sahibi öne çıkar. Somut olayda sözleşme ve bilirkişi incelemesi belirleyicidir."},
+  {"q": "Vinç firmasının sigortası komşu binadaki hasarı karşılar mı?", "a": "Üçüncü şahıs mali sorumluluk teminatı varsa ve poliçe makinenin çalışırken verdiği zararı kapsıyorsa karşılayabilir. Teminatın kapsamını, limitini ve muafiyetini iş başlamadan poliçeden kontrol edin."},
+  {"q": "Komşuya önceden haber vermek zorunlu mu?", "a": "Genel bir bildirim zorunluluğu olup olmadığı işin yerine ve izin şartlarına göre değişir; ancak yükün komşu mülkün üzerinden geçeceği veya giriş-çıkışın kapanacağı işlerde önceden haber vermek hem tartışmayı hem riski azaltır."},
+  {"q": "Zarar olduğunda ilk ne yapılmalı?", "a": "Kaldırmayı güvenli şekilde durdurun, alanı kapatın, zararı fotoğraf ve videoyla belgeleyin, tanıkları kaydedin, mülk sahibine ve sigorta acentelerine aynı gün yazılı bildirim yapın ve taraflarla tutanak düzenleyin."},
+  {"q": "Operatörü müşteri yönlendirdiyse sorumluluk değişir mi?", "a": "Değişebilir. Operatör müşterinin sevk ve idaresi altında çalışıyorsa müşterinin sorumluluğu tartışılır. Ancak operatörün güvenli olmayan bir talimatı reddetme yetkisi ve yükümlülüğü devam eder; bu yüzden sorumluluk çoğu zaman paylaşılır."}
+ ]
+}

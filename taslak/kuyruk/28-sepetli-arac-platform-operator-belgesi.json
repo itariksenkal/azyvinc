@@ -1,0 +1,148 @@
+{
+ "slug": "sepetli-arac-platform-operator-belgesi",
+ "_hedef": "sepetli araç kullanma belgesi / platform ehliyet / sepetli vinç operatör belgesi",
+ "title": "Sepetli Araç Kullanma Belgesi: Platform Ehliyeti Rehberi",
+ "ogTitle": "Sepetli araç kullanma belgesi ve platform ehliyeti: sepetli vinç operatör belgesi hangi kurumdan, nasıl alınır, sahada neye bakılır",
+ "h1": "Sepetli araç kullanma belgesi ve platform ehliyeti nasıl alınır?",
+ "desc": "Sepetli araç kullanma belgesi iki parçadır: aracı sürmek için ehliyet, sepeti kullanmak için platform operatör belgesi. Hangi kurum verir, nasıl alınır?",
+ "image": "cadde-tabela-aydinlatma-sepetli-platform.jpeg",
+ "imageAlt": "Cadde üzerinde tabela aydınlatması için açılmış sepetli platform",
+ "caption": "Sepetteki kişi aynı zamanda makinenin operatörüdür.",
+ "intro": "Sepetli araç kullanmak için iki belge gerekir: aracı yolda sürmek için ruhsattaki cinsine uygun <strong>sürücü belgesi</strong> (kamyon tescilliyse C1 veya C, iş makinesi tescilliyse G) ve sepeti, bomu ve platformu kullanmak için <strong>platform operatörlük belgesi</strong>. Sahada \"platform ehliyeti\" ya da \"sepetli vinç operatör belgesi\" denen şey bu ikinci belgedir ve bugün uygulamada çoğunlukla MEB onaylı kurslardan alınan operatörlük sertifikası olarak karşımıza çıkar. MYK zorunluluğu ve manlift özelinde ne arandığını <a href=\"/blog/manlift-sepetli-platform-ehliyeti-myk-zorunlu-mu\">manlift ehliyeti MYK zorunlu mu</a> yazımızda anlattık; bu yazı belgenin pratikte nasıl alındığına ve sahada nasıl kontrol edildiğine odaklanıyor.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "Sepetli araç ile sepetli platform aynı belgeyle mi kullanılır?"
+  },
+  {
+   "type": "p",
+   "text": "Sahada \"sepetli\" kelimesi üç farklı makine için kullanılıyor ve belgenin kapsamı bu yüzden karışıyor:"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Makine",
+    "Kim kullanır",
+    "Belgede dikkat edilecek"
+   ],
+   "rows": [
+    [
+     "Kamyon üstü sepetli vinç (sepetli araç)",
+     "Genellikle kiralama firmasının operatörü; sepette müşterinin personeli de olabilir",
+     "Araç için ehliyet sınıfı + platform operatörlüğü; sepet kumandası kimdeyse belge onda olmalı"
+    ],
+    [
+     "Kendinden yürür eklemli veya teleskopik platform",
+     "Çoğu zaman sepetteki kişi, yani işi yapan personel",
+     "Platform operatörlüğü; trafiğe çıkıyorsa ayrıca ehliyet"
+    ],
+    [
+     "Akülü makaslı platform",
+     "Sepetteki kişi",
+     "Platform kullanım eğitimi ve belgesi; trafiğe çıkmaz"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Kural basit: <strong>kumandayı kim kullanıyorsa belge onda olmalı.</strong> Kamyon üstü sepetli araçlarda kumanda hem aşağıda hem sepette olabilir. Operatör aşağıda, elektrikçi sepette çalışıyorsa ve sepetteki kişi platformu hareket ettirmiyorsa, belge yükümlülüğü operatördedir; sepetteki kişi ise yüksekte çalışma eğitimi ve kişisel koruyucu donanımla sepete girer. Sepetteki kişi platformu kendisi yönlendiriyorsa, o da operatördür."
+  },
+  {
+   "type": "h2",
+   "text": "Platform operatörlük belgesi nereden alınır?"
+  },
+  {
+   "type": "p",
+   "text": "Türkiye'de operatörlük belgesi için iki resmî kanal var: Millî Eğitim Bakanlığı'nın onayladığı kurslar ve Mesleki Yeterlilik Kurumu'nun (MYK) ulusal yeterlilikleri. Sepetli platform tarafında durum şöyle:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<strong>MEB onaylı kurs:</strong> Platform operatörlüğü eğitimi veren MEB onaylı özel kurslar ve halk eğitim merkezleri teorik ve uygulamalı eğitimin ardından sınav yapar, başarılı olana MEB onaylı sertifika verilir. Belge e-Devlet'te yaygın eğitim sertifikaları arasında görünür. Kurs süresi, ücreti ve hangi platform türlerini kapsadığı kuruma göre değiştiği için kayıttan önce yazılı olarak sorun.",
+    "<strong>MYK:</strong> MYK ile Personel Yükseltici Platform İşletmeci, İmalatçı ve Distribütörleri Derneği (PLATFORMDER) arasında 2020'de ulusal yeterlilik hazırlama protokolü imzalandı. Ekim 2026 itibarıyla MYK portalındaki ulusal yeterlilik listesinde yaptığımız aramada sepetli veya personel yükseltici platform operatörlüğü için yayımlanmış ayrı bir ulusal yeterlilik göremedik. Bu durum değişebilir; güncel listeyi MYK portalından kontrol edin.",
+    "<strong>Uluslararası kartlar:</strong> Bazı firmalar, özellikle yabancı ortaklı projelerde, uluslararası platform derneklerinin operatör kartlarını da istiyor. Bunlar iyi bir eğitim göstergesi olabilir, ancak Türk mevzuatındaki belgenin yerine geçip geçmediğini işyerinin iş güvenliği uzmanına sorun."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Belgeyi almak için adımlar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Kullanacağınız makine türünü belirleyin: kamyon üstü sepetli araç, eklemli, teleskopik veya makaslı platform. Kursun bu türleri uygulamada gösterip göstermediğini sorun.",
+    "MEB onaylı bir kurum seçin ve onay durumunu e-Yaygın sistemi veya il millî eğitim müdürlüğü üzerinden kontrol edin.",
+    "Teorik eğitimde yük ve kişi kapasitesi, devrilme, zemin, rüzgâr, elektrik hatlarına yaklaşma, acil indirme ve kişisel koruyucu donanım konularının işlendiğinden emin olun.",
+    "Uygulama eğitimini gerçek makinede yapın; sadece videoyla geçen uygulama, sahada işe yaramaz.",
+    "Sınavı geçtikten sonra belgenin e-Devlet'e işlendiğini kontrol edin ve barkodlu çıktısını saklayın.",
+    "Aracı yolda da kullanacaksanız ruhsata bakın: kamyon tescilliyse C1 veya C, iş makinesi tescilliyse G sınıfı sürücü belgesi gerekir."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Belge yetmez: makineye özgü tanıtım"
+  },
+  {
+   "type": "p",
+   "text": "Platformların kumanda düzeni markadan markaya değişir. Acil indirme vanasının yeri, eğim alarmının nasıl çalıştığı, sepet yük sınırı sensörünün neyi kestiği aynı değildir. Bu yüzden belgeli bir operatöre de ilk kez kullanacağı makine için kısa bir tanıtım yapılması gerekir. Kuru kiralamada (operatörsüz) bu tanıtımın teslim sırasında makine başında yapılması ve tanıtımı alan kişinin adının teslim tutanağına yazılması iyi bir uygulamadır. Günlük kontrol için <a href=\"/blog/manlift-sepetli-platform-gunluk-kontrol-formu\">manlift ve sepetli platform günlük kontrol formu</a> kullanılabilir."
+  },
+  {
+   "type": "h2",
+   "text": "Sahada belge kontrolü: üç soru"
+  },
+  {
+   "type": "p",
+   "text": "İşveren ya da şantiye şefi olarak sepetli aracın başında şu üç soruyu sormak çoğu sorunu yakalar:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<strong>Kumandayı kim kullanacak?</strong> Belge o kişide mi?",
+    "<strong>Belge bu makine türünü kapsıyor mu?</strong> Akülü makaslı platform eğitimi alan biri, kamyon üstü 30 metrelik sepetli araçta deneyimli olmayabilir.",
+    "<strong>Sepette kim olacak?</strong> Sepetteki herkesin yüksekte çalışma eğitimi, tam vücut kemeri ve bağlantı noktası var mı? Ayrıntısı için <a href=\"/blog/yuksekte-calisma-is-guvenligi-kkd-sepetli-platform\">yüksekte çalışma ve KKD rehberimize</a> bakın."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Belgesiz çalıştırma ve eksik eğitim, yüksekte çalışma denetimlerinde idari para cezasına yol açabilir; bunun hangi maddelere dayandığını <a href=\"/blog/vinc-yuksekte-calisma-isg-idari-para-cezalari\">yüksekte çalışma İSG cezaları</a> yazımızda derledik."
+  },
+  {
+   "type": "h2",
+   "text": "Belge ile deneyim arasındaki boşluk"
+  },
+  {
+   "type": "p",
+   "text": "Kursu yeni bitirmiş bir operatör belgelidir, ama 20 metrenin üzerindeki bir yükseklikte, rüzgârda ve trafiğin aktığı bir caddede ilk işini yapmamalıdır. Yeni operatörlerin ilk haftalarını deneyimli birinin yanında, alçak ve kapalı alanlarda geçirmesi en sağlıklı yoldur. Kiralama firmasına \"belgeli mi\" sorusunun yanında \"bu yükseklikte ve bu tip makinede ne kadar deneyimi var\" sorusunu da sormak, belgenin söyleyemediği şeyi öğrenmenizi sağlar."
+  },
+  {
+   "type": "h2",
+   "text": "Operatörlü mü, kuru kiralama mı?"
+  },
+  {
+   "type": "p",
+   "text": "Ekibinizde belgeli platform operatörü yoksa ve iş birkaç günlükse, operatörlü kiralama hem belge hem sorumluluk açısından en sade yoldur: aracı ve sepeti bizim belgeli operatörümüz kullanır, sizin personeliniz sepette kendi işini yapar. Uzun süreli işlerde ise kendi personelinizi eğitip makineyi kuru kiralamak daha ekonomik olabilir; bu durumda belge sorumluluğu size geçer. AZY Vinç olarak Şanlıurfa, Diyarbakır, Mardin, Gaziantep, Adıyaman ve Kilis'te her iki şekilde de çalışıyoruz; bölge sayfaları için <a href=\"/bolgeler/sanliurfa-vinc-kiralama\">Şanlıurfa vinç kiralama</a> sayfamıza bakabilirsiniz."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Sepetli araç kullanma belgesi nedir?",
+   "a": "Sepetli aracın sepetini, bomunu ve platformunu kullanma yetkisini gösteren operatörlük belgesidir. Aracı yolda sürmek için ayrıca ruhsattaki cinsine uygun sürücü belgesi gerekir."
+  },
+  {
+   "q": "Platform ehliyeti nereden alınır?",
+   "a": "Uygulamada MEB onaylı kurslardan teorik ve uygulamalı eğitimin ardından sınavla alınır. MYK'da ayrı bir platform operatörü ulusal yeterliliği olup olmadığını güncel MYK listesinden kontrol edin."
+  },
+  {
+   "q": "Sepetli vinç için hangi ehliyet gerekir?",
+   "a": "Araç kamyon olarak tescilliyse azami yüklü ağırlığına göre C1 veya C, iş makinesi olarak tescilliyse G sınıfı sürücü belgesi gerekir."
+  },
+  {
+   "q": "Sepette çalışan elektrikçinin de belgesi olmalı mı?",
+   "a": "Platformu kendisi yönlendiriyorsa evet, o da operatördür. Sadece sepette çalışıyor ve kumandayı başkası kullanıyorsa yüksekte çalışma eğitimi ve kişisel koruyucu donanımla çalışması gerekir."
+  },
+  {
+   "q": "Operatörlü kiralamada belgeyi kim sağlar?",
+   "a": "Platformu kullanan operatörün belgesi kiralama firmasının sorumluluğundadır. Sepette çalışan kendi personelinizin eğitimi ise sizin sorumluluğunuzdadır."
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "slug": "vinc-kiralama-minimum-saat-ve-yol-ucreti",
+ "_hedef": "mobil vincin 1 saatlik ücreti",
+ "title": "Mobil Vincin 1 Saatlik Ücreti: Minimum Saat ve Yol",
+ "ogTitle": "Mobil Vincin 1 Saatlik Ücreti Neden Tek Saat Üzerinden Hesaplanmaz? Minimum Süre ve Yol Ücreti",
+ "h1": "Mobil vincin 1 saatlik ücreti: minimum süre ve yol ücreti neden var?",
+ "desc": "Mobil vincin 1 saatlik ücreti tek başına anlamlı değil: çoğu firma minimum süre ve yol ücreti uygular. Bunların nedenini ve fiyatı belirleyen etkenleri anlattık.",
+ "image": "mobil-vinc-saha-azy-vinc.jpeg",
+ "imageAlt": "AZY Vinç mobil vinci iş sahasında kurulu halde",
+ "caption": "Vincin sahada kaldırma yaptığı süre, işin toplam süresinin yalnızca bir parçasıdır.",
+ "intro": "Mobil vincin 1 saatlik ücreti telefonda en çok sorulan sorudur, ama tek saat üzerinden fiyat vermek çoğu işte yanıltıcıdır: firmaların büyük kısmı bir minimum süre (çoğunlukla birkaç saat veya yarım gün) ve mesafeye göre yol ücreti uygular. Sebebi basit: vinç sizin işiniz için garajdan çıktığı andan geri döndüğü ana kadar başka bir işe gidemez. Bu yazıda minimum sürenin ve yol ücretinin nereden geldiğini, saatlik fiyatı neyin belirlediğini ve kısa işlerde maliyeti düşürmenin yollarını anlatıyoruz. TL rakam vermiyoruz; çünkü fiyat makineye, mesafeye ve işe göre değişir, net fiyat için işinizi tarif etmeniz gerekir.",
+ "body": [
+  {"type": "h2", "text": "Bir saatlik iş aslında kaç saat sürer?"},
+  {"type": "p", "text": "Müşteri açısından iş, vincin klimayı çatıya koyduğu yirmi dakikadır. Firma açısından ise aynı iş şu adımlardan oluşur. Aşağıdaki tablo, şehir içinde orta mesafedeki tipik bir kısa işin zaman dağılımını gösteriyor; süreler örnek amaçlıdır."},
+  {"type": "table", "head": ["Adım", "Ne olur", "Örnek süre"], "rows": [
+   ["Hazırlık", "Makinenin günlük kontrolü, ekipmanın yüklenmesi", "20-30 dk"],
+   ["Gidiş", "Garajdan sahaya yol", "Mesafeye göre"],
+   ["Kurulum", "Konumlanma, ayakların açılması, sedye plakaları, terazileme", "15-30 dk"],
+   ["Kaldırma", "Asıl iş", "20 dk-1 sa"],
+   ["Toplama", "Bomun kapatılması, ayakların toplanması", "15-20 dk"],
+   ["Dönüş", "Sahadan garaja ya da sonraki işe", "Mesafeye göre"]
+  ]},
+  {"type": "p", "text": "Kaldırma yirmi dakika sürse bile makine ve operatör en az birkaç saat bu işe ayrılmış olur. Minimum süre, bu ayrılmış zamanın karşılığıdır. Yalnızca kaldırma süresine fiyat veren bir firma ya o zamanı başka bir kaleme eklemiştir ya da sahada \"ek süre\" diye karşınıza çıkar."},
+  {"type": "h2", "text": "Minimum süre neden var?"},
+  {"type": "ul", "items": [
+   "Makinenin sabit giderleri saatle değil günle işler: sigorta, periyodik kontrol, amortisman, bakım, otopark.",
+   "Operatör o gün için ayrılmıştır; kısa bir işten sonra uzak bir ikinci işe yetişmek her zaman mümkün olmaz.",
+   "Kurulum ve toplama süresi işin büyüklüğünden bağımsızdır; küçük bir kaldırma için de ayaklar aynı şekilde açılır.",
+   "Gün içinde iki kısa işi aynı makineyle yapmak, işlerin aynı bölgede ve uygun saatlerde olmasına bağlıdır."
+  ]},
+  {"type": "p", "text": "Minimum sürenin uzunluğu firmaya ve makineye göre değişir. Büyük tonajlı mobil vinçlerde kurulum ve karşı ağırlık işleri uzun sürdüğü için minimum süre genellikle daha uzundur; küçük hiyap ve sepetli araçlarda daha kısadır. Hangi süre seçeneğinin işinize uygun olduğunu <a href=\"/blog/saatlik-gunluk-aylik-vinc-kiralama\">saatlik, günlük, aylık vinç kiralama</a> yazımızda karşılaştırdık."},
+  {"type": "h2", "text": "Yol ücreti neden ayrı yazılır?"},
+  {"type": "p", "text": "Yol ücreti, makinenin sahaya gidip gelmesinin karşılığıdır. Mobil vinçler ağır araçlardır; yakıt tüketimleri yüksektir, bazı güzergahlarda hız ve yol kısıtları vardır, büyük tonajlarda karşı ağırlık için ikinci bir araç gerekebilir. Şehir içi kısa mesafelerde çoğu firma yol ücretini fiyatın içinde verir; ilçe ve il dışı işlerde ayrı bir kalem olarak yazar."},
+  {"type": "p", "text": "Ayrı yazılması şeffaflık içindir: Şanlıurfa merkezde bir iş ile Ceylanpınar veya Siverek'te aynı iş, sahadaki süre açısından aynıdır ama yol açısından değildir. Yol ücretini fiyatın içine gömen bir teklif, kısa mesafedeki müşteriye de uzak mesafenin maliyetini yansıtır. Bu kalemin nasıl hesaplandığını <a href=\"/blog/2026-vinc-kiralama-maliyeti-mazot-mtv-tasima-neden-degisir\">2026 vinç kiralama maliyeti</a> yazımızda daha ayrıntılı anlattık."},
+  {"type": "h2", "text": "Saatlik ücreti belirleyen etkenler"},
+  {"type": "table", "head": ["Etken", "Fiyata etkisi"], "rows": [
+   ["Makinenin tonajı ve bom uzunluğu", "Kapasite arttıkça makinenin değeri, sigortası ve yakıt tüketimi artar"],
+   ["Makine tipi", "Hiyap, sepetli platform, mobil vinç ve paletli vincin maliyet yapıları farklıdır"],
+   ["Mesafe", "Yol ücretini ve günün kaç işe bölünebileceğini belirler"],
+   ["Saha koşulları", "Dar sokak, eğimli veya zayıf zemin kurulum süresini uzatır"],
+   ["Çalışma saati", "Gece, hafta sonu ve bayram çalışmalarında fark uygulanabilir"],
+   ["Ek personel ve ekipman", "İşaretçi, sapancı, özel sapan veya travers ek maliyettir"],
+   ["Toplam süre", "Uzun işlerde saatlik birim fiyat genellikle düşer"]
+  ]},
+  {"type": "p", "text": "Hangi makinenin gerektiğini belirlemek de fiyatın parçasıdır; ihtiyacınızdan büyük bir vinç daha pahalıdır, küçüğü ise işi yapamaz. Bunun için <a href=\"/blog/kac-tonluk-vinc-gerekir\">kaç tonluk vinç gerekir</a> yazımıza bakabilirsiniz."},
+  {"type": "h2", "text": "Kısa işlerde maliyeti düşürmenin yolları"},
+  {"type": "ul", "items": [
+   "İşleri birleştirin: klimayı çıkarırken tabelayı da asın, aynı gün komşunun işini de yaptırın.",
+   "Sahayı hazırlayın: vinç geldiğinde yük bağlanmaya hazır, alan boş, araçlar çekilmiş olsun. Bekleme, minimum sürenin dışına taşan en pahalı kalemdir.",
+   "Yükün ağırlığını ve ölçüsünü önceden bildirin: doğru makine ilk seferde gelir, ikinci sefer ücreti çıkmaz.",
+   "Esnek saat verin: firmanın aynı bölgedeki başka bir işinin öncesine veya sonrasına denk gelen saat, yol maliyetini paylaştırabilir.",
+   "Teklifte süre esasını yazılı isteyin: minimum süre kaç saat, aşımda saat ücreti ne, yol ücreti dahil mi?"
+  ]},
+  {"type": "p", "text": "Tekliflerde gözden kaçan diğer kalemler için <a href=\"/blog/vinc-kiralamada-gizli-maliyetler\">vinç kiralamada gizli maliyetler</a> yazımıza bakın. Şanlıurfa'nın ilçelerine ulaşım süreleri hakkında bilgi için <a href=\"/blog/urfa-ilcelerine-mudahale-suresi\">ilçelere müdahale süresi</a> yazımızı okuyabilirsiniz."},
+  {"type": "h2", "text": "Fiyat sorarken söylemeniz gerekenler"},
+  {"type": "p", "text": "Telefonda daha net bir fiyat almak için şunları hazır edin: kaldırılacak yükün yaklaşık ağırlığı ve ölçüsü, kaldırma yüksekliği ve vincin yükten ne kadar uzağa kurulacağı, adres ve sokak genişliği, işin tahmini süresi, istenen tarih ve saat. Bu bilgilerle verilen fiyat sahada değişmez; eksik bilgiyle verilen fiyat ise çoğu zaman değişir. Mümkünse sahanın ve yükün birkaç fotoğrafını da gönderin; kurulum yerini ve engelleri görmek, hangi makinenin ve ne kadar sürenin gerektiğini telefonda tarif etmekten çok daha hızlı netleştirir."}
+ ],
+ "faqs": [
+  {"q": "Mobil vincin 1 saatlik ücreti ne kadar?", "a": "Tek saatlik fiyat makinenin tonajına, mesafeye ve saha koşullarına göre değişir ve çoğu firma tek saat yerine minimum süre üzerinden fiyat verir. Net fiyat için yükün ağırlığını, kaldırma yüksekliğini, adresi ve tahmini süreyi bildirerek teklif isteyin."},
+  {"q": "Vinç neden bir saatlik işe yarım gün ücret alıyor?", "a": "Makine ve operatör, hazırlık, gidiş, kurulum, toplama ve dönüş süreleri boyunca başka bir işe gidemez. Kaldırma kısa sürse bile ayrılan zaman birkaç saati bulur; minimum süre bunun karşılığıdır."},
+  {"q": "Yol ücreti her işte alınır mı?", "a": "Şehir içi kısa mesafelerde çoğu zaman fiyata dahil edilir; ilçe ve il dışı işlerde genellikle ayrı yazılır. Teklifte yol ücretinin dahil olup olmadığını yazılı olarak sorun."},
+  {"q": "Minimum süreyi aşarsam ne olur?", "a": "Aşan süre genellikle teklifte belirtilen saat ücretiyle faturalanır. Aşımın nasıl hesaplanacağını (tam saat mi, yarım saat mi) iş başlamadan netleştirin ve sahada puantajla kayda geçirin."},
+  {"q": "Kısa bir iş için daha ucuz seçenek var mı?", "a": "Yük hafif ve erişim uygunsa hiyap veya küçük tonajlı bir araç daha ekonomik olabilir. İşleri birleştirmek, sahayı hazır tutmak ve esnek saat vermek de maliyeti düşürür."}
+ ]
+}

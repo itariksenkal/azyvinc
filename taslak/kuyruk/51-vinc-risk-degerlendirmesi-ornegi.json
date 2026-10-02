@@ -1,0 +1,58 @@
+{
+ "slug": "vinc-risk-degerlendirmesi-ornegi",
+ "_hedef": "vinç risk değerlendirmesi örneği",
+ "title": "Vinç Risk Değerlendirmesi Örneği: Mobil Vinç Tablosu",
+ "ogTitle": "Vinç Risk Değerlendirmesi Örneği: Mobil Vinç İşi İçin Tehlike, Risk ve Kontrol Tablosu",
+ "h1": "Vinç risk değerlendirmesi örneği: mobil vinç işi için tablo",
+ "desc": "Mobil vinç işi için örnek risk değerlendirmesi: devrilme, yük düşmesi, enerji hattı, ezilme. Olasılık-şiddet puanlaması ve kontrol önlemleriyle hazır tablo.",
+ "image": "tp-totem-tabela-sepetli-vinc.jpeg",
+ "imageAlt": "Akaryakıt istasyonunda totem tabela montajı yapan vinç",
+ "caption": "Kısa bir totem montajı da olsa tehlikeler aynıdır: zemin, yük, alan ve hava.",
+ "intro": "Mobil vinç işi için risk değerlendirmesi; devrilme, yükün düşmesi, enerji hattına temas, ezilme-sıkışma ve hava koşulları gibi tehlikeleri listeleyip her birinin olasılığını ve şiddetini puanlayan, ardından riski kabul edilebilir seviyeye indiren kontrol önlemlerini yazan bir tablodur. Aşağıda sahada kullandığımız yapıya benzer bir örnek veriyoruz. Bu tablo işyerinizin risk değerlendirmesinin yerini tutmaz: İş Sağlığı ve Güvenliği Risk Değerlendirmesi Yönetmeliği'ne göre değerlendirme, işverenin oluşturduğu ekip tarafından ve iş güvenliği uzmanının katılımıyla yapılır. Bizim örneğimiz, o ekibin vinç işine özgü satırları atlamaması için bir başlangıç noktasıdır.",
+ "body": [
+  {"type": "h2", "text": "Kimin risk değerlendirmesi?"},
+  {"type": "p", "text": "Vinç kiralanan bir işte iki risk değerlendirmesi vardır. İşin yapıldığı yerin işvereni (şantiye, fabrika) kendi işyerinin değerlendirmesini yapar ve dışarıdan gelen vinç faaliyetini buna dahil eder. Vinç firması da kendi faaliyetinin, yani makinenin kurulması, kullanılması ve operatörün çalışmasının değerlendirmesine sahiptir. Aynı alanda birden fazla işveren çalıştığında 6331 sayılı İş Sağlığı ve Güvenliği Kanunu işverenlerin işbirliği ve koordinasyonunu ister. Pratikte bu, iki tarafın değerlendirmesinin iş başlamadan karşılaştırılması ve boşlukların kapatılması demektir."},
+  {"type": "p", "text": "Risk değerlendirmesi bir kez yapılıp rafa kaldırılan bir belge değildir. Yönetmelik; çok tehlikeli, tehlikeli ve az tehlikeli sınıftaki işyerlerinde sırasıyla en geç iki, dört ve altı yılda bir yenilemeyi; işyerinin taşınması, yeni teknoloji veya ekipman kullanılması, iş kazası ya da ramak kala olay gibi durumlarda ise süre beklemeden güncellemeyi öngörür. Sahaya yeni bir vincin girmesi bu güncelleme sebeplerinden biri olabilir; iş güvenliği uzmanınıza sorun."},
+  {"type": "h2", "text": "Puanlama yöntemi"},
+  {"type": "p", "text": "Yönetmelik tek bir yöntem dayatmaz. Sahada en yaygın kullanılan yöntem 5x5 matristir: olasılık (O) 1 ile 5, şiddet (Ş) 1 ile 5 arasında puanlanır ve risk skoru R = O x Ş olarak bulunur. Aşağıdaki eşikler yaygın bir örnektir; kendi işyerinizde kullanılan eşikleri esas alın."},
+  {"type": "table", "head": ["Skor", "Risk seviyesi", "Yapılacak"], "rows": [
+   ["1-5", "Düşük", "Mevcut kontrollerle devam, izleme"],
+   ["6-12", "Orta", "Ek kontroller planlanır, iş başlamadan uygulanır"],
+   ["15-25", "Yüksek", "Risk düşürülmeden iş başlamaz"]
+  ]},
+  {"type": "h2", "text": "Örnek tablo: mobil vinçle çatıya klima santrali kaldırma"},
+  {"type": "p", "text": "Senaryo: 3 katlı bir binanın çatısına yaklaşık 2 tonluk klima santrali kaldırılacak. Vinç kaldırımın yanındaki yola kurulacak, binanın önünde park halinde araçlar ve yaya trafiği var, 30 metre ileride orta gerilim hattı geçiyor. Puanlar \"önlem alınmadan önce\" ve \"önlemler alındıktan sonra\" olarak iki kez verilmiştir."},
+  {"type": "table", "head": ["Tehlike", "Risk", "O x Ş (önce)", "Kontrol önlemleri", "O x Ş (sonra)", "Sorumlu"], "rows": [
+   ["Zayıf zemin, rögar, dolgu", "Ayağın çökmesi, devrilme", "3x5=15", "Zemin bilgisi alınır, ayak noktaları kontrol edilir, sedye plakası kullanılır, rögar üzerine ayak konmaz", "1x5=5", "Operatör, iş sahibi"],
+   ["Yük ağırlığının bilinmemesi", "Aşırı yükleme, devrilme", "3x5=15", "Etiket ve üretici belgesinden ağırlık teyidi, yük tablosundan yarıçap kontrolü, kapasite payı bırakılır", "1x5=5", "İş sahibi, operatör"],
+   ["Yanlış bağlama, uygun olmayan sapan", "Yükün kayması, düşmesi", "3x5=15", "Üretici kaldırma noktaları kullanılır, belgeli sapan ve kilit, deneme kaldırması", "1x5=5", "Sapancı"],
+   ["Yük altında insan bulunması", "Ölüm, ağır yaralanma", "3x5=15", "Alan şerit ve koniyle kapatılır, yaya yönlendirmesi, gözcü", "1x5=5", "İş sahibi, işaretçi"],
+   ["Enerji hattı", "Elektrik çarpması", "2x5=10", "Bomun en uç konumu dahil mesafe ölçülür, gerekirse elektrik idaresinden enerji kesme veya uygun önlem talep edilir, gözcü", "1x5=5", "Operatör, iş sahibi"],
+   ["Rüzgar", "Yükün salınması, devrilme", "3x4=12", "Rüzgar ölçümü, üretici sınırının aşılmasında iş durdurulur, kılavuz halat", "1x4=4", "Operatör"],
+   ["Park halindeki araçlar, komşu bina", "Mülke zarar", "3x3=9", "Araçlar çektirilir, dönüş alanı kontrol edilir, öncesi fotoğrafı çekilir", "1x3=3", "İş sahibi"],
+   ["Çatıda karşılayan personel", "Düşme, ezilme", "3x5=15", "Çatı kenarı koruması veya tam vücut kemer, yük durmadan yaklaşılmaz, kılavuz halatla yönlendirme", "1x5=5", "İş sahibi"],
+   ["Haberleşme kopukluğu", "Yanlış hareket", "3x4=12", "Tek yetkili işaretçi, telsiz, işaretlerin önceden prova edilmesi", "1x4=4", "İşaretçi, operatör"],
+   ["Makine arızası", "Kontrol kaybı", "2x5=10", "Günlük kontrol formu, güncel periyodik kontrol raporu, yük moment göstergesinin çalışması", "1x5=5", "Vinç firması"]
+  ]},
+  {"type": "p", "text": "Tablodaki puanlar bu senaryo için yaptığımız bir örnektir; sizin sahanızda farklı çıkabilir. Önemli olan, her satırda kontrol önleminin somut olması ve bir sorumlusunun bulunmasıdır. \"Dikkat edilecek\" gibi ifadeler kontrol önlemi değildir. Kontrol önlemlerini yazarken öncelik sırası da önemlidir: önce tehlikeyi ortadan kaldırmak (örneğin enerji hattını kestirmek), sonra mühendislik önlemi (sedye plakası, alan bariyeri), ardından talimat ve eğitim, en son kişisel koruyucu donanım gelir."},
+  {"type": "h2", "text": "Sık atlanan satırlar"},
+  {"type": "ul", "items": [
+   "Vincin sahaya giriş ve çıkışı: geri manevra, dar kapı, eğimli rampa.",
+   "Kurulum sırasında ayakların açılması: ayakla duvar arasında sıkışma.",
+   "Gece çalışması: aydınlatma yetersizliği, görüş mesafesi.",
+   "Yaz sıcağı: operatör yorgunluğu, hidrolik yağ sıcaklığı. Şanlıurfa'da temmuz ve ağustosta bu satır ciddiye alınmalı.",
+   "Aynı alanda çalışan başka makineler: beton pompası, kule vinç, forklift.",
+   "Acil durum: yük askıdayken makine arızalanırsa ne yapılacak, ilk yardımcı kim?"
+  ]},
+  {"type": "h2", "text": "Risk değerlendirmesinden kaldırma planına"},
+  {"type": "p", "text": "Risk değerlendirmesi \"ne ters gidebilir\" sorusunu cevaplar; kaldırma planı ise \"bu işi adım adım nasıl yapacağız\" sorusunu. Kritik kaldırmalarda ikisi birlikte hazırlanır. Kaldırma planının içeriğini <a href=\"/blog/vinc-kaldirma-plani-lift-plan-nasil-hazirlanir\">kaldırma planı nasıl hazırlanır</a> yazımızda anlattık. Sahaya gelecek vinç firmasından isteyeceğiniz belgelerin listesi <a href=\"/blog/vinc-firmasindan-istenecek-evraklar-isg-dosyasi\">İSG dosyası</a> yazımızda yer alıyor."},
+  {"type": "p", "text": "Tablodaki iki kritik satır için ayrıntılı rehberlerimiz var: enerji hattı yakınında çalışma için <a href=\"/blog/vinc-elektrik-hattina-yaklasma-guvenlik-mesafesi\">elektrik hattına yaklaşma mesafesi</a>, zemin için <a href=\"/blog/vinc-ayak-outrigger-zemin-basinci-sedye-plakasi\">vinç ayağı ve zemin basıncı</a> yazılarımız."}
+ ],
+ "faqs": [
+  {"q": "Vinç risk değerlendirmesini kim yapar?", "a": "İşyerinin risk değerlendirmesini, işverenin oluşturduğu ve iş güvenliği uzmanının da bulunduğu ekip yapar. Vinç firması kendi faaliyetine ait değerlendirmeyi hazırlar; aynı alanda çalışan işverenler bu değerlendirmeleri koordine eder."},
+  {"q": "Vinç risk değerlendirmesinde hangi tehlikeler olmalı?", "a": "En azından zemin ve devrilme, yük ağırlığı ve aşırı yükleme, bağlama ve yük düşmesi, yük altında insan, enerji hattı, rüzgar ve hava, çevredeki mülkler, haberleşme ve makine arızası satırları bulunmalıdır."},
+  {"q": "5x5 matris zorunlu mu?", "a": "Yönetmelik belirli bir yöntemi zorunlu tutmaz; işyerinin niteliğine uygun bir yöntem seçilir. 5x5 olasılık-şiddet matrisi sahada en yaygın kullanılan yöntemlerden biridir."},
+  {"q": "Risk değerlendirmesi ne sıklıkla yenilenir?", "a": "Risk Değerlendirmesi Yönetmeliği'ne göre çok tehlikeli, tehlikeli ve az tehlikeli sınıflarda en geç iki, dört ve altı yılda bir yenilenir. Yeni ekipman kullanılması, iş kazası veya ramak kala olay gibi durumlarda süre beklenmeden güncellenir."},
+  {"q": "Risk değerlendirmesi ile kaldırma planı aynı şey mi?", "a": "Hayır. Risk değerlendirmesi tehlikeleri ve kontrol önlemlerini belirler; kaldırma planı ise işin adım adım nasıl yapılacağını, hangi vinçle, hangi yarıçapta ve hangi ekiple yürütüleceğini anlatır. Kritik kaldırmalarda ikisi birlikte hazırlanır."}
+ ]
+}

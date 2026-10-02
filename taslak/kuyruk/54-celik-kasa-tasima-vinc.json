@@ -1,0 +1,172 @@
+{
+ "slug": "celik-kasa-tasima-vinc",
+ "_hedef": "çelik kasa taşıma vinç",
+ "title": "Çelik Kasa Taşıma: Hiyap mı, Vinç mi? Saha Rehberi",
+ "ogTitle": "Banka ve Kuyumcu Çelik Kasası Taşıma: Hiyap mı Vinç mi, Döşeme Yükü ve Gizlilik Nasıl Yönetilir?",
+ "h1": "Çelik Kasa Taşımada Hiyap ve Vinç Kullanımı: Banka, Kuyumcu ve Ofis İçin Rehber",
+ "desc": "Çelik kasa taşıma hiyap mı vinç mi ister? Ağırlık, döşeme taşıma gücü, pencereden alma, gizlilik, riskler ve kuyumcu ile banka kasaları için kontrol listesi.",
+ "image": "avm-magaza-tabela-hiyap-vinc.jpeg",
+ "imageAlt": "AVM önünde mağaza işinde çalışan hiyap vinç",
+ "caption": "Kasa işinde zor kısım çoğu zaman kaldırma değil, kasanın binanın içinde yürütülmesidir.",
+ "intro": "Çelik kasa taşımada zemin katta, kapıya yanaşılabilen işlerde hiyap genellikle yeterlidir; kasa üst kata çıkacak ya da bina içinden geçemeyecekse mobil vinçle pencereden veya balkondan alınır. Asıl karar ise kasanın ağırlığını binanın döşemesinin taşıyıp taşımadığıdır; bu soru vinçten önce sorulmalıdır. Aşağıda kuyumcu, banka ve ofis kasalarını taşırken izlediğimiz yolu anlatıyoruz.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "Kasa işi neden sıradan bir yük değildir?"
+  },
+  {
+   "type": "p",
+   "text": "Çelik kasalar küçük hacimde çok ağırdır. Ağırlık birkaç yüz kilodan birkaç tona kadar çıkar ve bu ağırlık küçük bir taban alanına biner. Bu, üç sonuç doğurur: kasayı taşıyan döşeme, merdiven veya asansör noktasal yük altında kalır; kasa devrilmeye yatkındır çünkü kapısı açıldığında ağırlık merkezi öne kayar; ve çoğu kasa düzgün kaldırma noktası olmadan, alttan çatal veya kayışla kaldırılmak zorundadır. Bunun yanında kuyumcu ve banka kasalarında bir de gizlilik ve güvenlik boyutu vardır."
+  },
+  {
+   "type": "h2",
+   "text": "Hiyap mı, vinç mi? Karar tablosu"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Durum",
+    "Önerdiğimiz",
+    "Not"
+   ],
+   "rows": [
+    [
+     "Zemin kat dükkan, kapıya araç yanaşıyor",
+     "Hiyap + kasa arabası/transpalet",
+     "Kapı eşiği ve döşeme yükü kontrol edilir"
+    ],
+    [
+     "Bodrum kat, rampa yok",
+     "Hiyap veya küçük mobil vinçle merdiven boşluğundan, ya da kasa ekibiyle kızakla",
+     "Merdivenin yükü taşıyıp taşımadığı sorulur"
+    ],
+    [
+     "1. veya 2. kat, pencere/balkon sökülebilir",
+     "Hiyap veya orta tonaj mobil vinç",
+     "Doğrama sökümü işten önce yapılır"
+    ],
+    [
+     "Yüksek kat, ağır kasa",
+     "Mobil vinç",
+     "Yarıçap ve pencere ölçüsü belirleyici"
+    ],
+    [
+     "AVM içi mağaza",
+     "Forklift veya kasa ekibi, dışarıda hiyap",
+     "AVM yönetiminin kuralları geçerli"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Araç üstü vinç ile mobil vinç arasındaki genel farkları <a href=\"/blog/hiyap-arac-ustu-vinc-mi-mobil-vinc-mi\">bu yazıda</a>, pencereden yük alma mantığını <a href=\"/blog/vincle-ev-esyasi-tasima\">vinçle ev eşyası taşıma</a> yazısında anlattık. Kasa da aynı mantıkla alınır, ama daha ağır ve daha dar bir yük olarak."
+  },
+  {
+   "type": "h2",
+   "text": "Döşeme yükü: önce statikçiye sorun"
+  },
+  {
+   "type": "p",
+   "text": "Ağır bir kasa, yapının hesaplandığı kullanım yükünün çok üzerinde bir noktasal yük oluşturabilir. Eski binalarda, ahşap veya asmolen döşemelerde, kat ilavesi yapılmış yapılarda bu risk daha da büyür. Kasanın konacağı noktanın ve taşınırken geçeceği güzergahın (merdiven sahanlığı, koridor, balkon) bu yükü taşıyıp taşımadığına bir inşaat mühendisi karar vermelidir. Biz bu kararı veremeyiz; ama ağırlık ve taban ölçüsünü mühendise iletmenizi, gerekirse yükü dağıtacak çelik plaka veya kalın kontrplak kullanılmasını isteriz."
+  },
+  {
+   "type": "h2",
+   "text": "Ağırlık nereden öğrenilir?"
+  },
+  {
+   "type": "p",
+   "text": "Kasanın etiketinde ya da faturasında ağırlık genellikle yazar. Hırsızlığa dayanım sınıfı EN 1143-1 standardına göre belirlenmiş kasalarda sınıf ve model bilgisi genellikle kasanın üzerindeki plakada yazar; bu bilgiyle üreticiden ağırlığı öğrenmek kolaylaşır. Etiket yoksa kasanın dış ölçüleri ve marka-model bilgisi ile üreticiden veya satıcıdan ağırlık istenir. Ağırlık hiçbir şekilde öğrenilemiyorsa, kasa ölçüsü için en ağır ihtimali varsayıp vinç ve döşeme hesabını ona göre yaparız. İçindeki eşyalar mutlaka boşaltılır; boşaltılmayan kasada ağırlık ve sorumluluk belirsizleşir."
+  },
+  {
+   "type": "h2",
+   "text": "Keşifte sorduğumuz sorular"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Kasanın marka, model, dış ölçüleri ve ağırlığı nedir?",
+    "Kasa nereden nereye gidiyor? Kaçıncı kat, merdiven mi asansör mü?",
+    "Kapı, koridor ve pencere ölçüleri kasanın geçmesine izin veriyor mu?",
+    "Kasa zemine veya duvara ankrajlı mı? Sökümünü kim yapacak?",
+    "Kasa boşaltıldı mı, kapısı kilitli ve sabit mi?",
+    "Döşeme için mühendis görüşü alındı mı?",
+    "Araç kaldırımın veya yolun neresine yanaşacak, izin gerekiyor mu?"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Gizlilik ve güvenlik"
+  },
+  {
+   "type": "p",
+   "text": "Kuyumcu ve banka kasalarında işin tarihi ve saati dar bir çevrede bilinmelidir. İş için ekipten istediğiniz kimlik bilgilerini önceden paylaşırız. Kasa taşınırken boş olmalı; içi dolu kasa taşımak hem sigorta hem güvenlik açısından ayrı bir iş türüdür ve bu tür işlerde değerli eşya taşımacılığına yetkili firmalarla çalışılmalıdır. Kasanın yerine konması ve ankrajı, kasa firmasının veya kurumun güvenlik biriminin sorumluluğundadır."
+  },
+  {
+   "type": "h2",
+   "text": "Örnek: ikinci kattaki ofise kasa çıkarmak"
+  },
+  {
+   "type": "p",
+   "text": "İkinci kattaki bir ofise orta ağırlıkta bir kasa çıkarılacağını, merdivenin dar ve dönemeçli olduğunu düşünelim. İlk adım, kasanın konacağı noktayı ve balkondan oraya kadar geçeceği güzergahı bir mühendise göstermektir. Mühendis uygun bulursa yükü dağıtmak için plaka kullanılmasını önerebilir. İş günü balkon korkuluğu ya da pencere doğraması önceden sökülür. Hiyap veya vinç binanın önüne kurulur, kasa paletine bağlı halde, köşe koruyuculu kayışlarla kaldırılır ve balkona indirilir. Balkonda kasa paletinden kasa arabasına alınır ve plakalar üzerinden yerine yürütülür. Balkonun taşıma gücü şüpheliyse kasa balkona hiç konmadan, vinç yükü tutarken doğrudan pencere içindeki plakalara alınır."
+  },
+  {
+   "type": "p",
+   "text": "Bu işte vinç süresi kısadır; zamanın çoğu doğrama sökümü, plaka serme ve iç taşımaya gider. Bu adımların vinç gelmeden hazırlanması maliyeti doğrudan düşürür."
+  },
+  {
+   "type": "h2",
+   "text": "Tipik riskler"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Devrilme: Kasa yüksek ve dardır; kapısı açılırsa öne devrilir. Kapı kapalı ve kilitli taşınır.",
+    "Sapan kayması: Düz çelik yüzeyde kayış kayar. Kasa paletine bağlanır veya kayışlar çapraz ve köşe koruyuculu atılır.",
+    "Döşeme çökmesi veya merdiven hasarı.",
+    "Pencere doğramasının veya cephe kaplamasının zarar görmesi.",
+    "Kaldırım ve yaya güvenliği: Yük yolun üstünden geçerken altı kapatılır."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "İş günü kontrol listesi"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Kasa boş, kapısı kilitli, ankrajı sökülmüş.",
+    "Ağırlık ve ölçü yazılı, döşeme için mühendis görüşü alınmış.",
+    "Pencere veya balkon doğraması önceden söküldü, yükü dağıtacak plakalar yerinde.",
+    "Kasa paleti, kayış sapanlar, köşe koruyucular ve kasa arabası hazır.",
+    "Araç kurulum yeri ve yaya geçişi kapatıldı.",
+    "İş saati ve ekip bilgisi yalnızca ilgili kişilerle paylaşıldı."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Şanlıurfa'da kuyumcuların yoğun olduğu tarihi çarşı çevresi dar ve kalabalık olduğu için bu işleri çoğunlukla sabah erken veya akşam kapanıştan sonra planlıyoruz. Bölgedeki koşullar için <a href=\"/bolgeler/eyyubiye-vinc-kiralama\">Eyyübiye vinç kiralama</a> sayfamıza bakabilirsiniz. Benzer ağır ve küçük tabanlı yükler için <a href=\"/blog/jenerator-trafo-makine-tasima-vinc\">jeneratör ve trafo taşıma</a> yazımız da fikir verir."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Çelik kasa taşıma için hangi araç gerekir?",
+   "a": "Zemin katta ve araç yanaşabiliyorsa hiyap çoğu zaman yeterlidir. Üst katlara pencereden alınacak veya ağır kasalarda mobil vinç gerekir. Kararı ağırlık, kat ve yanaşma mesafesi verir."
+  },
+  {
+   "q": "Kasa merdivenden taşınabilir mi?",
+   "a": "Hafif kasalar uzman ekiple merdivenden taşınabilir; ancak ağır kasalarda merdivenin taşıma gücü bir mühendise sorulmalıdır. Çoğu durumda pencereden vinçle almak daha güvenlidir."
+  },
+  {
+   "q": "Kasanın içi dolu taşınabilir mi?",
+   "a": "Önermiyoruz. İçi dolu kasa ağırlığı ve sorumluluğu değiştirir; değerli eşya taşımasına yetkili firmalarla çalışılmalıdır. Biz boş kasa taşırız."
+  },
+  {
+   "q": "Kasanın konacağı döşeme yükü taşır mı?",
+   "a": "Bunu bir inşaat mühendisi söyleyebilir. Ağırlığı ve taban ölçüsünü ileterek görüş alın; gerekirse yük çelik plaka ile dağıtılır."
+  },
+  {
+   "q": "Kasa ağırlığını nasıl öğrenirim?",
+   "a": "Etikette, faturada veya üretici kataloğunda yazar. Bulamıyorsanız marka, model ve dış ölçüleri üreticiye ya da satıcıya iletin."
+  }
+ ]
+}

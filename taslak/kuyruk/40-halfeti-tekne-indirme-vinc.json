@@ -1,0 +1,163 @@
+{
+ "slug": "halfeti-tekne-indirme-vinc",
+ "_hedef": "halfeti tekne indirme vinç",
+ "title": "Halfeti'de Tekne İndirme ve Karaya Çekme: Vinçle Nasıl?",
+ "ogTitle": "Halfeti'de Tekneyi Suya İndirme ve Karaya Alma: Vinç Seçimi, Kıyı Zemini ve Sapan Düzeni",
+ "h1": "Halfeti'de Tekne İndirme ve Karaya Çekme İçin Vinç: Saha Rehberi",
+ "desc": "Halfeti'de tekne indirme ve karaya alma vinçle nasıl yapılır? Birecik Baraj Gölü kıyısında zemin, yarıçap, sapan düzeni, izinler ve kontrol listesi.",
+ "image": "mobil-vinc-saha-azy-vinc.jpeg",
+ "imageAlt": "Ayakları açılmış AZY Vinç mobil vinci saha çalışmasında",
+ "caption": "Kıyı işlerinde vinç suya değil, sağlam zemine kurulur; mesafe bomla kapatılır.",
+ "intro": "Halfeti'de bir tekneyi Birecik Baraj Gölü'ne indirmek ya da kışlamak için karaya almak, çoğu zaman mobil vinç veya hiyap ile birkaç saatlik bir iştir; işi belirleyen teknenin ağırlığından çok vincin kıyıda nereye kurulabildiği ve suya kadar ne kadar uzanması gerektiğidir. Kıyı zemini çoğu yerde gevşek dolgu ya da sudan etkilenmiş topraktır, bu yüzden vinci kenara değil, sağlam zemine kurup mesafeyi bomla kapatırız. Aşağıda bu işi nasıl planladığımızı anlatıyoruz.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "Halfeti'de tekne işi neden ayrı bir planlama ister?"
+  },
+  {
+   "type": "p",
+   "text": "Halfeti, Fırat üzerindeki Birecik Barajı'nın göl alanı içinde kalan, eski yerleşimin bir bölümü suların altında kalmış bir ilçedir. Bugün ilçe ekonomisinin önemli bir parçası Rumkale ve batık köy güzergahlarında çalışan tur tekneleridir. Tekne iskelelerinin çevresi dar, yamaç dik ve araç yaklaşımı sınırlıdır. Göl kotu da yıl içinde değişebildiği için geçen yıl tekneyi indirdiğiniz nokta bu yıl sudan daha uzakta ya da daha yakında olabilir. Bu yüzden her tekne işi için kıyıyı yeniden görmek isteriz. Halfeti'deki genel çalışma koşullarını <a href=\"/bolgeler/halfeti-vinc-kiralama\">Halfeti vinç kiralama</a> sayfamızda anlattık."
+  },
+  {
+   "type": "h2",
+   "text": "Hangi makine?"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Tekne tipi",
+    "Yaklaşık durum",
+    "Uygun makine"
+   ],
+   "rows": [
+    [
+     "Küçük balıkçı teknesi, fiber sandal",
+     "Römorkla gelir, hafif",
+     "Hiyap çoğu zaman yeterli; rampa varsa vinç gerekmeyebilir"
+    ],
+    [
+     "Orta boy tur teknesi",
+     "Ahşap veya sac gövde, motorlu",
+     "Mobil vinç; kıyıya yaklaşma mesafesine göre tonaj"
+    ],
+    [
+     "Büyük tur teknesi, yüzer platform",
+     "Ağır ve uzun, tek parça",
+     "Büyük tonajlı mobil vinç veya iki vinçle tandem kaldırma"
+    ],
+    [
+     "Sadece motor değişimi",
+     "Tekne suda kalır",
+     "Hiyap veya küçük mobil vinç, iskeleden"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Teknenin ağırlığı genellikle tahmin edilir, bilinmez. Ahşap tekneler yıllar içinde su emer ve kuru ağırlıklarından ağır hale gelir; sintinedeki su, yakıt tankı ve üzerindeki ekipman da eklenir. Ağırlık belgesi yoksa ölçülerden, gövde malzemesinden ve motor tipinden makul bir üst sınır çıkarır, kapasite payını geniş tutarız. Hiyap ile vinç arasındaki farkı <a href=\"/blog/hiyap-arac-ustu-vinc-mi-mobil-vinc-mi\">bu yazıda</a> karşılaştırdık; çok büyük teknelerde gereken <a href=\"/blog/tandem-ikiz-vinc-kaldirma\">tandem kaldırma</a> ayrı bir plan ister."
+  },
+  {
+   "type": "h2",
+   "text": "Kıyı zemini ve yarıçap"
+  },
+  {
+   "type": "p",
+   "text": "Kıyıya en yakın düz nokta en iyi kurulum yeri değildir. Göl kenarındaki zemin çoğu zaman suya doymuş, dolgu veya taşlı moloz karışımıdır; vinç ayağı burada çökebilir. Vinci sağlam, sıkışmış zemine kurar, ayak altına geniş sedye plakası koyarız. Bu durumda tekne ile vinç arasındaki yarıçap artar ve kapasite düşer; bu yüzden tonaj, teknenin ağırlığına göre değil, suyun kurulum noktasına olan mesafesine göre seçilir. Zemin kararının nasıl verildiğini <a href=\"/blog/zemin-etudu-ve-vinc-kurulum-yeri\">zemin ve kurulum yeri</a> yazımızda ayrıntılı anlattık."
+  },
+  {
+   "type": "h2",
+   "text": "Sapan düzeni"
+  },
+  {
+   "type": "p",
+   "text": "Tekne gövdesi tek noktadan değil, omurga altından geçen iki geniş kayış sapanla kaldırılır. Sapanların yeri, teknenin ağırlık merkezinin iki yanında olmalıdır; motor kıçta olduğu için ağırlık merkezi çoğu zaman ortadan kıça doğru kayar. Pervane şaftı, iskandil veya sensörlerin üstüne sapan gelmez. Kayışların kaymaması için iki sapan bir aralayıcı (travers) ile birbirine bağlanır, gövdeyi ezmemesi için kenarlara koruyucu konur. Bağlama prensiplerini <a href=\"/blog/vinc-sapan-halat-zincir-baglama-teknikleri\">sapan ve halat yazımızda</a> topladık."
+  },
+  {
+   "type": "h2",
+   "text": "Keşifte sorduğumuz sorular"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Teknenin boyu, eni ve gövde malzemesi nedir? Bilinen bir ağırlık var mı?",
+    "Tekne şu an nerede: suda mı, kızakta mı, römorkta mı?",
+    "İndirilecek veya alınacak nokta neresi, araç oraya kadar inebiliyor mu?",
+    "Kıyıdaki su derinliği tekneyi yüzdürmeye yetiyor mu?",
+    "Yakıt tankı boşaltıldı mı, sintinede su var mı?",
+    "Tekne karaya alınınca neyin üstüne konacak: kızak, takoz, römork?",
+    "İskele veya kıyı kullanımı için belediye ya da ilgili kurumdan izin gerekiyor mu?"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "İzinler ve sorumluluk"
+  },
+  {
+   "type": "p",
+   "text": "Baraj gölü kıyısı herkesin istediği gibi kullanabileceği bir alan değildir. İskele, kıyı şeridi ve göl kullanımı konusunda Halfeti Belediyesi ve DSİ'nin bölge teşkilatı söz sahibidir; tur teknelerinin işletme belgeleri ayrıca ilgili kurumlarca düzenlenir. Hangi işlem için kimden izin gerektiğini işten önce belediyeye sormanızı öneririz; bu konuda kesin bir kural söyleyemiyoruz çünkü noktadan noktaya değişiyor. Tekne sahibinin tekne sigortasının kaldırma sırasındaki hasarı kapsayıp kapsamadığını da önceden kontrol edin."
+  },
+  {
+   "type": "h2",
+   "text": "Örnek: orta boy bir tur teknesini karaya almak"
+  },
+  {
+   "type": "p",
+   "text": "İskeleye yakın bir noktada, kıyıdan birkaç metre geride sağlam beton zemin bulunduğunu, teknenin ise kıyıdan biraz açıkta yüzdüğünü düşünelim. Vincin dönüş merkezi kurulum gereği betonun ortasına geldiğinde teknenin ağırlık merkezine yatay mesafe kolayca 9-10 metreyi bulur. Teknenin tahmini ağırlığına sapan ve traversi ekler, bu toplamı vincin o yarıçaptaki kapasitesiyle karşılaştırırız. Tekne sudan çıkarken ilk birkaç saniye en hassas andır: gövdenin içindeki su boşalırken yük kısa süre ağırlaşır ve sapanlar oturur. Bu yüzden tekneyi su yüzeyinin hemen üstünde bir süre bekletir, sapanların yerini kontrol eder, sonra karaya döneriz. Tekne kızağa veya takozlara oturduktan sonra ekip destekleri yerleştirmeden vinç yükü bırakmaz."
+  },
+  {
+   "type": "p",
+   "text": "İndirmede sıra tersine işler: tekne suya yavaşça indirilir, yüzdüğü görüldükten ve gövdeden su almadığı kontrol edildikten sonra sapanlar çözülür. Uzun süre karada kalmış ahşap teknelerde ilk günlerde su alma görülebildiği için tekne sahibinin sintine pompasını hazır tutması iyi olur."
+  },
+  {
+   "type": "h2",
+   "text": "Tipik riskler"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Ağırlığın düşük tahmin edilmesi, özellikle su emmiş ahşap teknelerde.",
+    "Sapanın kayması ve teknenin bir uca yatması.",
+    "Kıyı zeminin çökmesi veya ayak altındaki toprağın kayması.",
+    "Tekne suya değdiği anda sapanların gevşemesi ve teknenin rüzgarla dönmesi; kılavuz halatsız çalışılmaz.",
+    "Yamaçtaki dar yolda araç manevrası ve dönüş."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "İş günü kontrol listesi"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Tekne boşaltıldı: yakıt azaltıldı, sintine suyu alındı, gevşek ekipman indirildi.",
+    "Sapan yerleri işaretlendi, pervane ve şaft korumaya alındı.",
+    "Vinç ayakları sağlam zeminde, sedye plakaları altında.",
+    "Kıçta ve başta birer kılavuz halat, iskelede tekneyi karşılayacak kişi hazır.",
+    "Karaya alınacaksa kızak veya takozlar önceden yerinde.",
+    "Rüzgar sakin, göl yüzeyi dalgasız saat seçildi."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Halfeti'de tekneyi suya indirmek için kaç tonluk vinç gerekir?",
+   "a": "Teknenin ağırlığı ile vincin kurulabileceği nokta arasındaki yarıçap birlikte belirler. Küçük tekneler için hiyap yeterli olabilir; tur teknelerinde kıyıya yaklaşma mesafesi arttıkça daha büyük tonaj gerekir."
+  },
+  {
+   "q": "Teknenin ağırlığını bilmiyorum, ne yapmalıyım?",
+   "a": "Boy, en, gövde malzemesi ve motor bilgisini, mümkünse fotoğrafla gönderin. Buna göre güvenli bir üst sınır belirleriz. Ahşap teknelerin su emerek ağırlaştığını hesaba katarız."
+  },
+  {
+   "q": "Vinç kıyının tam kenarına kurulabilir mi?",
+   "a": "Genellikle kurulmaz. Göl kenarındaki zemin çoğu zaman yumuşaktır; vinç sağlam zemine kurulur ve mesafe bomla kapatılır."
+  },
+  {
+   "q": "Tekne kışın karaya alınmalı mı?",
+   "a": "Bu teknenin tipine, gövde durumuna ve sahibinin tercihine bağlı. Bakım, boya veya gövde onarımı yapılacaksa karaya almak gerekir."
+  },
+  {
+   "q": "Halfeti dışından da tekne işi yapıyor musunuz?",
+   "a": "Evet. Birecik ve göl kıyısındaki diğer noktalarda da aynı planlamayla çalışıyoruz; yeri ve tekneyi görmemiz yeterli."
+  }
+ ]
+}

@@ -1,0 +1,170 @@
+{
+ "slug": "havuz-jakuzi-yerlestirme-vinc",
+ "_hedef": "jakuzi vinçle bahçeye indirme",
+ "title": "Prefabrik Havuz ve Jakuziyi Vinçle Bahçeye Yerleştirme",
+ "ogTitle": "Prefabrik Havuz ve Jakuziyi Evin Üstünden Bahçeye Vinçle İndirme: Tonaj, Keşif ve Kontrol Listesi",
+ "h1": "Prefabrik Havuz ve Jakuziyi Vinçle Bahçeye Yerleştirme Rehberi",
+ "desc": "Jakuzi veya prefabrik havuzu vinçle evin üstünden bahçeye indirme: yarıçap hesabı, keşif soruları, zemin hazırlığı, riskler ve iş günü kontrol listesi.",
+ "image": "mobil-vinc-saha-azy-vinc.jpeg",
+ "imageAlt": "Sahada ayakları açılmış mobil vinç",
+ "caption": "Havuz ve jakuzi işlerinde tonajı yükün ağırlığı değil, bahçenin vince olan uzaklığı belirler.",
+ "intro": "Prefabrik havuzu veya jakuziyi evin üstünden bahçeye indirmek için mobil vinç kullanılır ve doğru tonajı yükün ağırlığından çok, vincin sokakta kurulacağı nokta ile bahçedeki bırakma yeri arasındaki yatay mesafe belirler. Birkaç yüz kiloluk bir jakuzi bile 20 metre yarıçapta büyük bir vinç gerektirebilir. Aşağıda bu tür işleri nasıl hesapladığımızı ve iş gününe nasıl hazırlandığımızı anlatıyoruz.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "Neden evin üstünden?"
+  },
+  {
+   "type": "p",
+   "text": "Fiberglas prefabrik havuz gövdeleri tek parça gelir; boyları birkaç metreyi bulur ve bahçe kapısından, yan geçitten ya da evin içinden geçmez. Jakuziler daha küçüktür ama genişlikleri çoğu kapıdan fazladır ve dik çevrilerek taşınmaları üretici tarafından önerilmeyebilir. Bu yüzden müstakil evlerde ve villalarda en kısa yol, yükü çatının ya da bahçe duvarının üstünden aşırmaktır. Şanlıurfa'da bu tür işlerin büyük kısmı <a href=\"/bolgeler/karakopru-vinc-kiralama\">Karaköprü</a> taraflarındaki villa ve müstakil yapılarda karşımıza çıkıyor."
+  },
+  {
+   "type": "h2",
+   "text": "Tonaj nasıl hesaplanır: örnek"
+  },
+  {
+   "type": "p",
+   "text": "Diyelim ki jakuzinin kuru ağırlığı üreticiye göre 450 kg. Kaldırma kayışları ve aparatlarla birlikte yaklaşık 550 kg kaldırılacak. Vinç sokakta evin önüne kurulabiliyor; vincin dönüş merkezinden jakuzinin bırakılacağı noktaya yatay mesafe 18 metre. Bu noktaya giderken yük çatının mahyasını en az birkaç metre boşlukla aşmalı, yani bom hem uzun hem dik olmalı. Bu durumda bakılacak rakam, vincin 18 metre yarıçap ve o bom boyundaki kapasitesidir. Bu kapasite 550 kg'ın rahatça üzerinde, makul bir pay bırakacak şekilde olmalı. Sahada çoğu zaman 'yarım tonluk iş' sandığınız işe orta veya büyük tonajlı bir vinç gelmesinin sebebi budur."
+  },
+  {
+   "type": "table",
+   "head": [
+    "Bilgi",
+    "Neden lazım",
+    "Nereden alınır"
+   ],
+   "rows": [
+    [
+     "Kuru ağırlık",
+     "Kaldırılacak yükün temeli",
+     "Üretici etiketi veya satıcı"
+    ],
+    [
+     "Boy, en, yükseklik",
+     "Sapan düzeni ve çatı boşluğu",
+     "Ürün föyü"
+    ],
+    [
+     "Kaldırma noktaları",
+     "Gövdenin zarar görmemesi",
+     "Üretici montaj talimatı"
+    ],
+    [
+     "Vinç kurulum noktası",
+     "Yarıçapın başlangıcı",
+     "Keşif veya ölçülü fotoğraf"
+    ],
+    [
+     "Bırakma noktası",
+     "Yarıçapın bitişi",
+     "Bahçe planı veya ölçü"
+    ],
+    [
+     "Çatı mahya yüksekliği",
+     "Bom açısı ve boyu",
+     "Keşif"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Bu hesabın mantığını <a href=\"/blog/kac-tonluk-vinc-gerekir\">kaç tonluk vinç gerekir</a> yazımızda genel olarak anlattık. Yarıçapı tek başına ölçmek zor geliyorsa, sokaktan ve bahçeden çekilmiş birkaç fotoğraf ile kaba bir ölçü bize çoğunlukla yeterli oluyor."
+  },
+  {
+   "type": "h2",
+   "text": "Keşifte sorduğumuz sorular"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Ürünün modeli ve kuru ağırlığı nedir? İçinde su veya ekipman kalmış mı?",
+    "Ürün nakliye aracından doğrudan mı alınacak, yoksa önce yere mi indirilecek?",
+    "Vinç evin önüne kurulabiliyor mu? Sokak genişliği ve eğimi nasıl?",
+    "Çatının üstünden mi, yan duvarın üstünden mi geçilecek? Engel olarak ağaç, anten, güneş paneli var mı?",
+    "Bırakma yerinde zemin hazır mı: beton tabla, kum yatağı veya kazılmış havuz çukuru?",
+    "Bırakma yerini vinç operatörü görebiliyor mu, yoksa işaretçiyle mi çalışılacak?",
+    "Yolun üstünde veya bahçede enerji hattı var mı?"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Zemin ve yerleştirme hazırlığı"
+  },
+  {
+   "type": "p",
+   "text": "Jakuzi düz ve taşıyıcı bir zemine konur; dolu bir jakuzinin ağırlığı boş halinin birkaç katıdır, bu yüzden beton tabla veya üreticinin istediği altlık işten önce hazır olmalıdır. Prefabrik havuzda ise çukur, üreticinin istediği ölçü ve tabanla açılmış olmalı; havuz yerine indirildikten sonra terazisi kontrol edilir, gerekirse yeniden kaldırılır. Havuz firmasının montaj ekibi bu sırada aşağıda hazır bulunur. Vinç işini kısa tutmanın yolu, çukurun ve tabanın vinç gelmeden tamamlanmasıdır."
+  },
+  {
+   "type": "h2",
+   "text": "Nakliye aracıyla aynı saate planlamak"
+  },
+  {
+   "type": "p",
+   "text": "Jakuzi ve prefabrik havuzlar çoğu zaman üreticinin ya da satıcının kamyonuyla gelir. En verimli iş, vincin ürünü nakliye aracından doğrudan alıp bahçeye indirmesidir; ürün önce sokağa indirilir, sonra tekrar kaldırılırsa iş iki kat uzar ve ürünün zarar görme ihtimali artar. Bunun için kamyonun vincin yanına, bomun rahat erişebileceği konuma yanaşması gerekir. Nakliyeciye vincin geliş saatini ve kurulum yerini önceden bildirmenizi, kamyonun vinçten sonra gelmesini öneriyoruz; vinç önce kurulur, kamyon onun yanına yerleşir."
+  },
+  {
+   "type": "p",
+   "text": "Bahçedeki bırakma yerinde montaj ekibinin hazır olması da önemlidir. Ürün havadayken altlığın düzeltilmesi beklenirse vinç ve operatör boşuna bekler; bekleme bedeli de çoğu zaman bu tür sürelerden doğar. Hangi durumlarda bekleme ücreti yansıyabileceğini <a href=\"/blog/vinc-kiralama-odeme-kapora-iptal-bekleme-bedeli\">ödeme ve bekleme bedeli</a> yazımızda anlattık."
+  },
+  {
+   "type": "h2",
+   "text": "Tipik riskler"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Gövde hasarı: Fiberglas ve akrilik yüzeyler noktasal sapan baskısında çatlayabilir. Üreticinin kaldırma noktaları ve geniş kayış sapan kullanılır.",
+    "Rüzgar: Havuz gövdesi geniş ve hafif olduğu için rüzgarda döner; kılavuz halat şarttır. Ayrıntı için <a href=\"/blog/vinc-ruzgar-hava-kosullari-calisma-sinirlari\">rüzgar sınırları</a> yazımıza bakın.",
+    "Kör kaldırma: Operatör bahçeyi göremez. Bahçede tek işaretçi ve telsiz kullanılır; el işaretleri için <a href=\"/blog/vinc-el-isaretleri-isaretci-rehberi\">bu rehbere</a> bakabilirsiniz.",
+    "Çatı ve saçak: Yük çatının üstünden geçerken kimse çatıda durmaz.",
+    "Sokak zemini: Vinç ayakları rögar kapağına, yeni asfalt kenarına veya bahçe duvarı dibine basmaz."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "İş günü kontrol listesi"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Ürün ağırlığı ve kaldırma noktaları üreticiden yazılı alındı.",
+    "Çukur veya beton tabla hazır, montaj ekibi sahada.",
+    "Vinç kurulum yeri boş; komşu araçları önceden kaldırıldı.",
+    "Gerekirse sokak kapatma için belediyeden izin alındı.",
+    "İki kılavuz halat ve geniş kayış sapanlar hazır.",
+    "Bahçede tek işaretçi belirlendi, telsiz test edildi.",
+    "Yükün geçeceği hat boyunca altta kimse yok."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Benzer mantıkla yapılan büyük su deposu işleri için <a href=\"/blog/su-deposu-tank-yerlestirme-vinc\">su deposu yerleştirme</a> yazımıza da göz atabilirsiniz."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Jakuzi vinçle bahçeye nasıl indirilir?",
+   "a": "Vinç evin önüne kurulur, jakuzi üreticinin önerdiği noktalardan geniş kayışlarla bağlanır ve çatı ya da duvarın üstünden aşırılarak hazırlanmış zemine indirilir. Bahçede bir işaretçi operatörü yönlendirir."
+  },
+  {
+   "q": "Prefabrik havuz için kaç tonluk vinç gerekir?",
+   "a": "Havuzun ağırlığı ile vincin bırakma noktasına olan yatay mesafesi birlikte belirler. Mesafe arttıkça gereken tonaj hızla büyür; keşif veya ölçülü fotoğraf olmadan net söylemek doğru olmaz."
+  },
+  {
+   "q": "Vinç evin önüne kurulamıyorsa ne olur?",
+   "a": "Komşu arsa, yan sokak veya arka yol gibi alternatif kurulum yerlerine bakarız. Hiçbiri uygun değilse daha uzun bomlu bir vinçle uzaktan çalışmak gerekebilir."
+  },
+  {
+   "q": "Jakuzi dik çevrilerek kapıdan sokulamaz mı?",
+   "a": "Bazı modeller buna izin verir, bazıları vermez. Üreticinin taşıma talimatına bakılmalı; talimat izin vermiyorsa vinç en güvenli yoldur."
+  },
+  {
+   "q": "Havuz indirme işi ne kadar sürer?",
+   "a": "Hazırlık tamamsa kaldırma kısmı genellikle bir iki saattir. Çukurun düzeltilmesi veya terazi ayarı için havuzun yeniden kaldırılması süreyi uzatabilir."
+  },
+  {
+   "q": "Jakuzi veya havuz indirme fiyatını ne belirler?",
+   "a": "Fiyatı yükün ağırlığından çok gereken vincin büyüklüğü belirler; bu da vincin kurulacağı nokta ile bahçedeki bırakma yeri arasındaki mesafeye bağlıdır. Bunun yanında Şanlıurfa merkeze uzaklık, yol izni ihtiyacı, işin süresi ve hazırlık eksikliğinden doğan bekleme de fiyatı etkiler. Fotoğraf ve ölçüyle net teklif verebiliriz."
+  }
+ ]
+}

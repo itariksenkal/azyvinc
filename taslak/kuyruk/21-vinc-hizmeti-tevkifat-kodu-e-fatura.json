@@ -1,0 +1,58 @@
+{
+ "slug": "vinc-hizmeti-tevkifat-kodu-e-fatura",
+ "_hedef": "vinç hizmeti tevkifat kodu",
+ "title": "Vinç Hizmeti Tevkifat Kodu: e-Faturada Hangi Kod?",
+ "ogTitle": "Vinç Hizmeti Tevkifat Kodu: e-Faturada Hangi Kod ve Oran Seçilir? Karar Tablosu",
+ "h1": "Vinç hizmeti tevkifat kodu: e-faturada hangi kodu seçmeli?",
+ "desc": "Vinç hizmeti tevkifat kodu işin türüne ve alıcıya göre değişir: 606 (9/10), 624 (2/10), 601 (4/10), 616 (5/10) ya da tevkifatsız fatura. Karar tablosu.",
+ "image": "mobil-vinc-saha-azy-vinc.jpeg",
+ "imageAlt": "AZY Vinç mobil vinci şantiye sahasında ayakları açılmış halde",
+ "caption": "Aynı vinç, farklı iş tanımlarında farklı fatura koduyla faturalanabilir.",
+ "intro": "Vinç hizmeti için tek bir tevkifat kodu yoktur: doğru kod işin niteliğine ve faturayı kime kestiğinize göre seçilir. Operatörün sevk ve idaresi bizde kalan klasik operatörlü vinç işinde, özel sektör alıcıya çoğu zaman tevkifatsız fatura kesilir. Operatör müşterinin emrine verilmişse 606 (işgücü temini, 9/10), malın karayoluyla bir yerden başka yere taşınması söz konusuysa 624 (yük taşımacılığı, 2/10), kamu kurumu veya banka gibi belirlenmiş bir alıcıya kesilen faturada çoğu durumda 616 (diğer hizmetler, 5/10) gündeme gelir. Bu yazı, kurumsal müşterilerimizin muhasebe birimleriyle yıllardır yaptığımız yazışmalardan çıkan pratik bir karar tablosudur. Tevkifatın genel mantığını <a href=\"/blog/vinc-kiralama-kdv-tevkifat-fatura-2026\">vinç kiralama KDV tevkifatı yazımızda</a> anlattık; burada yalnızca e-faturada hangi kodun seçileceğine odaklanıyoruz.",
+ "body": [
+  {"type": "h2", "text": "Önce iki soru: işin niteliği ne, alıcı kim?"},
+  {"type": "p", "text": "KDV Genel Uygulama Tebliği kısmi tevkifatı iki tür alıcı üzerinden kurar. Birinci grup KDV mükellefleridir (Tebliğdeki I/C-2.1.3.1/a ayrımı). İkinci grup \"belirlenmiş alıcılar\"dır (I/C-2.1.3.1/b): 5018 sayılı Kanuna ekli cetvellerdeki idareler, belediyeler ve bağlı kuruluşları, kamu iktisadi teşebbüsleri, döner sermayeli kuruluşlar, kamu kurumu niteliğindeki meslek kuruluşları, bankalar, sigorta ve emeklilik şirketleri, kalkınma ajansları ve hisse senetleri Borsa İstanbul'da işlem gören şirketler gibi."},
+  {"type": "p", "text": "Bazı hizmetlerde her iki grup da tevkifat yapar, bazılarında yalnızca belirlenmiş alıcılar yapar. Vinç tarafında önemli olan şu ayrım: işgücü temin hizmeti ile karayoluyla yük taşımacılığında sıradan bir KDV mükellefi alıcı da tevkifat uygular. Yapım işleri, bakım-onarım ve \"diğer hizmetler\" kodlarında ise kural esas olarak belirlenmiş alıcılar içindir."},
+  {"type": "h2", "text": "Vinç işlerinde karşılaşılan tevkifat kodları"},
+  {"type": "p", "text": "Aşağıdaki kodlar GİB'in e-fatura tevkifat kod listesinde yer alır; oranlar KDV Genel Uygulama Tebliğinin I/C-2.1.3.2 bölümündeki oranlardır. Bir kodu seçmeden önce faturanızın gerçekten o hizmeti anlattığından emin olun."},
+  {"type": "table", "head": ["Kod", "Tebliğdeki adı", "Oran", "Kimler tevkifat yapar", "Vinç işinde ne zaman akla gelir"], "rows": [
+   ["606", "İşgücü temin hizmetleri", "9/10", "KDV mükellefleri ve belirlenmiş alıcılar", "Operatör, müşterinin sevk, idare ve kontrolü altında çalışıyorsa"],
+   ["624", "Yük taşımacılığı hizmeti", "2/10", "KDV mükellefleri ve belirlenmiş alıcılar", "Müşterinin malı hiyap veya lowbed ile karayoluyla bir yerden başka yere taşınıyorsa"],
+   ["601", "Yapım işleri ile birlikte ifa edilen mühendislik-mimarlık ve etüt-proje", "4/10", "Belirlenmiş alıcılar; KDV mükellefleri ise yalnızca KDV dahil 5 milyon TL ve üzeri yapım işlerinde", "Montaj, demontaj gibi işler bir yapım işinin parçası olarak alt yükleniciye devredildiyse"],
+   ["603", "Makine, teçhizat, demirbaş ve taşıtlara ait tadil, bakım ve onarım", "7/10", "Belirlenmiş alıcılar", "İş vinç kiralaması değil, alıcının kendi makinesinin bakım-onarımıysa"],
+   ["616", "Diğer hizmetler", "5/10", "Yalnızca belirlenmiş alıcıların bir kısmı (kamu idareleri, KİT, döner sermaye, bankalar, sigorta şirketleri vb.)", "Tebliğde özel olarak sayılmayan bir hizmet bu alıcılara verildiğinde"]
+  ]},
+  {"type": "p", "text": "Tabloda olmayan bir durum da var: hiçbir tevkifat kapsamına girmeyen iş. Sevk ve idaresi bizde olan operatörlü vinç hizmetini özel sektördeki bir fabrikaya, müteahhide veya esnafa faturalarken tipik sonuç budur. Bu durumda fatura tevkifatlı tipte değil, normal satış faturası olarak düzenlenir ve KDV'nin tamamı satıcı tarafından beyan edilir."},
+  {"type": "h2", "text": "Karar tablosu: hangi iş, hangi alıcı, hangi kod?"},
+  {"type": "p", "text": "Bu tablo, en sık karşılaştığımız senaryoları ve muhasebe birimleriyle genellikle varılan sonucu özetler. Her işin kendi sözleşmesi ve fiili durumu vardır; tablo sizi doğru soruya götürmek içindir, mali müşavirinizin değerlendirmesinin yerine geçmez."},
+  {"type": "table", "head": ["Senaryo", "Alıcı özel sektör KDV mükellefi", "Alıcı belirlenmiş alıcı (kamu, banka vb.)"], "rows": [
+   ["Operatörlü mobil vinçle yük kaldırma; plan, operatör ve güvenlik bizde", "Genellikle tevkifatsız", "Çoğu durumda 616, 5/10"],
+   ["Operatör müşterinin şantiye şefinden talimat alıyor, mesaisini müşteri belirliyor", "606, 9/10", "606, 9/10"],
+   ["Hiyapla malzemeyi depodan şantiyeye taşıma", "624, 2/10", "624, 2/10"],
+   ["Lowbed ile müşterinin iş makinesini başka ile taşıma", "624, 2/10", "624, 2/10"],
+   ["Belediyenin yaptırdığı bir yapının çelik montajında, yükleniciden alt iş olarak vinçli montaj", "Yüklenici belirlenmiş alıcı değilse ve iş 5 milyon TL altındaysa genellikle tevkifatsız", "601, 4/10 (yapım işi zinciri içinde)"],
+   ["Sepetli platformla tabela, aydınlatma bakımı", "Genellikle tevkifatsız", "Bakım-onarım niteliğindeyse 603, değilse çoğu durumda 616"]
+  ]},
+  {"type": "h3", "text": "Operatörlü kiralama ile işgücü temini arasındaki çizgi"},
+  {"type": "p", "text": "Tebliğ işgücü temininde iki şart arar: temin edilen eleman alıcıya hizmet akdiyle bağlı olmayacak ve alıcının sevk, idare ve kontrolü altında çalışacak. Tebliğe göre bu hususlar, varsa sözleşme ve teknik şartnamedeki açıklamalar da dikkate alınarak tespit edilir. Bu yüzden sözleşmede \"operatör, kaldırma planı ve iş güvenliği yönetimi hizmet verende\" ifadesinin bulunması, sahadaki uygulamanın da buna uyması gerekir. Sözleşme bir şey, saha başka bir şey söylüyorsa kod tartışması kaçınılmaz olur."},
+  {"type": "p", "text": "Operatör ücreti ile makine bedeli faturada ayrı gösterildiğinde tevkifatın hangi tutar üzerinden hesaplanacağı konusunda farklı yaklaşımlar görüyoruz. Bu tür karma işlerde mali müşavirinizin görüşünü alın; tereddüt sürüyorsa Gelir İdaresine özelge başvurusu en sağlam yoldur."},
+  {"type": "h2", "text": "e-Faturada pratik adımlar"},
+  {"type": "ul", "items": [
+   "Fatura tipini doğru seçin: tevkifat uygulanacaksa fatura tipi \"TEVKİFAT\" olmalı; tevkifat yoksa normal satış faturası kesilir.",
+   "Kodu satır bazında girin: aynı faturada hem vinç hizmeti hem nakliye kalemi varsa her satırın kendi niteliği vardır. Nakliye ile vinç kalemini ayırmanın etkisini ayrıca değerlendirin.",
+   "Tebliğin istediği tutarlar görünsün: işlem bedeli, hesaplanan KDV, tevkifat oranı, alıcının tevkif edeceği KDV, tevkifat dahil toplam ve tevkifat hariç tahsil edilecek bedel faturada ayrıca gösterilir.",
+   "Sınırı kontrol edin: KDV dahil bedel o yılın fatura düzenleme sınırını aşmıyorsa kısmi tevkifat uygulanmaz. Bu konuyu, faturayı bölme meselesiyle birlikte ayrı bir yazıda ele alıyoruz.",
+   "Kod listesinin güncelini kullanın: GİB zaman zaman kod listesinde değişiklik yapar; entegratörünüzün son listesinde olmayan bir kodu seçmeyin."
+  ]},
+  {"type": "h2", "text": "Bir örnek üzerinden"},
+  {"type": "p", "text": "Diyelim ki bir hastane döner sermaye işletmesi, çatıya klima santrali çıkarmak için bize operatörlü mobil vinç işi verdi. Kaldırma planını biz hazırladık, operatör ve işaretçi bizim personelimiz. Alıcı belirlenmiş alıcı listesinde olduğu, iş de Tebliğde özel olarak sayılan bir hizmet olmadığı için kurum muhasebesi genellikle 616 kodunu ve 5/10 oranını ister. Aynı işi özel bir alışveriş merkezi için yaptığımızda, sevk ve idare bizde kaldığı sürece fatura tevkifatsız düzenlenir. Klima santrali kurulumunun kendisi bir yapım işinin parçası olarak yükleniciden bize devredildiyse tablo yine değişebilir; bu yüzden ilk soru hep \"faturayı kime, hangi işin parçası olarak kesiyoruz?\" olur."},
+  {"type": "p", "text": "Kurumsal işlerde bu soruyu teklif aşamasında sorarız; fatura kesildikten sonra iade ve düzeltme ile uğraşmak her iki taraf için de zaman kaybıdır. Kamu işlerinde sözleşme ve evrak düzenini <a href=\"/blog/belediye-kamu-ihalesi-vinc-hizmet-alimi\">belediye ve kamu vinç hizmet alımı</a> yazımızda, faturanın muhasebe kaydını ise <a href=\"/blog/vinc-kiralama-muhasebe-kaydi-hangi-hesap\">vinç kiralama muhasebe kaydı</a> yazımızda anlattık. Hizmet kapsamımızı <a href=\"/hizmetler\">hizmetler</a> sayfasında görebilirsiniz."}
+ ],
+ "faqs": [
+  {"q": "Vinç hizmeti tevkifat kodu kaçtır?", "a": "Tek bir kod yoktur. Operatör müşterinin sevk ve idaresindeyse 606 (9/10), karayoluyla yük taşınıyorsa 624 (2/10), yapım işi zincirinde 601 (4/10), belirlenmiş alıcılara verilen ve Tebliğde ayrıca sayılmayan hizmetlerde çoğu durumda 616 (5/10) kullanılır. Sevk ve idare hizmet verende kalan operatörlü vinç işi özel sektöre çoğunlukla tevkifatsız faturalanır."},
+  {"q": "Vinç çalışması için 616 kodu ne zaman kullanılır?", "a": "616 diğer hizmetler kodudur ve Tebliğde sayılan kamu idareleri, kamu iktisadi teşebbüsleri, döner sermayeli kuruluşlar, bankalar, sigorta şirketleri gibi alıcılara verilen, Tebliğde özel olarak belirlenmemiş hizmetlerde kullanılır. Özel sektördeki sıradan bir KDV mükellefine kesilen faturada 616 uygulanmaz."},
+  {"q": "Operatörlü vinç kiralama işgücü temini sayılır mı?", "a": "Operatör sizin sevk, idare ve kontrolünüz altında çalışıyorsa işgücü temini yorumu güçlenir ve 606 kodu ile 9/10 tevkifat gündeme gelir. Kaldırma planı, operatörün yönetimi ve iş güvenliği kiralama firmasındaysa işlem kiralama hizmeti olarak değerlendirilir. Sözleşme ve sahadaki fiili durum birlikte dikkate alınır."},
+  {"q": "Hiyapla malzeme taşıma faturası hangi kodla kesilir?", "a": "Müşterinin malı karayoluyla bir yerden başka bir yere taşınıyorsa işlem yük taşımacılığıdır ve 624 kodu ile 2/10 tevkifat uygulanır. Bu oran KDV mükellefi alıcılar için de geçerlidir. Yalnızca yerinde kaldırma ve indirme yapılıyorsa iş taşımacılık sayılmayabilir; mali müşavirinize danışın."},
+  {"q": "Yanlış tevkifat koduyla kesilen e-fatura ne olur?", "a": "Alıcı faturayı kabul etmeyebilir veya düzeltme talep edebilir; beyannamede uyumsuzluk oluşur. Düzeltmenin nasıl yapılacağı faturanın tipine ve kabul durumuna göre değişir. Bu yüzden kodu fatura kesilmeden önce alıcının muhasebesiyle teyit etmek en kısa yoldur."}
+ ]
+}

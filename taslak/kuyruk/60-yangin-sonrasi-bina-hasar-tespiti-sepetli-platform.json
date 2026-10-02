@@ -1,0 +1,169 @@
+{
+ "slug": "yangin-sonrasi-bina-hasar-tespiti-sepetli-platform",
+ "_hedef": "yangın sonrası bina hasar tespiti sepetli platform",
+ "title": "Yangın Sonrası Cephe Hasar Tespiti ve Sepetli Platform",
+ "ogTitle": "Yangın Sonrası Bina Cephesinde Hasar Tespiti ve Yüksekte Enkaz Temizliği: Sepetli Platformla Güvenli Çalışma",
+ "h1": "Yangın Sonrası Bina Hasar Tespiti ve Yüksekte Enkaz Temizliğinde Sepetli Platform",
+ "desc": "Yangın sonrası bina hasar tespiti ve cephe enkaz temizliğinde sepetli platform: kimin onayıyla girilir, makine seçimi, düşme riski ve saha kontrol listesi.",
+ "image": "cadde-tabela-aydinlatma-sepetli-platform.jpeg",
+ "imageAlt": "Cadde üzerinde yüksekte çalışan sepetli platform",
+ "caption": "Yangın görmüş bir cepheye dokunmadan yaklaşmanın en güvenli yolu dışarıdan, sepetli platformla çalışmaktır.",
+ "intro": "Yangın sonrası bina hasar tespitinde sepetli platform, mühendislerin ve eksperlerin hasarlı cepheye binanın içine girmeden ve iskele kurmadan yakından bakmasını sağlar; aynı platform, düşme tehlikesi olan gevşek kaplama, cam ve tabela parçalarının kontrollü sökülmesinde de kullanılır. Ancak sahaya ne zaman girileceğine biz karar vermeyiz: itfaiye işini bitirip alanı teslim etmeden ve yetkili kurumlar izin vermeden platform kurulmaz. Aşağıda bu tür işlerde izlediğimiz sırayı anlatıyoruz.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "Yangından sonra sahada ne olur?"
+  },
+  {
+   "type": "p",
+   "text": "Yangın söndürüldükten sonra alan bir süre itfaiyenin kontrolündedir; soğutma yapılır ve tekrar alevlenme riski izlenir. Yangın nedeninin araştırılması gerekiyorsa alan, ilgili makamlar işini bitirene kadar korunur. Ardından yapının güvenliği değerlendirilir: belediye, mal sahibi, sigorta eksperi ve gerekirse yetkili bir inşaat mühendisi yapının kullanılabilir olup olmadığına ve cephede nelerin hemen sökülmesi gerektiğine bakar. Sepetli platform bu değerlendirme aşamasında ve sonrasındaki güvenli hale getirme işlerinde devreye girer. Hangi kurumun hangi aşamada söz sahibi olduğu olaydan olaya değişir; sahaya girmek için kimden onay alınacağını işverenden yazılı isteriz."
+  },
+  {
+   "type": "h2",
+   "text": "Platformla yapılan işler"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Hasar tespiti: Mühendis veya eksperin cephe kaplaması, pencere lentoları, balkon altları ve saçakları yakından görmesi, fotoğraflaması, gerekirse çekiçle yoklaması.",
+    "Gevşek parça sökümü: Düşme tehlikesi olan kompozit panel, cam, sıva, tabela ve klima dış ünitesi parçalarının kontrollü indirilmesi.",
+    "Geçici önlem: Pencerelerin branda veya levhayla kapatılması, cephe filesi takılması.",
+    "Yüksekte enkaz indirme: Balkon ve çıkmalarda kalan yanık malzemenin torbalarla aşağı indirilmesi; ağır parçalar için ayrıca vinç."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Yapısal hasar ağırsa ve bina kısmen yıkılacaksa bu ayrı bir iş türüdür; onu <a href=\"/blog/hasarli-bina-yikim-guclendirme-vinc\">hasarlı bina yıkım ve güçlendirme</a> yazımızda anlattık."
+  },
+  {
+   "type": "h2",
+   "text": "Hangi makine?"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Durum",
+    "Makine",
+    "Neden"
+   ],
+   "rows": [
+    [
+     "Cephe önü açık, yol veya otopark",
+     "Araç üstü sepetli vinç",
+     "Hızlı kurulum, kolay yer değiştirme"
+    ],
+    [
+     "Önünde ağaç, tente, kalıntı olan cephe",
+     "Eklemli (mafsallı) platform",
+     "Engelin üstünden aşar, yapıya temas etmeden yaklaşır"
+    ],
+    [
+     "Yüksek bina",
+     "Yüksek erişimli sepetli vinç",
+     "Yatay mesafede de yükseklik korunur"
+    ],
+    [
+     "Ağır parça veya enkaz konteyneri",
+     "Hiyap veya mobil vinç (platformla birlikte)",
+     "Sepet ağır yük için değildir"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Platform seçiminde dikkat ettiğimiz en önemli nokta, sepetin cepheye dayanmadan, belli bir mesafeden çalışabilmesidir. Yangın görmüş bir duvar, balkon veya kaplama ağırlık ve temas kaldıramayabilir. Bu yüzden yanal erişimi iyi olan eklemli makineleri tercih ederiz. Makine farkları için <a href=\"/blog/eklemli-teleskopik-platform-farki\">eklemli ve teleskopik platform</a> yazımıza bakabilirsiniz."
+  },
+  {
+   "type": "h2",
+   "text": "Keşifte sorduğumuz sorular"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "İtfaiye alanı teslim etti mi? Alan hâlâ kordon altında mı?",
+    "Sahaya girmek için kimden onay alındı (belediye, mal sahibi, sigorta, mühendis)?",
+    "İşi kim yönetecek, sepette kim olacak: mühendis, eksper, söküm ekibi?",
+    "Hangi cephe, kaçıncı kat, en yüksek çalışma noktası neresi?",
+    "Platform nereye kurulacak? Zemin itfaiye suyu ile ıslandı mı, altında bodrum veya rögar var mı?",
+    "Cephe önünde enerji hattı var mı, hat kesildi mi?",
+    "Sökülecek parçalar nereye indirilecek, kim taşıyacak?"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Sepette tespit yaparken düzen"
+  },
+  {
+   "type": "p",
+   "text": "Hasar tespiti için sepete çıkan mühendis veya eksperle önceden bir sıra belirleriz. Platform cephenin bir ucundan başlar, her katı yatay olarak tarar, sonra bir kat yukarı çıkar. Bu sayede aynı noktaya iki kez gidilmez ve hiçbir bölge atlanmaz. Sepetteki kişi her durakta fotoğraf çeker ve kat ile aks bilgisini not eder. Operatör sepeti cepheden belli bir mesafede tutar; mühendis yoklama yapmak isterse uzun saplı aletle uzanır, cepheye dayanılmaz."
+  },
+  {
+   "type": "p",
+   "text": "Tespit sırasında hemen düşebilecek bir parça görülürse iş durdurulur; parça ya kontrollü sökülür ya da altındaki kapalı alan genişletilir. Bu kararı sepetteki mühendis ve işin sorumlusu birlikte verir. Yüksekte çalışmadaki idari yükümlülükler için <a href=\"/blog/vinc-yuksekte-calisma-isg-idari-para-cezalari\">İSG ve idari para cezaları</a> yazımıza bakabilirsiniz."
+  },
+  {
+   "type": "h2",
+   "text": "Tipik riskler"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Düşen parça: En büyük risk sepetteki değil, aşağıdaki kişiler içindir. Çalışma alanının altı geniş bir alanda kapatılır.",
+    "Zayıflamış yapı: Sepet cepheye dayanmaz, sepetten yapıya geçilmez, kimse sepete bağlı olmadan yapıya uzanmaz.",
+    "Islak ve yumuşamış zemin: İtfaiye suyu zemini ve dolguyu yumuşatır; ayak yeri ayrıca kontrol edilir. Bkz. <a href=\"/blog/vinc-ayak-outrigger-zemin-basinci-sedye-plakasi\">zemin basıncı</a>.",
+    "Kalıntı duman ve is: Sepetteki ekibin uygun solunum koruyucu kullanması gerekebilir; bu kararı işverenin İSG uzmanı verir.",
+    "Elektrik: Yangın sonrası hasarlı kablolar ve cephe önündeki hatlar ayrıca kontrol edilir."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Saha kontrol listesi"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Alan itfaiye ve yetkili kurumlarca teslim edildi, girişe yazılı onay var.",
+    "Bina elektriği ve gerekiyorsa cephe önü hatların enerjisi kesildi.",
+    "Platform ayak yeri sağlam, sedye plakaları altında; zemin ıslaklığı kontrol edildi.",
+    "Çalışma alanının altı ve düşme menzili bariyerle kapatıldı.",
+    "Sepetteki herkes tam vücut emniyet kemeriyle sepete bağlı; KKD için <a href=\"/blog/yuksekte-calisma-is-guvenligi-kkd-sepetli-platform\">bu rehbere</a> bakın.",
+    "Sepet kapasitesi aşılmıyor; sökülen parçalar sepette biriktirilmeden indiriliyor.",
+    "Fotoğraf ve not alacak kişi belirli; tespit bilgileri mühendise teslim ediliyor."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "İş bittiğinde platformun kurulduğu zemini ve çevresini kontrol eder, sökülen parçaların nereye bırakıldığını işverenle birlikte teyit ederiz. Böylece alan, bir sonraki ekip için düzenli ve güvenli halde teslim edilir."
+  },
+  {
+   "type": "p",
+   "text": "Şanlıurfa merkez ve ilçelerinde bu tür acil işlerde mümkün olan en kısa sürede sahaya çıkmaya çalışıyoruz. Acil talep süreci için <a href=\"/blog/acil-ayni-gun-vinc-kiralama\">aynı gün vinç</a> yazımıza, bölgemiz için <a href=\"/bolgeler/sanliurfa-vinc-kiralama\">Şanlıurfa vinç kiralama</a> sayfamıza bakabilirsiniz."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Yangından sonra binaya ne zaman sepetli platformla yaklaşılabilir?",
+   "a": "İtfaiye alanı teslim ettikten ve yetkili kurumlar ile mal sahibi giriş için onay verdikten sonra. Bu onay olmadan platform kurmayız."
+  },
+  {
+   "q": "Yangın sonrası hasar tespitini kim yapar?",
+   "a": "Yapının durumu bir inşaat mühendisi tarafından değerlendirilir; sigorta açısından eksper ayrıca inceler. Belediyenin ilgili birimi de süreçte yer alabilir. Biz bu kişilerin cepheye güvenle ulaşmasını sağlarız."
+  },
+  {
+   "q": "Sepetli platformla enkaz indirilebilir mi?",
+   "a": "Hafif parçalar sepet kapasitesi içinde kalmak şartıyla indirilebilir. Ağır parçalar ve büyük enkaz için vinç veya hiyap kullanılır."
+  },
+  {
+   "q": "Yangın görmüş cepheye sepet dayanabilir mi?",
+   "a": "Dayanmamalı. Yangın görmüş kaplama, balkon ve duvarların taşıma gücü bilinmez; sepet belli bir mesafeden çalışır."
+  },
+  {
+   "q": "Hasar tespiti için iskele mi kurulmalı, platform mu kullanılmalı?",
+   "a": "İlk tespit için platform çok daha hızlıdır ve yapıya yük bindirmez. Uzun süreli onarım işlerinde iskele daha mantıklı olabilir."
+  },
+  {
+   "q": "Yangın sonrası platform kiralaması sigortadan karşılanır mı?",
+   "a": "Bu, poliçenizin kapsamına ve eksperin değerlendirmesine bağlıdır; bazı poliçeler enkaz kaldırma ve hasarı azaltma masraflarını kapsayabilir. Kesin bilgi için sigorta şirketinize ve eksperinize danışın. Biz işin tarihini, süresini ve yapılan işi gösteren faturayı ve gerekiyorsa iş günü fotoğraflarını eksik olmadan veririz."
+  }
+ ]
+}

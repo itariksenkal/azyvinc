@@ -1,0 +1,165 @@
+{
+ "slug": "vinc-karsi-agirlik-kontrpuan-nedir",
+ "_hedef": "vinç karşı ağırlık / kontrpuan nedir",
+ "title": "Vinç Karşı Ağırlığı (Kontrpuan) Nedir, Neden Önemli?",
+ "ogTitle": "Vinç Karşı Ağırlığı (Kontrpuan, Balans) Nedir? Kapasiteye Etkisi, Taşınması ve Sahada İstediği Alan",
+ "h1": "Vinç karşı ağırlığı (kontrpuan) nedir? Taşıma, kurulum alanı ve kapasiteye etkisi",
+ "desc": "Vinç karşı ağırlığı (kontrpuan) nedir, kapasiteyi nasıl değiştirir? Ayrı taşınması, sahada takılması ve kuyruk dönüş alanı için pratik bir kontrol listesi.",
+ "image": "mobil-vinc-saha-azy-vinc.jpeg",
+ "imageAlt": "Sahada kurulmuş mobil vinç ve arka kısmı",
+ "caption": "Vincin arkasındaki bloklar, öndeki yükü dengeleyen karşı ağırlıktır.",
+ "intro": "Vinç karşı ağırlığı (kontrpuan, sahada balans da denir), vincin dönen üst kısmının arkasına takılan ve öndeki yükün devirme etkisini dengeleyen ağır çelik veya döküm bloklardır. Karşı ağırlık ne kadar fazlaysa vinç aynı yarıçapta o kadar çok kaldırabilir; ama bu bloklar taşınmak, takılmak ve arkada dönmek için yer ister. Bu yazıda karşı ağırlığın kapasiteyi nasıl değiştirdiğini ve iş sahibini en çok ilgilendiren iki konuyu, yani taşımayı ve sahada gereken alanı anlatıyoruz.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "Karşı ağırlık nasıl çalışır?"
+  },
+  {
+   "type": "p",
+   "text": "Vinci döner bir terazi gibi düşünün. Önde bomun ucunda yük ve bomun kendi ağırlığı, arkada karşı ağırlık var. Ortadaki dönüş merkezinde ise ayaklar ve araç gövdesi. Yük uzaklaştıkça öndeki devirme etkisi büyür; arkadaki karşı ağırlık bunu dengeler. Dengeyi bozan sadece yük değildir: yük olmadan da çok fazla karşı ağırlık, vinci geriye doğru devirmeye zorlayabilir. Bu yüzden her konfigürasyonda hangi karşı ağırlığın takılacağı üretici tarafından belirlenir, keyfe göre artırılıp azaltılmaz."
+  },
+  {
+   "type": "p",
+   "text": "Yük tablolarının çoğu karşı ağırlığa göre ayrı ayrı verilir. Tablonun başlığında veya notunda takılı karşı ağırlık miktarı yazar. Tablonun genel okunuşunu <a href=\"/blog/vinc-yuk-tablosu-load-chart-nasil-okunur\">yük tablosu nasıl okunur</a> yazısında anlattık; burada sadece karşı ağırlık satırına odaklanıyoruz."
+  },
+  {
+   "type": "h2",
+   "text": "Karşı ağırlık azalınca ne olur?"
+  },
+  {
+   "type": "p",
+   "text": "Karşı ağırlık azaltıldığında özellikle orta ve uzak yarıçaplarda kapasite düşer. Kısa yarıçapta kapasiteyi çoğu zaman bom ve yapı dayanımı sınırlar, karşı ağırlığın etkisi daha az hissedilir; yük uzaklaştıkça devrilme sınırı belirleyici olur ve karşı ağırlık farkı açılır. Pratik sonuç: \"vinç gelsin ama karşı ağırlık gelmesin\" dediğinizde aynı vinç artık aynı vinç değildir."
+  },
+  {
+   "type": "h2",
+   "text": "Karşı ağırlık nasıl taşınır?"
+  },
+  {
+   "type": "p",
+   "text": "Burada vinç sınıfı belirleyicidir. Aşağıdaki tablo genel eğilimi gösterir; her modelin taşıma düzeni farklıdır."
+  },
+  {
+   "type": "table",
+   "head": [
+    "Vinç sınıfı",
+    "Karşı ağırlık genelde",
+    "İş sahibine etkisi"
+   ],
+   "rows": [
+    [
+     "Hiyap",
+     "Ayrı karşı ağırlık yok; denge kamyon ve ayaklarla sağlanır",
+     "Ek araç yok"
+    ],
+    [
+     "Küçük–orta mobil vinç",
+     "Araç üzerinde sabit veya kısmen takılı gelir",
+     "Çoğu işte ek araç gerekmez"
+    ],
+    [
+     "Büyük mobil vinç",
+     "Bir kısmı veya tamamı ayrı tır ile gelir, sahada takılır",
+     "Ek araç, ek alan, ek süre"
+    ],
+    [
+     "Paletli vinç",
+     "Bloklar ayrı taşınır, sahada yardımcı vinçle takılır",
+     "Kurulum planı ve yardımcı vinç gerekir"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Büyük vinçlerde karşı ağırlığın ayrı gelmesinin ana sebebi yol ve aks yükü sınırlarıdır. Vinç tüm bloklarıyla yola çıksa izin verilen ağırlığı aşar. Bu konuyu <a href=\"/blog/vinc-araci-gabari-agir-tasit-yol-izni\">gabari ve yol izni</a> yazımızda, yarıçapla kapasitenin nasıl değiştiğini ise <a href=\"/blog/vinc-kac-ton-kaldirir-kac-metre-uzanir\">vinç kaç ton kaldırır</a> yazısında ele aldık."
+  },
+  {
+   "type": "h2",
+   "text": "Sahada karşı ağırlığın istediği alan"
+  },
+  {
+   "type": "h3",
+   "text": "Kuyruk dönüş yarıçapı"
+  },
+  {
+   "type": "p",
+   "text": "Vincin üst kısmı döndüğünde arkadaki karşı ağırlık da bir daire çizer. Bu daireye kuyruk dönüş yarıçapı denir. Bu alanın içinde duvar, direk, park etmiş araç veya insan olmamalıdır. Şehir içi işlerde en çok atlanan nokta budur: herkes bomun ucuna bakar, kimse arkaya bakmaz. Karşı ağırlık ile bina arasında kalan bir kişi ağır yaralanabilir. Bu yüzden kuyruk dönüş alanı da şeritle çevrilir."
+  },
+  {
+   "type": "h3",
+   "text": "Takma alanı"
+  },
+  {
+   "type": "p",
+   "text": "Karşı ağırlık ayrı geliyorsa onu getiren tırın vincin yanına yanaşabileceği ve blokların indirileceği bir alan gerekir. Bazı vinçler blokları kendi kendine takar, bazıları için yardımcı vinç gerekir. Dar sokakta bu iş, vincin kendisi kadar yer kaplayabilir."
+  },
+  {
+   "type": "h3",
+   "text": "Zemin"
+  },
+  {
+   "type": "p",
+   "text": "Karşı ağırlık, ayaklara binen yükü artırır. Yük yokken arka ayaklar, yük öndeyken ön ayaklar daha çok yüklenir. Zemin değerlendirmesi bu yüzden her iki durumu da düşünmelidir; ayrıntısı <a href=\"/blog/vinc-ayak-outrigger-zemin-basinci-sedye-plakasi\">vinç ayakları ve zemin basıncı</a> yazısında."
+  },
+  {
+   "type": "h2",
+   "text": "İş sahibi için kontrol listesi"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Teklifte vincin hangi karşı ağırlıkla çalışacağı yazıyor mu?",
+    "Karşı ağırlık ayrı araçla mı gelecek? Geliyorsa o araç için de yer ve güzergâh var mı?",
+    "Vincin arkasında, kuyruk dönüş alanında duvar, direk, ağaç veya park etmiş araç var mı?",
+    "Kuyruk alanı yaya yolu veya kaldırımla çakışıyor mu? Çakışıyorsa nasıl kapatılacak?",
+    "Takma ve sökme süresi iş programına eklendi mi?",
+    "Dar alanda karşı ağırlık azaltılarak çalışılacaksa, o konfigürasyonda yükün hâlâ güvenle kaldırılabildiği teyit edildi mi?"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Sahadan bir not"
+  },
+  {
+   "type": "p",
+   "text": "Dar sokak işlerinde zaman zaman şu teklif gelir: \"Arkada yer yok, vinci biraz daha öne çekelim, kuyruk sığsın.\" Bu bazen mümkündür, ama vincin öne gelmesi yarıçapı değiştirir; yarıçap değişince tablo değişir. Kuyruğu sığdırmak için yapılan her yer değişikliği, kaldırmanın yeniden hesaplanması demektir. Bunu sahada değil, keşifte konuşmak çok daha kolaydır. Dar alanlarda hangi çözümleri kullandığımızı <a href=\"/blog/dar-sokak-yuksek-kat-vinc-erisimi\">dar sokak ve yüksek kat erişimi</a> yazısında topladık."
+  },
+  {
+   "type": "h2",
+   "text": "Karşı ağırlık ve vincin güvenlik sistemi"
+  },
+  {
+   "type": "p",
+   "text": "Modern mobil vinçlerde yük moment sistemi, o an takılı olan karşı ağırlığa göre ayarlanır. Operatör kurulum sırasında hangi karşı ağırlığın takılı olduğunu sisteme girer; sistem de kapasite sınırlarını buna göre hesaplar. Takılı olan ile sisteme girilen değer farklıysa sistemin gösterdiği sınırlar gerçeği yansıtmaz. Bu yüzden kurulumdan sonra takılı blokların ve sistem ayarının birbirini tuttuğu kontrol edilir. Güvenlik sistemlerinin genel işleyişini <a href=\"/blog/vinc-guvenlik-sistemleri-yuk-moment-gostergesi\">yük moment göstergesi</a> yazısında anlattık."
+  },
+  {
+   "type": "p",
+   "text": "İş sahibi açısından bunun pratik karşılığı basittir: kurulumdan sonra kaldırmaya geçmeden önce operatöre hangi konfigürasyonla çalışıldığını sormak yerindedir. İyi bir operatör bu soruya tablodaki satırı göstererek cevap verir. Karşı ağırlığı eksik bir vinçle tam karşı ağırlık tablosuna göre yapılan bir kaldırma, kağıt üzerinde güvenli görünüp sahada sınırı aşabilir."
+  },
+  {
+   "type": "p",
+   "text": "Son olarak, karşı ağırlık blokları da birer yük olarak kaldırılır. Takma ve sökme sırasında blokların altına girilmez, bağlantı pimlerinin yerine oturduğu kontrol edilir. Bu adımlar aceleye getirildiğinde kazalar kaldırmanın kendisinde değil, kurulumda olur."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Kontrpuan ne demek?",
+   "a": "Vincin dönen üst kısmının arkasına takılan, öndeki yükü dengeleyen ağırlıktır. Karşı ağırlık veya sahadaki adıyla balans da denir."
+  },
+  {
+   "q": "Karşı ağırlık kapasiteyi nasıl etkiler?",
+   "a": "Karşı ağırlık azaldıkça özellikle orta ve uzak yarıçaplarda kapasite düşer. Yük tabloları takılı karşı ağırlığa göre ayrı verilir."
+  },
+  {
+   "q": "Karşı ağırlık neden ayrı araçla gelir?",
+   "a": "Büyük vinçler bütün bloklarıyla yola çıksa yol ve aks yükü sınırlarını aşar. Bu yüzden bloklar ayrı tırla taşınıp sahada takılır."
+  },
+  {
+   "q": "Kuyruk dönüş alanı nedir?",
+   "a": "Vincin üst kısmı dönerken arkadaki karşı ağırlığın taradığı alandır. Bu alanda insan, araç veya engel bulunmamalı ve alan şeritle çevrilmelidir."
+  },
+  {
+   "q": "Hiyapta karşı ağırlık var mı?",
+   "a": "Hiyaplarda genellikle ayrı bir karşı ağırlık bloğu yoktur; denge kamyonun kendi ağırlığı ve açılan ayaklarla sağlanır."
+  }
+ ]
+}

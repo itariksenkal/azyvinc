@@ -1,0 +1,160 @@
+{
+ "slug": "tarihi-yapi-restorasyonunda-vinc",
+ "_hedef": "restorasyonda vinç kullanımı tarihi yapı",
+ "title": "Tarihi Yapı Restorasyonunda Vinç: İzin, Koruma ve Seçim",
+ "ogTitle": "Tarihi Yapı Restorasyonunda Vinç Kullanımı: Koruma Kurulu Süreci, Hafif Makine Seçimi ve Yapıyı Koruma",
+ "h1": "Tarihi Yapı Restorasyonunda Vinç Kullanımı: Şanlıurfa ve Harran İçin Saha Rehberi",
+ "desc": "Restorasyonda vinç kullanımı: tescilli yapıda izin süreci, koruma kurulu, hafif makine seçimi, ayak yükü, yapıya temas riskleri ve tarihi alan kontrol listesi.",
+ "image": "sanliurfa-dergah-tarihi-alan-vinc.jpeg",
+ "imageAlt": "Şanlıurfa'da Dergah çevresindeki tarihi alanda çalışan vinç",
+ "caption": "Tarihi alanda vinç seçimi tonajla değil, ayak yükü ve yapıya olan mesafeyle başlar.",
+ "intro": "Tarihi yapı restorasyonunda vinç kullanılabilir, ama makine seçimi sıradan bir şantiyeden farklı yapılır: önce yapıya ve zemine en az yük bindiren, en küçük ayak izine sahip makine aranır, tonaj sonra gelir. Tescilli bir yapıdaki her müdahale gibi vinç çalışması da koruma kurulunun onayladığı proje ve uygulama çerçevesi içinde yürür. Şanlıurfa'nın tarihi kent merkezinde ve Harran'da yaptığımız işlerden edindiğimiz yöntemi aşağıda özetliyoruz.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "Restorasyon sahasında vinç ne iş yapar?"
+  },
+  {
+   "type": "p",
+   "text": "Restorasyon işleri çoğu zaman ağır değil, hassastır. Vinç; kesme taş blokları, ahşap çatı elemanlarını, kurşun veya kiremit kaplama malzemesini, iskele parçalarını ve moloz torbalarını taşır. Sepetli platform ise rölöve, cephe belgeleme, derz ve taş yüzey incelemesi, kubbe ve kemer üstü kontrol gibi işlerde kullanılır. Bazı işlerde, örneğin bir kubbe kurşununun yenilenmesinde veya minare külahında, vinç ile sepetli platform aynı gün birlikte çalışır. Cami, minare ve kubbe işlerine özgü konuları <a href=\"/blog/cami-minare-alem-kubbe-montaj-vinc\">bu yazımızda</a> ayrıca anlattık."
+  },
+  {
+   "type": "h2",
+   "text": "İzin süreci: kim, neye karar verir?"
+  },
+  {
+   "type": "p",
+   "text": "Türkiye'de tescilli kültür varlıkları 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu kapsamındadır. Bu yapılarda uygulanacak restorasyon projesi, bölgedeki Kültür Varlıklarını Koruma Bölge Kurulu tarafından onaylanır; Şanlıurfa ve Adıyaman, Eyyübiye'deki Şanlıurfa Kültür Varlıklarını Koruma Bölge Kurulu Müdürlüğü'nün sorumluluk alanındadır. Vakıflar Genel Müdürlüğü'nün yönetimindeki vakıf eserlerinde ise koruma ve onarım, kurul kararından sonra Vakıflar Genel Müdürlüğü eliyle yürütülür. Vinç firması bu izni almaz; izni yapı sahibi, yüklenici ve proje müellifi yürütür. Bizim işimiz, onaylı proje ve kontrol biriminin (proje müellifi, kontrol mühendisi veya ilgili kurum temsilcisi) belirlediği sınırlar içinde çalışmaktır."
+  },
+  {
+   "type": "p",
+   "text": "Pratikte şunu öneriyoruz: vinç veya platformun nereye kurulacağı, ayakların hangi zemine basacağı ve bomun hangi alanda döneceği, uygulama başlamadan kontrol birimine yazılı olarak gösterilsin. Ayak altında arkeolojik dolgu olabilecek bir avluya ya da tarihi taş döşemeye vinç kurmak ayrı bir karardır ve bu kararı biz değil, yetkili kişiler verir."
+  },
+  {
+   "type": "h2",
+   "text": "Hangi makine?"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Saha durumu",
+    "Tercih ettiğimiz makine",
+    "Neden"
+   ],
+   "rows": [
+    [
+     "Dar sokak, avlu içi iş",
+     "Örümcek (mini) vinç",
+     "Dar kapıdan girer, ayak yükü düşük, paletli"
+    ],
+    [
+     "Yapı dışında yola kurulabilen iş",
+     "Hiyap veya orta tonajlı mobil vinç",
+     "Ayaklar yapıdan uzakta, yük bomla taşınır"
+    ],
+    [
+     "Cephe ve kubbe incelemesi",
+     "Eklemli sepetli platform",
+     "Engelin üstünden aşar, yapıya dokunmadan yaklaşır"
+    ],
+    [
+     "Tarihi taş döşeme üstü",
+     "Paletli mini platform, koruma plakalı",
+     "Lastik izi ve noktasal yük azalır"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Dar alanlardaki küçük makineleri <a href=\"/blog/orumcek-vinc-mini-vinc-ic-mekan-dar-alan\">örümcek vinç yazımızda</a> tanıttık. Şanlıurfa'nın eski kent dokusundaki sokak genişlikleri ve erişim sorunu için <a href=\"/blog/dar-sokak-yuksek-kat-vinc-erisimi\">dar sokak erişimi</a> yazısına bakabilirsiniz."
+  },
+  {
+   "type": "h2",
+   "text": "Şanlıurfa ve Harran'a özgü durumlar"
+  },
+  {
+   "type": "p",
+   "text": "Şanlıurfa'nın Balıklıgöl çevresi ve tarihi çarşı bölgesi dar, kalabalık ve ziyaretçi trafiği yüksek alanlardır. Burada çalışmaları ziyaretçinin az olduğu saatlere çekmek, çevreyi bariyerle kapatmak ve makineyi mümkünse yapı dışında, yolda konumlandırmak temel yöntemimizdir. Harran'da ise kümbet evleri, ören yeri ve kale çevresinde zemin belirsizdir; yüzeyin hemen altında arkeolojik dolgu olabilir. Bu yüzden ayak yükünü geniş plakalarla dağıtır, makineyi kontrol biriminin gösterdiği güzergahtan sokarız. Harran'daki çalışma koşullarını <a href=\"/bolgeler/harran-vinc-kiralama\">Harran vinç kiralama</a> sayfamızda, merkezdeki tarihi doku işlerini <a href=\"/bolgeler/eyyubiye-vinc-kiralama\">Eyyübiye</a> sayfamızda anlattık."
+  },
+  {
+   "type": "h2",
+   "text": "Keşifte sorduğumuz sorular"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Yapı tescilli mi? Onaylı restorasyon projesi ve uygulama izni hazır mı?",
+    "Kontrol birimi kim? Makinenin kurulum yerini kim onaylayacak?",
+    "Kaldırılacak en ağır parça nedir, nereye konacak?",
+    "Makine yapıya hangi güzergahtan girecek? Kapı, kemer, sokak genişliği kaç metre?",
+    "Zemin tarihi döşeme mi, toprak mı, dolgu mu? Altında mahzen, sarnıç veya boşluk biliniyor mu?",
+    "Bomun dönüş alanında saçak, kubbe, minare, ağaç veya enerji hattı var mı?",
+    "Ziyaretçi trafiği hangi saatlerde az?"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Çalışma alanını çizmek: pratik bir yöntem"
+  },
+  {
+   "type": "p",
+   "text": "Tarihi alanlarda keşif sonrası basit bir kroki hazırlıyoruz: yapının planı üzerine makinenin kurulum yeri, ayakların basacağı dört nokta, bomun döneceği daire ve yükün geçeceği hat işaretlenir. Bu daire içinde kalan her saçak, kubbe, kemer, ağaç ve kablo ayrı ayrı not edilir; yükün bunlara en yakın geçtiği mesafe yazılır. Krokiyi kontrol birimine ve yükleniciye gönderip onay aldıktan sonra sahaya çıkarız. Bu belge hem iş sırasında herkesin aynı sınırları bilmesini sağlar hem de iş bitince yapının etkilenmediğini göstermek için kullanılır."
+  },
+  {
+   "type": "p",
+   "text": "Bir diğer alışkanlığımız, işe başlamadan önce yapının makineye yakın yüzlerini fotoğraflamak. Tarihi yapılarda var olan çatlak ve kopukluklar sonradan tartışma konusu olabiliyor; işten önceki durum belgelendiğinde bu tartışma baştan kapanıyor."
+  },
+  {
+   "type": "h2",
+   "text": "Tipik riskler"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Yapıya temas: Bom, yük veya sapanın tarihi yüzeye çarpması geri dönüşü olmayan hasar demektir. Dönüş açısını sınırlar, yük yaklaşırken hızı düşürürüz.",
+    "Titreşim ve noktasal yük: Ağır makine geçişi zayıf kemer ve tonozlu yapıları etkileyebilir. Hafif ve paletli makineyi tercih ederiz.",
+    "Zemin boşluğu: Sarnıç, mahzen veya eski kuyu üstüne ayak basmak ciddi tehlikedir; bilinmeyen zeminde sondaj veya kontrol birimi görüşü olmadan kurulum yapmayız.",
+    "Taş bloklarda sapan izi: Kesme taş, çelik halatla değil kayış sapan ve köşe koruyucuyla kaldırılır.",
+    "Yaya ve ziyaretçi: Kalabalık alanda yükün altına girilmemesi için çevre tamamen kapatılır."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Kontrol listesi"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Uygulama izni ve onaylı proje sahada, kontrol birimi bilgilendirildi.",
+    "Makine güzergahı ve kurulum yeri yazılı olarak onaylandı.",
+    "Ayak altı plakalar ve tarihi döşeme için koruyucu kaplama hazır.",
+    "Dönüş alanı işaretlendi, gerekirse sınırlandırıldı.",
+    "Taş ve ahşap elemanlar için kayış sapan, köşe koruyucu ve kılavuz halat sahada.",
+    "Çalışma saati ziyaretçi yoğunluğuna göre seçildi, alan bariyerle kapatıldı.",
+    "Her kaldırma sonrası yapı yüzeyi kontrol edildi, gerekiyorsa fotoğrafla belgelendi."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Tescilli yapıda vinç kullanmak için ayrı izin gerekir mi?",
+   "a": "Vinç kullanımı genellikle onaylı restorasyon uygulamasının bir parçası olarak değerlendirilir. Makinenin kurulumu ayrıca kamusal alanı işgal edecekse belediyeden de izin gerekir. Ayrıntıyı proje müellifinize ve ilgili koruma bölge kurulu müdürlüğüne sorun."
+  },
+  {
+   "q": "Koruma kurulu izni vinç firması tarafından alınır mı?",
+   "a": "Hayır. İzin yapı sahibi ve yüklenici tarafından proje müellifi aracılığıyla yürütülür. Vinç firması onaylı uygulama çerçevesinde çalışır."
+  },
+  {
+   "q": "Tarihi taş döşemenin üstüne vinç kurulabilir mi?",
+   "a": "Bu karar kontrol biriminindir. Kurulacaksa paletli, hafif makine ve yükü dağıtan koruyucu plakalar kullanılır; mümkünse makine döşeme dışına kurulur."
+  },
+  {
+   "q": "Restorasyonda neden küçük vinç tercih ediliyor?",
+   "a": "Küçük makinenin ayak yükü, titreşimi ve yapıya yaklaşma ihtiyacı daha azdır. Restorasyondaki yükler de çoğu zaman hafiftir; asıl sorun erişim ve hassasiyettir."
+  },
+  {
+   "q": "Harran'da kümbet evlerinin yanında çalışıyor musunuz?",
+   "a": "Evet, ilgili izinler ve kontrol biriminin gösterdiği sınırlar içinde çalışıyoruz. Zemin belirsiz olduğu için ayak yükünü dağıtan plakalar kullanıyoruz."
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+name: Blog kuyrugu - gunluk yayin
+
+on:
+  schedule:
+    - cron: '23 6 * * *' # 09:23 Europe/Istanbul
+    - cron: '23 18 * * *' # 21:23 sabah calismadiysa tekrar dener
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+env:
+  TZ: Europe/Istanbul
+
+concurrency:
+  group: blog-kuyrugu
+  cancel-in-progress: false
+
+jobs:
+  yayinla:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Kuyrugu dogrula
+        run: python taslak/kontrol.py
+      - name: Bugun yayin yoksa siradaki taslagi yayinla
+        id: yazi
+        run: |
+          python taslak/yayinla.py --gunluk
+          if git diff --quiet && [ -z "$(git ls-files --others --exclude-standard blog taslak)" ]; then
+            echo "yayinlandi=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "yayinlandi=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Commit ve push
+        if: steps.yazi.outputs.yayinlandi == 'true'
+        run: |
+          git config user.name "azyvinc-yayinci[bot]"
+          git config user.email "azyvinc-yayinci[bot]@users.noreply.github.com"
+          git add -A blog taslak sitemap.xml llms.txt
+          git commit -m "Blog: kuyruktan gunluk yazi ($(date +%F))"
+          git push
+      - name: GitHub Pages derlemesini baslat
+        if: steps.yazi.outputs.yayinlandi == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" || echo "Pages derlemesi push ile zaten basladi"

@@ -1,0 +1,182 @@
+{
+ "slug": "vincte-yuk-dusmesi-nedenleri",
+ "_hedef": "vinçte yük düşmesi nedenleri / vinçten yük neden düşer",
+ "title": "Vinçte Yük Düşmesi: 8 Neden ve Önleme Tablosu",
+ "ogTitle": "Vinçte yük neden düşer? Bağlama hatası, kanca emniyet mandalı, yan çekme, aşırı yük ve diğer nedenler için önleme tablosu",
+ "h1": "Vinçte yük düşmesi: neden olur, nasıl önlenir?",
+ "desc": "Vinçte yük düşmesi çoğunlukla bağlama hatası, çalışmayan kanca mandalı, yan çekme ve aşırı yükten olur. 8 neden, belirtileri ve önleme tablosu bu yazıda.",
+ "image": "celik-konstruksiyon-cati-kiris-montaj-agir-yuk-vinc.jpeg",
+ "imageAlt": "Çelik çatı kirişinin sapanlarla bağlanarak vinçle kaldırılması",
+ "caption": "Yükü vinç değil, bağlantı tutar; zincirin en zayıf halkası çoğu zaman oradadır.",
+ "intro": "Vinçte yük düşmesinin en sık nedeni vincin kendisi değil, yük ile kanca arasındaki bağlantıdır: yanlış seçilmiş ya da hasarlı sapan, kayan bağlama, çalışmayan kanca emniyet mandalı. Bunları yan çekme, aşırı yük, ağırlık merkezinin yanlış tahmini ve yükün bir yere takılması izler. Aşağıda sahada gördüğümüz sekiz nedeni, her birinin önceden verdiği işaretleri ve önlemleri bir tabloda topladık. Kazanın hemen ardından ne yapılacağını <a href=\"/blog/santiyede-vinc-kazasi-ilk-mudahale\">şantiyede vinç kazası ilk müdahale</a> yazımızda anlattık; bu yazı düşmeyi önlemeye odaklanıyor.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "Yük nereden düşer?"
+  },
+  {
+   "type": "p",
+   "text": "Bir yükün düşmesi için zincirin herhangi bir halkasının kopması ya da açılması yeterlidir. Bu zinciri yukarıdan aşağıya şöyle düşünün: vinç ve bom, kaldırma halatı ve tambur, kanca bloğu ve kanca, emniyet mandalı, kilit (şakıl), sapan, yükteki bağlantı noktası ve son olarak yükün kendisi. Sahadaki deneyimimiz, sorunların büyük kısmının bu zincirin alt yarısında, yani kancadan aşağıda çıktığı yönünde. Vincin yük moment göstergesi aşırı yükü algılayabilir; ama kayan bir sapanı ya da çatlamış bir kaldırma kulağını algılayamaz."
+  },
+  {
+   "type": "h2",
+   "text": "Sekiz neden ve önleme tablosu"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Neden",
+    "Önceden veren işaret",
+    "Önlem"
+   ],
+   "rows": [
+    [
+     "1. Hasarlı veya yanlış sapan",
+     "Etiketi okunmuyor, kumaşta kesik veya yanık, halatta kopuk tel, zincirde uzama",
+     "Her kullanımdan önce gözle kontrol; etiketsiz ve hasarlı sapanı sahadan çıkarmak"
+    ],
+    [
+     "2. Kayan bağlama",
+     "Yuvarlak veya kaygan yükte tek sapan, boğma yapılmamış sepet bağlama",
+     "Uygun bağlama şekli, gerektiğinde iki noktadan boğma, sürtünmeyi artıran koruyucu"
+    ],
+    [
+     "3. Kanca emniyet mandalı çalışmıyor",
+     "Mandal yaylanmıyor, bağlanmış, kırık veya sökülmüş",
+     "Mandalı her işte kontrol etmek; mandalı çalışmayan kancayla kaldırmamak"
+    ],
+    [
+     "4. Yan çekme ve sürükleme",
+     "Halat dikey değil, yük kancanın tam altında değil",
+     "Kancayı ağırlık merkezinin üstüne getirmek; yükü sürüklememek"
+    ],
+    [
+     "5. Aşırı yük",
+     "Yük ağırlığı tahmini, aparat ağırlığı hesaba katılmamış, uzanım planlanandan fazla",
+     "Yük ağırlığını belgeden almak, yük tablosunu en uzak mesafeye göre okumak"
+    ],
+    [
+     "6. Ağırlık merkezinin yanlış tahmini",
+     "Yük kalkarken eğiliyor veya dönüyor",
+     "Deneme askısı: 10-20 santim kaldırıp dengeyi görmek"
+    ],
+    [
+     "7. Yükün takılması veya çarpması",
+     "Kaldırma yolunda çıkıntı, iskele, ağaç dalı; yük sallanıyor",
+     "Kılavuz halat, temiz kaldırma yolu, yavaş hareket"
+    ],
+    [
+     "8. Yükteki bağlantı noktasının kopması",
+     "Paslı, kaynağı belirsiz, sonradan eklenmiş kaldırma kulağı",
+     "Üreticinin belirttiği kaldırma noktalarını kullanmak; belirsiz kulağı kullanmamak"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Nedenlere biraz daha yakından bakalım"
+  },
+  {
+   "type": "h3",
+   "text": "Sapan ve aksesuar"
+  },
+  {
+   "type": "p",
+   "text": "Sapanlar zamanla aşınır, keskin köşede kesilir, sıcakta zarar görür. Etiketi silinmiş bir sapanın kapasitesi bilinmez. Hasarlı sapan tamir edilmez, kullanımdan kaldırılır. Bağlama şekilleri ve sapan açısının kapasiteyi nasıl düşürdüğü için <a href=\"/blog/vinc-sapan-halat-zincir-baglama-teknikleri\">sapan, halat ve zincir bağlama teknikleri</a> yazımıza bakın."
+  },
+  {
+   "type": "h3",
+   "text": "Kanca emniyet mandalı"
+  },
+  {
+   "type": "p",
+   "text": "Mandal, sapan gözünün kancadan kendiliğinden çıkmasını önleyen yaylı parçadır. Yük ağırlığını taşımaz; görevi, yük bir an için gevşediğinde ya da yere değip halat boşaldığında sapanın kancadan sıyrılmasını engellemektir. Sahada en tehlikeli alışkanlık, mandalın tel ya da bantla açık bağlanmasıdır. \"Daha hızlı takılıyor\" diye yapılan bu iş, yük bir engele değip halat gevşediği anda sapanın kancadan çıkmasına yol açabilir. Mandalı kırık kanca tamir edilene kadar kullanılmaz."
+  },
+  {
+   "type": "h3",
+   "text": "Yan çekme"
+  },
+  {
+   "type": "p",
+   "text": "Yük kancanın tam altında değilse, kaldırma başladığı anda yük yana kayar ve sallanır. Bu salınım bağlantıya ani yük bindirir, sapan kayabilir ya da yük bir engele çarpabilir. Yan çekmenin vinç ve bom üzerindeki etkisini <a href=\"/blog/vincle-yuk-suruklenir-mi-yan-cekme\">vinçle yük sürüklenir mi</a> yazımızda anlattık."
+  },
+  {
+   "type": "h3",
+   "text": "Aşırı yük ve aparat ağırlığı"
+  },
+  {
+   "type": "p",
+   "text": "Yükün ağırlığı çoğu zaman tahminle söylenir. Sapan, travers, kanca bloğu ve montaj aparatlarının ağırlığı da toplam yüke eklenir. Kapasite, bom uzadıkça hızla düşer; yükün alınacağı noktada yeterli olan vinç, bırakılacağı uzak noktada yetersiz kalabilir. Bu hesabı <a href=\"/blog/vinc-yuk-tablosu-load-chart-nasil-okunur\">yük tablosu nasıl okunur</a> yazımızda örnekle gösterdik. Vincin yük moment göstergesi bir güvenlik katmanıdır; devre dışı bırakılmamalı ve planlamanın yerine konmamalıdır."
+  },
+  {
+   "type": "h3",
+   "text": "Hava ve rüzgâr"
+  },
+  {
+   "type": "p",
+   "text": "Geniş yüzeyli bir yük (tabela, panel, kalıp) rüzgârda yelken gibi davranır. Ani bir rüzgâr yükü döndürür, sapanı kaydırabilir ya da yükü bir yapıya çarptırabilir. Sınır değerleri vincin üreticisi verir; hava koşulları bölümünü <a href=\"/blog/vinc-ruzgar-hava-kosullari-calisma-sinirlari\">vinç rüzgâr ve hava koşulları</a> yazımızda anlattık."
+  },
+  {
+   "type": "h3",
+   "text": "Ani hareket ve şok yükü"
+  },
+  {
+   "type": "p",
+   "text": "Yük hızla kaldırılır ya da ani frenlenirse, bağlantıya binen kuvvet yükün statik ağırlığının üzerine çıkar. Gevşek sapanla başlayan bir kaldırmada, halat birden gerildiğinde aynı etki oluşur. Bu yüzden kaldırmanın ilk anları yavaş yapılır, sapan gerginleşene kadar beklenir."
+  },
+  {
+   "type": "h2",
+   "text": "Sahada uyguladığımız 30 saniyelik son kontrol"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Sapan etiketi okunuyor ve kapasite bu yük için yeterli mi?",
+    "Sapanlar keskin köşeye değiyorsa koruyucu var mı?",
+    "Kanca mandalı kapanıyor ve sapan gözü kancanın tabanına oturuyor mu?",
+    "Kanca yükün ağırlık merkezinin tam üstünde mi?",
+    "Yükün üzerinde düşebilecek gevşek parça, alet ya da malzeme var mı?",
+    "Kaldırma yolu ve yükün altı insandan boş mu?",
+    "Deneme askısı yapıldı mı?"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Yükün üzerinde unutulan bir anahtar, cıvata kutusu ya da kalıp parçası da düşen yük sayılır. Bu yüzden son kontrolde yükün tepesine bakmayı unutmayın."
+  },
+  {
+   "type": "h2",
+   "text": "En önemli kural: yükün altına girmemek"
+  },
+  {
+   "type": "p",
+   "text": "Tüm önlemler alınsa bile bağlantının hiçbir zaman yüzde yüz güvenli olmadığını kabul ederek çalışmak gerekir. Bu yüzden kaldırma alanı şeritle çevrilir, yükün altında ve düşme hattında kimse bulunmaz, yük insanların üstünden geçirilmez. Yük karşılanırken ekip yükün yanında durur, altında değil. Operatörün de güvenli olmayan bir kaldırmayı reddetme hakkı ve sorumluluğu vardır."
+  },
+  {
+   "type": "p",
+   "text": "AZY Vinç olarak Şanlıurfa ve çevre illerde sapan ve aksesuarlarımızı sahaya kendi kontrolümüzden geçmiş olarak getiriyor, deneme askısı yapmadan tam kaldırmaya geçmiyoruz. Hizmetlerimizin tamamı için <a href=\"/hizmetler\">hizmetler</a> sayfamıza bakabilirsiniz."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Vinçte yük neden düşer?",
+   "a": "En sık nedenler hasarlı veya yanlış sapan, kayan bağlama, çalışmayan kanca emniyet mandalı, yan çekme, aşırı yük, ağırlık merkezinin yanlış tahmini, yükün bir yere takılması ve yükteki bağlantı noktasının kopmasıdır."
+  },
+  {
+   "q": "Kanca emniyet mandalı ne işe yarar?",
+   "a": "Halat gevşediğinde veya yük bir an için yere değdiğinde sapan gözünün kancadan kendiliğinden çıkmasını önler. Mandalı çalışmayan kancayla kaldırma yapılmamalıdır."
+  },
+  {
+   "q": "Yük moment göstergesi yük düşmesini önler mi?",
+   "a": "Aşırı yükü ve devrilme riskini önlemeye yardımcı olur, ama kayan bir sapanı, hasarlı aksesuarı veya kopan bir kaldırma kulağını algılayamaz."
+  },
+  {
+   "q": "Deneme askısı nedir?",
+   "a": "Yükü yerden 10-20 santim kaldırıp dengeyi, bağlantıyı ve vincin frenlerini kontrol etmektir. Yük eğiliyorsa indirilip bağlantı ayarlanır."
+  },
+  {
+   "q": "Yük düşerse sorumlu kim olur?",
+   "a": "Sorumluluk olayın koşullarına, sözleşmeye ve bilirkişi incelemesine göre belirlenir. Genel çerçeve için vinç kazasında hukuki sorumluluk yazımıza bakabilir, kesin değerlendirme için bir hukukçuya danışabilirsiniz."
+  }
+ ]
+}

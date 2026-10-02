@@ -1,0 +1,187 @@
+{
+ "slug": "arazi-tipi-vinc-rough-terrain",
+ "_hedef": "arazi tipi vinç / rough terrain vinç",
+ "title": "Arazi Tipi Vinç (Rough Terrain) Nedir, Nerede Kullanılır?",
+ "ogTitle": "Arazi Tipi Vinç (Rough Terrain) Nedir? Şantiye İçinde Kullanımı, Sınırları ve Mobil Vinçle Farkı",
+ "h1": "Arazi tipi vinç (rough terrain) nedir, şantiyede ne zaman kullanılır?",
+ "desc": "Arazi tipi vinç (rough terrain) nedir? Bozuk zeminli şantiyede avantajları, yolda gidememe gibi sınırları ve mobil vinç ile ne zaman tercih edileceği.",
+ "image": "mobil-vinc-saha-azy-vinc.jpeg",
+ "imageAlt": "Toprak zeminli sahada çalışan mobil vinç",
+ "caption": "Şantiye içinde zemin bozuksa vinç tipi de buna göre seçilir.",
+ "intro": "Arazi tipi vinç (rough terrain, kısaca RT), iri lastikli, kısa dingil mesafeli, çoğunlukla tek kabinli ve dört çeker bir vinçtir; asfaltsız, çamurlu veya engebeli şantiye içinde hareket edip dar alanlarda dönebilmek için tasarlanmıştır. Karşılığında kamu yolunda uzun mesafe gidemez, sahaya genellikle lowbed üzerinde taşınır. Bu yüzden en çok, haftalarca sürecek ve vincin saha içinde sık yer değiştireceği işlerde anlam kazanır. Aşağıda nerede işe yaradığını ve nerede yaramadığını anlatıyoruz.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "Arazi tipi vincin tanıdık mobil vinçten farkı"
+  },
+  {
+   "type": "p",
+   "text": "Şehirde gördüğünüz mobil vinçlerin çoğu, yolda hızlı gidebilen çok akslı araçlardır (all terrain veya kamyon tipi). Ayrı bir sürücü kabini ve ayrı bir vinç kabini vardır. Arazi tipi vinçte ise tek kabin hem sürüş hem vinç kullanımı için kullanılır, şasi kısa ve yüksektir, lastikler büyüktür. Birçok modelde dört tekerlekten yönlendirme ve yengeç yürüyüş (tekerleklerin aynı yöne dönmesi) bulunur; bu sayede araç dar alanlarda manevra yapabilir. Vinç tiplerinin genel tablosu için <a href=\"/blog/vinc-cesitleri-ve-farklari\">vinç çeşitleri ve farkları</a> yazımıza bakabilirsiniz."
+  },
+  {
+   "type": "table",
+   "head": [
+    "Özellik",
+    "Arazi tipi (RT)",
+    "Yol tipi mobil vinç"
+   ],
+   "rows": [
+    [
+     "Zemin",
+     "Çamur, toprak, engebeli şantiye",
+     "Asfalt ve sağlam zemin ağırlıklı"
+    ],
+    [
+     "Yolda hız ve mesafe",
+     "Düşük; uzun yolda genelde taşınır",
+     "Yüksek; sahaya kendisi gelir"
+    ],
+    [
+     "Kabin",
+     "Tek kabin",
+     "Ayrı sürücü ve vinç kabini"
+    ],
+    [
+     "Manevra",
+     "Kısa şasi, dört tekerden yönlendirme",
+     "Uzun şasi, daha geniş dönüş"
+    ],
+    [
+     "Kısa iş için maliyet",
+     "Taşıma nedeniyle yüksek",
+     "Genellikle daha düşük"
+    ],
+    [
+     "Uzun saha işi",
+     "Saha içinde verimli",
+     "Her yer değişikliği daha zahmetli olabilir"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Nerede işe yarar?"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Henüz yolu yapılmamış büyük şantiyeler: toplu konut, sanayi tesisi, depo inşaatı",
+    "Güneş enerjisi (GES) sahaları gibi geniş ve toprak zeminli alanlar",
+    "Saha içinde çok sayıda noktaya malzeme dağıtılan, vincin günde defalarca yer değiştirdiği işler",
+    "Tarım işletmeleri, ahır, sera veya silo kurulumları gibi asfaltsız alanlar",
+    "Rafineri, enerji ve altyapı projelerinde bakım dönemleri"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Şanlıurfa'nın tarım ve enerji yatırımlarında asfaltsız saha çok yaygın. Ancak bu sahaların hepsi arazi tipi vinç gerektirmez. Kuru mevsimde sıkışmış toprak zemin, sedye plakası ile birlikte bir yol tipi mobil vinci veya hiyapı rahatça taşıyabilir. Belirleyici olan zemin türünden çok, işin süresi ve vincin saha içinde ne kadar dolaşacağıdır. Sahadaki tipik durumlar için <a href=\"/blog/gunes-paneli-ges-montaji-vinc-sepetli-platform\">GES montajında vinç</a> ve <a href=\"/blog/sera-kurulumu-ve-montajinda-vinc\">sera kurulumunda vinç</a> yazılarına bakabilirsiniz."
+  },
+  {
+   "type": "h2",
+   "text": "Sınırları: \"arazi tipi\" her araziye girer demek değil"
+  },
+  {
+   "type": "p",
+   "text": "Arazi tipi vinç bozuk zeminde yürüyebilir, ama kaldırmayı bozuk zeminde yapmaz. Kaldırma sırasında yine ayaklar açılır ve araç terazilenir; ayakların altındaki zemin yine sağlam olmalıdır. Yürüme ile kaldırma ayrı şeylerdir. Islak killi bir zeminde araç ilerleyebilir, ama ayak altı oturuyorsa kaldırma yapılmaz."
+  },
+  {
+   "type": "p",
+   "text": "Bazı arazi tipi vinçler lastikleri üzerinde, ayak açmadan sınırlı yük kaldırıp yükle yavaşça ilerleyebilir. Bu kapasiteler ayrı bir tablodadır ve ayaklı tablodan çok daha düşüktür; zemin düz ve sert olmalıdır. Saha ekipleri bu özelliği bazen olduğundan büyük düşünür; tablo dışına çıkılmamalıdır."
+  },
+  {
+   "type": "p",
+   "text": "Bir de eğim meselesi var. Engebeli sahada araç yürüyebilir ama kaldırma için zemin üreticinin izin verdiği eğim içinde terazilenebilmelidir. Rampa üzerinde, kanal kenarında veya yeni dolgu üzerinde kurulum yapılmaz. Ayrıntılar <a href=\"/blog/zemin-etudu-ve-vinc-kurulum-yeri\">zemin etüdü ve vinç kurulum yeri</a> yazısında."
+  },
+  {
+   "type": "h2",
+   "text": "Karar kuralı: arazi tipi mi, yol tipi mi?"
+  },
+  {
+   "type": "table",
+   "head": [
+    "İşiniz",
+    "Önerilen ilk seçenek"
+   ],
+   "rows": [
+    [
+     "Bir veya birkaç günlük iş, saha asfalt veya sıkı zemin",
+     "Yol tipi mobil vinç veya hiyap"
+    ],
+    [
+     "Bir günlük iş, toprak saha ama kuru ve düz",
+     "Yol tipi mobil vinç, sedye plakası ile"
+    ],
+    [
+     "Haftalarca sürecek, saha içinde sık yer değişimi",
+     "Arazi tipi vinç değerlendirilir"
+    ],
+    [
+     "Islak, çamurlu saha ve kısa iş",
+     "Önce zemin hazırlığı veya iş tarihini kaydırmak"
+    ],
+    [
+     "Ağır yük, uzun süre, geniş saha",
+     "Paletli vinç dahil seçenekler birlikte değerlendirilir"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Şantiyede vinç çalışmasını kolaylaştıran hazırlıklar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Vincin gireceği saha yolu en az bir kez greyderle düzeltilmiş ve sıkıştırılmış olsun.",
+    "Kaldırma noktalarında ayak altı için düz ve dolgu olmayan bir alan ayrılsın.",
+    "Yağmur sonrası ilk gün mümkünse ağır kaldırma planlanmasın; zemin kurumayı beklesin.",
+    "Kazı çukuru, hendek ve kanal kenarlarından güvenli mesafe bırakılsın.",
+    "Saha içindeki havai elektrik hatları önceden işaretlensin."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Arazi tipi bir vincin size uyup uymadığını sahadan bir iki fotoğraf ve iş süresiyle konuşmak en kısa yoldur. Çoğu zaman sonuç, doğru zemin hazırlığıyla yol tipi bir mobil vincin işi daha ekonomik bitireceği yönünde çıkıyor; işin süresi uzadıkça hesap değişiyor."
+  },
+  {
+   "type": "h2",
+   "text": "Arazi tipi vinç kiralarken sorulacaklar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Vinç sahaya nasıl gelecek? Lowbed taşıma bedeli teklife dahil mi?",
+    "Saha içinde lastik üzerinde yük taşıma planlanıyorsa, bu konfigürasyonun tablosu ve zemin şartı nedir?",
+    "Aracın izin verilen eğim sınırı nedir? Sahadaki rampalar bu sınırın içinde mi?",
+    "Yağış nedeniyle çalışılamayan günler nasıl hesaplanacak?",
+    "Operatör saha içi trafik kurallarını ve diğer iş makinelerinin güzergâhını biliyor mu?"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Bu soruların cevabı, arazi tipi vincin işinizi gerçekten hızlandırıp hızlandırmayacağını gösterir. Saha içi yollar kötüyse ama kaldırma noktaları azsa, yolu bir kez düzeltip yol tipi bir vinç kullanmak çoğu zaman daha basittir. Kaldırma noktaları çok ve dağınıksa arazi tipi vincin manevra kabiliyeti asıl farkı yaratır."
+  },
+  {
+   "type": "p",
+   "text": "Unutulmaması gereken bir nokta daha var: arazi tipi vinç de yük tablosuna, rüzgar sınırlarına ve zemin kurallarına aynen tabidir. Bozuk zeminde yürüyebilmesi, kaldırma sırasında bu kurallardan muaf olduğu anlamına gelmez. Şantiyede vincin yanında çalışan diğer iş makineleri ve araçlar için de güzergâh ve dönüş alanı baştan belirlenmelidir."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Rough terrain vinç ne demek?",
+   "a": "Arazi tipi vinç demektir. İri lastikli, kısa şasili, tek kabinli ve genellikle dört çeker olup bozuk zeminli şantiye içinde hareket etmek için tasarlanmıştır."
+  },
+  {
+   "q": "Arazi tipi vinç trafiğe çıkabilir mi?",
+   "a": "Genellikle uzun mesafe yol için tasarlanmamıştır ve sahaya çoğunlukla lowbed ile taşınır. Kısa yol geçişlerinin mümkün olup olmadığı aracın tescil durumuna ve ilgili kurallara bağlıdır."
+  },
+  {
+   "q": "Arazi tipi vinç çamurda kaldırma yapabilir mi?",
+   "a": "Çamurda yürüyebilir, ama kaldırma için ayakların altındaki zeminin sağlam ve düz olması gerekir. Zemin oturuyorsa kaldırma yapılmaz."
+  },
+  {
+   "q": "Toprak sahada mutlaka arazi tipi vinç mi gerekir?",
+   "a": "Hayır. Kuru ve sıkışmış toprakta, sedye plakası ile yol tipi mobil vinç veya hiyap da çalışabilir. Arazi tipi vinç daha çok uzun süreli ve sık yer değiştiren işlerde avantaj sağlar."
+  }
+ ]
+}
