@@ -1,3 +1,4 @@
 2026-10-03 vinc-hizmeti-tevkifat-kodu-e-fatura
 2026-10-04 tevkifat-siniri-2026-vinc-faturasi
 2026-10-05 hiyap-nasil-yazilir-hiab-hiup
+2026-10-06 vinc-ehliyeti-hangi-sinif
