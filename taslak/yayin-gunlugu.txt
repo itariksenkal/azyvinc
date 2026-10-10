@@ -6,3 +6,4 @@
 2026-10-08 vinc-agirligi-kac-ton
 2026-10-09 kule-vinc-operatoru-belgesi-nasil-alinir
 2026-10-10 sepetli-arac-platform-operator-belgesi
+2026-10-11 vinc-faturasi-kdv-orani-teklifte-kdv-dahil-mi
