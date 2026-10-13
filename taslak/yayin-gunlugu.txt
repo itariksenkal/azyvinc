@@ -8,3 +8,4 @@
 2026-10-10 sepetli-arac-platform-operator-belgesi
 2026-10-11 vinc-faturasi-kdv-orani-teklifte-kdv-dahil-mi
 2026-10-12 nakliye-ile-vinc-hizmeti-tevkifat-farki
+2026-10-13 vinc-tonaji-ile-gercek-kapasite-farki
