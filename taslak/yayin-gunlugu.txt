@@ -11,3 +11,4 @@
 2026-10-13 vinc-tonaji-ile-gercek-kapasite-farki
 2026-10-14 kule-vinc-kurulumu-ve-sokumu-mobil-vinc
 2026-10-15 vinc-isaretci-sapanci-rigger-belgesi
+2026-10-16 flyjib-jib-uzatmasi-nedir
