@@ -48,9 +48,11 @@
     bar.className = "cookie";
     bar.setAttribute("role", "dialog");
     bar.setAttribute("aria-label", "Çerez bildirimi");
+    // Mobilde kısa metin gösterilir (ince tek satır şerit); masaüstünde uzun metin.
     bar.innerHTML =
-      '<p class="cookie__txt">Size daha iyi hizmet sunmak için zorunlu çerezleri ve onay verirseniz harita/ölçüm çerezlerini kullanıyoruz. ' +
-      'Detaylar: <a href="/cerez-politikasi">Çerez Politikası</a>.</p>' +
+      '<p class="cookie__txt"><span class="cookie__long">Size daha iyi hizmet sunmak için zorunlu çerezleri ve onay verirseniz harita/ölçüm çerezlerini kullanıyoruz. ' +
+      'Detaylar: <a href="/cerez-politikasi">Çerez Politikası</a>.</span>' +
+      '<span class="cookie__short">Harita ve ölçüm için çerez kullanıyoruz. <a href="/cerez-politikasi">Detay</a></span></p>' +
       '<div class="cookie__btns">' +
       '<button class="btn-cookie btn-cookie--ghost" data-cc="reject">Reddet</button>' +
       '<button class="btn-cookie btn-cookie--ok" data-cc="accept">Kabul Et</button>' +
@@ -192,6 +194,22 @@
       window.gtag("event", "conversion", { send_to: sendTo, value: 1.0, currency: "TRY" });
     }
 
+    // Tıklamanın sayfadaki konumu (raporda sayfa/konum kırılımı için).
+    // Önce en yakın data-cta-location, yoksa bilinen bölüm sınıfları.
+    var LOCATIONS = [
+      [".callbar", "callbar"], [".float-actions", "float"], [".header", "header"],
+      [".hero", "hero"], [".post-cta", "post_cta"], [".cta-band", "cta_band"],
+      [".card", "service_card"], [".footer", "footer"], [".prose", "inline"]
+    ];
+    function ctaLocation(a) {
+      var tagged = a.closest("[data-cta-location]");
+      if (tagged) return tagged.getAttribute("data-cta-location");
+      for (var i = 0; i < LOCATIONS.length; i++) {
+        if (a.closest(LOCATIONS[i][0])) return LOCATIONS[i][1];
+      }
+      return "other";
+    }
+
     document.addEventListener("click", function (e) {
       var a = e.target && e.target.closest ? e.target.closest("a[href]") : null;
       if (!a) return;
@@ -207,6 +225,8 @@
       window.dataLayer.push({
         event: "cta_click",
         cta_type: kind,
+        cta_location: ctaLocation(a),
+        cta_page: location.pathname,
         ms_on_page: Date.now() - start,
         engaged: engaged
       });

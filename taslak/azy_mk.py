@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """Generate an azyvinc blog page from structured content, reusing the existing
-page chrome (head scripts, header, footer, CTA band) byte-for-byte."""
+page chrome (head scripts, header, footer, CTA band) byte-for-byte.
+Every post also gets a topic-matched CTA box (cta_ekle) at the end of its first
+H2 section; taslak/cta_kutusu.py applies the same box to already published posts."""
 import re, json, os, html
 
 BASE = "https://www.azyvinc.com"
@@ -20,6 +22,72 @@ def write(p, s):
 
 def esc(t):
     return t.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;")
+
+
+# ---- Konuya özel çağrı kutusu: ilk H2 bölümünün sonuna (ikinci H2'den önce) ----
+# Konu slug'dan bulunur; ilk eşleşen kazanır, hiçbiri tutmazsa "mobil".
+WA = ("https://wa.me/905424889808?text=Merhaba%2C%20bir%20is%20icin%20vinc%20lazim.%20Isin%20"
+      "fotografini%20ve%20konumumu%20gonderiyorum%3B%20uygun%20fiyat%20ve%20ne%20zaman%20"
+      "gelebileceginizi%20ogrenebilir%20miyim%3F")
+CTA_KONU = [
+    ("hiyap", re.compile(r"hiyap|hiab|hiup")),
+    ("fatura", re.compile(r"tevkifat|fatura|kdv|muhasebe|hakedis|birim-fiyat|sozlesme|ihale|"
+                          r"sartname|evrak|kurumsal|puantaj|kapora|teklif|ceza|hukuki|sigorta|"
+                          r"komsu-mulke|periyodik|satin-alma|gizli-maliyet|risk-degerlendirme|"
+                          r"calisma-izni|toolbox")),
+    ("sepetli", re.compile(r"manlift|menlift|sepet|platform|makasli|yuksekte|myk|ehliyet|belgesi|"
+                           r"cephe|budama|boya|branda|tabela")),
+]
+CTA_KUTU = {
+    "fatura": ("Faturalı, sözleşmeli, operatörlü — İSG dosyası hazır",
+               "Kurumsal işlerde yazılı teklif, sözleşme ve faturayla çalışırız; operatör belgeleri "
+               "ve İSG evrakları sahaya girmeden önce elinizde olur.",
+               None),
+    "sepetli": ("Belgeli operatörle manlift ve sepetli platform",
+                "Platformu belgeli operatörümüz kullanır, ekibiniz sepette kendi işine odaklanır. "
+                "Çalışma yüksekliğini ve zemini söyleyin, uygun aracı birlikte seçelim.",
+                ("/hizmetler/sepetli-platform-manlift-kiralama",
+                 "Sepetli platform ve manlift kiralama")),
+    "hiyap": ("Hiyap ile yükle, taşı, yerine indir",
+              "Araç üstü vinç yükü kendi kasasında getirir ve yerine indirir; totem, konteyner, "
+              "malzeme ve makine işleri tek araçla biter. Yükü ve adresi söyleyin, uygun aracı "
+              "netleştirelim.",
+              ("/hizmetler/hiyap-kiralama", "Hiyap (araç üstü vinç) kiralama")),
+    "mobil": ("Operatörlü mobil vinç — keşif ve net fiyat",
+              "Yükü, yüksekliği ve adresi söyleyin; uygun vinci ve fiyatı baştan netleştirelim. "
+              "Şanlıurfa merkez ve ilçelerinde 7/24 ulaşabilirsiniz.",
+              ("/hizmetler/mobil-vinc-kiralama", "Mobil vinç kiralama")),
+}
+CTA_RE = re.compile(r'<aside class="post-cta[ "].*?</aside>\n*', re.S)
+
+
+def cta_konu(slug):
+    return next((k for k, rx in CTA_KONU if rx.search(slug)), "mobil")
+
+
+def cta_kutu(slug):
+    konu = cta_konu(slug)
+    baslik, metin, link = CTA_KUTU[konu]
+    more = ('\n  <p class="post-cta__more"><a href="%s">%s &rarr;</a></p>' % link) if link else ""
+    return ('<aside class="post-cta post-cta--%s" data-cta-location="post_cta">\n'
+            '  <p class="post-cta__title">%s</p>\n'
+            '  <p class="post-cta__text">%s</p>\n'
+            '  <div class="post-cta__actions">\n'
+            '    <a class="btn btn--accent" href="tel:+905424889808">Hemen Ara</a>\n'
+            '    <a class="btn btn--wa" href="%s" target="_blank" rel="noopener">WhatsApp\'tan yaz</a>\n'
+            '  </div>%s\n'
+            '</aside>\n' % (konu, baslik, metin, WA, more))
+
+
+def cta_ekle(article, slug):
+    """Makale HTML'ine kutuyu ekler (varsa eskisini yeniler). İkinci <h2>'nin
+    satır başına konur; tek H2 varsa makalenin sonuna."""
+    article = CTA_RE.sub("", article)
+    h2 = [m.start() for m in re.finditer(r"<h2[ >]", article)]
+    if not h2:
+        return article
+    at = article.rfind("\n", 0, h2[1]) + 1 if len(h2) > 1 else len(article)
+    return article[:at] + cta_kutu(slug) + "\n" + article[at:]
 
 
 def render_body(blocks):
@@ -125,6 +193,7 @@ def build(post, date_iso, words_per_min=190):
            'href="tel:+905424889808">Hemen Ara: 0542 488 98 08</a></p>')
     body = "\n".join([meta_line, cover, "<p>%s</p>" % post["intro"],
                       render_body(post["body"]), faq_html, cta])
+    body = cta_ekle(body, slug)  # konuya özel çağrı kutusu (ilk H2 bölümünün sonu)
     s = re.sub(r'(<article class="prose">).*?(</article>)',
                lambda m: m.group(1) + "\n" + body + "\n      " + m.group(2),
                s, count=1, flags=re.S)

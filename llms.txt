@@ -16,8 +16,9 @@ Yapay zekâ asistanlarının doğru alıntılaması için doğrulanmış işletm
 
 ## Hizmetler
 
-- Mobil vinç kiralama
-- Sepetli vinç ve yüksekte çalışma platformları (menlift, eklemli ve teleskopik platform, personel yükseltici)
+- [Mobil vinç kiralama](https://www.azyvinc.com/hizmetler/mobil-vinc-kiralama): operatörlü mobil vinçle ağır yük, makine, konteyner ve çelik konstrüksiyon; süreç, izinler ve fiyatı etkileyenler.
+- [Sepetli platform ve manlift kiralama](https://www.azyvinc.com/hizmetler/sepetli-platform-manlift-kiralama): menlift, eklemli ve teleskopik platform, personel yükseltici; cephe, tabela, aydınlatma, budama.
+- [Hiyap (araç üstü vinç) kiralama](https://www.azyvinc.com/hizmetler/hiyap-kiralama): yükü kendi kasasında taşıyıp yerine indiren operatörlü hiyap; totem, konteyner, malzeme, direk.
 - Ağır yük kaldırma ve montaj
 - Çatı, klima ve cam montaj vinci
 - Endüstriyel, fabrika ve organize sanayi vinç hizmetleri
@@ -36,8 +37,8 @@ Yapay zekâ asistanlarının doğru alıntılaması için doğrulanmış işletm
 
 ## Ana sayfalar
 
-- [Ana Sayfa](https://www.azyvinc.com/): Şanlıurfa vinç kiralama, hizmetler ve iletişim.
-- [Hizmetler](https://www.azyvinc.com/hizmetler): mobil vinç, sepetli platform, ağır yük, montaj, endüstriyel vinç.
+- [Ana Sayfa](https://www.azyvinc.com/): Şanlıurfa (Urfa) vinç kiralama ana sayfası: mobil vinç, sepetli platform, hiyap; süreç, fiyatı etkileyenler, hizmet verilen ilçeler ve sık sorulan sorular.
+- [Hizmetler](https://www.azyvinc.com/hizmetler): mobil vinç, sepetli platform, hiyap, ağır yük, montaj, endüstriyel vinç.
 - [Hakkımızda](https://www.azyvinc.com/hakkimizda): AZY Vinç ve kurucu Aziz Yıldırım.
 - [İletişim](https://www.azyvinc.com/iletisim): telefon, WhatsApp, adres ve çalışma saatleri.
 - [Blog](https://www.azyvinc.com/blog/): vinç kiralama rehberleri ve sık sorulan sorular.
@@ -46,7 +47,7 @@ Yapay zekâ asistanlarının doğru alıntılaması için doğrulanmış işletm
 
 - [2026 Vinç Kiralama Maliyeti Neden Değişiyor? Mazot, MTV ve Taşıma Kalemi Mantığı](https://www.azyvinc.com/blog/2026-vinc-kiralama-maliyeti-mazot-mtv-tasima-neden-degisir): 2026 vinç kiralama maliyeti neden değişiyor? Mazot, ağır araç MTV artışı, operatör ücreti, taşıma-kurulum ve bölge farkını saydam anlatıyoruz. Net fiyat: 0542 488 98 08.
 - [2026'da Vinç Periyodik Kontrolü ve Fenni Muayene: Yasal Zorunluluk ve Sorumluluk Kimde?](https://www.azyvinc.com/blog/2026-vinc-periyodik-kontrol-fenni-muayene-zorunlulugu): Vinç periyodik kontrol 2026: mobil vinç, sepetli platform ve kule vinçte yıllık fenni muayene yasal zorunluluğu, kontrolü kimin yaptıracağı ve kiralık vinçte sorumluluk. Güncel makinelerle çalışıyoruz.
-- [Acil Vinç mi Lazım? Şanlıurfa'da Aynı Gün ve 7/24 Vinç Hizmeti](https://www.azyvinc.com/blog/acil-ayni-gun-vinc-kiralama): Şanlıurfa'da acil vinç mi lazım? 7/24 aynı gün vinç hizmeti nasıl işler, aradıktan sonra ne kadar sürede gelinir, aramadan önce ne söylemeli? Hemen arayın.
+- [Acil Vinç mi Lazım? Aynı Gün ve 7/24 Vinç Nasıl İşler?](https://www.azyvinc.com/blog/acil-ayni-gun-vinc-kiralama): Şanlıurfa'da acil vinç mi lazım? 7/24 aynı gün vinç hizmeti nasıl işler, aradıktan sonra ne kadar sürede gelinir, aramadan önce ne söylemeli? Hemen arayın.
 - [Dış Cephe Boya, Mantolama ve Bina Yenileme İçin Sepetli Platform](https://www.azyvinc.com/blog/dis-cephe-boya-mantolama-sepetli-platform): Dış cephe boya, mantolama ve ısı yalıtımı işlerinde sepetli platformla iskeleye göre daha hızlı, güvenli ve esnek çalışma. Hangi işte hangisinin uygun olduğunu anlatıyoruz. Şanlıurfa: 0542 488 98 08.
 - [Düğün, Konser, Festival ve Etkinlik Kurulumunda Sepetli Platform](https://www.azyvinc.com/blog/dugun-konser-etkinlik-sepetli-platform-kiralama): Sahne, truss, ışık ve ses kurulumunda yüksek erişim için sepetli platform. Düğün, konser ve festivallerde hızlı, güvenli montaj ve söküm. Şanlıurfa: 0542 488 98 08.
 - [Eklemli mi Teleskopik Platform mu? Yüksekte Çalışmada Doğru Seçim](https://www.azyvinc.com/blog/eklemli-teleskopik-platform-farki): Eklemli ve teleskopik platform farkı nedir, hangi iş için hangisi uygun? Avantajlarını karşılaştırmalı anlatıyoruz. Şanlıurfa platform kiralama: 0542 488 98 08.
@@ -63,7 +64,7 @@ Yapay zekâ asistanlarının doğru alıntılaması için doğrulanmış işletm
 - [Saatlik mi, Günlük mü, Aylık mı? Vinç Kiralama Süre Seçenekleri ve Maliyete Etkisi](https://www.azyvinc.com/blog/saatlik-gunluk-aylik-vinc-kiralama): Vinç kiralama saatlik mi günlük mü hesaplı? Süre seçeneklerinin maliyete etkisini ve hangi işte hangi sürenin uygun olduğunu sade anlatıyoruz. Bilgi için 0542 488 98 08.
 - [Sepetli Vinç Kapasite ve Erişim Yüksekliği (Ton ve Metre Rehberi)](https://www.azyvinc.com/blog/sepetli-vinc-kapasite-erisim-yuksekligi): Sepetli vinç kaç metre çıkar, sepet kaç kg taşır? Çalışma yüksekliği, yatay erişim ve kapasiteyi örnek tabloyla anlatıyoruz. Şanlıurfa için 0542 488 98 08.
 - [Sepetli Vinç Nedir, Ne İşe Yarar? Kullanım Alanları ve Avantajları](https://www.azyvinc.com/blog/sepetli-vinc-nedir-ne-ise-yarar): Sepetli vinç (platform) nedir, ne işe yarar? Kullanım alanları, türleri ve yüksekte çalışmadaki avantajlarını sade anlatıyoruz. Şanlıurfa için 0542 488 98 08.
-- [Şanlıurfa'da Vinç Kiralama Nereden ve Nasıl Ayarlanır? (2026 Rehberi)](https://www.azyvinc.com/blog/sanliurfada-vinc-kiralama-nasil-ayarlanir): Şanlıurfa'da vinç kiralama nereden ve nasıl ayarlanır? Arama, WhatsApp, paylaşılacak bilgiler, keşif ve fiyat netleşmesini adım adım anlatan 2026 rehberi.
+- [Vinç Nasıl Çağrılır? Telefonda Söylenecek 6 Bilgi](https://www.azyvinc.com/blog/sanliurfada-vinc-kiralama-nasil-ayarlanir): Vinç nasıl çağrılır? Telefonda ya da WhatsApp'ta söylenecek 6 bilgi: yük, yükseklik, adres, zaman, saha durumu ve fotoğraf. Keşif ve fiyat adım adım.
 - [Tabela, Totem ve Reklam Panosu Montajı İçin Vinç: Dükkanınıza Hızlı Kurulum](https://www.azyvinc.com/blog/tabela-reklam-panosu-montaj-vinc): Tabela, totem ve reklam panosu montajı için sepetli vinç. Açılışa yetişen hızlı kurulum, eski tabela sökümü ve ağır pano kaldırma. Şanlıurfa: 0542 488 98 08.
 - [Vinç Çeşitleri ve Farkları: Mobil, Sepetli, Kule ve Hiyap (Araç Üstü)](https://www.azyvinc.com/blog/vinc-cesitleri-ve-farklari): Vinç çeşitleri nelerdir? Mobil, sepetli, kule ve hiyap vinçlerin farklarını ve hangi iş için hangisinin uygun olduğunu anlatıyoruz. Şanlıurfa: 0542 488 98 08.
 - [Vinç Kazasında Hukuki Sorumluluk ve Tazminat: Kim, Ne Kadar Öder?](https://www.azyvinc.com/blog/vinc-kazasinda-hukuki-sorumluluk-tazminat-emsal-kararlar): Vinç kazasında sorumluluk kimde, tazminat nasıl belirlenir? İşleten firma, iş sahibi ve operatör sorumluluğu, 6331 sayılı kanun ve emsal kararların rolü. Belgeli operatörle çalışıyoruz.
@@ -73,7 +74,7 @@ Yapay zekâ asistanlarının doğru alıntılaması için doğrulanmış işletm
 - [Vinç Kiralamak mı, Satın Almak mı? 2026 İşletme Maliyet Karşılaştırması](https://www.azyvinc.com/blog/vinc-kiralama-mi-satin-alma-mi-2026): Vinç kiralamak mı satın almak mı daha mantıklı? Amortisman, MTV, sigorta, operatör ve bakım kalemleriyle dürüst bir karşılaştırma ve basit bir karar kuralı. Şanlıurfa: 0542 488 98 08.
 - [Vinç Kiralarken Dikkat Edilmesi Gereken 10 Nokta (İş Güvenliği ve Operatör)](https://www.azyvinc.com/blog/vinc-kiralarken-dikkat-edilecekler): Vinç kiralarken nelere dikkat edilir? Operatör, iş güvenliği, kapasite, keşif ve sigorta dahil 10 maddelik kontrol listesi. Şanlıurfa'da güvenli kiralama rehberi.
 - [Vinç Operatörü Belgesi Zorunlu mu? Kiralarken Operatör Sorumluluğu Kimde?](https://www.azyvinc.com/blog/vinc-operatoru-belgesi-zorunlu-mu-kiralarken-kim-sorumlu): Vinç operatörü belgesi zorunlu mu, MEB onaylı belge ile G sınıfı ehliyet farkı ne? Vinç kiralarken operatör sorumluluğu kimde, belgesiz çalışmanın riskleri.
-- [Vinçle Ev Eşyası Taşıma: Hangi Katlara Çıkar, Nasıl Yapılır?](https://www.azyvinc.com/blog/vincle-ev-esyasi-tasima): Vinçle ev eşyası taşıma nasıl yapılır, hangi katlara çıkar? Süreci, güvenliği ve ne zaman mantıklı olduğunu anlatıyoruz. Şanlıurfa için 0542 488 98 08.
+- [Urfa'da Vinçle Ev Taşıma (Evden Eve): Kaç Kat, Nelere Dikkat?](https://www.azyvinc.com/blog/vincle-ev-esyasi-tasima): Urfa'da evden eve taşımada vinç ne zaman gerekir, kaç kata çıkar? Sığmayan eşya, dar merdiven, pencereden alma ve güvenlikte dikkat edilecekler: 0542 488 98 08.
 - [Yüksek Ağaç Budama ve Kesimi İçin Sepetli Vinç: Güvenli ve Hızlı Çözüm](https://www.azyvinc.com/blog/agac-budama-kesimi-sepetli-vinc): Yüksek ağaç budama ve kesiminde sepetli vinçle güvenli erişim, hızlı budama ve atık indirme. Elektrik teline yakın çalışmada dikkat ipuçları. Şanlıurfa 0542 488 98 08.
 
 - [Sapan, Halat ve Zincir Seçimi: Yük Bağlamada Açı Kaybı ve Güvenli Kaldırma](https://www.azyvinc.com/blog/vinc-sapan-halat-zincir-baglama-teknikleri): Sapan çeşitleri, halat ve zincir seçimi, bağlama açısının kapasiteye etkisi ve güvenli kaldırma kuralları. Vinçle yük bağlamanın teknik mantığı: 0542 488 98 08.
@@ -120,7 +121,6 @@ Yapay zekâ asistanlarının doğru alıntılaması için doğrulanmış işletm
 
 ## Hizmet bölgeleri
 
-- [Şanlıurfa (Urfa) Vinç Kiralama — Merkez ve Tüm İlçeler](https://www.azyvinc.com/bolgeler/sanliurfa-vinc-kiralama): Şanlıurfa (Urfa) vinç kiralama: mobil vinç, sepetli platform ve ağır yük kaldırma. Merkez ve tüm ilçelerde 7/24 operatörlü hizmet. Hemen arayın: 0542 488 98 08.
 - [Karaköprü Vinç Kiralama](https://www.azyvinc.com/bolgeler/karakopru-vinc-kiralama): Karaköprü vinç kiralama: yeni siteler ve yüksek binalarda cephe, klima, çatı ve yüksek kata yük çıkarma için mobil vinç ve sepetli platform. 7/24: 0542 488 98 08.
 - [Haliliye Vinç Kiralama](https://www.azyvinc.com/bolgeler/haliliye-vinc-kiralama): Haliliye vinç kiralama: şehir merkezi, çarşı ve Piazza AVM çevresinde tabela, cephe ve yük kaldırma. AZY Vinç'in merkezi Haliliye'dedir. 0542 488 98 08.
 - [Eyyübiye Vinç Kiralama](https://www.azyvinc.com/bolgeler/eyyubiye-vinc-kiralama): Eyyübiye vinç kiralama: tarihi merkez, Balıklıgöl çevresi ve dar sokaklarda dikkatli, operatörlü mobil vinç ve sepetli platform. 7/24 AZY Vinç: 0542 488 98 08.
@@ -184,7 +184,7 @@ Yapay zekâ asistanlarının doğru alıntılaması için doğrulanmış işletm
 - [Mobil Vinç Günlük Kontrol Formu](https://www.azyvinc.com/blog/mobil-vinc-gunluk-kontrol-formu): Mobil vinçte işe başlamadan önce operatörün yaptığı günlük kontroller: halat, kanca, hidrolik, ayaklar, emniyet sistemleri. Kopyalanabilir liste.
 - [Manlift ve Sepetli Platform Günlük Kontrol Formu](https://www.azyvinc.com/blog/manlift-sepetli-platform-gunluk-kontrol-formu): Manlift, makaslı ve sepetli platformlarda günlük kontrol: sepet, korkuluk, acil indirme, akü, eğim ikazı. Kopyalanabilir kontrol listesi.
 - [Hiyap Nedir, Kaç Ton Kaldırır?](https://www.azyvinc.com/blog/hiyap-nedir-kac-ton-kaldirir-kiralama): Hiyap (hiab) ne demek, doğru yazılışı, kaç ton kaldırır ve kiralama ücretini ne belirler. Şanlıurfa'da hiyap vinç kiralarken bilmeniz gerekenler.
-- [Manlift Kiralama: Kaç Metre, Kaç Kilo, Ne Kadar?](https://www.azyvinc.com/blog/manlift-kiralama-kac-metre-gunluk-ucret): Manlift kiralarken sorulan her şey: kaç metreye çıkar, sepet kaç kg taşır, günlük ve saatlik ücret neye göre değişir. Şanlıurfa'da doğru platform seçimi.
+- [Manlift Kaç Metreye Çıkar, Kaç Kg Taşır? Türlere Göre Rehber](https://www.azyvinc.com/blog/manlift-kiralama-kac-metre-gunluk-ucret): Manlift kaç metreye çıkar, sepeti kaç kg taşır? Akülü, makaslı, eklemli ve teleskopik platformda yükseklik, sepet kapasitesi ve ücreti etkileyen etkenler.
 - [Vinç Kaç Ton Kaldırır, Kaç Metre Uzanır?](https://www.azyvinc.com/blog/vinc-kac-ton-kaldirir-kac-metre-uzanir): Mobil vinç, hiyap ve sepetli vinç kaç ton kaldırır, kaç metreye uzanır? Katalogdaki tonajın sahada neden düştüğünü örnekle anlatıyoruz.
 - [Vinç Kiralama Pozu ve Birim Fiyat Rehberi](https://www.azyvinc.com/blog/vinc-kiralama-birim-fiyat-pozu-hakedis): Kamu işlerinde mobil vinç ve sepetli vinç saatlik birim fiyatı nereden bulunur, rayiç ile piyasa fiyatı neden farklıdır, hakedişte nasıl kullanılır?
 - [Vinç Kiralama Muhasebe Kaydı: Hangi Hesap Kullanılır?](https://www.azyvinc.com/blog/vinc-kiralama-muhasebe-kaydi-hangi-hesap): Vinç kiralama faturası hangi hesaba kaydedilir: 740, 760, 770 ya da yatırım maliyeti. KDV ve tevkifat satırlarıyla örnek kayıt mantığı.
