@@ -25,3 +25,4 @@
 2026-10-27 vincte-yuk-dusmesi-nedenleri
 2026-10-28 arazi-tipi-vinc-rough-terrain
 2026-10-29 kepce-ile-yuk-kaldirma-yasak-mi
+2026-10-30 havuz-jakuzi-yerlestirme-vinc
