@@ -1,0 +1,176 @@
+{
+  "slug": "led-ekran-dev-ekran-montaji-vinc",
+  "_hedef": "led ekran montajı vinç / dev ekran montajı / açık hava led ekran kurulumu sepetli platform / billboard ekran bakım",
+  "title": "LED Ekran ve Dev Ekran Montajında Vinç | AZY Vinç",
+  "ogTitle": "Açık Hava LED Ekran ve Dev Ekran Montajı: Konstrüksiyon, Kabin Montajı ve Bakımda Vinç ile Sepetli Platform",
+  "h1": "LED ekran ve dev ekran montajında vinç ve sepetli platform",
+  "desc": "LED ekran montajı için vinç mi sepetli platform mu? Konstrüksiyon, kabin montajı, rüzgâr ve bakım erişimi. Şanlıurfa'da ekran işiniz için fotoğraf gönderin.",
+  "image": "sahne-iskele-montaj-sepetli-vinc.jpeg",
+  "imageAlt": "Sahne iskelesinin üst kısmında sepetli platformla panel montajı",
+  "caption": "Ekran işlerinde montaj ekibi sepette, ağır parçalar vinçte olur.",
+  "intro": "Kısa cevap: Açık hava LED ekran montajı genellikle üç aşamadır ve her aşama farklı makine ister: taşıyıcı çelik konstrüksiyon mobil vinç veya hiyapla kurulur, ekran kabinleri sepetli platformdan çalışan ekip tarafından takılır, sonraki yıllardaki bakım ise ekranın önden mi arkadan mı servis verdiğine göre sepetli platformla yapılır. Bu yazıda tabela montajından farklı olarak ekranlara özgü noktaları, yani ağırlığın kabinlere dağılmasını, rüzgâr yüzeyini, elektrik ve bakım erişimini anlatıyoruz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "LED ekran montajı tabela montajından neden farklıdır?"
+    },
+    {
+      "type": "p",
+      "text": "Bir dükkân tabelası çoğu zaman tek parçadır ve sepetteki ekip onu yerine sabitler; bunu <a href=\"/blog/tabela-reklam-panosu-montaj-vinc\">tabela montajında vinç</a> yazımızda anlattık. LED ekran ise onlarca kabinden oluşan bir yüzeydir. Her kabin tek başına elle taşınabilir ağırlıkta olsa da toplam ağırlık büyüktür ve bütün yük taşıyıcı konstrüksiyona biner. Ayrıca ekran yüzeyi rüzgârı tam karşılayan geniş bir levhadır; montaj sırasında yarım kalmış bir yüzey bile rüzgârda beklenmedik kuvvet alır. Elektrik ve veri kablolaması, kabinlerin hizalanması ve kalibrasyon da işin parçasıdır. Bu yüzden ekran işinde makine seçimi aşamaya göre değişir."
+    },
+    {
+      "type": "h2",
+      "text": "Hangi aşamada hangi makine kullanılır?"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Aşama",
+        "Ne yapılır?",
+        "Uygun makine"
+      ],
+      "rows": [
+        [
+          "Temel ve direk / ayak",
+          "Totem tipi ekranlarda ana direğin dikilmesi",
+          "Mobil vinç veya hiyap"
+        ],
+        [
+          "Taşıyıcı konstrüksiyon",
+          "Çelik çerçevenin direğe ya da bina cephesine bağlanması",
+          "Mobil vinç veya hiyap + sepetli platform"
+        ],
+        [
+          "Kabin montajı",
+          "Kabinlerin çerçeveye tek tek takılması",
+          "Sepetli platform (gerekirse iki platform)"
+        ],
+        [
+          "Kablolama ve kalibrasyon",
+          "Enerji ve veri bağlantısı, renk ayarı",
+          "Sepetli platform"
+        ],
+        [
+          "Bakım ve modül değişimi",
+          "Arızalı modülün veya güç kaynağının değişimi",
+          "Sepetli platform"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Kabinleri vinçle tek tek kaldırmak yerine çoğu zaman platformdaki ekibe teslim etmek daha pratiktir; ama ağır bir çerçeve parçası ya da önceden birleştirilmiş büyük bir modül grubu kaldırılacaksa vinç gerekir. Sepetli platform yük taşıma aracı değildir; sepete konulan kabin ve malzeme, sepetin kapasitesinden kişilerin ağırlığı düşüldükten sonra kalan sınırı aşmamalıdır. Kapasite ve erişim ilişkisi için <a href=\"/blog/sepetli-vinc-kapasite-erisim-yuksekligi\">sepetli vinç kapasite ve erişim yüksekliği</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Ekran önden mi arkadan mı servis veriyor? Bakım erişimi"
+    },
+    {
+      "type": "p",
+      "text": "Bu soru montajdan önce sorulmalıdır, çünkü ekranın tüm ömrü boyunca bakımın nasıl yapılacağını belirler. Önden servisli ekranlarda modüller ön yüzden sökülür; bakım için ekranın önüne sepetli platform yanaşmalıdır. Arkadan servisli ekranlarda konstrüksiyonun arkasında bir bakım koridoru veya merdiven bulunur; bu durumda bakımın bir kısmı platform olmadan yapılabilir, ama koridora erişim ve oradaki düşme önlemleri ayrıca düşünülmelidir."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Ekranın önünde platformun kurulabileceği bir alan kalacak mı? Sonradan yapılan peyzaj, park yeri veya çit bu alanı kapatabilir.",
+        "Ekranın üst kenarına çıkmak gerekecek mi? Platformun çalışma yüksekliği ve yatay erişimi buna göre seçilir.",
+        "Bina cephesindeki ekranlarda saçak, balkon veya tente erişimi engelliyor mu? Bu durumda eklemli platform gerekir."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Rüzgâr ve hava durumu ekran montajını nasıl etkiler?"
+    },
+    {
+      "type": "p",
+      "text": "Geniş ve düz bir ekran yüzeyi, vincin kancasında asılıyken bir yelken gibi davranır. Bu nedenle büyük modül gruplarının kaldırılması rüzgârın sakin olduğu saatlere planlanır ve yük kılavuz halatla yönlendirilir. Sepetli platformda çalışan ekip için de rüzgâr sınırı vardır; makinenin üretici talimatındaki değer aşıldığında çalışma durdurulur. Ayrıntıları <a href=\"/blog/vinc-ruzgar-hava-kosullari-calisma-sinirlari\">rüzgâr ve hava koşulları</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Elektrik ve güvenlik tarafında nelere dikkat edilir?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Bakım veya modül değişiminden önce ekranın enerjisi ilgili hattan kesilir ve tekrar verilmeyeceği güvence altına alınır; bu işi yetkili elektrikçi yapar.",
+        "Ekran yakınında havai elektrik hattı varsa platform ve vinç için güvenli mesafe önceden ölçülür.",
+        "Kaldırma güzergâhının altı boşaltılır. <a href=\"https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.18318.pdf\" target=\"_blank\" rel=\"noopener\">İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği</a> Ek-II, teknik zorunluluk olmadıkça kaldırılan yükün altında insan bulunmamasını ve korunmasız çalışma yerlerinin üzerinden yük geçirilmemesini ister.",
+        "Sepetteki çalışanlar emniyet kemerini sepetteki bağlantı noktasına takar; sepet korkuluğuna çıkılmaz.",
+        "Yol kenarındaki ekranlarda trafik akışı ve yaya yolu için önlem alınır; gerekirse <a href=\"/blog/vinc-calismasi-yol-kapatma-isgaliye-izni\">yol kapatma ve işgaliye izni</a> önceden çıkarılır."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Gece montaj ve ekranın test edilmesi"
+    },
+    {
+      "type": "p",
+      "text": "Cadde üzerindeki ekranlar çoğu zaman trafiğin azaldığı saatlerde kurulur. Gece çalışmanın bir avantajı daha vardır: ekranın parlaklığı ve renk eşitliği karanlıkta daha kolay kontrol edilir. Bu yüzden ekran firmaları kalibrasyon için platformu akşam saatlerinde isteyebilir. Planı yaparken platformun gece ne kadar süre sahada kalacağını önceden konuşmak, sürpriz bekleme süresini önler. Gece çalışmasında sepetteki ekibin görüşü için ayrı aydınlatma gerekip gerekmediği de baştan netleştirilmelidir; ekranın kendi ışığı çalışma noktasını aydınlatmaya yetmeyebilir."
+    },
+    {
+      "type": "h2",
+      "text": "Ekran montajında maliyeti ne belirler?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Ekranın yüksekliği ve platformun ulaşması gereken yatay mesafe,",
+        "Konstrüksiyon için vinç gerekip gerekmediği ve parçaların ağırlığı,",
+        "Aynı anda bir mi iki mi platform çalışacağı,",
+        "Çalışma saati (gece, hafta sonu) ve toplam süre,",
+        "Yol kapatma veya trafik önlemi ihtiyacı, mesafe ve nakliye."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Söküm ve yeni montaj aynı güne planlanırsa makine bir kez kurulur ve iki iş aynı ziyarette biter. Eski ekranın kabinleri sökülüp aşağı indirilirken yeni çerçevenin parçaları da aynı vinçle yukarı alınabilir; bunun için eski ve yeni parçaların sahada nereye istifleneceğini önceden belirlemek gerekir."
+    },
+    {
+      "type": "h2",
+      "text": "Şanlıurfa'da LED ekran montajı ve bakımı için platform nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Şanlıurfa merkezde ve ilçelerde reklam ajansları, ekran firmaları ve işletmeler için operatörlü sepetli platform, hiyap ve mobil vinç sağlıyoruz. <a href=\"/bolgeler/karakopru-vinc-kiralama\">Karaköprü</a>, Haliliye ve Eyyübiye'deki cadde işlerinde trafik saatlerini birlikte planlarız. WhatsApp'tan şunları gönderin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Ekranın bulunduğu veya kurulacağı yerin fotoğrafı ve konumu,",
+        "Ekranın alt ve üst kenarının yerden yaklaşık yüksekliği ve genişliği,",
+        "Önden mi arkadan mı servis verdiği,",
+        "Kurulum mu, söküm mü, bakım mı olduğu ve istenen tarih/saat."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "0542 488 98 08'i arayın veya yazın; uygun platformu ve gerekiyorsa vinci işe göre belirleyip fiyatı baştan net söyleyelim. Platform seçenekleri için <a href=\"/hizmetler/sepetli-platform-manlift-kiralama\">sepetli platform kiralama</a> sayfamıza bakabilirsiniz."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "LED ekran montajı için vinç mi sepetli platform mu gerekir?",
+      "a": "Çoğu işte ikisi birlikte gerekir: taşıyıcı konstrüksiyon ve ağır parçalar için vinç veya hiyap, kabin montajı ve kablolama için sepetli platform. Küçük ekranlarda yalnızca platform yetebilir."
+    },
+    {
+      "q": "Ekran kabinleri sepete konularak çıkarılabilir mi?",
+      "a": "Sepetin kapasitesi içinde kalmak şartıyla az sayıda kabin sepetle çıkarılabilir. Kapasite hesabında sepetteki kişilerin ağırlığı da sayılır; ağır modül grupları vinçle kaldırılır."
+    },
+    {
+      "q": "Rüzgârlı havada ekran montajı yapılır mı?",
+      "a": "Büyük yüzeyler rüzgârda yelken gibi davrandığı için rüzgârlı havada kaldırma yapılmaz. Sınırı makinenin üretici talimatı belirler; gerektiğinde iş sakin bir saate ertelenir."
+    },
+    {
+      "q": "Ekran bakımı için her seferinde platform gerekir mi?",
+      "a": "Önden servisli ekranlarda genellikle evet. Arkadan servisli ekranlarda bakımın bir kısmı arka koridordan yapılabilir; yine de ekranın ön yüzündeki işler için platform gerekebilir."
+    },
+    {
+      "q": "Bina cephesindeki ekran için hangi platform uygun?",
+      "a": "Cephenin önünde saçak, tente veya balkon varsa engelin üzerinden uzanabilen eklemli platform uygundur. Önü açıksa teleskopik platform da iş görür; seçimi yükseklik ve erişim mesafesine göre yaparız."
+    },
+    {
+      "q": "Ekranın enerjisini kim keser?",
+      "a": "Ekranın elektrik bağlantısı yetkili elektrikçinin veya ekran firmasının sorumluluğundadır. Biz platformu enerji kesildiği teyit edildikten sonra çalışma noktasına yaklaştırırız."
+    }
+  ]
+}

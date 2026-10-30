@@ -1,0 +1,197 @@
+{
+  "slug": "tabela-firmalari-icin-operatorlu-sepetli-ve-hiyap-is-ortakligi",
+  "_hedef": "tabela firmaları için sepetli vinç / tabelacı manlift hiyap iş birliği / reklam ajansı vinç tedarikçisi / tabela montajı için düzenli vinç",
+  "title": "Tabela Firmaları İçin Operatörlü Sepetli ve Hiyap Desteği",
+  "ogTitle": "Tabela ve Reklam Firmaları İçin Operatörlü Sepetli Platform ve Hiyap: Düzenli Çalışma Nasıl Kurulur, Kim Neyi Yapar",
+  "h1": "Tabela firmaları için operatörlü sepetli platform ve hiyap: düzenli iş birliği nasıl işler?",
+  "desc": "Tabela ve reklam firmaları için operatörlü sepetli platform ve hiyap: iş kartı, görev paylaşımı, evrak ve planlamayla düzenli çalışma nasıl kurulur? Hemen arayın.",
+  "image": "avm-magaza-tabela-hiyap-vinc.jpeg",
+  "imageAlt": "AVM önünde mağaza tabelası montajında çalışan araç üstü hiyap vinç",
+  "caption": "Tabela firmasının ekibi montaja, operatör makineye odaklanınca iş hızlanır.",
+  "intro": "Kısa cevap: Tabela firması montajı yapar, vinç firması operatörlü sepetli platformu veya hiyabı sağlar; düzenli çalışmada her iş aynı formatta bir iş kartıyla gelir, araç ve saat teyit edilir, evrak bir kez hazırlanır ve sonraki işlerde tekrar sorulmaz. Haftada birkaç montajı olan bir tabela veya reklam firması için asıl kazanç fiyat değil, her işte aynı soruları yeniden cevaplamamak ve montaj ekibinin sahada araç beklememesidir. Bu yazıda bu düzenin pratikte nasıl kurulduğunu anlatıyoruz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Tabela firmasıyla vinç firması arasında kim neyi yapar?"
+    },
+    {
+      "type": "p",
+      "text": "Sınırları baştan çizmek, sahada çıkacak tartışmaların çoğunu önler. Tabela montajının teknik tarafını <a href=\"/blog/tabela-reklam-panosu-montaj-vinc\">tabela montajında vinç</a> yazımızda anlattık; burada iki firma arasındaki iş bölümünü özetliyoruz:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Konu",
+        "Tabela firması",
+        "Vinç firması (operatör)"
+      ],
+      "rows": [
+        [
+          "Tabelanın ölçüsü, ağırlığı, bağlantı detayı",
+          "Belirler ve bildirir",
+          "Araç seçimine esas alır"
+        ],
+        [
+          "Cepheye ankraj ve bağlantının sağlamlığı",
+          "Sorumludur",
+          "—"
+        ],
+        [
+          "Elektrik bağlantısı",
+          "Yetkili elektrikçiyle yapar",
+          "—"
+        ],
+        [
+          "Platformun veya hiyabın kullanımı",
+          "—",
+          "Belgeli operatör kullanır"
+        ],
+        [
+          "Sepet kapasitesi ve yükün sepete alınması",
+          "Bilgi verir",
+          "Kapasiteyi kontrol eder, aşılmasına izin vermez"
+        ],
+        [
+          "Kaldırma alanının çevrilmesi, yaya güvenliği",
+          "Birlikte",
+          "Birlikte"
+        ],
+        [
+          "Belediyeden tabela izni",
+          "İşletme veya tabela firması",
+          "—"
+        ],
+        [
+          "Vincin kurulumu için yol veya kaldırım izni gerekiyorsa",
+          "Birlikte planlanır",
+          "Gerekli bilgiyi verir"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Her iş için ne gönderilmeli? İş kartı"
+    },
+    {
+      "type": "p",
+      "text": "Düzenli çalışmanın kalbi, her işin aynı başlıklarla gelmesidir. WhatsApp'tan gönderilen kısa bir iş kartı, telefonda on dakika soru cevabı ortadan kaldırır. Örnek:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Adres ve konum pini,",
+        "Cephenin fotoğrafı (aracın duracağı yer görünecek şekilde),",
+        "Tabelanın ölçüsü, yaklaşık ağırlığı ve parça sayısı,",
+        "Montaj yüksekliği (alt ve üst kenar),",
+        "İş tipi: yeni montaj, söküm, söküm + montaj, bakım,",
+        "Tarih ve saat tercihi, AVM ise mağaza açılış-kapanış saatleri,",
+        "Sahadaki ekip sorumlusunun adı ve telefonu."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Tabela ağırlığı bilinmiyorsa ölçü ve malzeme (kompozit, pleksi, ışıklı kutu harf, çelik kasa) yazılması tahmini kolaylaştırır. Benzer bir şablonu <a href=\"/blog/vinc-fiyat-teklifi-ornegi-nasil-istenir\">vinç fiyat teklifi nasıl istenir</a> yazımızda da paylaştık."
+    },
+    {
+      "type": "h2",
+      "text": "Ne zaman sepetli platform, ne zaman hiyap?"
+    },
+    {
+      "type": "p",
+      "text": "Tabela küçük ve sepet kapasitesi içinde kalıyorsa ekip tabelayla birlikte sepetle yukarı çıkabilir. Tabela büyük, ağır veya hacimliyse hiyap kaldırır, montajcılar platformdan veya tabela hizasından karşılar. Totem gövdeleri ve yüksek pano direkleri ise kaldırılacak yüktür; burada hiyap veya mobil vinç gerekir. Sepetin taşıyabileceği yükü belirlerken sepetteki kişilerin ağırlığı da hesaba girer; operatör sepete alınacak tabelanın kapasiteyi aşmadığını kontrol eder ve aşıyorsa yükü hiyapa verir."
+    },
+    {
+      "type": "h2",
+      "text": "Evrak ve İSG dosyası bir kez nasıl hazırlanır?"
+    },
+    {
+      "type": "p",
+      "text": "AVM, zincir mağaza ve kurumsal müşteriler sahaya girmeden önce vinç firmasından belge ister: makinenin periyodik kontrol raporu, operatör belgesi, sigorta ve bazen çalışan listesi. Düzenli çalışmada bu dosya bir kez hazırlanır ve tabela firmasına verilir; tabela firması aynı dosyayı kendi müşterisine iletir. Geçerlilik süresi dolan belgeler yenilendiğinde güncel hali tekrar paylaşılır. Hangi belgelerin istendiğini <a href=\"/blog/vinc-firmasindan-istenecek-evraklar-isg-dosyasi\">vinç firmasından istenecek evraklar</a> yazımızda listeledik."
+    },
+    {
+      "type": "p",
+      "text": "Montaj sırasında aynı noktada tabela ekibi ve vinç ekibi birlikte çalışır. <a href=\"https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6331.pdf\" target=\"_blank\" rel=\"noopener\">6331 sayılı İş Sağlığı ve Güvenliği Kanunu</a>nun 23. maddesi, aynı çalışma alanını birden fazla işverenin paylaşması halinde önlemlerde iş birliği ve koordinasyon ister. Pratikte bu; işe başlamadan önce kısa bir konuşma, kimin işaret vereceğinin belirlenmesi ve aşağıdaki alanın birlikte çevrilmesi demektir."
+    },
+    {
+      "type": "h2",
+      "text": "Planlama nasıl yapılır? Aynı güne birden fazla iş"
+    },
+    {
+      "type": "p",
+      "text": "Tabela firmalarının işleri genellikle küçük ve dağınıktır: sabah bir dükkânda söküm, öğleden sonra başka bir mahallede montaj. Bu işleri aynı güne ve aynı güzergâha toplamak, hem tabela firmasının hem bizim zamanını kısaltır. Bunun için işleri birkaç gün önceden bildirmek ve acil olmayanları bekletip uygun güne yerleştirmek yeterlidir. Açılışa yetişmesi gereken veya gece yapılması gereken AVM işleri ise ayrıca önceliklendirilir."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Haftalık iş listesini mümkünse hafta başında paylaşın.",
+        "Acil işleri ayrıca belirtin; hangi işin kaydırılabileceğini bilmek planı kolaylaştırır.",
+        "Söküm ve montajı aynı ziyarette yapmak mümkünse bunu iş kartında yazın.",
+        "Montaj sonrası fotoğraf gerekiyorsa operatöre söyleyin; sepet yüksekteyken çekilen fotoğraf müşteriye teslimde işe yarar."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "AVM ve zincir mağaza işlerinde nelere dikkat edilir?"
+    },
+    {
+      "type": "p",
+      "text": "AVM içinde veya cephesinde çalışmak, cadde üstündeki bir dükkândan farklı kurallar getirir. Tabela firmasının bu kuralları iş kartına eklemesi, işin kapıda takılmasını önler:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Çalışma saati: AVM yönetimi genellikle ziyaretçi saatleri dışında çalışılmasını ister; giriş saati ve teknik müdürlüğün onayı önceden alınmalıdır.",
+        "Araç girişi: AVM otoparkına veya servis yoluna girecek aracın plakası ve ölçüleri yönetime bildirilir; kapalı otopark yüksekliği platforma uygun olmayabilir.",
+        "Zemin: cephe önündeki döşeme kaplaması, peyzaj ve altındaki kapalı otopark nedeniyle ayakların nereye basacağı yönetimle konuşulur.",
+        "Evrak: AVM'ler çoğu zaman vinç ve operatör belgelerini ayrıca ister; düzenli çalışmada bu dosya hazırdır.",
+        "Teslim: işin bitiminde alanın temiz bırakıldığı ve tabelanın çalıştığı yönetimle birlikte kontrol edilir."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Fiyat ve faturalama nasıl konuşulur?"
+    },
+    {
+      "type": "p",
+      "text": "Düzenli çalışma bir indirim vaadi değil, bir düzen anlaşmasıdır. Fiyatı belirleyen kalemler her işte aynıdır: araç tipi, yükseklik, süre, mesafe, gece veya hafta sonu çalışması ve bekleme. Bu kalemlerin nasıl hesaplanacağını, faturanın iş başı mı yoksa belirli aralıklarla mı kesileceğini ve iptal-bekleme durumlarının nasıl ele alınacağını ilk görüşmede yazılı olarak netleştirmek iki taraf için de en sağlıklısıdır. Daha kapsamlı ve yıllık bir yapı arayan firmalar için <a href=\"/blog/kurumsal-vinc-tedariki-cerceve-anlasma\">çerçeve anlaşma</a> yazımız fikir verebilir."
+    },
+    {
+      "type": "h2",
+      "text": "Şanlıurfa'da tabela firmaları için düzenli çalışma nasıl başlar?"
+    },
+    {
+      "type": "p",
+      "text": "Şanlıurfa merkezde ve ilçelerde çalışan tabela, reklam ve dijital baskı firmalarıyla ilk görüşmede iş tiplerinizi, sıklığınızı ve evrak ihtiyacınızı konuşuruz; ardından her iş için iş kartı formatıyla ilerleriz. Araçlarımız hakkında bilgi için <a href=\"/hizmetler/hiyap-kiralama\">hiyap kiralama</a> ve <a href=\"/hizmetler/sepetli-platform-manlift-kiralama\">sepetli platform kiralama</a> sayfalarımıza bakabilirsiniz. 0542 488 98 08'i arayın veya WhatsApp'tan ilk işinizin kartını gönderin; uygun aracı ve fiyatı baştan net söyleyelim."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Tabela firması olarak sepetli platformu operatörsüz kiralayabilir miyiz?",
+      "a": "Platformlar varsayılan olarak belgeli operatörümüzle gelir; ekibiniz sepette montaja odaklanır, platformun kullanımı ve kapasite kontrolü operatörde olur. Kendi belgeli personelinizle kullanmak isterseniz belge, sigorta ve teslim şartlarını önceden konuşuruz."
+    },
+    {
+      "q": "Tabelayı sepete koyup çıkarabilir miyiz?",
+      "a": "Sepetin kapasitesi içinde kalıyorsa evet. Kapasiteye sepetteki kişiler de dahildir; büyük ve ağır tabelalar hiyapla kaldırılır, montajcılar platformdan karşılar."
+    },
+    {
+      "q": "Her işte yeniden evrak göndermeniz gerekir mi?",
+      "a": "Hayır. Düzenli çalışmada evrak dosyası bir kez hazırlanır; süresi dolan belge yenilendiğinde güncel hali tekrar paylaşılır."
+    },
+    {
+      "q": "Aynı gün birden fazla adreste çalışabilir misiniz?",
+      "a": "İşler önceden bildirilirse aynı güzergâhtaki işleri aynı güne toplarız. Bu, iki tarafın da zamanını kısaltır."
+    },
+    {
+      "q": "Belediye tabela iznini siz mi alıyorsunuz?",
+      "a": "Tabelanın kendisi için gereken izin işletmenin veya tabela firmasının konusudur. Vincin kurulumu için yol veya kaldırım kullanımı gerekiyorsa bunu birlikte planlarız."
+    },
+    {
+      "q": "Gece AVM işlerine de geliyor musunuz?",
+      "a": "Evet, AVM'lerin çoğu ziyaretçi saatleri dışında çalışılmasını ister. Çalışma saatini, araç girişini ve evrakı yönetimle önceden netleştirirseniz gece veya sabah erken saatlerde çalışırız; mesai dışı çalışma fiyatı etkileyen kalemlerdendir."
+    },
+    {
+      "q": "Düzenli çalışmada indirim var mı?",
+      "a": "Fiyatı her işte araç tipi, yükseklik, süre, mesafe ve çalışma saati belirler. Düzenli çalışmanın nasıl fiyatlanacağını ve faturalanacağını ilk görüşmede birlikte konuşup yazılı hale getiririz."
+    }
+  ]
+}

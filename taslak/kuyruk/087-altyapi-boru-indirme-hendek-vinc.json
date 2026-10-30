@@ -1,0 +1,195 @@
+{
+  "slug": "altyapi-boru-indirme-hendek-vinc",
+  "_hedef": "boru indirme vinç / kanal kazısına boru indirme / altyapı boru döşeme vinç / büz indirme hiyap / doğalgaz su kanalizasyon borusu vinç",
+  "title": "Altyapı Kazısında Boru İndirme: Vinç ve Hiyap | AZY Vinç",
+  "ogTitle": "Su, Kanalizasyon ve Doğalgaz Hattında Boruyu Hendeğe İndirme: Vinç mi Hiyap mı, Hendek Kenarında Güvenlik",
+  "h1": "Altyapı kazısında boru indirme: vinç, hiyap ve hendek kenarı güvenliği",
+  "desc": "Su, kanalizasyon ve doğalgaz borusunu hendeğe indirmek için vinç mi hiyap mı? Bağlama, ayak yeri ve hendek kenarı güvenliği resmi kaynaklarla. Şanlıurfa'da arayın.",
+  "image": "elektrik-diregi-hiyap-vinc-kis.jpeg",
+  "imageAlt": "Karlı bir arazide kazı yapan iş makinesinin yanında çalışan hiyap vinç",
+  "caption": "Hendek kenarında vincin nereye kurulacağı, borunun ağırlığı kadar önemlidir.",
+  "intro": "Kısa cevap: Küçük ve orta çaplı borular ile beton büzler genellikle hiyapla, büyük çaplı ve uzun borular mobil vinçle hendeğe indirilir; her iki durumda da vincin ayakları hendek kenarından yeterince uzağa kurulur, boru koruyucu bant sapanla veya traversle bağlanır ve boru hendek tabanına yaklaşana kadar hendekte kimse bulunmaz. Altyapı işlerinde asıl risk kaldırmanın kendisi değil, hendek kenarındaki zemindir. Bu yazıda su, kanalizasyon ve doğalgaz hatlarında boru indirmeyi resmi kaynaklara dayanarak anlatıyoruz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Boru indirmede vinç mi hiyap mı kullanılır?"
+    },
+    {
+      "type": "p",
+      "text": "Seçimi borunun ağırlığı, uzunluğu ve aracın hendeğe ne kadar yaklaşabileceği belirler. Hiyap boruyu kendi kasasında getirip doğrudan indirebildiği için kısa hatlarda ve dağınık noktalarda pratiktir. Mobil vinç ise daha ağır ve uzun boruları, aracın hendekten uzakta kalması gereken yerlerde indirir. Ekskavatörle boru indirmek sahada sık görülür, ama iş makinesinin yük kaldırma için kullanılmasının koşulları vardır; bunu <a href=\"/blog/kepce-ile-yuk-kaldirma-yasak-mi\">kepçe ile yük kaldırma yasak mı</a> yazımızda anlattık."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Boru tipi",
+        "Bağlama",
+        "Tipik araç",
+        "Dikkat"
+      ],
+      "rows": [
+        [
+          "Beton büz ve menhol elemanı",
+          "Üreticinin kaldırma aparatı veya uygun sapan",
+          "Hiyap veya mobil vinç",
+          "Kaldırma deliği veya aparatı yoksa üreticiye sorulur"
+        ],
+        [
+          "PE (polietilen) ve CTP boru",
+          "Geniş polyester bant sapan, uzun boruda travers",
+          "Hiyap; uzun ve büyük çapta mobil vinç",
+          "Zincir ve tel halat yüzeyi çizer, kullanılmaz"
+        ],
+        [
+          "Çelik veya pik (duktil) boru",
+          "Bant sapan veya üreticinin önerdiği aparat",
+          "Mobil vinç veya hiyap",
+          "Kaplama ve izolasyon zarar görmemeli"
+        ],
+        [
+          "Doğalgaz hattı boruları",
+          "Kaplamayı koruyan bant sapan",
+          "İşe göre",
+          "Hattın sahibi kurumun şartnamesine uyulur"
+        ],
+        [
+          "Hazır menfez, rögar ve kutu elemanları",
+          "Kaldırma noktalarından",
+          "Mobil vinç",
+          "Ağırlık üretici belgesinden alınır"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Uzun borular tek noktadan bağlanınca ortadan bükülür veya dengesiz döner. İki noktadan bağlayıp bir travers kullanmak hem boruyu korur hem de hendek içine paralel inmesini sağlar. Bağlama yöntemleri için <a href=\"/blog/vinc-sapan-halat-zincir-baglama-teknikleri\">sapan, halat ve zincirle bağlama</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Hendek kenarında vinç nereye kurulmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Vincin ayakları zemine büyük bir yük aktarır ve bu yük hendek duvarını içeri doğru iter. <a href=\"https://www.mevzuat.gov.tr/File/GeneratePdf?mevzuatNo=18928&mevzuatTur=KurumVeKurulusYonetmeligi&mevzuatTertip=5\" target=\"_blank\" rel=\"noopener\">Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği</a> Ek-4, kazı alanından çıkartılan hafriyat ile kazı kenarı arasında yeterli mesafe bulundurulmasını ve kazı mahallinde bulunan hareketli araçlar ile kazı stabilitesini etkileyebilecek diğer araçlar ile kazı kenarı arasında gerekli güvenlik mesafesinin bırakılmasını ister. Aynı yönetmelik, kazı ve malzeme taşıma işlerinde kullanılan makine ve araçların kazı çukuruna düşmemesi için koruyucu tedbir alınmasını da şart koşar."
+    },
+    {
+      "type": "p",
+      "text": "Ne kadar mesafe gerektiği zemine, hendek derinliğine, iksa olup olmadığına ve vincin ayak yüküne bağlıdır; tek bir rakam yoktur. Bu yüzden kurulum yeri şantiyenin teknik sorumlusuyla birlikte seçilir. Ayaklar dolgu, yeni kapatılmış hendek, ıslak toprak veya hafriyat yığını üzerine kurulmaz; gerekirse yük dağıtıcı plaka kullanılır. Bu konunun ayrıntısını <a href=\"/blog/vinc-ayak-outrigger-zemin-basinci-sedye-plakasi\">vinç ayağı ve zemin basıncı</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Kazıdan önce ve sırasında mevzuat neler ister?"
+    },
+    {
+      "type": "p",
+      "text": "Boru indirmeden önce hendeğin kendisi güvenli olmalıdır. Yapı İşlerinde İSG Yönetmeliği Ek-4'teki kazı hükümlerinden boru indirme işini doğrudan ilgilendirenler şunlardır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Kazıya başlamadan önce yer altı kabloları, gaz boruları, su, kanalizasyon ve diğer dağıtım sistemlerinin yerleri belirlenir ve bunlardan kaynaklanabilecek tehlikeler için tedbir alınır.",
+        "Çalışmalar işveren tarafından görevlendirilen ehil kişinin gözetiminde yapılır; çalışma alanına giriş ve çıkış için güvenli yollar sağlanır.",
+        "Zemin yapısı, iklim, sarsıntı, su kaynakları ve fazla yük kuvvetleri göz önüne alınarak uygun şev açıları belirlenir ve/veya statik hesabı yapılmış destek ve setler kullanılır.",
+        "Kazı yan yüzleri her vardiyadan önce ve şiddetli yağıştan sonra kontrol edilir; güvenli olduğu belirtilmeden çalışmaya başlanmaz.",
+        "Kazı işlerinde yağış sırasında çalışma yapılmaz; makinelerle yapılan kazı işlerinde makinelerin hareket alanına çalışanların girmesine izin verilmez."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Aile, Çalışma ve Sosyal Hizmetler Bakanlığı'nın <a href=\"https://guvenliinsaat.csgb.gov.tr/media/tyhp4rmm/kanal_kazi.pdf\" target=\"_blank\" rel=\"noopener\">Kanal Kazısı Çalışmalarında İş Sağlığı ve Güvenliği Rehberi</a> de kazıya yuvarlanma veya düşme riski olan malzeme ve ekipmanın kazı kenarından uzakta tutulmasını, araç ve kamyonların bariyer ve uyarılarla kazıdan uzakta tutulmasını önerir. Rehberin kontrol listesinde, çalışanın göçüğe maruz kalmaması için kazıya inmeden boru montajına imkân veren aparat ve yöntemlerin kullanılıp kullanılmadığı da sorulur."
+    },
+    {
+      "type": "h2",
+      "text": "Boru inerken hendekte kim bulunabilir?"
+    },
+    {
+      "type": "p",
+      "text": "Boru askıda iken hendekte kimse bulunmamalıdır. <a href=\"https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.18318.pdf\" target=\"_blank\" rel=\"noopener\">İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği</a> Ek-II, teknik zorunluluk olmadıkça kaldırılan yükün altında insan bulunmaması için tedbir alınmasını ister. Pratikte akış şöyledir: boru hendek üzerine getirilir, yavaşça tabana yaklaştırılır, hareketi durduğunda ve yere birkaç santim kala ekip güvenli merdivenle hendeğe iner, kılavuz halatla ve elle son hizalamayı yapar, boru yatağına oturtulur ve ancak ondan sonra sapan çözülür. Boru yönlendirmesi mümkün olduğunca hendek dışından, kılavuz halatla yapılır."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Tek işaretçi belirlenir; operatör yalnızca ondan işaret alır.",
+        "Hendek içindeki ekip, borunun düşebileceği hattın altında ve boru ile hendek duvarı arasında durmaz.",
+        "İksa veya kalkan varsa boru indirilirken bunlara çarpmaması için yavaş çalışılır.",
+        "Hendeğe iniş ve çıkış için destek ve setler değil, merdiven veya güvenli yol kullanılır."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Kazı izni ve trafik düzenlemesi kimin işi?"
+    },
+    {
+      "type": "p",
+      "text": "Büyükşehirlerde altyapı kazıları için izin ve kazı ruhsatı süreci Altyapı Koordinasyon Merkezi (AYKOME) üzerinden yürür. <a href=\"https://www.mevzuat.gov.tr/File/GeneratePdf?mevzuatNo=10397&mevzuatTur=KurumVeKurulusYonetmeligi&mevzuatTertip=5\" target=\"_blank\" rel=\"noopener\">Büyükşehir Belediyeleri Koordinasyon Merkezleri Yönetmeliği</a>, büyükşehir belediyesi sorumluluğundaki yerlerde altyapı ile ilgili kazı yapacak kişilere izin ve kazı ruhsatı verilmesini AYKOME'nin görevleri arasında sayar. Bu izin işi yapan yüklenicinin veya hattın sahibi kurumun sorumluluğundadır; biz vincin kurulacağı alanı ve trafikte kapanması gereken şeridi bildirerek plana katkı veririz. Vincin yolu kapatacağı durumlar için <a href=\"/blog/vinc-calismasi-yol-kapatma-isgaliye-izni\">yol kapatma ve işgaliye izni</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Uzun hatlarda verim nasıl artırılır?"
+    },
+    {
+      "type": "p",
+      "text": "Kilometrelerce süren bir hatta boruları tek tek kamyondan alıp indirmek yerine, boruların hendek boyunca önceden dizilmesi (serilmesi) ve vincin hat boyunca ilerleyerek indirmesi sık kullanılan bir yöntemdir. Bu durumda boruların hendek kenarına değil, aracın geçeceği şeridin dışına dizilmesi gerekir; aksi halde boru hem kazı kenarına yük bindirir hem de aracın yolunu kapatır. Hiyabın kendi kasasında boru taşıyıp indirmesi, kısa ve dağınık bağlantı noktalarında daha verimlidir. Hangi yöntemin uygun olduğu hattın uzunluğuna, boru boyuna ve kazı ilerleme hızına göre seçilir."
+    },
+    {
+      "type": "h2",
+      "text": "Maliyeti ne belirler?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Boru ağırlığı ve uzunluğu, vincin hendekten ne kadar uzağa kurulması gerektiği (gereken kapasite),",
+        "Toplam boru sayısı ve günlük kazı ilerlemesi (vincin bekleme süresi),",
+        "Hiyabın boruyu kendisinin taşıyıp taşımadığı,",
+        "Arazi koşulu: tarla, stabilize yol veya asfalt,",
+        "Sahanın merkeze uzaklığı."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Şanlıurfa'da altyapı işlerinde boru indirme nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Şanlıurfa merkezde ve <a href=\"/bolgeler/viransehir-vinc-kiralama\">Viranşehir</a>, Siverek, Harran gibi ilçelerde içme suyu, kanalizasyon, sulama ve doğalgaz hatlarında çalışan yüklenicilere operatörlü hiyap ve mobil vinç sağlıyoruz. WhatsApp'tan şunları gönderin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Boru tipi, çapı, boyu ve ağırlığı (üretici belgesinden),",
+        "Hendek derinliği ve iksa durumu,",
+        "Güzergâhın konumu ve aracın hendeğe paralel ilerleyebileceği şerit,",
+        "Toplam boru sayısı ve planlanan günler."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "0542 488 98 08'i arayın; uygun aracı işe göre belirleyip fiyatı baştan net söyleyelim. Kısa bağlantı işleri için <a href=\"/hizmetler/hiyap-kiralama\">hiyap kiralama</a> sayfamıza bakabilirsiniz."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Büz indirmek için hangi araç gerekir?",
+      "a": "Büzün ağırlığına ve aracın hendeğe ne kadar yaklaşabileceğine göre hiyap veya mobil vinç. Büzün kaldırma aparatı veya deliği yoksa uygun bağlama yöntemi üreticiye sorulur."
+    },
+    {
+      "q": "Vinç hendek kenarına ne kadar yakın kurulabilir?",
+      "a": "Tek bir rakam yoktur; mesafe zemine, hendek derinliğine, iksaya ve vincin ayak yüküne bağlıdır. Mevzuat araçlar ile kazı kenarı arasında gerekli güvenlik mesafesinin bırakılmasını ister; kurulum yeri şantiyenin teknik sorumlusuyla birlikte seçilir."
+    },
+    {
+      "q": "Boru inerken işçi hendekte durabilir mi?",
+      "a": "Boru askıdayken hendekte kimse bulunmamalıdır. Boru tabana yaklaşıp durduktan sonra ekip güvenli merdivenle iner ve son hizalamayı yapar."
+    },
+    {
+      "q": "PE boruyu zincirle bağlayabilir miyiz?",
+      "a": "Hayır. Zincir ve tel halat boru yüzeyini çizer; geniş polyester bant sapan kullanılır, uzun borularda iki noktadan bağlanır."
+    },
+    {
+      "q": "Kazı iznini kim alır?",
+      "a": "Altyapı kazısının izni işi yapan yüklenicinin veya hattın sahibi kurumun sorumluluğundadır. Büyükşehirlerde bu süreç AYKOME üzerinden yürür."
+    },
+    {
+      "q": "Yağmurda boru indirilir mi?",
+      "a": "Mevzuat kazı işlerinde yağış sırasında çalışma yapılmamasını ister. Yağıştan sonra da kazı yüzleri kontrol edilmeden çalışmaya başlanmaz."
+    }
+  ]
+}

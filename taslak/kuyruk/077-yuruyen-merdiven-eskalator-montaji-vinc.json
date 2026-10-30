@@ -1,0 +1,231 @@
+{
+  "slug": "yuruyen-merdiven-eskalator-montaji-vinc",
+  "_hedef": "yürüyen merdiven montajı vinç / eskalatör taşıma vinç / yürüyen bant montajı vinç / AVM eskalatör montajı",
+  "title": "Yürüyen Merdiven (Eskalatör) Montajında Vinç | AZY Vinç",
+  "ogTitle": "Yürüyen Merdiven ve Yürüyen Bant Montajında Vinç: Bina İçine Alma, Planlama ve Görev Paylaşımı",
+  "h1": "Yürüyen merdiven (eskalatör) montajında vinç nasıl kullanılır?",
+  "desc": "Yürüyen merdiven montajında vinç ne iş görür? Eskalatörün binaya alınması, açıklık, döşeme yükü ve görev paylaşımı. AVM ve hastane işleri için Şanlıurfa'da arayın.",
+  "image": "piazza-avm-sanliurfa-cephe-tabela-sepetli-vinc.jpeg",
+  "imageAlt": "Şanlıurfa'da bir alışveriş merkezi cephesinde çalışan sepetli platform",
+  "caption": "AVM işlerinde vinç ve platform, binanın açık olduğu saatlere göre planlanır.",
+  "intro": "Kısa cevap: Yürüyen merdiven (eskalatör) veya yürüyen bant genellikle uzun ve tek parça ya da birkaç parçalı bir çelik gövde halinde gelir; vincin işi bu gövdeyi kamyondan alıp binadaki açıklığa, döşeme kenarına veya yerleştirileceği boşluğun hizasına güvenle teslim etmektir. İçerideki son konumlandırmayı eskalatör firmasının montaj ekibi kendi ekipmanıyla yapar. İşin başarısı kaldırmadan çok, gövdenin binaya hangi açıklıktan gireceğinin ve kimin neyi yapacağının önceden netleşmesine bağlıdır.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Yürüyen merdiven montajında vinç tam olarak ne yapar?"
+    },
+    {
+      "type": "p",
+      "text": "Vinç, eskalatör gövdesini nakliye aracından alır ve binanın içine giriş yapılacak noktaya taşır. Bu nokta yeni yapılan bir binada çoğu zaman henüz kapatılmamış bir döşeme boşluğu veya cephe açıklığıdır; mevcut bir binada ise sökülebilen bir cam cephe bölümü, yükleme kapısı ya da çatıdaki bir açıklıktır. Gövde içeri alındıktan sonra paten, makaralı taşıma arabası ve zincirli caraskal gibi ekipmanlarla yerine yürütülür ve askıya alınarak kat kirişlerine oturtulur. Bu son aşama eskalatör firmasının işidir; montaj talimatı ve kaldırma noktaları da onların dokümanında yer alır."
+    },
+    {
+      "type": "p",
+      "text": "Asansör işlerinde vinç kullanımını ayrıca anlattığımız <a href=\"/blog/asansor-montaji-vinc\">asansör montajında vinç</a> yazısından farklı olarak, eskalatörde ana zorluk uzunluktur: gövde uzun ve eğik bir kafes olduğu için açıklıktan girerken açısını ve dengesini korumak gerekir."
+    },
+    {
+      "type": "h2",
+      "text": "Eskalatör binaya hangi yoldan alınır?"
+    },
+    {
+      "type": "p",
+      "text": "Üç yol vardır ve hangisinin seçileceğini bina, eskalatör firması ve vinç ekibi birlikte belirler:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Giriş yolu",
+        "Ne zaman uygun?",
+        "Vincin rolü"
+      ],
+      "rows": [
+        [
+          "Döşeme veya çatı boşluğundan yukarıdan indirme",
+          "Yeni yapı, kaba inşaat aşaması, boşluk henüz kapatılmamış",
+          "Gövdeyi doğrudan boşluğa indirir; içeride ekip karşılar"
+        ],
+        [
+          "Cephe açıklığından yatay sokma",
+          "Mevcut bina, sökülebilir cam cephe veya geniş kapı",
+          "Gövdeyi açıklık hizasına getirir; içeride paten ve caraskalla çekilir"
+        ],
+        [
+          "Zemin kattan içeri yürütme",
+          "Eskalatör zemin katta veya kapı yeterince geniş",
+          "Çoğu zaman sadece kamyondan indirme; bazen hiç gerekmez"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Mevcut AVM ve hastanelerde ikinci yol en sık karşılaşılanıdır. Bu durumda cephenin hangi bölümünün sökülebileceği, açıklığın net ölçüsü ve gövdenin içeride döneceği alan önceden ölçülür. Açıklık yetmiyorsa gövdenin parçalı getirilip içeride birleştirilmesi üreticiyle konuşulur."
+    },
+    {
+      "type": "h2",
+      "text": "Planlamada hangi bilgiler gerekir?"
+    },
+    {
+      "type": "p",
+      "text": "Eskalatör firmasından ve bina yönetiminden istediğimiz bilgiler belli. Bunlar elimize geldiğinde makine tipini, kurulum yerini ve yaklaşık süreyi değerlendirebiliriz:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Gövdenin veya her parçanın ağırlığı ve ölçüleri (üreticinin montaj dokümanından),",
+        "Kaldırma noktaları ve kullanılacak aparatlar (traversa, sapan tipi, açı sınırı),",
+        "Giriş açıklığının konumu, zeminden yüksekliği ve net ölçüsü,",
+        "Vincin kurulabileceği alan: otopark, yükleme alanı, yol kenarı ve zemin durumu,",
+        "Nakliye aracının geliş saati ve aracın vinç yanına yanaşabilme imkânı,",
+        "İçerideki karşılama ekibinin hazırlığı: paten, caraskal, döşeme koruması."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Ağırlık için tahmin yürütmüyoruz; değer üreticinin dokümanından alınır. Vinç seçiminde ağırlık kadar yarıçap belirleyicidir: vincin açıklıktan ne kadar uzağa kurulabildiği gereken kapasiteyi doğrudan değiştirir. Bunun mantığını <a href=\"/blog/vinc-yuk-tablosu-load-chart-nasil-okunur\">yük tablosu nasıl okunur</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Döşeme ve bina içi taşıma neden ayrıca kontrol edilir?"
+    },
+    {
+      "type": "p",
+      "text": "Gövde içeri girdikten sonra döşeme üzerinde yürütülür. Bitmiş bir AVM zemini, seramik veya epoksi kaplama ve altındaki döşeme bu yükü noktasal olarak taşıyabilecek mi, bunu binanın statik sorumlusu değerlendirmelidir. Yük dağıtıcı plakalar, kontrplak serme ve güzergâh üzerindeki rögar ve kanal kapaklarından kaçınmak bu aşamanın konusudur. Vincin dışarıda ayaklarını açacağı zemin için de benzer bir soru vardır: otoparkın altında kapalı bir kat varsa ayak yükü oraya biner. Dar ve kapalı alanlarda kaldırma gerekirse <a href=\"/blog/orumcek-vinc-mini-vinc-ic-mekan-dar-alan\">örümcek vinç ve iç mekân çözümleri</a> yazımız seçenekleri anlatıyor."
+    },
+    {
+      "type": "h2",
+      "text": "Kim neyi yapar? Görev paylaşımı"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Konu",
+        "Eskalatör firması",
+        "Vinç ekibi",
+        "Bina yönetimi / yüklenici"
+      ],
+      "rows": [
+        [
+          "Ağırlık, ölçü, kaldırma noktaları",
+          "Verir",
+          "Plana işler",
+          "—"
+        ],
+        [
+          "Bağlama ve aparatlar",
+          "Kendi aparatlarını belirtir veya getirir",
+          "Vinç tarafındaki bağlantıyı kontrol eder",
+          "—"
+        ],
+        [
+          "Kaldırma ve açıklığa teslim",
+          "Yönlendirir",
+          "Yapar",
+          "—"
+        ],
+        [
+          "İçeride taşıma ve yerine oturtma",
+          "Yapar",
+          "Gerekirse destek verir",
+          "Döşeme korumasını sağlar"
+        ],
+        [
+          "Alan kapatma, yaya ve trafik",
+          "—",
+          "Kaldırma alanını işaretler",
+          "Sağlar, gerekirse izni alır"
+        ],
+        [
+          "Cephe sökümü ve geri takılması",
+          "—",
+          "—",
+          "Kendi ekibiyle yapar"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Kaldırma sırasında yükün altında kimsenin bulunmaması temel kuraldır. <a href=\"https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.18318.pdf\" target=\"_blank\" rel=\"noopener\">İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği</a> Ek-II, teknik zorunluluk olmadıkça kaldırılan yükün altında insan bulunmaması için tedbir alınmasını ve çalışanların bulunabileceği korunmasız çalışma yerlerinin üzerinden yük geçirilmemesini ister. AVM'de bu, kaldırma süresince girişin ve otoparkın ilgili bölümünün kapatılması anlamına gelir."
+    },
+    {
+      "type": "h2",
+      "text": "Açık bir AVM veya hastanede çalışma saati nasıl seçilir?"
+    },
+    {
+      "type": "p",
+      "text": "Ziyaretçinin olduğu saatlerde yük kaldırmak hem güvenlik hem işletme açısından zordur. Bu yüzden eskalatör kaldırmaları çoğu zaman kapanış sonrasına, sabahın erken saatlerine veya ziyaretçinin az olduğu bir güne planlanır. Hastanelerde acil servis girişi, ambulans yolu ve hasta geçiş güzergâhı kaldırma alanının dışında tutulur. Gece çalışmasının pratik tarafını <a href=\"/blog/gece-vinc-calismasi-yaz-sicagi-vardiya\">gece vinç çalışması</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Eskalatör kaldırmalarında sık yapılan planlama hataları nelerdir?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Açıklığı kasa sökülmeden ölçmek: net ölçü, doğrama ve kasa söküldükten sonra kalan boşluktur.",
+        "Nakliye aracını vinçten önce getirmek: gövde kamyonda beklerken araç trafiği kapatır; ikisinin aynı saate planlanması gerekir.",
+        "İçerideki karşılama ekibini son ana bırakmak: gövde açıklıktan girdiği anda paten ve caraskalın hazır olması gerekir.",
+        "Cephe söküm ekibini ayrı güne yazmak: açıklık kaldırma günü sabahında hazır değilse vinç bekler."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Maliyeti hangi kalemler belirler?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Gövdenin ağırlığı ve vincin kurulabileceği noktanın açıklığa uzaklığı (gereken tonaj),",
+        "Parça sayısı ve her parçanın ayrı kaldırma gerektirip gerektirmediği,",
+        "Çalışma saati: gece veya hafta sonu,",
+        "Nakliye aracıyla vincin aynı saate denk gelip gelmediği (bekleme),",
+        "Mesafe: tesisin bulunduğu ilçe ve vincin sahaya ulaşımı."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Şanlıurfa'da yürüyen merdiven montajı için vinç nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Şanlıurfa merkezde ve ilçelerde AVM, hastane, otel veya ticari bina projelerinde eskalatör ya da yürüyen bant montajı için operatörlü vinç sağlıyoruz. <a href=\"/bolgeler/haliliye-vinc-kiralama\">Haliliye</a>, Eyyübiye ve Karaköprü'deki işlerde keşfe gelip kurulum yerini birlikte belirleriz. WhatsApp'tan şunları göndermeniz yeterli:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Eskalatör firmasının montaj dokümanından ağırlık ve ölçü sayfası,",
+        "Giriş açıklığının ve vincin kurulacağı alanın fotoğrafları,",
+        "Binanın konumu ve planlanan tarih,",
+        "Çalışmanın gece mi gündüz mü yapılacağı."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "0542 488 98 08'den bize ulaşabilirsiniz. Uygun tonajı işe göre belirleriz; ayrıntılar için <a href=\"/hizmetler/mobil-vinc-kiralama\">mobil vinç kiralama</a> sayfamıza da bakabilirsiniz."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Yürüyen merdiven vinçle mi taşınır?",
+      "a": "Kamyondan alınıp binadaki açıklığa veya boşluğa teslim edilmesi için genellikle vinç kullanılır. İçeride yerine oturtma işini eskalatör firması paten ve caraskal gibi ekipmanlarla yapar."
+    },
+    {
+      "q": "Eskalatör kaç ton gelir?",
+      "a": "Ağırlık uzunluğa, kat yüksekliğine ve modele göre değişir. Doğru değer üreticinin montaj dokümanında yazar; vinç seçimini bu değere ve vincin açıklığa olan uzaklığına göre yaparız."
+    },
+    {
+      "q": "Mevcut bir AVM'de eskalatör nereden içeri alınır?",
+      "a": "Genellikle sökülebilir bir cam cephe bölümünden, geniş bir yükleme kapısından veya çatı açıklığından. Hangisinin uygun olduğu açıklığın ölçüsüne ve gövdenin içeride döneceği alana göre belirlenir."
+    },
+    {
+      "q": "Montaj gece yapılabilir mi?",
+      "a": "Evet, açık işletmelerde çoğu zaman tercih edilen budur. Aydınlatma, alan kapatma ve nakliye aracının saati önceden planlanır."
+    },
+    {
+      "q": "Döşemenin taşıyıp taşımayacağına kim karar verir?",
+      "a": "Binanın statik sorumlusu veya proje mühendisi. Biz vincin dışarıdaki ayak yüklerini ve kurulum yerini bildiririz; bina içi taşıma güzergâhının değerlendirmesi bina tarafında yapılır."
+    },
+    {
+      "q": "Yürüyen bant (travelatör) için de aynı yöntem mi uygulanır?",
+      "a": "Mantık aynıdır: gövde veya parçalar vinçle açıklığa teslim edilir, içeride montaj ekibi yerleştirir. Yürüyen bantlar daha yatay olduğu için giriş açıklığı ve içeride dönüş alanı ayrıca ölçülür."
+    }
+  ]
+}

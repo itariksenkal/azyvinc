@@ -1,0 +1,197 @@
+{
+  "slug": "fabrika-depo-tavan-aydinlatma-led-donusumu-platform",
+  "_hedef": "fabrika tavan aydınlatma değişimi platform / depo led dönüşümü manlift / yüksek tavan armatür değişimi sepetli platform",
+  "title": "Fabrika ve Depoda Tavan LED Dönüşümü İçin Platform",
+  "ogTitle": "Fabrika ve Depoda Yüksek Tavan Aydınlatma (LED) Dönüşümü: Makaslı mı Eklemli Platform mu, Zemin ve Üretim Sürerken Çalışma",
+  "h1": "Fabrika ve depoda tavan aydınlatma (LED) dönüşümü için platform seçimi",
+  "desc": "Fabrika ve depoda tavan aydınlatma LED dönüşümü için makaslı mı eklemli platform mu? Zemin yükü, raf arası ve üretim sürerken çalışma. Şanlıurfa'da planlayalım.",
+  "image": "konser-sahne-sepetli-platform-gece.jpeg",
+  "imageAlt": "Gece çalışmasında yüksek bir yapının üst kısmına uzanan sepetli platform",
+  "caption": "Yüksek tavanlı alanlarda çoğu dönüşüm işi vardiya aralarına ve geceye planlanır.",
+  "intro": "Kısa cevap: Armatürlerin altına tekerlekle girebiliyorsanız ve zemin düz, sağlamsa makaslı platform; armatürün altında raf, makine, konveyör veya çukur varsa eklemli platform kullanılır. Yüksek tavanlı bir fabrika veya depoda yüzlerce armatürü LED ile değiştirmek, tek bir lambayı değiştirmekten farklı bir iştir: platformun hangi sırayla hangi koridora gireceği, zeminin ve kanal kapaklarının durumu ve üretimin bu sırada nasıl süreceği önceden planlanmazsa iş beklenenden uzun sürer. Bu yazı elektrik yüklenicileri ve tesis bakım ekipleri için bu planlamayı anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Tavan aydınlatma dönüşümünde hangi platform seçilir?"
+    },
+    {
+      "type": "p",
+      "text": "Seçimi belirleyen soru şudur: armatürün tam altı boş mu? Makaslı platform yalnızca dikey çıkar; geniş sepetiyle iki kişiyi, söktüğü eski armatürü ve takacağı yenisini rahatça taşır, ama hedefin tam altına gitmesi gerekir. Eklemli platform ise engelin üzerinden uzanır; raf üstündeki, makinenin arkasındaki veya konveyörün üzerindeki armatüre ulaşır ama sepeti daha dardır. Makaslı platformun ayrıntılarını <a href=\"/blog/makasli-platform-nedir-sepetli-vincten-farki\">makaslı platform nedir</a> yazımızda, kapalı alandaki akülü kullanımın neden önemli olduğunu ise <a href=\"/blog/akulu-makasli-platform-kapali-alan\">akülü makaslı platform</a> yazımızda anlattık."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Alan durumu",
+        "Uygun platform",
+        "Not"
+      ],
+      "rows": [
+        [
+          "Boş hol, düz zemin, armatür koridor üstünde",
+          "Makaslı platform",
+          "Sepete eski ve yeni armatür birlikte alınabilir"
+        ],
+        [
+          "Yüksek raflı depo, armatür raf aralarının üstünde",
+          "Raf koridoruna giren dar makaslı veya eklemli platform",
+          "Koridor genişliği ve raf yüksekliği ölçülmeli"
+        ],
+        [
+          "Armatür makine, konveyör veya tank üstünde",
+          "Eklemli platform",
+          "Engelin üzerinden uzanmak gerekir"
+        ],
+        [
+          "Bina dışı cephe ve saha aydınlatması",
+          "Teleskopik veya eklemli platform",
+          "Zemin ve yaya trafiği ayrıca planlanır"
+        ],
+        [
+          "Kapalı alan, gıda veya hassas üretim",
+          "Akülü (elektrikli) platform",
+          "Egzoz gazı ve iz bırakmama gerekir"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Uygun platform tipini keşifte alanın durumuna göre birlikte belirleriz; eklemli ve teleskopik platform farkını <a href=\"/blog/eklemli-teleskopik-platform-farki\">bu yazıda</a> ayrıca açıkladık."
+    },
+    {
+      "type": "h2",
+      "text": "Zemin ve döşeme yükü neden ilk kontrol edilen şeydir?"
+    },
+    {
+      "type": "p",
+      "text": "Platformun ağırlığı birkaç tekerleğe biner ve tekerlek altındaki basınç zemine noktasal olarak etki eder. Fabrika zemininde dikkat edilmesi gereken yerler şunlardır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Kanal, rögar ve drenaj kapakları: üzerinden geçiş yük taşıma sınıfına bağlıdır; emin değilseniz güzergâhı kapakların dışından çizin.",
+        "Asma kat ve platformlar: üst kattaki armatürler için platformun asma kata çıkarılması gerekiyorsa döşemenin taşıma kapasitesi bina sorumlusuyla teyit edilir.",
+        "Epoksi veya boyalı zemin: iz bırakmayan tekerlek ve gerekirse koruyucu serme gerekir.",
+        "Eğimli rampa ve yükleme alanı: platform üretici talimatındaki eğim sınırının dışına çıkamaz.",
+        "Islak veya yağlı zemin: tekerlek kayabilir; çalışma noktasının temizliği sağlanmalıdır."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Üretim sürerken tavan aydınlatması nasıl değiştirilir?"
+    },
+    {
+      "type": "p",
+      "text": "Çoğu tesis aydınlatma dönüşümü için üretimi durdurmaz; iş bölge bölge yapılır. Bunun için hol küçük alanlara ayrılır, platformun çalıştığı bölge bariyerle kapatılır ve forklift trafiği bu bölgenin dışına yönlendirilir. Platformun altında ve sepetten bir şey düşebilecek alanda kimse çalışmaz."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Bölge sırası: önce boş veya az kullanılan alanlar, en yoğun hatlar vardiya aralarına veya hafta sonuna.",
+        "Forklift ve yaya yolu: platform koridora girerken bu yolun hangi saatlerde kapanacağı vardiya amirine bildirilir.",
+        "Gezer köprülü vinç: holde tavan vinci varsa platformun çalıştığı aks boyunca vinç durdurulur ve kilitlenir; iki ekipmanın aynı anda aynı aksa girmesi önlenir.",
+        "Toz ve gıda güvenliği: eski armatür sökülürken düşebilecek toz ve kırık parçalar için ürün ve hat üstü örtülür.",
+        "Elektrik: değiştirilen hattın enerjisi kesilir, kesildiği yerde etiketlenir ve tekrar verilmeyeceği güvenceye alınır."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Aynı alanda tesisin kendi ekibi, elektrik yüklenicisi ve platform operatörü birlikte çalışır. <a href=\"https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6331.pdf\" target=\"_blank\" rel=\"noopener\">6331 sayılı İş Sağlığı ve Güvenliği Kanunu</a>nun 23. maddesi, aynı çalışma alanını birden fazla işverenin paylaşması halinde önlemlerde iş birliği ve koordinasyon ister; pratikte bu, kimin hangi bölgede hangi saatte çalışacağının yazılı bir program olarak paylaşılması demektir."
+    },
+    {
+      "type": "h2",
+      "text": "İş verimini ne belirler?"
+    },
+    {
+      "type": "p",
+      "text": "Bir günde kaç armatürün değişeceğini önceden söylemek zordur; bu sayı işin ayrıntısına bağlıdır. Verimi en çok etkileyen kalemler şunlardır: armatürlerin dizilişi ve aralarındaki mesafe, platformun bir noktadan diğerine geçiş süresi, eski armatürün sökülme şekli (askı, zincir, sabit montaj), yeni armatürün sepette kaç adet taşınabildiği ve kablolama işinin armatür değişimiyle aynı anda yapılıp yapılmadığı. Malzemenin her koridorun başına önceden dağıtılması ve sökülen armatürler için ayrı bir toplama alanı ayrılması, platformun yere inip kalkma sayısını azaltır."
+    },
+    {
+      "type": "p",
+      "text": "Uzun süren dönüşüm projelerinde platformun birkaç gün veya hafta tesiste kalması gündeme gelebilir. Bu durumda günlük kontrolün kim tarafından yapılacağı, akünün nerede şarj edileceği ve platformun gece nerede park edeceği baştan konuşulur. Günlük kontrol maddeleri için <a href=\"/blog/manlift-sepetli-platform-gunluk-kontrol-formu\">manlift günlük kontrol formu</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Bina dışındaki saha aydınlatması da aynı projeye alınabilir mi?"
+    },
+    {
+      "type": "p",
+      "text": "Çoğu dönüşüm projesi yalnızca hol içiyle sınırlı kalmaz; bina cephesindeki projektörler, yükleme rampalarının üstündeki armatürler ve saha aydınlatma direkleri de aynı anda LED'e çevrilir. Dış işler için kapalı alandaki makaslı platform yerine arazi koşuluna uygun teleskopik veya eklemli platform gerekir. İç ve dış işleri aynı programa yazmak, dış işleri hava durumuna göre esnek tutup iç işleri yağışlı günlere kaydırmayı mümkün kılar; böylece platform ve ekip boş beklemez."
+    },
+    {
+      "type": "h2",
+      "text": "Dönüşüm öncesi kontrol listesi"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Armatür sayısı, montaj yüksekliği ve yerleşim planı (varsa aydınlatma projesi),",
+        "Koridor genişlikleri, raf yükseklikleri ve armatür altındaki engeller,",
+        "Hol giriş kapısının genişlik ve yüksekliği (platformun içeri girebilmesi için),",
+        "Zemin tipi, kanal kapakları, asma kat ve rampa bilgisi,",
+        "Çalışma saatleri: vardiya, mola, hafta sonu ve gece seçenekleri,",
+        "Eski armatürlerin nereye toplanacağı ve yeni malzemenin nerede bekleyeceği."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Maliyeti ne belirler?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Platform tipi ve çalışma yüksekliği,",
+        "Toplam süre: günlük mü, haftalık mı, proje boyunca mı,",
+        "Aynı anda kaç platformun çalışacağı,",
+        "Mesai dışı çalışma (gece, hafta sonu),",
+        "Tesisin konumu ve nakliye."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Şanlıurfa'da fabrika ve depo aydınlatma işi nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Şanlıurfa merkezdeki ve ilçelerdeki fabrika, depo, soğuk hava deposu ve kapalı spor salonlarında aydınlatma dönüşümü için operatörlü platform sağlıyoruz. Organize sanayi bölgelerindeki işler için <a href=\"/blog/sanliurfa-osb-vinc-hizmeti\">OSB'lerde vinç</a> yazımıza da göz atabilirsiniz. WhatsApp'tan şunları gönderin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Holün içinden birkaç fotoğraf (armatürler, raflar ve zemin görünecek şekilde),",
+        "Armatürlerin yaklaşık montaj yüksekliği ve sayısı,",
+        "Hol kapısının ölçüsü,",
+        "Çalışmak istediğiniz tarih ve saatler."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "0542 488 98 08'den bize ulaşın; uygun platformu ve sırayı birlikte belirleyip fiyatı baştan net söyleyelim. Platform seçenekleri için <a href=\"/hizmetler/sepetli-platform-manlift-kiralama\">sepetli platform ve manlift kiralama</a> sayfamıza bakabilirsiniz."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Depo tavan aydınlatması için hangi platform kiralanmalı?",
+      "a": "Armatürlerin altı boş ve zemin düzse makaslı platform, armatürler raf, makine veya konveyör üstündeyse eklemli platform uygundur. Kapalı alanda egzoz gazı istenmiyorsa akülü model tercih edilir."
+    },
+    {
+      "q": "Üretim durmadan armatür değiştirilebilir mi?",
+      "a": "Evet, iş bölge bölge yapılır. Platformun çalıştığı alan bariyerle kapatılır, forklift trafiği dışarı yönlendirilir ve altında kimse çalışmaz."
+    },
+    {
+      "q": "Platform hol kapısından girer mi?",
+      "a": "Kapı ölçüsüne ve platformun kapalı haldeki boyutlarına bağlıdır. Kapının genişlik ve yüksekliğini bize gönderirseniz uygun modeli buna göre seçeriz."
+    },
+    {
+      "q": "Asma kattaki armatürler için platform yukarı çıkarılabilir mi?",
+      "a": "Mümkün olabilir ama önce asma kat döşemesinin platform ağırlığını taşıyıp taşımayacağı bina sorumlusu tarafından teyit edilmelidir. Bazı durumlarda alt kattan uzanan eklemli platform daha güvenli bir çözümdür."
+    },
+    {
+      "q": "Günde kaç armatür değiştirilir?",
+      "a": "Armatür dizilişine, sökme şekline, kablolama işine ve malzemenin sahada nasıl dağıtıldığına göre değişir. Keşifte alanı görüp gerçekçi bir program çıkarırız."
+    },
+    {
+      "q": "Sökülen eski armatürler sepetle indirilebilir mi?",
+      "a": "Sepet kapasitesi içinde kalmak şartıyla evet. Kapasite hesabına sepetteki kişiler de dahildir; ağır veya hacimli parçalar için ayrı bir indirme yöntemi planlanır."
+    }
+  ]
+}

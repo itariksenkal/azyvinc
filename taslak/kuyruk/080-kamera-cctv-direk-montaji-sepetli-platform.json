@@ -1,0 +1,191 @@
+{
+  "slug": "kamera-cctv-direk-montaji-sepetli-platform",
+  "_hedef": "kamera direği montajı / güvenlik kamerası montajı sepetli platform / cctv direk dikme hiyap / yüksek kamera bakım manlift",
+  "title": "Güvenlik Kamerası ve Kamera Direği Montajı İçin Platform",
+  "ogTitle": "Güvenlik Kamerası (CCTV) ve Kamera Direği Montajı: Hiyap ile Direk Dikme, Sepetli Platformla Kamera Montajı ve Bakımı",
+  "h1": "Güvenlik kamerası ve kamera direği montajında hiyap ve sepetli platform",
+  "desc": "Kamera direği ve yüksekteki güvenlik kamerası montajı için hiyap mı sepetli platform mu? Direk dikme, cephe kamerası, bakım. Şanlıurfa'da konum gönderin.",
+  "image": "tp-totem-tabela-sepetli-vinc.jpeg",
+  "imageAlt": "Yüksek bir totem direği yanında konumlanmış sepetli platform",
+  "caption": "Direk dikmek ile direğin tepesinde çalışmak iki ayrı iştir; çoğu zaman iki ayrı araç ister.",
+  "intro": "Kısa cevap: Kamera direğini dikmek bir yük kaldırma işidir ve hiyap ya da mobil vinçle yapılır; direğin tepesine veya bina cephesine kamerayı takmak ise insanın yüksekte çalışmasıdır ve sepetli platform ister. Güvenlik sistemi firmaları, fabrikalar, siteler ve akaryakıt istasyonları için bu iki işi aynı gün ve aynı plan içinde yapmak hem zaman hem maliyet kazandırır. Merdiven, forklift üstü palet veya kepçe kovası gibi doğaçlama çözümler ise hem tehlikeli hem de mevzuata aykırıdır.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Kamera direği montajında hangi araç kullanılır?"
+    },
+    {
+      "type": "p",
+      "text": "Direğin kendisi kaldırılacak bir yüktür. Ankraj cıvatalı bir beton kaideye oturan çelik veya galvaniz direkler, uzunluklarına göre hiyap veya mobil vinçle dikilir: vinç direği yatay konumdan kaldırır, dikey hale getirir ve flanşı cıvatalara indirir; yerdeki ekip somunları takar. Direk dikildikten sonra tepedeki kamera kolu, kamera, kabin ve kablolama sepetli platformdan yapılır. Benzer direk işlerinin genel mantığını <a href=\"/blog/elektrik-ve-aydinlatma-diregi-montaji\">elektrik ve aydınlatma direği montajı</a> yazımızda anlattık; burada güvenlik sistemlerine özgü noktalara odaklanıyoruz."
+    },
+    {
+      "type": "table",
+      "head": [
+        "İş",
+        "Uygun araç",
+        "Neden?"
+      ],
+      "rows": [
+        [
+          "Kamera direğinin dikilmesi",
+          "Hiyap veya mobil vinç",
+          "Direk bir yüktür; dengeli kaldırılıp cıvatalara indirilmesi gerekir"
+        ],
+        [
+          "Direk tepesine kamera, kol ve kabin montajı",
+          "Sepetli platform",
+          "Teknisyen yüksekte iki eli serbest çalışmalıdır"
+        ],
+        [
+          "Bina cephesine, saçak altına kamera",
+          "Sepetli platform (engel varsa eklemli)",
+          "Cephe önündeki kaldırım, tente ve ağaçların üzerinden uzanmak gerekir"
+        ],
+        [
+          "Kapalı otopark, depo, hol içi kamera",
+          "Makaslı veya küçük akülü platform",
+          "Tavan altı düz erişim ve kapalı alan"
+        ],
+        [
+          "Mevcut kameraların bakımı, temizliği, açı ayarı",
+          "Sepetli platform",
+          "Kısa süreli, nokta nokta çalışma"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Direk dikilmeden önce neler hazır olmalı?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Kaide: beton yeterli dayanıma ulaşmış olmalı; süreyi beton ve proje sorumlusu belirler, vinç bu karardan önce gelmez.",
+        "Ankraj cıvataları: aks ölçüsü direk flanşıyla kontrol edilmiş, dişler temiz ve somunlar sahada olmalı.",
+        "Direk bilgisi: uzunluk, ağırlık ve varsa kaldırma noktaları üreticiden alınmalı.",
+        "Kablo: kaideden çıkan boru veya spiral ağzı direk indirilirken ezilmeyecek şekilde düzenlenmeli.",
+        "Erişim: hiyap veya vincin kaidenin yakınına yanaşabileceği, ayaklarını açabileceği sağlam bir zemin olmalı."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Direk çevresinde havai elektrik hattı varsa kaldırma planı buna göre yapılır. Bom ve direk, hatta yaklaşmadan dikilecek şekilde konumlanır; gerekli mesafeleri <a href=\"/blog/vinc-elektrik-hattina-yaklasma-guvenlik-mesafesi\">elektrik hattına yaklaşma mesafesi</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Kamerayı merdivenle veya forklift üstünde takmak neden doğru değil?"
+    },
+    {
+      "type": "p",
+      "text": "Kısa bir iş gibi görüldüğü için sahada en sık rastlanan hata budur. Teknisyen bir elinde kamera, diğerinde matkap veya tornavida ile çalışırken merdivende denge kaybetmek kolaydır. Forklift çatalına konmuş bir palet veya kepçe kovası ise insan kaldırmak için tasarlanmamıştır. <a href=\"https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.18318.pdf\" target=\"_blank\" rel=\"noopener\">İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği</a> Ek-II, insanların kaldırılmasında yalnızca bu amaç için sağlanan iş ekipmanı ve aksesuarlarının kullanılmasını ister; insan kaldırmak için üretilmemiş ekipman yalnızca olağanüstü veya acil istisnai durumlarda, gerekli önlemler alınarak ve gözetim altında kullanılabilir. Planlı bir kamera montajı bu istisnaya girmez; doğru araç sepetli platformdur."
+    },
+    {
+      "type": "p",
+      "text": "Platformda çalışan teknisyen emniyet kemerini sepetteki bağlantı noktasına takar ve sepetin korkuluğuna çıkmaz. Yüksekte çalışmanın kişisel koruyucu donanım tarafını <a href=\"/blog/yuksekte-calisma-is-guvenligi-kkd-sepetli-platform\">yüksekte çalışma ve KKD</a> yazımızda bulabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Birden fazla direk ve kamera tek günde nasıl planlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Fabrika çevresi, şantiye sınırı veya site içi gibi işlerde çoğu zaman birden fazla direk ve onlarca kamera noktası vardır. Bu tür işlerde verimi belirleyen şey güzergâhtır. Önce bütün direkler bir turda dikilir, ardından platform aynı güzergâhı ikinci turda dolaşarak kameraları takar. Böylece hiyap ve platform aynı noktada birbirini beklemez. Kamera noktalarını bir kroki veya uydu görüntüsü üzerinde numaralandırıp göndermeniz, sahadaki gidiş gelişi en aza indirir."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Direklerin ve cephe noktalarının numaralı listesi,",
+        "Her nokta için yükseklik ve aracın yanaşabileceği taraf,",
+        "Çit, kanal, yeşil alan gibi geçilmesi zor yerler,",
+        "Kablolamanın kameralardan önce mi sonra mı yapılacağı,",
+        "Kayıt cihazındaki görüntüyü kontrol edecek kişinin sahada olup olmayacağı (açı ayarı için)."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Fabrika, site ve akaryakıt istasyonunda nelere dikkat edilir?"
+    },
+    {
+      "type": "p",
+      "text": "Her sahanın kendine özgü bir kısıtı vardır ve plan buna göre yapılır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Fabrika ve depo: sahaya giriş için evrak ve oryantasyon istenebilir; çevre çiti boyunca araç yolu yoksa direk noktalarına nasıl ulaşılacağı keşifte belirlenir. Forklift ve kamyon trafiğinin yoğun olduğu saatlerden kaçınılır.",
+        "Site ve apartman: site içi yolların ve otoparkın altında kapalı otopark olabilir; araç ayaklarının bu döşemeye basıp basmayacağı yönetimle konuşulur. Sakinlerin araçları iş günü öncesinde çekilmelidir.",
+        "Akaryakıt istasyonu: pompa adaları ve tanker boşaltma alanı çalışma süresince araç trafiğinden ayrılır; istasyonun kendi güvenlik kurallarına uyulur.",
+        "Okul ve hastane: çalışma, öğrenci veya hasta trafiğinin az olduğu saatlere ya da hafta sonuna planlanır."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Kamera bakımı ve açı ayarı için ne zaman platform gerekir?"
+    },
+    {
+      "type": "p",
+      "text": "Kameraların lensi zamanla toz ve kirle kapanır, rüzgâr ya da darbe açıyı değiştirir, bağlantılar gevşer. Direk tepesindeki veya cephedeki kameralar için bu bakım da platform ister. Birden fazla kameranın bakımını aynı güne toplamak, her arıza için ayrı ayrı araç çağırmaktan daha verimlidir. Açı ayarında yerdeki veya kontrol odasındaki biriyle telefonla konuşarak çalışmak, sepetteki teknisyenin aşağı inip çıkma sayısını azaltır."
+    },
+    {
+      "type": "h2",
+      "text": "Maliyeti ne belirler?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Direk sayısı ve uzunluğu (hiyap mı mobil vinç mi gerektiği),",
+        "Kamera noktalarının yüksekliği ve platformun uzanması gereken mesafe,",
+        "Nokta sayısı ve noktalar arası mesafe,",
+        "Hiyap ve platformun aynı gün birlikte çalışıp çalışmadığı,",
+        "Tesisin konumu, ilçe ve nakliye."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Şanlıurfa'da kamera ve direk montajı nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Güvenlik sistemi firmaları, fabrikalar, siteler, okullar ve akaryakıt istasyonları için Şanlıurfa merkez ve ilçelerinde direk dikme ve kamera montajında operatörlü hiyap ve sepetli platform sağlıyoruz. Direk işleri için <a href=\"/hizmetler/hiyap-kiralama\">hiyap kiralama</a>, kamera montajı için <a href=\"/hizmetler/sepetli-platform-manlift-kiralama\">sepetli platform kiralama</a> sayfalarımıza bakabilirsiniz. WhatsApp'tan şunları gönderin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Konum ve direk/kamera noktalarının işaretli krokisi veya fotoğrafları,",
+        "Direklerin uzunluğu ve ağırlığı (üretici bilgisinden),",
+        "Cephe kameralarının yaklaşık yüksekliği,",
+        "İstediğiniz tarih ve saat aralığı."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "0542 488 98 08'i arayın veya yazın; uygun aracı işe göre belirleyip fiyatı baştan net söyleyelim."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Kamera direği hangi araçla dikilir?",
+      "a": "Direk uzunluğuna ve ağırlığına göre hiyap veya mobil vinçle. Vinç direği dikey hale getirip kaide cıvatalarına indirir; yerdeki ekip somunları takar."
+    },
+    {
+      "q": "Kamera montajı için hiyap yeterli mi?",
+      "a": "Direği dikmek için evet, ama direğin tepesinde kamera takmak için teknisyenin sepetli platformda olması gerekir. İnsan hiyap kancasında veya yük üzerinde kaldırılmaz."
+    },
+    {
+      "q": "Forklift üstünde palet ile kamera takılır mı?",
+      "a": "Hayır. Forklift insan kaldırmak için tasarlanmamıştır ve mevzuat insan kaldırmada yalnızca bu amaçla üretilmiş ekipmanın kullanılmasını ister. Doğru araç sepetli platformdur."
+    },
+    {
+      "q": "Direk dikmek için kaide ne zaman hazır olur?",
+      "a": "Betonun yeterli dayanıma ulaşması gerekir; bu süreyi beton ve proje sorumlusu belirler. Kaide hazır olmadan direk dikilmez."
+    },
+    {
+      "q": "Bir günde kaç kamera takılır?",
+      "a": "Nokta sayısına, noktalar arası mesafeye ve kablolamanın durumuna göre değişir. Noktaları kroki üzerinde numaralandırıp gönderirseniz gerçekçi bir program çıkarırız."
+    },
+    {
+      "q": "Mevcut kameraların bakımını da yapıyor musunuz?",
+      "a": "Bakımı güvenlik firmanızın teknisyeni yapar; biz operatörlü sepetli platformla teknisyeni kameranın yanına güvenle çıkarırız."
+    }
+  ]
+}

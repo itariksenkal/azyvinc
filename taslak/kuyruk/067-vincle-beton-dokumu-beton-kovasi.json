@@ -1,0 +1,185 @@
+{
+  "slug": "vincle-beton-dokumu-beton-kovasi",
+  "_hedef": "vinçle beton dökümü / beton kovası vinç / beton pompası mı vinç mi / kova ile beton dökme",
+  "title": "Vinçle Beton Dökümü: Beton Kovası mı, Beton Pompası mı?",
+  "ogTitle": "Mobil Vinç ve Beton Kovasıyla Beton Dökümü: Pompaya Göre Ne Zaman Mantıklı, Sınırları ve Güvenlik",
+  "h1": "Vinçle beton dökümü: beton kovası ne zaman mantıklı, pompa ne zaman şart",
+  "desc": "Beton pompası ulaşamıyorsa ya da döküm küçükse mobil vinç ve beton kovası çözüm olabilir. Ne zaman mantıklı, sınırları ne? Döküm planınızı gönderin, bakalım.",
+  "image": "celik-konstruksiyon-cati-kiris-montaj-agir-yuk-vinc.jpeg",
+  "imageAlt": "Şantiyede ağır yük kaldıran mobil vinç",
+  "caption": "Kova ile döküm, pompanın yerini değil boşluğunu doldurur.",
+  "intro": "Kısa cevap: Beton dökümünde ilk tercih çoğu zaman beton pompasıdır; mobil vinç ve beton kovası ise pompanın ulaşamadığı, kurulamadığı ya da küçük hacim için ekonomik olmadığı durumlarda mantıklıdır. Tipik örnekler kolon başı, lento, merdiven, küçük bir döşeme parçası, çatı perdesi, bahçe duvarı veya pompa bomunun erişemediği bir arka avludur. Kova ile döküm daha yavaştır ve her tur, betonun ağırlığı ile kovanın ağırlığının toplamı kadar bir kaldırmadır; bu yüzden hacim, mesafe ve betonun işlenebilirlik süresi birlikte planlanır. Bu yazıda iki yöntemi karşılaştırıyor ve kova ile dökümün sınırlarını anlatıyoruz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Beton kovası ile döküm nedir?"
+    },
+    {
+      "type": "p",
+      "text": "Beton kovası, transmikserden doldurulup vinçle döküm noktasına taşınan, altındaki kapağı açılarak betonu boşaltan çelik bir kaptır. Kule vinçli büyük şantiyelerde günlük bir yöntemdir. Kule vinci olmayan küçük bir inşaatta ya da tek seferlik bir dökümde aynı işi mobil vinç yapabilir. Kovanın biçimi işe göre değişir: kolon ve perde gibi dar kalıplar için altında hortum ya da dar ağız olan dik kovalar, döşeme gibi geniş yüzeyler için daha geniş ağızlı kovalar kullanılır. Kovayı kimin sağlayacağı, şantiyenin elinde kova olup olmadığı ve kapasitesi döküm öncesinde konuşulur."
+    },
+    {
+      "type": "h2",
+      "text": "Pompa mı, kova mı? Hangi durumda hangisi?"
+    },
+    {
+      "type": "p",
+      "text": "Seçimi dökülecek hacim, erişim ve maliyet birlikte belirler. Aşağıdaki tablo sahada en sık karşılaştığımız durumları özetliyor; kesin karar betoncu, şantiye şefi ve vinç tarafının birlikte bakmasıyla verilir."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Durum",
+        "Daha uygun yöntem",
+        "Neden"
+      ],
+      "rows": [
+        [
+          "Büyük döşeme, temel radyesi, yüksek hacim",
+          "Beton pompası",
+          "Sürekli akış, hızlı döküm, soğuk derz riski düşük"
+        ],
+        [
+          "Pompa bomunun yetişmediği arka avlu veya bina arkası",
+          "Mobil vinç ve kova",
+          "Vinç daha uzun yarıçapa yük taşıyabilir"
+        ],
+        [
+          "Birkaç kolon başı, lento, merdiven",
+          "Mobil vinç ve kova",
+          "Küçük hacimde pompa kurmak ekonomik olmayabilir"
+        ],
+        [
+          "Vinç zaten sahada başka iş için var",
+          "Kova",
+          "Aynı gün ek araç gerekmez"
+        ],
+        [
+          "Pompanın kurulamayacağı dar sokak veya zayıf zemin",
+          "Duruma göre vinç ve kova",
+          "Vincin kurulum alanı farklı olabilir; keşif gerekir"
+        ],
+        [
+          "Çok yüksek katta büyük hacim",
+          "Pompa",
+          "Kova turu uzar, beton bekler"
+        ],
+        [
+          "Elektrik hattının altında döküm",
+          "Önce hat konusu çözülür",
+          "Hem pompa bomu hem vinç bomu için risklidir"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Kova ile dökümün sınırları neler?"
+    },
+    {
+      "type": "p",
+      "text": "Kova ile dökümün üç temel sınırı vardır: ağırlık, hız ve zaman. Bunlar planlanmazsa döküm yarıda kalabilir."
+    },
+    {
+      "type": "h3",
+      "text": "Ağırlık"
+    },
+    {
+      "type": "p",
+      "text": "Her tur, kovanın kendi ağırlığı ile içindeki betonun ağırlığının toplamıdır. Normal betonun bir metreküpü yaklaşık 2,4 ton civarındadır; yarım metreküplük bir kova dolduğunda yalnızca beton bir tonu aşar. Vincin bu ağırlığı döküm noktasındaki yarıçapta kaldırabilmesi gerekir. En uzak döküm noktası, vincin kapasitesini belirleyen noktadır. Kapasite ve yarıçap ilişkisini <a href=\"/blog/vinc-kac-ton-kaldirir-kac-metre-uzanir\">vinç kaç ton kaldırır, kaç metre uzanır</a> yazımızda anlattık."
+    },
+    {
+      "type": "h3",
+      "text": "Hız"
+    },
+    {
+      "type": "p",
+      "text": "Kova ile döküm turlarla ilerler: doldurma, kaldırma, taşıma, boşaltma, geri dönüş. Toplam süre hacme, mesafeye ve döküm noktasındaki ekibin hızına bağlıdır. Pompanın sürekli akışına göre belirgin şekilde yavaştır. Bu yüzden kova, hacmi sınırlı dökümler için uygundur."
+    },
+    {
+      "type": "h3",
+      "text": "Zaman"
+    },
+    {
+      "type": "p",
+      "text": "Beton, santralden çıktıktan sonra sınırlı bir süre işlenebilir kalır. Transmikser sahada bekledikçe beton kıvamını kaybeder. Kova ile döküm planlanırken transmikserlerin geliş aralığı, döküm hızına göre ayarlanmalıdır; aksi hâlde bir araç döküm bitmeden beklemeye başlar. Bu hesabı betoncu ile birlikte yapmanızı öneririz."
+    },
+    {
+      "type": "h2",
+      "text": "Örnek: bina arkasındaki ek yapının kolon ve lentoları"
+    },
+    {
+      "type": "p",
+      "text": "Bir müstakil evin arka bahçesine tek katlı bir ek yapı yapıldığını düşünelim. Ev ile bahçe duvarı arasında pompa kamyonunun gireceği yer yok, pompa bomu da ön sokaktan evin üstünden aşarak arkaya yetişmiyor. Dökülecek olan birkaç kolon, lento ve küçük bir döşeme. Bu durumda mobil vinç ön sokağa kurulur, transmikser vincin yanına yanaşır, kova burada doldurulur ve evin üstünden arka bahçeye taşınır. Arkada döküm noktasında bir işaretçi ve kalıp ekibi bekler. Planlamanın kilit noktası, en uzak kolonun vinçten uzaklığı ve evin çatı yüksekliğidir: kova bu yüksekliği aşacak kadar kaldırılmalı ve bu yarıçapta dolu kova ağırlığı taşınabilmelidir. Hesap bu noktaya göre yapılır, araç da buna göre seçilir."
+    },
+    {
+      "type": "h2",
+      "text": "Döküm günü güvenlik"
+    },
+    {
+      "type": "p",
+      "text": "Kova ile döküm, ağır ve sallanabilen bir yükün çalışanların hemen üstünde boşaltılması demektir. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18928&MevzuatTur=7&MevzuatTertip=5\" target=\"_blank\" rel=\"noopener\">Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği</a> beton döküm işlerinde beton dökülen kısmın hemen altında çalışma yapılmamasını, beton yığılmasının tehlike oluşturacağı döşeme dökümlerinde betonun uygun şekilde yayılarak dökülmesini ve döküm bitinceye kadar kalıpların sürekli kontrol edilmesini ister. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\" target=\"_blank\" rel=\"noopener\">İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği</a> de operatör yükün yolunu tam göremiyorsa ona yol gösterecek eğitimli bir kişinin görevlendirilmesini öngörür. Sahada bunun anlamı:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Döküm noktasında operatörle telsiz ya da el işaretiyle haberleşen tek bir işaretçi olur.",
+        "Kova döküm noktasına yaklaşırken altında kimse durmaz; ekip kovayı ancak yavaşladığında ve alçaldığında yönlendirir.",
+        "Kova tek noktaya boşaltılıp beton yığılmaz; kalıp bu yükle açılabilir.",
+        "Kovanın kapağı ve kilidi her döküm öncesi kontrol edilir, kapak ancak kova doğru yerdeyken açılır.",
+        "Rüzgârlı havada kova salınır; işaretçi gerektiğinde işi durdurur."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "İşaretçinin kullanacağı işaretleri <a href=\"/blog/vinc-el-isaretleri-isaretci-rehberi\">vinç el işaretleri</a> yazımızda topladık."
+    },
+    {
+      "type": "h2",
+      "text": "Kova ile dökümde fiyat neye göre belirlenir?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Dökülecek hacim ve buna bağlı tur sayısı",
+        "En uzak döküm noktasının yarıçapı ve yüksekliği; bu, gereken vinç kapasitesini belirler",
+        "Kovanın şantiyeden mi sağlanacağı",
+        "Transmikser aralığına bağlı toplam süre ve bekleme",
+        "Şantiyenin konumu ve erişimi"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Vinç zaten sahada çelik, kalıp ya da malzeme için bulunuyorsa küçük dökümleri aynı güne koymak en ekonomik yoldur. Süreye göre fiyatlandırmanın mantığını <a href=\"/blog/saatlik-gunluk-aylik-vinc-kiralama\">saatlik mi günlük mü</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Şanlıurfa'da kova ile döküm için vinç nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "0542 488 98 08 numarasını arayın ya da aynı numaraya WhatsApp'tan yazın. Döküm planınızı paylaşırken şunları ekleyin: dökülecek elemanlar ve yaklaşık hacim, en uzak döküm noktasının yeri ve yüksekliği, vincin kurulabileceği yerin fotoğrafı, kovanın kapasitesi ve kimde olduğu, betoncunun planladığı transmikser aralığı ve döküm tarihi. Şanlıurfa merkezde (Haliliye, Eyyübiye, Karaköprü) ve ilçelerde çalışıyoruz; uygun vinci ve fiyatı baştan net söyleriz. Araç seçenekleri için <a href=\"/hizmetler/mobil-vinc-kiralama\">mobil vinç kiralama</a> sayfamıza bakabilirsiniz."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Mobil vinçle beton dökülür mü?",
+      "a": "Evet, beton kovası ile dökülebilir. Pompanın ulaşamadığı noktalarda ya da kolon başı, lento, merdiven gibi küçük hacimli dökümlerde mobil vinç ve kova mantıklı bir çözümdür."
+    },
+    {
+      "q": "Beton pompası mı, vinç ve kova mı daha ucuz?",
+      "a": "Büyük hacimlerde pompa hem daha hızlı hem genellikle daha ekonomiktir. Küçük hacimde ya da vinç sahada başka bir iş için zaten varsa kova ile döküm daha uygun olabilir."
+    },
+    {
+      "q": "Beton kovası kaç ton gelir?",
+      "a": "Kovanın boyutuna göre değişir. Hesapta kovanın kendi ağırlığı ile içindeki betonun ağırlığı birlikte alınır; normal betonun metreküpü yaklaşık 2,4 ton civarındadır."
+    },
+    {
+      "q": "Kova ile döküm ne kadar sürer?",
+      "a": "Hacme, döküm noktasının uzaklığına, ekibin hızına ve transmikserlerin geliş aralığına bağlıdır. Pompaya göre belirgin şekilde yavaş olduğu için büyük hacimlerde tercih edilmez."
+    },
+    {
+      "q": "Beton kovasını siz mi getiriyorsunuz?",
+      "a": "Kovanın şantiyeden mi sağlanacağını, kapasitesini ve tipini döküm öncesinde konuşuruz. Vinç seçimi kovanın dolu ağırlığına göre yapılır."
+    }
+  ]
+}

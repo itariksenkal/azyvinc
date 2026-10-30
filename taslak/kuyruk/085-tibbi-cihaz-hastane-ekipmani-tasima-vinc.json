@@ -1,0 +1,230 @@
+{
+  "slug": "tibbi-cihaz-hastane-ekipmani-tasima-vinc",
+  "_hedef": "hastane ekipmanı taşıma vinç / MR cihazı taşıma vinç / tomografi cihazı yerleştirme / hastane jeneratör chiller vinç",
+  "title": "Hastane Ekipmanı ve Tıbbi Cihaz Taşımada Vinç | AZY Vinç",
+  "ogTitle": "MR, Tomografi, Jeneratör ve Chiller: Hastane Ekipmanını Cepheden veya Çatıdan Vinçle Yerleştirme Planı",
+  "h1": "Hastane ekipmanı ve tıbbi cihaz taşımada vinç: MR, tomografi, jeneratör ve chiller",
+  "desc": "MR, tomografi, jeneratör ve chiller gibi hastane ekipmanını vinçle taşımak: üretici talimatı, açıklık, hasta güvenliği ve görev paylaşımı. Şanlıurfa'da planlayalım.",
+  "image": "tp-akaryakit-totem-mobil-vinc-sepetli-platform.jpeg",
+  "imageAlt": "Sahada birlikte çalışan mobil vinç ve sepetli platform",
+  "caption": "Hastanede kaldırma planı, cihazın üreticisi ve hastanenin teknik ekibiyle birlikte yazılır.",
+  "intro": "Kısa cevap: MR, tomografi gibi tıbbi cihazlarda ve jeneratör, chiller gibi hastane altyapı ekipmanlarında vinç, cihazı nakliye aracından alıp binadaki giriş açıklığına, çatıya veya kaideye teslim eder; nasıl bağlanacağını, hangi eğim ve darbe sınırlarına uyulacağını ise cihazın üreticisi veya yetkili servisinin taşıma talimatı belirler. Çalışan bir hastanede işin ikinci yarısı, hastaların, acil servisin ve ambulans yolunun kaldırma alanından nasıl ayrılacağıdır. Bu yazı hastane teknik müdürlükleri ve tedarikçi firmalar için bu planlamayı anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Hastane ekipmanı taşımada vincin rolü nedir?"
+    },
+    {
+      "type": "p",
+      "text": "Vinç, ağır ve hassas bir yükü bina dışında güvenle hareket ettirir: tırdan alır, cephedeki açıklığa, terasa, çatıdaki kaideye veya bodrumdaki teknik hacmin ağzına indirir. Bina içindeki son taşımayı ve cihazın yerine oturtulmasını çoğu zaman üreticinin veya tedarikçinin kendi taşıma ekibi, paten, kriko ve kızak gibi ekipmanlarla yapar. Bu iş bölümünü baştan yazmak, kaldırma gününde kimin neyi bekleyeceğini netleştirir."
+    },
+    {
+      "type": "p",
+      "text": "Jeneratör, trafo ve makine taşımanın genel mantığını <a href=\"/blog/jenerator-trafo-makine-tasima-vinc\">jeneratör ve trafo taşıma</a>, çatıya ünite çıkarmayı <a href=\"/blog/cati-klima-santrali-ve-hvac-montaji\">çatıya klima santrali montajı</a> yazılarımızda anlattık. Hastanelerde bunlara iki ek boyut gelir: cihazın hassasiyeti ve binanın hiç durmadan çalışıyor olması."
+    },
+    {
+      "type": "h2",
+      "text": "Üreticinin taşıma talimatı neden belirleyicidir?"
+    },
+    {
+      "type": "p",
+      "text": "Tıbbi görüntüleme cihazları ve bazı altyapı ekipmanları, taşıma sırasında belirli eğim, darbe, titreşim ve sıcaklık sınırlarının dışına çıkarılmamalıdır. Bu sınırlar cihazdan cihaza değişir ve üreticinin taşıma dokümanında yazar; bazı cihazlarda ambalajın üzerinde eğim ve darbe göstergeleri bulunur. Vinç planı bu dokümana göre yapılır. Biz cihazın ağırlığı, ağırlık merkezi veya taşıma koşulları hakkında tahmin yürütmeyiz; dokümanı ister, planı ona göre kurarız."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Ağırlık ve ağırlık merkezi: dokümandaki değer, ambalajlı haliyle birlikte.",
+        "Kaldırma noktaları: cihazın veya taşıma kızağının üzerindeki işaretli noktalar ve izin verilen sapan açısı.",
+        "Özel aparat: üreticinin kaldırma traversi veya çerçevesi gerekiyorsa bunu kimin getireceği.",
+        "Eğim ve darbe sınırı: yükün askıda iken ve yere indirilirken uyulması gereken koşullar.",
+        "Hava koşulları: yağış, toz veya sıcaklık nedeniyle kaldırmanın ertelenmesi gereken durumlar.",
+        "Üretici temsilcisi: kaldırma sırasında sahada bulunup bulunmayacağı."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Cihaz binaya hangi yoldan girer?"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Giriş yolu",
+        "Ne zaman kullanılır?",
+        "Planlamada sorulacak"
+      ],
+      "rows": [
+        [
+          "Cephedeki sökülebilir panel veya pencere",
+          "Görüntüleme ünitesi üst katta veya zemin kat kapısından girmiyorsa",
+          "Açıklığın net ölçüsü, cephe sökümünü kim yapacak"
+        ],
+        [
+          "Teras veya çatı kaidesi",
+          "Jeneratör, chiller, klima santrali",
+          "Kaidenin ve çatının taşıma kapasitesi (statik onay)"
+        ],
+        [
+          "Bodrum teknik hacmi, ışıklık veya şaft",
+          "Jeneratör, UPS, pano",
+          "Şaftın ölçüsü, içeride taşıma yolu"
+        ],
+        [
+          "Zemin kat yükleme kapısı",
+          "Cihaz kapıdan geçiyorsa",
+          "Vinç yalnızca araçtan indirmek için gerekebilir"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bazı hastanelerde görüntüleme cihazlarının girişi ve ileride değiştirilmesi için önceden planlanmış bir açıklık veya sökülebilir bir cephe bölümü bulunur. Böyle bir hazırlık yoksa açıklığın nereden açılacağına binanın proje sorumluları karar verir. Vincin kurulum yeri bu açıklığa göre seçilir ve vinç ne kadar uzağa kurulmak zorundaysa o kadar kapasite gerekir. Bu ilişkiyi ve plan adımlarını <a href=\"/blog/vinc-kaldirma-plani-lift-plan-nasil-hazirlanir\">kaldırma planı</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Çalışan bir hastanede güvenlik nasıl sağlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Hastane hiç kapanmaz; bu yüzden kaldırma alanı hastane trafiğinden fiziksel olarak ayrılır. <a href=\"https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.18318.pdf\" target=\"_blank\" rel=\"noopener\">İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği</a> Ek-II, teknik zorunluluk olmadıkça kaldırılan yükün altında insan bulunmaması için tedbir alınmasını ve çalışanların bulunabileceği korunmasız çalışma yerlerinin üzerinden yük geçirilmemesini ister. Hastanede bu kural yalnızca çalışanlar için değil, hastalar, refakatçiler ve ziyaretçiler için de uygulanır."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Acil servis girişi ve ambulans yolu kaldırma alanının dışında bırakılır; gerekirse geçici bir güzergâh belirlenir.",
+        "Yükün geçeceği hattın altındaki pencereler, bekleme alanları ve otopark bölümü kaldırma süresince boşaltılır.",
+        "Kaldırma, hasta ve ziyaretçi trafiğinin az olduğu bir saate veya hafta sonuna planlanır.",
+        "Hastane güvenliği ve teknik müdürlükle tek bir irtibat kişisi belirlenir.",
+        "Vincin çalışma sesi ve titreşimi hassas birimlere yakınsa ilgili birim önceden bilgilendirilir."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Görev paylaşımı: kim neyi yapar?"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Konu",
+        "Üretici / tedarikçi",
+        "Hastane",
+        "Vinç ekibi"
+      ],
+      "rows": [
+        [
+          "Ağırlık, kaldırma noktası, taşıma koşulları",
+          "Verir",
+          "—",
+          "Plana işler"
+        ],
+        [
+          "Açıklık, cephe sökümü, kaide",
+          "Bilgi verir",
+          "Hazırlar veya hazırlatır",
+          "Ölçüyü teyit eder"
+        ],
+        [
+          "Bağlama ve özel aparat",
+          "Getirir veya tarif eder",
+          "—",
+          "Kontrol eder, kaldırır"
+        ],
+        [
+          "Alan kapatma, hasta güvenliği",
+          "—",
+          "Sağlar",
+          "Kaldırma alanını işaretler"
+        ],
+        [
+          "Bina içi taşıma, yerine oturtma",
+          "Yapar",
+          "Güzergâhı açar",
+          "Gerekirse destek"
+        ],
+        [
+          "Evrak ve çalışma izni",
+          "Kendi belgeleri",
+          "İzni düzenler",
+          "Makine ve operatör belgeleri"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Hastanede sık yapılan planlama hataları nelerdir?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Cihazın teslim tarihini kesinleştirip vinci son haftaya bırakmak: açıklık ölçüsü ve kurulum yeri ancak keşifle netleşir.",
+        "Cephe açıklığının ölçüsünü projeden almak: sahadaki net ölçü, doğrama ve kaplama söküldükten sonra teyit edilmelidir.",
+        "Bina içi taşıma güzergâhını kaldırma gününe bırakmak: koridor, kapı ve döşeme koruması önceden hazırlanmazsa cihaz açıklıkta bekler.",
+        "Hastane birimlerini son anda bilgilendirmek: kaldırma alanına bakan servislerin ve güvenlik biriminin önceden haberdar olması gerekir."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Maliyeti ne belirler?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Cihazın ağırlığı ve vincin açıklığa olan uzaklığı (gereken tonaj),",
+        "Kaldırma sayısı: cihaz tek parça mı, birkaç parça mı,",
+        "Çalışma saati: gece veya hafta sonu,",
+        "Nakliye aracıyla aynı saate denk gelme ve olası bekleme,",
+        "Yol kapatma veya geçici trafik düzenlemesi ihtiyacı."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Şanlıurfa'da hastane ekipmanı taşıma için vinç nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Şanlıurfa merkezde, <a href=\"/bolgeler/haliliye-vinc-kiralama\">Haliliye</a> ve diğer ilçelerde hastane, tıp merkezi ve görüntüleme merkezleri için operatörlü mobil vinç ve sepetli platform sağlıyoruz. Planlamaya mümkün olduğunca erken, cihazın teslim tarihi belli olduğunda başlamak gerekir. WhatsApp'tan şunları gönderin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Üreticinin taşıma dokümanından ağırlık, ölçü ve kaldırma noktası sayfası,",
+        "Giriş açıklığının ve vincin kurulabileceği alanın fotoğrafları,",
+        "Hastanenin konumu, planlanan tarih ve tercih edilen saat,",
+        "Hastane teknik müdürlüğünden irtibat kişisi."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "0542 488 98 08'i arayın; keşfe gelip uygun tonajı işe göre belirleriz. Ayrıntılar için <a href=\"/hizmetler/mobil-vinc-kiralama\">mobil vinç kiralama</a> sayfamıza bakabilirsiniz."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "MR cihazı vinçle mi taşınır?",
+      "a": "Cihaz kapıdan veya yükleme yolundan giremiyorsa çoğu zaman evet; vinç cihazı araçtan alıp cephedeki açıklığa teslim eder. Bağlama ve taşıma koşullarını üreticinin taşıma talimatı belirler, bina içi taşımayı genellikle üreticinin ekibi yapar."
+    },
+    {
+      "q": "Tıbbi cihazın ağırlığını nereden öğreniriz?",
+      "a": "Üreticinin veya tedarikçinin taşıma dokümanından. Biz ağırlık ve ağırlık merkezi için tahmin yürütmeyiz; plan dokümandaki değere göre yapılır."
+    },
+    {
+      "q": "Hastane açıkken kaldırma yapılabilir mi?",
+      "a": "Yapılabilir ama kaldırma alanı hasta ve ziyaretçi trafiğinden fiziksel olarak ayrılmalıdır. Acil servis ve ambulans yolu alanın dışında tutulur, saat trafiğin az olduğu zamana göre seçilir."
+    },
+    {
+      "q": "Çatıya jeneratör veya chiller koyabilir miyiz?",
+      "a": "Önce çatının ve kaidenin bu yükü taşıyıp taşımadığı statik olarak onaylanmalıdır. Onay sonrası vinç planı kaide konumuna ve vincin kurulabileceği noktaya göre yapılır."
+    },
+    {
+      "q": "Cihaz için özel kaldırma aparatı gerekir mi?",
+      "a": "Bazı cihazlarda üretici belirli bir travers veya çerçeve ister. Bunun kimin tarafından getirileceğini planlama aşamasında netleştiririz."
+    },
+    {
+      "q": "Eski cihazın sökülüp çıkarılması da aynı gün yapılabilir mi?",
+      "a": "Açıklık ve vinç aynı olduğu için çoğu zaman evet; önce eski cihaz çıkarılır, sonra yenisi alınır. Eski cihazın ağırlığı ve sökülme durumu da plana yazılmalıdır."
+    },
+    {
+      "q": "Hangi bilgileri göndermeliyiz?",
+      "a": "Üreticinin taşıma dokümanından ağırlık ve ölçü sayfası, giriş açıklığının ve kurulum alanının fotoğrafları, konum, tarih ve hastanedeki irtibat kişisi yeterlidir."
+    }
+  ]
+}

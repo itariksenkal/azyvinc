@@ -1,0 +1,183 @@
+{
+  "slug": "akaryakit-istasyonu-tank-yerlestirme-vinc",
+  "_hedef": "akaryakıt istasyonu tank yerleştirme vinç / yer altı yakıt tankı vinçle indirme / istasyon kanopi montajı vinç / akaryakıt istasyonu totem montajı",
+  "title": "Akaryakıt İstasyonu Tank Yerleştirme ve Montajda Vinç",
+  "ogTitle": "Akaryakıt İstasyonunda Vinç: Yer Altı Tankı İndirme, Kanopi, Totem ve Pompa Montajı, Çalışan İstasyonda Güvenlik",
+  "h1": "Akaryakıt istasyonunda vinç: tank yerleştirme, kanopi, totem ve çalışan istasyonda güvenlik",
+  "desc": "Akaryakıt istasyonunda yer altı tankı indirme, kanopi, totem ve pompa montajı için vinç nasıl planlanır? Çalışan istasyonda izin ve güvenliği anlattık.",
+  "image": "aytemiz-akaryakit-totem-montaj-hiyap-vinc.jpeg",
+  "imageAlt": "Akaryakıt istasyonunda totem montajında hiyap vinç",
+  "caption": "Yeni istasyonda iş bir şantiye işidir; çalışan istasyonda ise her adım izinle ilerler.",
+  "intro": "Kısa cevap: Akaryakıt istasyonu yapımında ve yenilemesinde vinç dört ana iş için gelir: yer altı yakıt tanklarının hazırlanmış çukura indirilmesi, kanopi (saçak) çelik konstrüksiyonu ve kaplamasının montajı, fiyat totemi ve tabelaların dikilmesi, pompa (dispenser) ve diğer ekipmanın yerine konması. Yeni yapılan bir istasyonda bu işler bir şantiye düzeninde planlanır. Çalışmaya devam eden bir istasyonda ise patlayıcı ortam riski nedeniyle iş, istasyon yönetiminin çalışma izni ve iş güvenliği düzeniyle birlikte yürür. Bu yazıda her iş kalemini ve çalışan istasyonda dikkat edilecekleri anlatıyoruz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Akaryakıt istasyonunda hangi işler için vinç gerekir?"
+    },
+    {
+      "type": "p",
+      "text": "İstasyon işlerinin çoğu, ağır ya da hacimli bir parçanın dar bir alanda, hassas bir noktaya yerleştirilmesidir. Aşağıdaki tablo sık karşılaşılan işleri, uygun aracı ve planlamada gereken bilgileri gösteriyor."
+    },
+    {
+      "type": "table",
+      "head": [
+        "İş",
+        "Uygun araç",
+        "Bilmemiz gerekenler"
+      ],
+      "rows": [
+        [
+          "Yer altı yakıt tankını çukura indirme",
+          "Mobil vinç",
+          "Tankın ağırlığı ve ölçüsü, kaldırma kulakları, çukurun yeri ve kenar zemini"
+        ],
+        [
+          "Eski tankı çıkarma",
+          "Mobil vinç",
+          "Tankın boşaltılıp arındırıldığının teyidi, ağırlığı, kazının durumu"
+        ],
+        [
+          "Kanopi çelik kolon ve kirişleri",
+          "Mobil vinç",
+          "Parça ağırlıkları, montaj sırası, kolon yerleri"
+        ],
+        [
+          "Kanopi kaplaması, alın bandı, aydınlatma",
+          "Sepetli platform",
+          "Kanopi yüksekliği, saçak genişliği"
+        ],
+        [
+          "Fiyat totemi ve yönlendirme tabelaları",
+          "Hiyap veya mobil vinç, bağlantı için sepetli platform",
+          "Totemin boyu ve ağırlığı, temel cıvataları, havai hatlar"
+        ],
+        [
+          "Pompa (dispenser), jeneratör, kompresör",
+          "Hiyap",
+          "Ekipmanın ağırlığı, kaide yeri"
+        ],
+        [
+          "Market ve servis binası çatı ekipmanı",
+          "Hiyap veya mobil vinç",
+          "Ünite ağırlığı ve çatıdaki yeri"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Totem işlerinin ayrıntılarını <a href=\"/blog/tabela-reklam-panosu-montaj-vinc\">tabela ve totem montajı</a> yazımızda, hiyapla totem taşıma ve dikmeyi <a href=\"/blog/hiyap-nedir-kac-ton-kaldirir-kiralama\">hiyap nedir, kaç ton kaldırır</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Yer altı tankı çukura nasıl indirilir?"
+    },
+    {
+      "type": "p",
+      "text": "Tank boş ve temiz hâlde, üreticinin kaldırma kulaklarından ve uzun tanklarda travers kullanılarak kaldırılır, kılavuz halatlarla yönlendirilerek çukurun ortasına dik indirilir. Tankın çukur duvarlarına sürtmemesi, kaplamasının zarar görmemesi ve yatağına dengeli oturması gerekir. Bu işin en kritik noktası vincin konumudur: vinç çukur kenarına çok yakın kurulursa ayak yükü kazı şevini zorlar ve toprak kayabilir. Bu yüzden vinç güvenli bir mesafeye kurulur; mesafe arttıkça yarıçap büyür ve buna göre daha yüksek kapasiteli bir vinç seçilir. Çukura indirmenin genel ilkelerini <a href=\"/blog/su-deposu-tank-yerlestirme-vinc\">su deposu ve tank yerleştirme</a> yazımızda anlattık."
+    },
+    {
+      "type": "p",
+      "text": "Kazı tarafında <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18928&MevzuatTur=7&MevzuatTertip=5\" target=\"_blank\" rel=\"noopener\">Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği</a>, kazıya başlanmadan önce kazının bitişik yapıları etkileyip etkilemeyeceğinin araştırılmasını ve gerekiyorsa önlem alınmasını ister. Tank çukurunun şev ya da iksa düzeni, vinç kurulmadan önce şantiye tarafında hazır olmalıdır."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Tankın tipi, ölçüsü ve ağırlığı üreticiden alınır; kaldırma noktaları sorulur.",
+        "Çukurun kenarı ile vincin kurulacağı nokta arasındaki mesafe keşifte ölçülür.",
+        "Kazı tabanı ve tankın oturacağı yatak hazırdır; ankraj ve bağlama elemanları sahadadır.",
+        "Çukurda tankı karşılayacak kişiler, tank yerine yaklaşmadan çukura inmez.",
+        "Rüzgârlı havada büyük tank yelken etkisi yapar; iş ertelenir."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Çalışan istasyonda vinç: patlayıcı ortam ve çalışma izni"
+    },
+    {
+      "type": "p",
+      "text": "Faaliyetteki bir istasyonda yakıt buharı nedeniyle patlayıcı ortam oluşabilecek bölgeler vardır ve vinç ya da platform gibi motorlu bir aracın bu alanlara girmesi ayrıca değerlendirilir. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18335&MevzuatTur=7&MevzuatTertip=5\" target=\"_blank\" rel=\"noopener\">Çalışanların Patlayıcı Ortamların Tehlikelerinden Korunması Hakkında Yönetmelik</a>, patlayıcı ortam oluşabilecek yerlerin oluşma sıklığına göre bölgelere ayrılmasını, patlamadan korunma dokümanında gerekli görülmesi hâlinde tehlikeli yerlerdeki çalışmanın işverenin yazılı talimatlarına göre yapılmasını ve tehlikeli işlerde bir çalışma izin sisteminin uygulanmasını öngörür; çalışma izni işe başlamadan önce yetkili ve sorumlu bir kişi tarafından yazılı olarak verilir."
+    },
+    {
+      "type": "p",
+      "text": "Pratikte bu, işin istasyon yönetimiyle ve istasyonun iş güvenliği sorumlusuyla birlikte planlanması demektir. Bizim tarafımızda sorulanlar şunlardır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Çalışma izni kimden alınacak, iş başında kim imzalayacak?",
+        "Vinç veya platform istasyonun hangi noktasına kurulabilir; tehlikeli bölgelerin dışında mı?",
+        "Çalışma süresince hangi pompa adaları, dolum noktaları ya da tank dolum ağızları kapatılacak?",
+        "Tanker ikmali bu saatlere denk gelmeyecek şekilde ayarlandı mı?",
+        "Müşteri araçlarının çalışma alanına girişi nasıl engellenecek?"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu soruların cevabı istasyonun kendi düzenine ve risk değerlendirmesine bağlıdır; vinç tarafı bu düzene uyar. Çoğu istasyonda bu tür işler trafiğin en az olduğu saatlere ya da istasyonun bir bölümünün geçici olarak kapatıldığı bir zamana planlanır."
+    },
+    {
+      "type": "h2",
+      "text": "Görsel yenileme ve marka değişikliği"
+    },
+    {
+      "type": "p",
+      "text": "İstasyonların bir kısmı inşaat değil, görsel yenileme işidir: fiyat totemi değişir, kanopi alın bandı ve aydınlatması yenilenir, pompa adalarının kaplamaları ve yönlendirme tabelaları değiştirilir. Bu işlerde ağır kaldırma azdır, ama iş kalemi çoktur ve istasyon genellikle çalışmaya devam eder. En verimli yol, eski totemin sökümü ile yenisinin dikilmesini aynı ziyarete koymak ve kanopi işini sepetli platformla aynı gün ya da ardışık günlerde planlamaktır. Eski totem söküldüğünde temel cıvatalarının yeni totemle uyumlu olup olmadığı önceden kontrol edilmelidir; uyumsuzsa yeni temel ya da adaptör plakası hazırlanana kadar vinç beklemek zorunda kalır. Totemin elektrik bağlantısını yetkili elektrikçi söker ve yeniden yapar."
+    },
+    {
+      "type": "h2",
+      "text": "Yeni istasyon inşaatında vinç planı"
+    },
+    {
+      "type": "p",
+      "text": "Yeni yapılan bir istasyonda sıra genellikle şöyle ilerler: kazı ve tankların yerleştirilmesi, boru hatları ve dolgu, kanopi kolonları ve çelik montajı, kanopi kaplaması ve aydınlatma, pompa adaları ve ekipman, son olarak totem ve tabelalar. Her aşama için vincin ne zaman ve ne kadar süre gerekeceği inşaat takvimine yazılırsa araç her seferinde hazır bir sahaya gelir. Kanopi çelik montajının genel mantığını <a href=\"/blog/celik-konstruksiyon-cati-makasi-montaj-vinc\">çelik konstrüksiyon montajı</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Fiyatı ne belirler?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Tankın ya da parçanın ağırlığı ve vincin kurulabileceği nokta ile arasındaki mesafe",
+        "İş kalemlerinin sayısı ve aynı güne toplanıp toplanamadığı",
+        "Çalışan istasyonda izin süreci, bekleme ve çalışma saati kısıtları",
+        "Mesai dışı ya da gece çalışma",
+        "İstasyonun konumu: şehir içi, karayolu kenarı ya da ilçe"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Şanlıurfa'da akaryakıt istasyonu işleri için vinç nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "0542 488 98 08 numarasını arayın ya da aynı numaraya WhatsApp'tan yazın. Mesajınıza yapılacak işleri, tank veya parçaların ağırlık ve ölçülerini, istasyonun vaziyet planını ya da fotoğrafını, istasyonun çalışıp çalışmadığını, konumu ve planladığınız tarihi ekleyin. Kurumsal işlerde yazılı teklif ve sözleşmeyle çalışırız; operatör ve araç evrakını işe başlamadan önce paylaşırız. Şanlıurfa merkezde ve ilçelerde çalışıyoruz. Araç seçenekleri için <a href=\"/hizmetler/mobil-vinc-kiralama\">mobil vinç kiralama</a> sayfamıza bakabilirsiniz."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Akaryakıt tankı vinçle nasıl yerleştirilir?",
+      "a": "Tank boş ve temiz hâlde, kaldırma kulaklarından ve gerekirse travers ile kaldırılır, kılavuz halatla yönlendirilerek hazırlanmış çukura dik indirilir. Vinç, kazı kenarını zorlamayacak güvenli bir mesafeye kurulur."
+    },
+    {
+      "q": "Çalışan akaryakıt istasyonunda vinç çalışabilir mi?",
+      "a": "Çalışabilir, ancak iş istasyon yönetiminin çalışma izni ve iş güvenliği düzeniyle birlikte planlanır. Vincin kurulacağı yer, kapatılacak pompa adaları ve çalışma saatleri önceden belirlenir."
+    },
+    {
+      "q": "Eski yakıt tankı vinçle çıkarılır mı?",
+      "a": "Evet. Tank önce boşaltılıp arındırılır; bu iş uzman firmanın sorumluluğundadır. Teyit alınmadan tank kaldırılmaz."
+    },
+    {
+      "q": "Kanopi montajında hangi araçlar kullanılır?",
+      "a": "Çelik kolon ve kirişler mobil vinçle, kaplama, alın bandı ve aydınlatma işleri sepetli platformla yapılır."
+    },
+    {
+      "q": "Akaryakıt totemi hangi araçla dikilir?",
+      "a": "Totemin boyuna ve ağırlığına göre hiyap veya mobil vinç kullanılır; panel ve bağlantı işleri için sepetli platform eşlik edebilir."
+    },
+    {
+      "q": "İstasyon işlerinde fiyat neye göre belirlenir?",
+      "a": "Yükün ağırlığı ve vince uzaklığı, iş kalemi sayısı, çalışan istasyondaki izin ve saat kısıtları, mesai dışı çalışma ve istasyonun konumu fiyatı belirler."
+    }
+  ]
+}

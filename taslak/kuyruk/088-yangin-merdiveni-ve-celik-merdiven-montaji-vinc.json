@@ -1,0 +1,189 @@
+{
+  "slug": "yangin-merdiveni-ve-celik-merdiven-montaji-vinc",
+  "_hedef": "yangın merdiveni montajı vinç / çelik merdiven montajı / dış yangın merdiveni ekleme mevcut bina / yangın kaçış merdiveni montaj",
+  "title": "Yangın Merdiveni ve Çelik Merdiven Montajında Vinç",
+  "ogTitle": "Mevcut Binaya Dış Yangın Merdiveni ve Çelik Merdiven Montajı: Proje, Yönetmelik ve Vinçle Montaj Sırası",
+  "h1": "Mevcut binaya yangın merdiveni ve çelik merdiven montajında vinç",
+  "desc": "Mevcut binaya dış yangın merdiveni veya çelik merdiven montajı: yönetmelik çerçevesi, parça listesi, montaj sırası ve vinç seçimi. Şanlıurfa'da projenizi gönderin.",
+  "image": "celik-konstruksiyon-cati-kiris-montaj-agir-yuk-vinc.jpeg",
+  "imageAlt": "Çelik konstrüksiyon parçasını kaldıran mobil vinç",
+  "caption": "Çelik merdiven atölyede modül modül hazırlanır, sahada vinçle sırayla yerine konur.",
+  "intro": "Kısa cevap: Mevcut bir binaya dış yangın merdiveni veya çelik merdiven eklerken merdiven atölyede kolon, sahanlık ve merdiven kolu modülleri halinde hazırlanır; sahada mobil vinç bu modülleri alttan yukarı sırayla kaldırır, montaj ekibi sepetli platformdan veya kurulan sahanlıklardan bağlantıları yapar. Merdivenin kendisi bir projeye ve yangın yönetmeliğine göre tasarlanır; vinç planı bu projedeki parça listesine ve binanın etrafındaki alana göre yapılır. Bu yazıda montaj tarafını ve iş sahibinin hazırlaması gerekenleri anlatıyoruz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Mevcut binaya yangın merdiveni eklemek nasıl bir iştir?"
+    },
+    {
+      "type": "p",
+      "text": "Okul, otel, yurt, fabrika, iş hanı ve apartmanlarda sonradan dış yangın merdiveni eklenmesi sık karşılaşılan bir ihtiyaçtır. İş üç aşamadan oluşur: tasarım ve onay, atölyede imalat, sahada montaj. Vinç yalnızca son aşamada devreye girer, ama montajın ne kadar süreceğini ve ne kadar güvenli geçeceğini ilk iki aşamada verilen kararlar belirler: modüllerin ne büyüklükte imal edileceği, binaya nasıl bağlanacağı ve vincin nereye kurulabileceği."
+    },
+    {
+      "type": "p",
+      "text": "Merdivenin ölçüleri, konumu ve malzemesi mühendis ve mimarların işidir. <a href=\"https://www.mevzuat.gov.tr/MevzuatMetin/21.5.200712937.pdf\" target=\"_blank\" rel=\"noopener\">Binaların Yangından Korunması Hakkında Yönetmelik</a> dış kaçış merdivenleri için şartlar koyar; örneğin yeni binalarda açık dış kaçış merdiveninin herhangi bir bölümüne yanlardan yatay ve alttan düşey 3 m içinde merdivenden daha az korunumlu kapı veya pencere gibi bir duvar boşluğu bulunamayacağını, bina yüksekliği 21,50 m'den fazla olan binalarda bina dışında açık merdivene izin verilmeyeceğini düzenler. Mevcut yapılar için ayrı hükümler vardır: dış kaçış merdivenlerine, herhangi bir bölümüne yanlardan 1,8 m içinde korunumsuz duvar boşluğu bulunmaması şartıyla konutlarda 51,50 m, diğer yapılarda 30,50 m bina yüksekliğine kadar izin verilir; dış kaçış merdivenlerinin korozyona karşı korunması, yeterli dayanım ve taşıma kapasitesine sahip olması gerekir. Bu hükümler yalnızca genel bir çerçeve verir; binanıza hangisinin nasıl uygulanacağına projeyi hazırlayan mühendis ve ilgili idare karar verir."
+    },
+    {
+      "type": "h2",
+      "text": "Merdiven hangi parçalardan oluşur ve nasıl taşınır?"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Parça",
+        "Nasıl gelir?",
+        "Montajda vincin rolü"
+      ],
+      "rows": [
+        [
+          "Kolonlar ve ayak plakaları",
+          "Tek tek, uzun parçalar",
+          "Kaldırıp ankraj plakasına dikmek, geçici olarak tutmak"
+        ],
+        [
+          "Sahanlıklar",
+          "Kaynaklı veya cıvatalı hazır çerçeve",
+          "Kolon başlarına oturtmak"
+        ],
+        [
+          "Merdiven kolları",
+          "Basamaklarıyla birlikte hazır modül",
+          "Eğik konumda sahanlıklar arasına yerleştirmek"
+        ],
+        [
+          "Korkuluklar ve küpeşte",
+          "Parça parça",
+          "Genellikle elle veya platformdan; ağır parçada vinç"
+        ],
+        [
+          "Binaya bağlantı konsolları",
+          "Önceden binaya monte edilir",
+          "Gerekirse platform ile ankraj işçiliği"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Merdiven kolu eğik bir parça olduğu için kaldırılırken yerleşeceği açıyla asılması gerekir. Bunun için farklı boyda sapanlar veya ayarlanabilir zincir kullanılır ve modül önce yerde deneme kaldırmasıyla dengelenir. Ağırlık merkezi ve dengeli kaldırma için <a href=\"/blog/yuk-agirlik-merkezi-ve-dengeli-kaldirma\">yük ağırlık merkezi</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Montaj sırası nasıl olur?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Ankraj ve konsollar: binaya bağlantı noktaları ve zemin ankrajları projeye göre önceden hazırlanır; kimyasal dübel gibi bağlantıların dayanım süresini proje sorumlusu belirler.",
+        "Kolonlar: ilk kat kolonları dikilir, şakülü kontrol edilir ve geçici olarak bağlanır.",
+        "İlk sahanlık ve kol: kolonların başına sahanlık oturtulur, alt kol yerleştirilir; sistem kendi kendini taşıyana kadar vinç yükü bırakmaz.",
+        "Kat kat yukarı: aynı sıra her kat için tekrarlanır; her katta binaya bağlantı yapıldıktan sonra bir üst kata geçilir.",
+        "Korkuluk ve son işler: korkuluklar, kaymaz basamak kaplaması ve boya rötuşu yapılır."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Montajın en kritik anı geçici durumdur: parça yerine konmuş ama henüz bağlanmamıştır. Çelik yapılarda geçici stabilite konusunu <a href=\"/blog/celik-konstruksiyon-cati-makasi-montaj-vinc\">çelik konstrüksiyon montajında vinç</a> yazımızda ayrıntılı anlattık; aynı ilke merdiven için de geçerlidir: vinç, parça güvenli biçimde bağlanana kadar yükü taşımaya devam eder."
+    },
+    {
+      "type": "h2",
+      "text": "Sepetli platform montajda ne işe yarar?"
+    },
+    {
+      "type": "p",
+      "text": "Kaynakçı ve montajcı bağlantı noktalarına çoğu zaman merdivenin henüz bitmemiş sahanlıklarından ulaşamaz. Sepetli platform ekibi bağlantı noktasına güvenle getirir; binaya bağlantı konsollarının montajı, üst kat cıvatalarının sıkılması ve boya rötuşu platformdan yapılır. Böylece ekip yarım kalmış merdivende tutunacak yer aramaz. Platform ile vincin aynı noktada birlikte çalışması, kimin hangi sırayla hareket edeceğinin baştan belirlenmesini gerektirir."
+    },
+    {
+      "type": "h2",
+      "text": "Saha koşulları ve zamanlama"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Vincin kurulacağı yer: merdivenin yapılacağı cephenin önünde ayakların açılabileceği sağlam bir alan gerekir; bahçe, otopark veya sokak.",
+        "Bitişik nizam ve dar sokak: arka cephede çalışılacaksa vincin ulaşabileceği mesafe ve gereken kapasite artar; seçenekler için <a href=\"/blog/dar-sokak-yuksek-kat-vinc-erisimi\">dar sokakta vinç erişimi</a> yazımıza bakın.",
+        "Kullanımdaki bina: okulda tatil günleri, otelde doluluğun az olduğu dönemler, fabrikada vardiya aralıkları tercih edilir.",
+        "Elektrik hattı ve ağaçlar: cephe önündeki hat ve dallar kaldırma güzergâhını kısıtlayabilir.",
+        "Parçaların sahaya geliş sırası: kamyona montaj sırasının tersine yüklenmesi, sahada parça aramayı önler."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Montaj gününden önce kontrol listesi"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Ankrajlar ve bağlantı konsolları yerinde, proje sorumlusu tarafından kontrol edilmiş.",
+        "Parçalar numaralı, montaj sırasına göre yüklenmiş; en ağır parçaların ağırlığı biliniyor.",
+        "Sapan, zincir, kelepçe ve geçici bağlantı elemanları sahada.",
+        "Vincin kurulacağı alan boşaltılmış, gerekiyorsa yol veya kaldırım izni alınmış.",
+        "Bina kullanıcılarına çalışma saatleri duyurulmuş, merdivenin bağlanacağı kapı ve pencerelerin önü boşaltılmış.",
+        "Kaynak yapılacaksa yangın önlemi ve söndürücü hazır."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Maliyeti ne belirler?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "En ağır parçanın ağırlığı ve vincin bu parçayı ne kadar uzağa koyacağı,",
+        "Kat sayısı ve toplam parça sayısı,",
+        "Vinç ve sepetli platformun birlikte gerekip gerekmediği,",
+        "Çalışma günleri ve mesai dışı çalışma,",
+        "Sahanın konumu ve erişim."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Şanlıurfa'da yangın merdiveni montajı için vinç nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Şanlıurfa merkezde ve <a href=\"/bolgeler/eyyubiye-vinc-kiralama\">Eyyübiye</a>, Haliliye, Karaköprü ve diğer ilçelerde çelik imalat firmaları ve yükleniciler için yangın merdiveni ve çelik merdiven montajında operatörlü mobil vinç ve sepetli platform sağlıyoruz. WhatsApp'tan şunları gönderin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Projenin görünüş ve plan paftası,",
+        "Parça listesi ve en ağır parçaların ağırlıkları,",
+        "Merdivenin yapılacağı cephenin ve önündeki alanın fotoğrafları,",
+        "Konum ve planlanan montaj günleri."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "0542 488 98 08'den bize ulaşın; uygun tonajı işe göre belirleyip fiyatı baştan net söyleyelim. Ayrıntılar için <a href=\"/hizmetler/mobil-vinc-kiralama\">mobil vinç kiralama</a> sayfamıza bakabilirsiniz."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Yangın merdiveni montajı için hangi vinç gerekir?",
+      "a": "Merdivenin en ağır parçasına ve vincin bu parçayı ne kadar uzağa yerleştireceğine göre seçilir. Parça listesi ve cephe fotoğrafı geldiğinde uygun tonajı belirleriz."
+    },
+    {
+      "q": "Mevcut binaya dış yangın merdiveni eklenebilir mi?",
+      "a": "Binaların Yangından Korunması Hakkında Yönetmelik mevcut yapılarda dış kaçış merdivenine belirli şartlarla izin verir. Binanıza uygulanabilirliğini projeyi hazırlayan mühendis ve ilgili idare değerlendirir."
+    },
+    {
+      "q": "Merdiven tek parça mı getirilir?",
+      "a": "Genellikle hayır. Kolon, sahanlık ve merdiven kolu modülleri halinde imal edilir ve sahada sırayla monte edilir. Modül büyüklüğü taşıma ve vinç kapasitesine göre belirlenir."
+    },
+    {
+      "q": "Montaj sırasında sepetli platform gerekir mi?",
+      "a": "Çoğu işte evet. Binaya bağlantı konsolları, üst kat cıvataları ve boya rötuşu için ekip platformdan çalışır; yarım kalmış merdivende tutunacak yer aramak zorunda kalmaz."
+    },
+    {
+      "q": "Okul açıkken montaj yapılabilir mi?",
+      "a": "Kaldırma alanının öğrencilerden tamamen ayrılması gerekir. Bu yüzden montaj çoğu zaman tatil günlerine veya hafta sonuna planlanır."
+    },
+    {
+      "q": "İç mekâna çelik merdiven de monte ediyor musunuz?",
+      "a": "Bina içindeki çelik merdivenlerde parçalar çoğu zaman kapı veya açıklıktan elle ya da küçük ekipmanla alınır. Dışarıdan kaldırma gerekiyorsa açıklık ölçüsünü ve parça listesini gönderin, birlikte değerlendirelim."
+    },
+    {
+      "q": "Projeyi siz mi hazırlıyorsunuz?",
+      "a": "Hayır. Proje mühendis ve mimarların, imalat çelik firmasının işidir. Biz montajda kaldırma ve yüksekte çalışma tarafını üstleniyoruz."
+    }
+  ]
+}

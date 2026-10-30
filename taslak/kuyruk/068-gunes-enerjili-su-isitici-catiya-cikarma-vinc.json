@@ -1,0 +1,201 @@
+{
+  "slug": "gunes-enerjili-su-isitici-catiya-cikarma-vinc",
+  "_hedef": "güneş enerjili su ısıtıcı çatıya çıkarma / termosifon çatıya vinçle çıkarma / güneş paneli deposu vinç / güneş enerjisi deposu değiştirme",
+  "title": "Güneş Enerjili Su Isıtıcıyı Çatıya Vinçle Çıkarma | AZY Vinç",
+  "ogTitle": "Güneş Enerjili Su Isıtıcı (Termosifon) ve Deposunu Çatıya Çıkarma: Çatı Yükü, Eski Sistem Sökümü, Hiyap ve Vinç",
+  "h1": "Güneş enerjili su ısıtıcıyı çatıya çıkarma: depo, kollektör ve eski sistemin sökümü",
+  "desc": "Güneş enerjili su ısıtıcının deposunu ve kollektörünü çatıya vinçle çıkarma, eskisini indirme: çatı yükü ve erişim. Fotoğraf gönderin, fiyatı söyleyelim.",
+  "image": "mobil-vinc-saha-azy-vinc.jpeg",
+  "imageAlt": "Sahada kurulu operatörlü mobil vinç",
+  "caption": "Boş depo hafiftir; dolu depo çatıya ciddi bir yük bindirir.",
+  "intro": "Kısa cevap: Güneş enerjili su ısıtıcının deposu, kollektörleri ve şasesi çatıya genellikle parça parça çıkarılır; araç binanın dibine yanaşabiliyorsa hiyap, yanaşamıyorsa ya da bina yüksekse mobil vinç kullanılır. Eski bir sistemi değiştiriyorsanız önce eski depo tamamen boşaltılır, sonra indirilir. Kaldırmadan önce iki şey netleşmelidir: çatının, dolu depo ile birlikte sistemin ağırlığını taşıyıp taşımadığı ve sistemin konacağı yere vincin erişip erişmediği. Şanlıurfa'da çatılarda sık görülen bu sistemlerin montaj ve değişim işini bu yazıda adım adım anlatıyoruz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Güneş enerjili su ısıtıcı çatıya nasıl çıkarılır?"
+    },
+    {
+      "type": "p",
+      "text": "Sistem tek parça hâlinde değil, depo, kollektörler ve şase olarak ayrı ayrı çıkarılır ve çatıda birleştirilir. Bu hem kaldırmayı hafifletir hem de kollektör camlarını korur. Tipik bir termosifon sistemde yatay bir depo, onun altında eğimli duran bir ya da birkaç düzlem kollektör ve bunları taşıyan metal bir şase bulunur. Vakum tüplü sistemlerde tüpler ayrı kutularda gelir ve genellikle elle çıkarılır; vinç depo ve şase için kullanılır."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Parça",
+        "Kaldırma notu",
+        "Dikkat edilecek"
+      ],
+      "rows": [
+        [
+          "Depo (boş)",
+          "Hafif ama hacimlidir; kumaş sapanla sepet bağlama ya da üretici kaldırma noktalarından",
+          "Boru bağlantıları, vanalar ve rezistans çıkışından asılmaz"
+        ],
+        [
+          "Düzlem kollektör",
+          "Ambalajında, dik ya da yatık taşıma; birkaç kollektör birlikte bir sehpada",
+          "Cam yüzey noktasal darbeye ve bükülmeye dayanıksızdır"
+        ],
+        [
+          "Şase ve bağlantı profilleri",
+          "Demet hâlinde bağlanarak",
+          "Uzun profiller salınır, kılavuz halat gerekir"
+        ],
+        [
+          "Vakum tüpler",
+          "Kutularında, çoğu zaman elle",
+          "Cam tüpler kırılgandır, kutu ters çevrilmez"
+        ],
+        [
+          "Eski depo (söküm)",
+          "Tamamen boşaltıldıktan sonra",
+          "İçinde kalan su ve tortu ağırlığı artırır, dengesini bozar"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Rüzgâr bu işte belirleyicidir. Kollektörler geniş ve yassı olduğu için havada yelken gibi davranır; rüzgârlı bir günde kaldırma ertelenir. Rüzgâr sınırlarını <a href=\"/blog/vinc-ruzgar-hava-kosullari-calisma-sinirlari\">vinçte rüzgâr sınırı</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Çatı bu yükü taşır mı?"
+    },
+    {
+      "type": "p",
+      "text": "Asıl hesap dolu sistemin ağırlığıdır; boş deponun hafifliği yanıltmamalıdır. Su deposundaki her litre su yaklaşık bir kilogram demektir; yani deponun hacmi kadar kilogram, deponun ve kollektörlerin kendi ağırlığına eklenir. Bu yük çatıda birkaç ayak noktasına yoğunlaşır."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Betonarme teras çatı: Genellikle uygundur, ancak şase ayaklarının yükü dağıtacak şekilde oturtulması ve yalıtımın delinmemesi gerekir.",
+        "Kiremitli ahşap çatı: Sistem doğrudan kiremit üzerine konmaz; şasenin çatı iskeletinin taşıyıcı elemanlarına oturması gerekir. Emin değilseniz bir yapı ustasına ya da mühendise danışın.",
+        "Çelik çatı veya sandviç panel: Panelin kendisi bu yük için tasarlanmamış olabilir; şasenin aşıklara ya da makaslara bağlanması gerekir.",
+        "Eski bir sistemin yerine yenisini koyuyorsanız: Eski şasenin oturduğu noktaların çürüyüp çürümediğine, betonda çatlak olup olmadığına bakın."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Çatıdaki çalışma da ayrı bir risk taşır. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18928&MevzuatTur=7&MevzuatTertip=5\" target=\"_blank\" rel=\"noopener\">Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği</a>, çatılarda yapılan çalışmalarda çalışanların ve malzemenin düşmesini önleyecek tedbirlerin alınmasını, kırılgan malzemeden yapılmış yüzeylerde ise dalgınlıkla yürümeyi ve düşmeyi önleyecek tüm tedbirlerin alınmasını ister. Eski kiremitler, ışıklık panelleri ve yıpranmış çatı kaplamaları bu kapsamdadır."
+    },
+    {
+      "type": "h2",
+      "text": "Eski sistemi değiştirirken nelere dikkat edilir?"
+    },
+    {
+      "type": "p",
+      "text": "Değişim işinde en sık sorun, eski deponun tam boşaltılmamasıdır. Yıllarca kullanılmış bir depoda kireç ve tortu birikir, boşaltma vanası tıkanmış olabilir. İçinde su kalmış bir depo hem beklenenden ağırdır hem de kaldırılırken su bir uca kaçtığı için dengesi değişir. Bu yüzden:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Eski depoyu iş gününden önce boşaltın; boşalmıyorsa tesisatçıya açtırın.",
+        "Eski şasedeki paslı cıvataları önceden gevşetin ya da kesin; vinç geldiğinde söküm hazır olsun.",
+        "Eski kollektörlerin camı kırıksa parçalar çatıda toplanır, kaldırma sırasında düşmez.",
+        "Yeni sistemin parçaları aynı gün sahada olsun; vinç eskiyi indirip yeniyi aynı ziyarette çıkarsın.",
+        "Tesisatçı ya da montaj ustası vinç geldiğinde çatıda hazır olsun."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Hiyap mı, mobil vinç mi, sepetli platform mu?"
+    },
+    {
+      "type": "p",
+      "text": "Seçimi binanın yüksekliği, aracın binaya ne kadar yanaşabildiği ve sistemin çatıda nereye konacağı belirler."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Durum",
+        "Uygun araç"
+      ],
+      "rows": [
+        [
+          "Müstakil ev veya alçak bina, araç binanın yanına yanaşabiliyor",
+          "Hiyap"
+        ],
+        [
+          "Apartman çatısı, araç sokakta kalıyor",
+          "Mobil vinç"
+        ],
+        [
+          "Sistem çatının arka tarafına, yoldan uzak bir noktaya gidiyor",
+          "Mobil vinç (uzun yarıçap)"
+        ],
+        [
+          "Yalnızca boru, bağlantı veya kollektör camı değişimi",
+          "Sepetli platform (usta için) veya merdiven"
+        ],
+        [
+          "Dar sokak, araç yaklaşamıyor",
+          "Keşif; çoğu zaman farklı bir kurulum noktası aranır"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Sepetli platform depo taşımaz; sepetin kapasitesi insan ve hafif el aletleri içindir. Platform, ustanın çatı kenarında güvenle çalışması gereken boru ve bağlantı işlerinde kullanılır. Çatıya genel malzeme çıkarma seçeneklerini <a href=\"/blog/catiya-malzeme-cikarma-caraskal-mi-vinc-mi\">çatıya malzeme çıkarma</a>, depo ve tank bağlama ayrıntılarını da <a href=\"/blog/su-deposu-tank-yerlestirme-vinc\">su deposu ve tank yerleştirme</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Apartmanda çatı ortak alandır"
+    },
+    {
+      "type": "p",
+      "text": "Apartman çatısına sistem kurulacaksa ya da mevcut sistem değiştirilecekse yönetimle önceden konuşun. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=634&MevzuatTur=1&MevzuatTertip=5\" target=\"_blank\" rel=\"noopener\">634 sayılı Kat Mülkiyeti Kanunu</a>nun 19. maddesi ortak yerlerde inşaat ve tesis yapılması için kat maliklerinin rızasını arar; çatı da çoğu binada ortak yerdir. Uygulamada bazı binalarda her dairenin sistemi için çatıda yer önceden ayrılmıştır. Vinç günü için de çatı kapısının anahtarı, çatıya çıkış yolu ve aracın park edeceği yer yönetimle birlikte ayarlanır."
+    },
+    {
+      "type": "h2",
+      "text": "Fiyat neye göre belirlenir?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Bina yüksekliği ve aracın çatıya uzaklığı",
+        "Yalnızca montaj mı, yoksa eski sistemin sökümü de var mı",
+        "Kaç parça çıkarılacağı ve aynı binada birden fazla sistem olup olmadığı",
+        "Sokağın genişliği ve aracın kurulum alanı",
+        "İşin yapılacağı mahalle ya da ilçenin uzaklığı"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Aynı apartmanda ya da aynı sokakta birkaç komşu sistemini değiştirecekse işleri aynı güne toplamak, her biri için ayrı araç çağırmaktan daha ekonomiktir."
+    },
+    {
+      "type": "h2",
+      "text": "Şanlıurfa'da güneş enerjili su ısıtıcı için vinç nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "0542 488 98 08 numarasını arayın ya da aynı numaraya WhatsApp'tan yazın. Mesajınıza binanın önden fotoğrafını, çatıdaki sistemin yerini gösteren bir fotoğrafı, kat sayısını, deponun litresini ya da modelini, eski sistemin sökülüp sökülmeyeceğini ve konumu ekleyin. Şanlıurfa merkezde (Haliliye, Eyyübiye, Karaköprü) ve ilçelerde 7/24 ulaşılabiliriz. Uygun aracı ve fiyatı baştan net söyleriz; araç seçenekleri için <a href=\"/hizmetler/hiyap-kiralama\">hiyap kiralama</a> sayfamıza bakabilirsiniz."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Güneş enerjili su ısıtıcı çatıya nasıl çıkarılır?",
+      "a": "Depo, kollektörler ve şase ayrı ayrı, hiyap ya da mobil vinçle çatıya çıkarılır ve çatıda birleştirilir. Depo boşken, uygun sapanla ve kılavuz halatla kaldırılır."
+    },
+    {
+      "q": "Eski güneş enerjisi deposu vinçle indirilir mi?",
+      "a": "Evet. Depo önceden tamamen boşaltılmalıdır; içinde kalan su ve tortu ağırlığı artırır ve kaldırma sırasında dengeyi bozar."
+    },
+    {
+      "q": "Çatım güneş enerjili su ısıtıcıyı taşır mı?",
+      "a": "Hesap dolu sistemin ağırlığına göre yapılır; deponun her litresi yaklaşık bir kilogram ekler. Teras çatılar genellikle uygundur; kiremitli veya panel çatılarda şasenin taşıyıcı elemanlara oturması gerekir. Emin değilseniz bir ustaya ya da mühendise danışın."
+    },
+    {
+      "q": "Sepetli platformla depo çıkarılır mı?",
+      "a": "Hayır. Sepet insan ve hafif el aletleri içindir. Depo hiyap ya da mobil vinçle çıkarılır; sepetli platform ustanın boru ve bağlantı işleri için kullanılır."
+    },
+    {
+      "q": "Apartmanda güneş enerjisi sistemi için izin gerekir mi?",
+      "a": "Çatı çoğu binada ortak yerdir ve Kat Mülkiyeti Kanunu ortak yerlerdeki tesisler için kat maliklerinin rızasını arar. İşten önce yönetimle konuşmanızı öneririz."
+    },
+    {
+      "q": "Rüzgârlı havada kollektör çıkarılır mı?",
+      "a": "Kollektörler geniş ve yassı olduğu için rüzgârda yelken gibi davranır. Rüzgârlı havada kaldırma ertelenir."
+    }
+  ]
+}

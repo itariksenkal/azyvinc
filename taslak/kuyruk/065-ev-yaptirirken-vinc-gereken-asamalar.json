@@ -1,0 +1,186 @@
+{
+  "slug": "ev-yaptirirken-vinc-gereken-asamalar",
+  "_hedef": "ev yaptırırken vinç / müstakil ev inşaatı vinç / inşaatta vinç ne zaman gerekir / ev inşaatı vinç kiralama",
+  "title": "Ev Yaptırırken Vinç Hangi Aşamalarda Gerekir? Plan Rehberi",
+  "ogTitle": "Ev Yaptırırken Vinç Gereken Aşamalar: Demir, Kalıp, Çatı, Çelik, Cam, Su Deposu ve Klima İçin Planlama",
+  "h1": "Ev yaptırırken vinç gereken aşamalar: temelden anahtar teslime kadar plan",
+  "desc": "Ev yaptırırken hangi aşamalarda vinç gerekir? Demir, kalıp, çatı, cam, depo ve klima için planı anlattık. İnşaat takviminizi gönderin, birlikte planlayalım.",
+  "image": "mobil-vinc-saha-azy-vinc.jpeg",
+  "imageAlt": "İnşaat sahasında çalışan operatörlü mobil vinç",
+  "caption": "Vincin evin yanına yanaşabileceği yer, kaba inşaat ilerledikçe daralır.",
+  "intro": "Kısa cevap: Müstakil bir ev ya da küçük bir bina yaptırırken vinç genellikle tek seferde değil, inşaatın farklı aşamalarında birkaç kez gerekir: temel ve kolon demirinin indirilmesi, kalıp ve duvar malzemesinin kata çıkarılması, çatı makasının ya da çelik konstrüksiyonun montajı, kiremit veya panel paletlerinin çatıya alınması, son aşamada da cam, su deposu, güneş enerjili su ısıtıcı ve klima ünitelerinin yerleştirilmesi. Bu yazı, evini kendisi yaptıran ya da müteahhitle çalışan ev sahibi için hangi aşamada neyin kaldırılacağını ve bunun nasıl önceden planlanacağını anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Ev inşaatında vinç hangi aşamalarda gerekir?"
+    },
+    {
+      "type": "p",
+      "text": "Vinç ihtiyacı kaba inşaatın başında ve sonunda yoğunlaşır. Aşağıdaki tablo tipik bir müstakil ev ya da birkaç katlı bina için aşamaları, kaldırılan malzemeyi ve genelde kullanılan aracı gösteriyor. Her inşaat farklıdır; tablo bir başlangıç noktasıdır."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Aşama",
+        "Ne kaldırılır",
+        "Genelde hangi araç",
+        "Ne zaman aramalı"
+      ],
+      "rows": [
+        [
+          "Temel ve kolon demiri",
+          "Demir bağları, hazır donatı kafesleri",
+          "Hiyap (demirci aracında yoksa)",
+          "Demir siparişi verilirken"
+        ],
+        [
+          "Kalıp ve iskele",
+          "Kalıp panoları, dikmeler, iskele elemanları",
+          "Hiyap veya mobil vinç",
+          "Her kat kalıbından önce"
+        ],
+        [
+          "Beton",
+          "Pompa ulaşamıyorsa kova ile beton",
+          "Mobil vinç",
+          "Döküm gününü betoncu ile belirlerken"
+        ],
+        [
+          "Duvar malzemesi",
+          "Tuğla, briket, gazbeton, çimento paletleri",
+          "Hiyap; yüksek ve uzak noktada mobil vinç",
+          "Malzeme teslim gününe göre"
+        ],
+        [
+          "Çatı",
+          "Ahşap veya çelik makas, aşık, sandviç panel, kiremit paletleri",
+          "Mobil vinç",
+          "Çatı ustasının programına göre"
+        ],
+        [
+          "Su deposu ve güneş enerjili su ısıtıcı",
+          "Depo, kollektör, şase",
+          "Hiyap veya mobil vinç",
+          "Çatı bitince, tesisattan önce"
+        ],
+        [
+          "Cam ve doğrama",
+          "Büyük camlar, doğrama, cam balkon",
+          "Sepetli platform, ağır camda vinç",
+          "Kaba sıva sonrası"
+        ],
+        [
+          "Klima ve mekanik",
+          "Dış üniteler, kazan, havalandırma",
+          "Sepetli platform, hiyap veya mobil vinç",
+          "İnce işlerden önce"
+        ],
+        [
+          "Taşınma",
+          "Asansöre veya merdivene sığmayan eşya",
+          "Hiyap veya mobil vinç",
+          "Taşınma tarihinden önce"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Her aşamanın kendi ayrıntısı var. Çatı ve çelik işlerini <a href=\"/blog/celik-konstruksiyon-cati-makasi-montaj-vinc\">çelik konstrüksiyon ve çatı makası montajı</a>, çatıya malzeme çıkarmayı <a href=\"/blog/catiya-malzeme-cikarma-caraskal-mi-vinc-mi\">çatıya malzeme çıkarma: caraskal mı vinç mi</a>, su deposunu da <a href=\"/blog/su-deposu-tank-yerlestirme-vinc\">su deposu ve tank yerleştirme</a> yazılarımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Ev sahibi olarak neyi planlamanız gerekir?"
+    },
+    {
+      "type": "p",
+      "text": "En önemli karar, vincin inşaat boyunca nereye kurulacağıdır. Arsa boşken vinç her yere yanaşabilir; ama duvarlar yükseldikçe, iskele kurulduktan ve bahçe duvarı yapıldıktan sonra aracın evin yanına yaklaşabileceği yer daralır. Bu yüzden ilk günden bir “vinç noktası” belirlemenizi öneririz: aracın ayaklarını açabileceği kadar geniş, zemini sıkıştırılmış, üzerine malzeme yığılmayan bir alan. Bu alan hem kaba inşaatta hem çatıda hem de son aşamadaki cam ve depo işlerinde kullanılır."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Vinç noktasının üstünde elektrik hattı olmamasına dikkat edin; hattın yeri bomun hareket alanını belirler. Ayrıntılar için <a href=\"/blog/vinc-elektrik-hattina-yaklasma-guvenlik-mesafesi\">vinç ve elektrik hattı güvenlik mesafesi</a> yazımıza bakabilirsiniz.",
+        "Vinç noktasının altında yeni kapatılmış bir çukur, septik ya da su deposu olmasın; dolgu toprak ayak yükünü taşımayabilir.",
+        "Bahçe duvarını ve kapıyı, aracın girebileceği genişlikte planlayın ya da duvarı en sona bırakın.",
+        "Malzeme teslimatlarını aynı noktaya yaptırın; tedarikçinin kamyonu ile vinç aynı yeri kullanabilsin.",
+        "Komşu parsel ve yol: Aracın yola taşacağı durumlarda belediyeye sorun, gerekiyorsa izin alın."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Malzeme siparişi ile vinç günü nasıl eşleştirilir?"
+    },
+    {
+      "type": "p",
+      "text": "Vinç parası çoğu zaman beklemede kaybedilir. Kalıp, tuğla ya da çatı malzemesi vinç geldikten sonra sahaya ulaşırsa araç bekler. En iyi yöntem, tedarikçiye teslim saatini sorup vinci o saate göre çağırmaktır. Bazı tedarikçilerin araçları kendi vinciyle gelir; bu durumda malzeme yere indirilir ama kata çıkmaz. Malzemenin doğrudan kata ya da çatıya çıkmasını istiyorsanız bunu sipariş verirken söyleyin ve vinç gününü buna göre ayarlayın. Paletli malzemenin doğrudan kata alınması iki kez elleçlemeyi önler ve ustaların gününü malzeme taşımaya harcamasını engeller."
+    },
+    {
+      "type": "p",
+      "text": "Bir başka tasarruf yolu, birbirine yakın işleri aynı güne toplamaktır. Örneğin çatı makası montajı ile kiremit paletlerinin çatıya alınması aynı gün yapılabilir; su deposu ile güneş enerjili su ısıtıcı da aynı ziyarette çıkarılabilir."
+    },
+    {
+      "type": "h2",
+      "text": "Vinci kim çağırır: siz mi, müteahhit mi?"
+    },
+    {
+      "type": "p",
+      "text": "Anahtar teslim bir sözleşmede vinç genellikle müteahhidin işidir ve fiyatın içindedir; kat karşılığı ya da kendi yaptırdığınız evde ise her aşamayı kimin organize edeceği sözleşmeye göre değişir. Bu konuyu inşaata başlamadan netleştirmenizi öneririz. Pratikte en sık karışıklık son aşamada yaşanır: kaba inşaat bitmiş, usta ayrılmış, su deposu ya da büyük cam kalmıştır ve kimin vinç çağıracağı belli değildir. Sözleşmede “malzemenin yerine çıkarılması kime ait” sorusunun cevabı yazılıysa bu belirsizlik ortadan kalkar. Kendiniz çağırıyorsanız ustanın o gün sahada olacağından emin olun; vinç geldiğinde yükü bağlayacak ve yerinde karşılayacak kişi hazır olmalıdır."
+    },
+    {
+      "type": "h2",
+      "text": "Güvenlik: ev sahibinin bilmesi gerekenler"
+    },
+    {
+      "type": "p",
+      "text": "Ev yaptırmak da bir yapı işidir ve kaldırma işleri iş güvenliği kurallarına tabidir. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18928&MevzuatTur=7&MevzuatTertip=5\" target=\"_blank\" rel=\"noopener\">Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği</a>, kaldırma araçlarında yükün çeşidine, boyutuna ve şekline uygun kaldırma aparatlarının kullanılmasını ve yapı alanında malzemelerin yıkılıp devrilmeyecek şekilde istif edilmesini ister. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\" target=\"_blank\" rel=\"noopener\">İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği</a> de teknik zorunluluk olmadıkça kaldırılan yükün altında insan bulunmaması için tedbir alınmasını öngörür. Sahada bunun anlamı basittir: vinç çalışırken yükün altında ve dönüş alanında kimse durmaz, kata indirilen malzeme döşeme kenarına yığılmaz, çocuklar ve meraklı komşular alandan uzak tutulur."
+    },
+    {
+      "type": "p",
+      "text": "Müteahhitle çalışıyorsanız bu düzeni şantiyeyi yöneten taraf kurar. Evinizi kendiniz yaptırıyorsanız ustalarla iş başında kimin işaretçi olacağını ve alanı kimin boşaltacağını önceden konuşun."
+    },
+    {
+      "type": "h2",
+      "text": "Ev inşaatında vinç fiyatını ne belirler?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Kaç ayrı aşamada vinç geleceği ve işlerin aynı güne toplanıp toplanamadığı",
+        "Kaldırılan yükün ağırlığı ve çıkacağı yükseklik",
+        "Aracın yüke ne kadar yaklaşabildiği; yaklaşamazsa daha büyük araç gerekir",
+        "İşin süresi: tek kaldırma mı, yarım gün mü, tam gün mü",
+        "Arsanın konumu ve Şanlıurfa merkezine uzaklığı",
+        "Bekleme: malzeme ya da usta gecikirse süre uzar"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Şanlıurfa'da ev inşaatı için vinç nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "0542 488 98 08 numarasını arayın ya da aynı numaraya WhatsApp'tan yazın. İlk mesajda arsanın konumunu, evin kat sayısını, o anki aşamayı, kaldırılacak malzemeyi ve aracın duracağı yerin fotoğrafını gönderin. İsterseniz inşaat takviminizi de paylaşın; hangi aşamada neye ihtiyaç olacağını birlikte çıkarır, her aşamayı önceden konuşuruz. Şanlıurfa merkezde (Haliliye, Eyyübiye, Karaköprü) ve ilçelerde çalışıyoruz. Araç seçenekleri için <a href=\"/hizmetler/mobil-vinc-kiralama\">mobil vinç kiralama</a> sayfamıza bakabilirsiniz."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Ev yaptırırken vinç kaç kez gerekir?",
+      "a": "İnşaata göre değişir. Genellikle demir ve kalıp aşamasında, duvar malzemesinin kata çıkarılmasında, çatı montajında ve son aşamada cam, depo ve klima yerleştirmede olmak üzere birkaç kez gerekir. Yakın işleri aynı güne toplamak ziyaret sayısını azaltır."
+    },
+    {
+      "q": "Tek katlı evde vinç gerekir mi?",
+      "a": "Tek katlı evde bile çatı makası, kiremit veya panel paletleri, su deposu ve güneş enerjili su ısıtıcı için vinç ya da hiyap çoğu zaman işi hızlandırır ve elle taşımanın riskini ortadan kaldırır."
+    },
+    {
+      "q": "Vinç için arsada nasıl bir yer ayırmalıyım?",
+      "a": "Aracın ayaklarını açabileceği kadar geniş, zemini sıkıştırılmış, üzerinde elektrik hattı olmayan ve malzeme yığılmayan bir alan ayırın. Bu alanı inşaatın sonuna kadar boş tutmanız işleri kolaylaştırır."
+    },
+    {
+      "q": "Malzemeyi tedarikçi mi kata çıkarır, vinç mi?",
+      "a": "Bazı tedarikçilerin araçları malzemeyi yalnızca yere indirir. Malzemenin doğrudan kata ya da çatıya çıkmasını istiyorsanız vinç gününü teslim saatine göre ayarlamak gerekir."
+    },
+    {
+      "q": "Ev inşaatında vinç fiyatı nasıl belirlenir?",
+      "a": "Aşama sayısı, yükün ağırlığı, yükseklik, aracın yüke uzaklığı, süre ve arsanın mesafesi fiyatı belirler. İşi anlattığınızda her aşama için fiyatı baştan söyleriz."
+    }
+  ]
+}

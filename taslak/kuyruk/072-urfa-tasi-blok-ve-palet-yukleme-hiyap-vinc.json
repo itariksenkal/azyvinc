@@ -1,0 +1,177 @@
+{
+  "slug": "urfa-tasi-blok-ve-palet-yukleme-hiyap-vinc",
+  "_hedef": "urfa taşı yükleme vinç / blok taş yükleme hiyap / doğal taş paleti indirme / urfa taşı taşıma",
+  "title": "Urfa Taşı Blok ve Palet Yükleme: Hiyap mı, Mobil Vinç mi?",
+  "ogTitle": "Urfa Taşı ve Doğal Blok Taş Yükleme, İndirme ve Kata Çıkarma: Hiyap ile Mobil Vinç Seçimi, Kenar Koruma ve Bağlama",
+  "h1": "Urfa taşı blok ve palet yükleme: hiyap mı mobil vinç mi, taş nasıl korunur",
+  "desc": "Urfa taşı ve doğal blok taş yükleme, indirme ya da kata çıkarmada hiyap mı mobil vinç mi? Kenar koruma ve bağlamayı anlattık. Taşın ölçüsünü gönderin.",
+  "image": "sanliurfa-dergah-tarihi-alan-vinc.jpeg",
+  "imageAlt": "Şanlıurfa'da tarihi alanda çalışan vinç",
+  "caption": "Urfa'nın tarihi dokusu, kolay işlenen yerel kalker taşıyla örülmüştür.",
+  "intro": "Kısa cevap: Kesilmiş ve paletlenmiş Urfa taşı ile orta büyüklükteki bloklar çoğu zaman hiyapla yüklenir, indirilir ve gerekirse doğrudan kata ya da iskeleye verilir. Ağır bloklarda, aracın yükten uzakta kaldığı sahalarda ve yüksek katlara çıkarılacak cephe taşında mobil vinç gerekir. Hangi araç olursa olsun, yumuşak ve kolay işlenen bir taş olduğu için kenarlarının korunması işin önemli bir parçasıdır: zincir yerine kumaş sapan, keskin kenarlarda köşe koruyucu ve sağlam palet kullanılır. Bu yazıda atölye, ocak çıkışı ve şantiye arasındaki taş işlerinin vinç tarafını anlatıyoruz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Urfa taşı nedir, kaldırmada neden özen ister?"
+    },
+    {
+      "type": "p",
+      "text": "Urfa taşı, Şanlıurfa'nın geleneksel ve tarihi yapılarında kullanılan yerel bir kalker (kireçli) taştır. Şanlıurfa Valiliği'nin hazırladığı <a href=\"https://www.urfakulturatlasi.com.tr/uploads/post/2025/10/01K7KT52EMHW02ZYAAJZR0BNCP.pdf\" target=\"_blank\" rel=\"noopener\">Urfa Kültür Atlası</a>, Şanlıurfa İslam mimarisinde duvar ve tonoz örgülerinde ana malzeme olarak kalker taşı kullanıldığını; bu taşın çok yumuşak olduğu için kolay işlendiğini ve ocaktan çıktıktan bir süre sonra sertleştiğini, halk arasında “havara daşı” olarak adlandırıldığını ve kentin güneybatısındaki dağlık bölgeden getirildiğinin bu bölgedeki çok sayıda antik taş ocağından anlaşıldığını aktarır."
+    },
+    {
+      "type": "p",
+      "text": "Bu özellik, taşı ustası için değerli yapan şeydir; ama kaldırma açısından bir uyarıdır. Yeni kesilmiş, henüz sertleşmemiş bir taşın kenarı ve köşesi zincirin ya da çelik halatın baskısıyla kolayca kırılabilir. Kırılan bir köşe, cephede kullanılacak bir taşta işçiliğin boşa gitmesi demektir. Bu yüzden taş işlerinde bağlama yöntemi, aracın kapasitesi kadar önemlidir."
+    },
+    {
+      "type": "h2",
+      "text": "Hangi iş için hangi araç?"
+    },
+    {
+      "type": "p",
+      "text": "Seçimi taşın biçimi, ağırlığı ve gideceği yer belirler. Hiyap taşı kendi kasasında taşıyıp kendisi indirebildiği için atölye ile şantiye arasındaki işlerde pratiktir. Mobil vinç ise uzun yarıçap ve yükseklik gerektiğinde devreye girer."
+    },
+    {
+      "type": "table",
+      "head": [
+        "İş",
+        "Uygun araç",
+        "Bilmemiz gerekenler"
+      ],
+      "rows": [
+        [
+          "Kesilmiş, paletlenmiş kaplama veya duvar taşı",
+          "Hiyap",
+          "Palet sayısı, palet ağırlığı (irsaliyeden), indirileceği yer"
+        ],
+        [
+          "Atölyeden şantiyeye blok taşıma",
+          "Hiyap; ağır blokta mobil vinçle yükleme",
+          "Blok ölçüsü ve ağırlığı, yükleme ve indirme noktaları"
+        ],
+        [
+          "Ocak veya stok sahasında kamyona blok yükleme",
+          "Mobil vinç",
+          "Blok ağırlığı, zemin durumu, aracın yaklaşma mesafesi"
+        ],
+        [
+          "Cephe taşını iskeleye veya kata verme",
+          "Hiyap veya mobil vinç",
+          "Kat yüksekliği, iskele ve döşeme kenarındaki karşılama yeri"
+        ],
+        [
+          "Restorasyon sahasında taş indirme",
+          "Duruma göre hiyap veya mobil vinç",
+          "Dar sokak, tarihi doku, izin ve koruma şartları"
+        ],
+        [
+          "Bahçe, avlu ve peyzaj taşları",
+          "Hiyap",
+          "Avluya erişim, duvar üstünden aşma mesafesi"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "İki aracın genel farkını <a href=\"/blog/hiyap-arac-ustu-vinc-mi-mobil-vinc-mi\">hiyap mı mobil vinç mi</a> yazımızda, hiyabın kapasitesini <a href=\"/blog/hiyap-nedir-kac-ton-kaldirir-kiralama\">hiyap nedir, kaç ton kaldırır</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Blok taşın ağırlığı nasıl bulunur?"
+    },
+    {
+      "type": "p",
+      "text": "Blok taşın ağırlığı, hacmi ile taşın birim hacim ağırlığının çarpımıdır. Hacmi bloğun eni, boyu ve yüksekliğinden hesaplamak kolaydır; birim hacim ağırlığı ise taşın cinsine, ocağına ve nemine göre değişir. Bu değeri taşı aldığınız ocaktan ya da atölyeden isteyin ve hesabı onunla yapın. Ocak irsaliyesinde ağırlık yazıyorsa en güvenilir bilgi odur. Tahminle çalışmayız: bloğun beklenenden ağır çıkması, vincin yarıçapta kapasitesini aşmasına yol açabilir. Kapasite ile yarıçap ilişkisini <a href=\"/blog/vinc-yuk-tablosu-load-chart-nasil-okunur\">yük tablosu nasıl okunur</a> yazımızda anlattık."
+    },
+    {
+      "type": "p",
+      "text": "Düzensiz biçimli bloklarda ağırlık merkezi bloğun ortasında olmayabilir. Blok yerden biraz kaldırılıp eğilip eğilmediğine bakılır; eğiliyorsa indirilip bağlama düzeltilir."
+    },
+    {
+      "type": "h2",
+      "text": "Taş nasıl bağlanır ve korunur?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Bloklarda zincir ve çelik halat yerine geniş kumaş sapan tercih edilir; sapan yükü daha geniş bir yüzeye yayar.",
+        "Keskin kenarlara köşe koruyucu konur; hem taşın kenarı hem sapan korunur.",
+        "Kesilmiş taşlar sağlam bir palet üzerinde, çember ve streçle bağlanmış olarak kaldırılır; palet, palet çatalı ve gerekirse file ile alınır.",
+        "Bloklar indirilirken doğrudan sert zemine değil, ahşap takozların üzerine bırakılır; böylece sapan da kolayca çıkarılır.",
+        "Kamyon kasasında bloklar birbirine sürtmeyecek şekilde, aralarına takoz konarak dizilir ve sabitlenir.",
+        "Islak ve çamurlu taş kaygandır; sapanın kaymaması için yüzey kontrol edilir."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bağlama yöntemlerinin ayrıntısı için <a href=\"/blog/vinc-sapan-halat-zincir-baglama-teknikleri\">sapan ve halat seçimi</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Şantiyede taş nereye ve nasıl istif edilir?"
+    },
+    {
+      "type": "p",
+      "text": "Taşın indirildiği yer, kaldırmanın kendisi kadar önemlidir. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18928&MevzuatTur=7&MevzuatTertip=5\" target=\"_blank\" rel=\"noopener\">Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği</a>, yapı alanında malzemelerin yıkılma ve devrilmeleri önlenecek, kazaya sebep olmayacak şekilde istif edilmesini ister. Taş için bunun anlamı şudur: paletler düz ve sıkıştırılmış bir zemine, üst üste yüksek kuleler oluşturmadan bırakılır; bloklar takozların üzerine, devrilmeyecek şekilde yatırılır; istif alanı vincin dönüş alanının ve yaya yolunun dışında tutulur. Taşın çok günlü bir işte kullanılacağı sırayı da düşünün: önce kullanılacak paletler öne, sonra kullanılacaklar arkaya konursa ikinci bir vinç günü gerekmez. Döşeme ya da iskele üzerine taş bırakılacaksa, bunun taşıyabileceği yük için şantiye şefine danışılır."
+    },
+    {
+      "type": "h2",
+      "text": "Tarihi doku ve restorasyon sahaları"
+    },
+    {
+      "type": "p",
+      "text": "Urfa taşıyla yapılan işlerin bir bölümü, tarihi kent dokusundaki restorasyon ve yenileme projeleridir. Bu sahalarda sokaklar dar, eski yapılar hassastır ve çalışma çoğu zaman koruma şartlarına bağlıdır. Aracın nereye kurulacağı, eski duvarlara ne kadar yaklaşabileceği ve hangi saatlerde çalışılabileceği proje ekibiyle birlikte belirlenir. Bu tür işlerdeki izin ve koruma konularını <a href=\"/blog/tarihi-yapi-restorasyonunda-vinc\">tarihi yapı restorasyonunda vinç</a> yazımızda ele aldık."
+    },
+    {
+      "type": "h2",
+      "text": "Fiyatı ne belirler?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Taşın biçimi ve ağırlığı: palet mi, blok mu",
+        "Palet veya blok sayısı ve işin süresi",
+        "Yükleme ve indirme noktaları arasındaki mesafe; taşımayı da hiyap yapacaksa güzergâh",
+        "Aracın yüke yaklaşabildiği mesafe ve çıkılacak yükseklik",
+        "Sahanın erişimi: dar sokak, ocak yolu, şantiye içi zemin"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Şanlıurfa'da taş yükleme ve indirme için vinç nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "0542 488 98 08 numarasını arayın ya da aynı numaraya WhatsApp'tan yazın. Mesajınıza taşın fotoğrafını, palet ya da blok sayısını, ölçülerini ve irsaliyedeki ağırlığı, yükleme ve indirme yerlerinin konumunu ve fotoğrafını, kata çıkacaksa kat yüksekliğini ekleyin. Şanlıurfa merkezde (Haliliye, Eyyübiye, Karaköprü) ve ilçelerde çalışıyoruz. Araç seçenekleri için <a href=\"/hizmetler/hiyap-kiralama\">hiyap kiralama</a> sayfamıza bakabilirsiniz."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Urfa taşı hiyapla taşınır mı?",
+      "a": "Evet. Kesilmiş ve paletlenmiş taş ile orta büyüklükteki bloklar hiyapla yüklenip taşınabilir ve yerine indirilebilir. Ağır bloklarda ya da aracın uzakta kaldığı sahalarda mobil vinç gerekir."
+    },
+    {
+      "q": "Urfa taşı nasıl bir taştır?",
+      "a": "Şanlıurfa Valiliği'nin Urfa Kültür Atlası'na göre kentin geleneksel yapılarında kullanılan, kolay işlenen ve ocaktan çıktıktan bir süre sonra sertleşen yerel bir kalker taşıdır; halk arasında havara daşı olarak da anılır."
+    },
+    {
+      "q": "Blok taş zincirle kaldırılır mı?",
+      "a": "Yumuşak taşlarda önermiyoruz. Zincir ve çelik halat kenarları kırabilir; geniş kumaş sapan ve köşe koruyucu kullanılır."
+    },
+    {
+      "q": "Blok taşın ağırlığını nasıl öğrenirim?",
+      "a": "Bloğun hacmini taşın birim hacim ağırlığıyla çarparak bulunur. Birim hacim ağırlığını ocaktan veya atölyeden isteyin; irsaliyede ağırlık yazıyorsa o bilgiyi kullanın."
+    },
+    {
+      "q": "Cephe taşı kata nasıl çıkarılır?",
+      "a": "Paletlenmiş taş hiyap ya da mobil vinçle iskeleye veya döşemeye verilir. Taş döşeme kenarına yığılmaz, karşılayan ekip yükün altında durmaz."
+    },
+    {
+      "q": "Tarihi dokuda dar sokakta taş indirilebilir mi?",
+      "a": "Çoğu durumda hiyapla mümkündür. Aracın kurulacağı yer, eski duvarlara yaklaşma mesafesi ve çalışma saatleri proje ekibiyle birlikte belirlenir; emin olmadığımız sahalarda önce keşif yaparız."
+    },
+    {
+      "q": "Taş yükleme fiyatı neye göre belirlenir?",
+      "a": "Taşın biçimi ve ağırlığı, palet veya blok sayısı, yükleme ile indirme noktaları arasındaki mesafe, yükseklik ve saha erişimi fiyatı belirler."
+    }
+  ]
+}

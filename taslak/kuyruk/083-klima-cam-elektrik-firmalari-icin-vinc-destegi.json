@@ -1,0 +1,228 @@
+{
+  "slug": "klima-cam-elektrik-firmalari-icin-vinc-destegi",
+  "_hedef": "klima firmaları için vinç / cam montaj firması vinç desteği / elektrik taahhüt firması sepetli platform / taşeron vinç hizmeti",
+  "title": "Klima, Cam ve Elektrik Firmaları İçin Vinç Desteği",
+  "ogTitle": "Klima, Cam ve Elektrik Firmaları İçin Vinç ve Sepetli Platform Desteği: Saat, Sorumluluk ve İSG Belgelerinde Neler Konuşulmalı",
+  "h1": "Klima, cam ve elektrik firmaları için vinç desteği: baştan neler konuşulmalı?",
+  "desc": "Klima, cam ve elektrik firmaları için vinç ve sepetli platform desteği: saat dilimi, sorumluluk paylaşımı, İSG belgeleri ve bekleme. Şanlıurfa'da işinizi anlatın.",
+  "image": "aytemiz-akaryakit-totem-montaj-hiyap-vinc.jpeg",
+  "imageAlt": "Akaryakıt istasyonunda totem montajında operatörlü hiyap vinç",
+  "caption": "Montaj firması kendi işine, vinç ekibi kaldırmaya odaklanınca sahada bekleme azalır.",
+  "intro": "Kısa cevap: Klima, cam ve elektrik firmaları vinç veya sepetli platform çağırırken üç şeyi baştan netleştirmelidir: aracın hangi saat diliminde sahada olacağı, yükün bağlanmasından alanın çevrilmesine kadar kimin neyi yapacağı ve sahaya girmeden önce hangi İSG belgelerinin karşılıklı paylaşılacağı. Teknik tarafı her işte farklıdır, ama bu üç konu her işte aynıdır ve çoğu sahada gecikmenin asıl sebebi bunların konuşulmamış olmasıdır.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Montaj firmaları vinç desteğini neden ayrıca planlamalı?"
+    },
+    {
+      "type": "p",
+      "text": "Bir klima firmasının dış üniteyi çatıya çıkarması, bir cam firmasının cephe camını yerine taşıması veya bir elektrik taahhüt firmasının pano ve kablo tavasını yükseğe alması, işin kendisinden çok kaldırma anına bağlıdır. Vinç sahaya geldiğinde yük hazır değilse araç bekler; yük hazır ama alan çevrilmemişse yine bekler. Bu yüzden her iş için kısa bir ön görüşme, sahadaki saatleri doğrudan kısaltır. Bu işlerin teknik tarafını <a href=\"/blog/klima-cam-cati-montaj-vinci\">klima, cam ve çatı montajında vinç</a> ve <a href=\"/blog/cati-klima-santrali-ve-hvac-montaji\">çatıya klima santrali montajı</a> yazılarımızda anlattık; burada montaj firmasıyla vinç firması arasındaki düzene odaklanıyoruz."
+    },
+    {
+      "type": "h2",
+      "text": "Hangi işte hangi araç?"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Firma ve iş",
+        "Tipik araç",
+        "Montaj firmasının hazırlaması gereken"
+      ],
+      "rows": [
+        [
+          "Klima: dış ünitenin çatıya veya balkona çıkarılması",
+          "Hiyap veya mobil vinç",
+          "Ünite ağırlığı, çatıdaki kaide ve bağlantı noktası"
+        ],
+        [
+          "Klima: cephede yüksek kattaki ünite ve bakır boru",
+          "Sepetli platform",
+          "Ünite konsolu, boru güzergâhı, cephe fotoğrafı"
+        ],
+        [
+          "Cam: büyük cam panel veya vitrin camı",
+          "Mobil vinç veya hiyap + vantuz aparatı",
+          "Cam ölçüsü ve ağırlığı, vantuz kapasitesi, kasa hazırlığı"
+        ],
+        [
+          "Cam: cephe silikon, çıta, kapak montajı",
+          "Sepetli platform",
+          "Malzeme listesi, cephe yüksekliği"
+        ],
+        [
+          "Elektrik: pano, kompanzasyon, jeneratör indirme",
+          "Hiyap veya mobil vinç",
+          "Ağırlık, giriş kapısı ölçüsü, indirilecek nokta"
+        ],
+        [
+          "Elektrik: aydınlatma, kablo tavası, direk tepesi",
+          "Sepetli platform",
+          "Çalışma yüksekliği, enerji kesme planı"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Saat dilimi nasıl belirlenir?"
+    },
+    {
+      "type": "p",
+      "text": "Saati belirleyen şey vinç değil, sahanın hazır olduğu andır. Montaj firmasının kendine şu soruları sorması yeterlidir: yük sahada mı yoksa aynı saatte mi gelecek, kaide veya kasa hazır mı, eski ünite veya cam sökülmüş mü, alanı çevirecek kişi orada mı? Bu soruların hepsine evet denebilen saat, vincin sahada olması gereken saattir."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Yük kamyonla geliyorsa nakliye aracı ile vincin aynı saate denk gelmesi gerekir; kamyon erken gelirse sokak kapanır, geç gelirse vinç bekler.",
+        "İşyerinde, AVM'de veya hastanede çalışılıyorsa ziyaretçi veya hasta trafiğinin az olduğu saat seçilir.",
+        "Yaz aylarında çatıda çalışacak ekip için sabah erken saatler tercih edilebilir; bu durumda vincin de o saatte kurulmuş olması gerekir.",
+        "Bir günde birden fazla adres varsa sıra önceden bildirilir; vinç aynı güzergâhta ilerler."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Sorumluluklar nasıl paylaşılır?"
+    },
+    {
+      "type": "p",
+      "text": "Sahada en sık yaşanan belirsizlik, yükü kimin bağlayacağı ve kimin işaret vereceğidir. Aşağıdaki tablo, montaj firmasıyla vinç firması arasında tipik bir paylaşımı gösterir; her iş öncesinde bunun teyit edilmesi yeterlidir:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Konu",
+        "Montaj firması",
+        "Vinç firması"
+      ],
+      "rows": [
+        [
+          "Yükün ağırlığı ve ölçüsü",
+          "Bildirir (etiket, katalog)",
+          "Araç seçiminde kullanır"
+        ],
+        [
+          "Yükün ambalajı, korunması",
+          "Hazırlar",
+          "—"
+        ],
+        [
+          "Bağlama aparatı (sapan, vantuz, travers)",
+          "Özel aparat varsa getirir",
+          "Standart aparatları ve uygunluğunu kontrol eder"
+        ],
+        [
+          "İşaretçi",
+          "Belirlenen tek kişi",
+          "Operatör yalnızca ondan işaret alır"
+        ],
+        [
+          "Alanın çevrilmesi, yaya güvenliği",
+          "Birlikte",
+          "Birlikte"
+        ],
+        [
+          "Platformun kullanımı",
+          "—",
+          "Belgeli operatör"
+        ],
+        [
+          "Montaj, bağlantı, elektrik ve gaz işleri",
+          "Yapar",
+          "—"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Özel kaldırma aparatlarında, örneğin cam montajındaki vantuzlarda, aparatın kapasitesi ve bakımı montaj firmasının sorumluluğundadır; vinç operatörü aparatın kancaya doğru bağlandığını kontrol eder. <a href=\"https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.18318.pdf\" target=\"_blank\" rel=\"noopener\">İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği</a> Ek-II, kaldırma aksesuarlarının kaldırılacak yüke, kavrama noktalarına, bağlantı elemanlarına ve atmosfer şartlarına uygun seçilmesini ister. İşaretçi konusunu <a href=\"/blog/vinc-isaretci-sapanci-rigger-belgesi\">işaretçi ve sapancı</a> yazımızda ayrıca ele aldık."
+    },
+    {
+      "type": "h2",
+      "text": "Hangi İSG belgeleri karşılıklı paylaşılır?"
+    },
+    {
+      "type": "p",
+      "text": "Kurumsal sahalarda iş sahibi hem montaj firmasından hem vinç firmasından belge ister. Bu belgeleri ilk işte karşılıklı paylaşmak ve sonraki işlerde yalnızca süresi dolanları güncellemek iki tarafın da zamanını kısaltır."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Vinç tarafı: makinenin periyodik kontrol raporu, operatör belgesi, sigorta, gerekirse operatörün sağlık raporu ve eğitim kayıtları.",
+        "Montaj firması tarafı: çalışanların yüksekte çalışma eğitimi ve sağlık raporları, kullanılacak özel aparatların belgeleri.",
+        "İşe özel: risk değerlendirmesi, iş sahibinin istediği çalışma izni formu, saha giriş listesi."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Aynı alanda birden fazla firmanın çalışması tek başına bir koordinasyon ihtiyacı doğurur. <a href=\"https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6331.pdf\" target=\"_blank\" rel=\"noopener\">6331 sayılı İş Sağlığı ve Güvenliği Kanunu</a>nun 23. maddesi, aynı çalışma alanını birden fazla işverenin paylaşması durumunda işverenlerin önlemlerde iş birliği yapmasını, riskleri koordinasyon içinde önlemesini ve birbirini bilgilendirmesini ister. Bunun en basit karşılığı, kaldırmadan önce iki ekibin birlikte yaptığı kısa bir toplantıdır."
+    },
+    {
+      "type": "h2",
+      "text": "Bekleme ve iptal nasıl konuşulur?"
+    },
+    {
+      "type": "p",
+      "text": "Montaj işlerinde planın kayması olağandır: cam fabrikadan geç çıkar, ünite yanlış gelir, kaide kurumamıştır. Böyle bir durumda haberin ne kadar erken verildiği, kaybın büyüklüğünü belirler. Makine yola çıkmadan önce yapılan bir değişiklik ile sahada beklerken yapılan değişiklik aynı değildir. Bu kalemlerin nasıl ele alınacağını ilk görüşmede netleştirmek iki taraf için de en sağlıklısıdır; genel mantığını <a href=\"/blog/vinc-kiralama-odeme-kapora-iptal-bekleme-bedeli\">ödeme, iptal ve bekleme bedeli</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Düzenli çalışan montaj firmaları için pratik bir düzen"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Her iş için aynı başlıklarla kısa bir iş bildirimi: adres, yük, yükseklik, saat, sahadaki sorumlu.",
+        "Haftalık işlerin hafta başında paylaşılması; acil olanların ayrıca belirtilmesi.",
+        "Evrak dosyasının bir kez hazırlanıp güncel tutulması.",
+        "İş sonrası kısa geri bildirim: sahada ne aksadı, bir sonraki işte neyi farklı yapalım."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Maliyeti ne belirler?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Araç tipi (hiyap, mobil vinç, sepetli platform) ve gereken kapasite veya yükseklik,",
+        "Süre ve bekleme, işin tek kaldırma mı yoksa gün boyu mu olduğu,",
+        "Mesai dışı çalışma, gece veya hafta sonu,",
+        "Mesafe, ilçe ve nakliye."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Şanlıurfa'da montaj firmaları için vinç desteği nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Şanlıurfa merkezde ve ilçelerde klima, cam-alüminyum ve elektrik taahhüt firmalarına operatörlü hiyap, mobil vinç ve sepetli platform sağlıyoruz. İlk işinizde yukarıdaki başlıklarla bir iş bildirimi gönderin: adres ve konum, yükün fotoğrafı ve ağırlığı, çalışma yüksekliği, istediğiniz saat ve sahadaki sorumlunun telefonu. 0542 488 98 08'i arayın veya WhatsApp'tan yazın; uygun aracı işe göre belirleyip fiyatı baştan net söyleyelim. Kaldırma araçları için <a href=\"/hizmetler/mobil-vinc-kiralama\">mobil vinç kiralama</a> sayfamıza bakabilirsiniz."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Klima dış ünitesi için vinç mi platform mu gerekir?",
+      "a": "Üniteyi çatıya veya balkona taşımak bir kaldırma işidir; hiyap veya mobil vinç gerekir. Cephedeki ünitenin bağlantısı ve boru işleri ise sepetli platformdan yapılır."
+    },
+    {
+      "q": "Cam montajında vantuzu kim getirir?",
+      "a": "Vantuz genellikle cam firmasının ekipmanıdır; kapasitesi ve bakımı da onların sorumluluğundadır. Vinç operatörü aparatın kancaya doğru bağlandığını kontrol eder."
+    },
+    {
+      "q": "Sahada işareti kim verir?",
+      "a": "Önceden belirlenen tek bir işaretçi. Operatör yalnızca ondan işaret alır; acil durdurma işaretine ise herkesin uyarısıyla uyulur."
+    },
+    {
+      "q": "Her işte evrak göndermek zorunda mıyız?",
+      "a": "Düzenli çalışmada belgeler ilk işte paylaşılır, sonraki işlerde yalnızca süresi dolanlar güncellenir. İş sahibinin işe özel istediği formlar ayrıca hazırlanır."
+    },
+    {
+      "q": "Yük geç gelirse ne olur?",
+      "a": "Haberi ne kadar erken verirseniz kayıp o kadar azalır. Makine yola çıkmadan önceki değişiklik ile sahada beklerken yapılan değişiklik aynı değildir; bunun nasıl ele alınacağını baştan konuşuruz."
+    },
+    {
+      "q": "Aynı gün birden fazla adreste çalışabilir misiniz?",
+      "a": "Adresler ve sıra önceden bildirilirse evet. Aynı güzergâhtaki işleri birleştirmek iki tarafın da zamanını kısaltır."
+    }
+  ]
+}

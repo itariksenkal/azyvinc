@@ -1,0 +1,240 @@
+{
+  "slug": "fabrika-bakim-durusu-vinc-ve-sepetli-platform-planlama",
+  "_hedef": "fabrika bakım duruşu vinç / planlı duruş vinç ve sepetli platform kiralama / shutdown vinç planlama / OSB bakım vinç",
+  "title": "Fabrika Bakım Duruşunda Vinç ve Platform Planı | AZY Vinç",
+  "ogTitle": "Fabrika Bakım Duruşu İçin Vinç ve Sepetli Platform Planlama: İş Paketleri, İzinler ve Sıralama",
+  "h1": "Fabrika bakım duruşunda vinç ve sepetli platform nasıl planlanır?",
+  "desc": "Fabrika bakım duruşu için vinç ve sepetli platform ne zaman ayrılır, iş paketleri ve izinler nasıl hazırlanır? Kontrol listesi; Şanlıurfa'da planlama için arayın.",
+  "image": "mobil-vinc-saha-azy-vinc.jpeg",
+  "imageAlt": "Sanayi sahasında çelik yapının yanında kurulmuş operatörlü vinç",
+  "caption": "Duruşta vinç sahaya geldiğinde iş listesi, izinler ve sıra hazır olmalı.",
+  "intro": "Kısa cevap: Bakım duruşunun tarihi kesinleştiği anda vinç ve sepetli platform ihtiyacını iş paketi iş paketi listeleyip rezervasyonu o gün yapın; duruş günü sahaya gelen makinenin beklemeden çalışması, bu listenin ve izinlerin önceden hazır olmasına bağlıdır. Planlı duruşta süre sabittir, kayan her saat üretime geri dönüşü geciktirir. Bu yazıda bir fabrikanın veya organize sanayideki bir tesisin bakım ekibinin duruştan önce neyi hazırlaması gerektiğini, işlerin hangi makineye nasıl dağıtılacağını ve sahada sıranın nasıl kurulacağını anlatıyoruz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Bakım duruşu için vinç ve platform ne zaman ayarlanmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Duruş tarihi netleşir netleşmez ilk görüşmeyi yapmak gerekir; kesin listeyi beklemek, makinenin o günlerde başka bir işe yazılması riskini doğurur. Rezervasyonu iki adımda düşünmek işe yarar: önce tarih aralığı ve kabaca makine tipleri ayrılır, sonra iş paketleri netleştikçe gün ve saat bazında güncellenir. Birçok tesiste yıllık duruşlar benzer dönemlere denk gelir; aynı haftalarda bölgedeki başka tesisler de vinç arar. Yıl boyu tekrarlayan işler için kurulan çerçeve düzeni ayrıca anlattığımız <a href=\"/blog/kurumsal-vinc-tedariki-cerceve-anlasma\">kurumsal vinç tedariki ve çerçeve anlaşma</a> yazısının konusudur; burada duruşun kendisine, yani birkaç günlük yoğun programın sahada nasıl yürüdüğüne odaklanıyoruz."
+    },
+    {
+      "type": "p",
+      "text": "İlk görüşmede şu üç bilgi yeterlidir: duruşun başlangıç ve bitiş tarihi, kaldırma veya yüksekte çalışma gerektiren işlerin kaba listesi ve tesisin adresi. Gerisini keşifte ve iş paketlerinde birlikte doldururuz."
+    },
+    {
+      "type": "h2",
+      "text": "Duruştaki işler kaldırma paketlerine nasıl bölünür?"
+    },
+    {
+      "type": "p",
+      "text": "Her kaldırma veya yüksekte çalışma işini ayrı bir satır olarak yazmak, duruş planının en faydalı adımıdır. Bir satır; ne kaldırılacağını, ağırlığının nereden bilindiğini, nereden nereye gideceğini ve hangi gün yapılacağını söylemelidir. Bu tablo çıktığında genellikle aynı makineyle arka arkaya yapılabilecek işler ve farklı bir makine isteyen işler kendiliğinden ayrılır. Aşağıdaki örnek satırlar, bakım ekiplerinin doldurduğu tipik bir listeyi gösteriyor:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "İş paketi",
+        "Ağırlık bilgisi nereden?",
+        "Nereden → nereye",
+        "Makine",
+        "Ön koşul"
+      ],
+      "rows": [
+        [
+          "Çatı aspiratörü değişimi",
+          "Üretici etiketi / teknik föy",
+          "Kamyon → çatı",
+          "Mobil vinç",
+          "Eski ünite sökülmüş, elektrik kesilmiş"
+        ],
+        [
+          "Redüktör ve motor indirme",
+          "Katalog veya önceki kayıt",
+          "Hat üstü → hol kapısı → kamyon",
+          "Hiyap veya mobil vinç",
+          "Bağlantılar sökülmüş, kaldırma noktaları belli"
+        ],
+        [
+          "Silo veya tank üst kapak bakımı",
+          "Kaldırma yok, insan çalışması",
+          "Yerden üst kapak seviyesine",
+          "Sepetli platform",
+          "Çalışma izni, enerji ve basınç izolasyonu"
+        ],
+        [
+          "Hol tavanında boru ve kablo tavası",
+          "Hafif malzeme",
+          "Zemin → tavan",
+          "Sepetli platform",
+          "Altında üretim yok, alan kapatılmış"
+        ],
+        [
+          "Yeni makine parçasının kaideye oturtulması",
+          "Üreticinin montaj dokümanı",
+          "Kamyon → kaide",
+          "Mobil vinç",
+          "Kaide hazır, ankraj ölçüsü kontrol edilmiş"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Ağırlığı bilinmeyen bir parça listede kalmamalı. Etiket, katalog, sevk irsaliyesi veya üretici dokümanı yoksa bunu satıra not edin; vinç seçimi bu bilgiye göre yapılır ve sahada tahmin yürütmek duruşun en pahalı gecikmesine dönüşebilir. Ağırlık, yarıçap ve kaldırma noktalarının nasıl bir plana dönüştüğünü <a href=\"/blog/vinc-kaldirma-plani-lift-plan-nasil-hazirlanir\">kaldırma planı yazımızda</a> anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Hangi iş vinç, hangi iş sepetli platform, hangi iş hiyap ister?"
+    },
+    {
+      "type": "p",
+      "text": "Kural basittir: yük kaldırılacaksa vinç veya hiyap, insan yükseğe çıkıp elle çalışacaksa sepetli platform. Duruşlarda bu ikisi çoğu zaman aynı gün, aynı noktada birlikte gerekir; örneğin aspiratör vinçle kaldırılırken bağlantıyı yapan ekip platformda bekler."
+    },
+    {
+      "type": "table",
+      "head": [
+        "İş tipi",
+        "Uygun makine",
+        "Neye dikkat?"
+      ],
+      "rows": [
+        [
+          "Kamyondan alıp kısa mesafede indirme, sanayi tipi orta yükler",
+          "Hiyap (araç üstü vinç)",
+          "Aracın yüke yanaşabilmesi, kasada yer"
+        ],
+        [
+          "Çatıya, yüksek kaideye veya uzak noktaya ağır yük",
+          "Mobil vinç",
+          "Ayak açma alanı, zemin, yarıçap"
+        ],
+        [
+          "Tavan, boru hattı, aydınlatma, silo üstü bakım",
+          "Sepetli platform (eklemli veya teleskopik)",
+          "Platformun girebileceği kapı ve zemin"
+        ],
+        [
+          "Hol içinde, kapıdan girmesi gereken kaldırma",
+          "İşe göre mini vinç veya tesisin gezer köprülü vinci",
+          "Kapı ölçüsü ve döşeme taşıma kapasitesi"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Sepetli platformla yük taşınmaz; sepet insan ve el aletleri içindir. Platform tipleri ve seçim için <a href=\"/hizmetler/sepetli-platform-manlift-kiralama\">sepetli platform ve manlift kiralama</a> sayfamıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Duruş başlamadan hangi izinler ve evraklar hazır olmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Duruş günü kapıda evrak toplamak, ilk saatleri yer. Makineye ve operatöre ait belgelerin (periyodik kontrol raporu, operatör belgesi, sigorta) tesisin iş güvenliği birimine önceden gönderilmesi ve saha giriş oryantasyonunun mümkünse duruştan önceki günlerde yapılması gerekir. Hangi belgelerin istenmesinin iyi uygulama olduğunu <a href=\"/blog/vinc-firmasindan-istenecek-evraklar-isg-dosyasi\">vinç firmasından istenecek evraklar</a> yazımızda kalem kalem listeledik."
+    },
+    {
+      "type": "p",
+      "text": "Duruşlarda aynı alanda çok sayıda yüklenici çalışır: mekanikçi, elektrikçi, kaynakçı, izolasyoncu ve vinç ekibi. <a href=\"https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6331.pdf\" target=\"_blank\" rel=\"noopener\">6331 sayılı İş Sağlığı ve Güvenliği Kanunu</a>nun 23. maddesi, aynı çalışma alanını birden fazla işverenin paylaşması durumunda işverenlerin önlemlerde iş birliği yapmasını, mesleki riskleri koordinasyon içinde önlemesini ve birbirini bu riskler konusunda bilgilendirmesini ister. Pratikte bu; çalışma izinlerinin tesisin kendi sisteminden çıkması, enerji ve basınç izolasyonunun (kilitleme ve etiketleme) tesis ekibince yapılıp vinç ekibine teyit edilmesi ve her kaldırma için tek bir sorumlu kişinin belirlenmesi demektir."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Çalışma izni: tesisin formu, her iş paketi için ayrı veya günlük.",
+        "Enerji izolasyonu: kaldırılacak ekipmanın elektrik, basınç ve hareketli parçalarının güvenli hale getirildiğinin teyidi.",
+        "Alan kapatma: kaldırma güzergâhının altında kimsenin kalmaması için bariyer ve gözcü.",
+        "Araç giriş izni: makinelerin plaka ve ölçüleriyle giriş listesine yazılması.",
+        "Acil durum: tesisin toplanma noktası ve irtibat kişisinin operatöre bildirilmesi."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Duruş günlerinde sahada sıra nasıl kurulur?"
+    },
+    {
+      "type": "p",
+      "text": "Sıra, makinenin sahada bekleme değil çalışma yapacağı şekilde kurulur: önce en ağır ve en çok hazırlık isteyen kaldırmalar, makine kurulduğu yerden ulaşabildiği işleri sırayla bitirir, sonra bir sonraki konuma geçer. Bir konumdan diğerine geçmek ayakları toplamak, yer değiştirmek ve yeniden kurmak demektir; bu yüzden aynı noktadan yapılabilecek işleri gruplamak zamanı doğrudan kısaltır."
+    },
+    {
+      "type": "p",
+      "text": "Aynı anda iki kaldırma ekipmanı çalışacaksa ayrı bir dikkat gerekir. <a href=\"https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.18318.pdf\" target=\"_blank\" rel=\"noopener\">İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği</a> Ek-II'de, çalışma alanları kesişen iki veya daha fazla kaldırma aracıyla kılavuzsuz yük kaldırılan alanlarda yüklerin ve araç elemanlarının çarpışmaması için önlem alınmasını ister. Duruşlarda bu çoğu zaman tesisin gezer köprülü vinci ile dışarıdan gelen mobil vincin aynı holde çalışması şeklinde karşımıza çıkar; iki operatör arasında telsiz düzeni ve hangi saatte kimin çalışacağı önceden yazılır."
+    },
+    {
+      "type": "p",
+      "text": "Gece vardiyası planlanıyorsa aydınlatma, işaretçinin görüş alanı ve operatörün çalışma süresi de plana girer. Uzun duruşlarda operatör değişimini önceden konuşmak, gecenin sonunda yorgun bir ekiple kritik kaldırma yapmamak için gereklidir."
+    },
+    {
+      "type": "h2",
+      "text": "Duruş uzarsa veya bir iş kayarsa ne olur?"
+    },
+    {
+      "type": "p",
+      "text": "Duruş programları nadiren kâğıttaki gibi gider: bir parça geç gelir, bir söküm beklenenden uzun sürer. Bu durumda rezervasyonun nasıl güncelleneceği ve makinenin sahada beklediği sürenin nasıl değerlendirileceği baştan konuşulmalıdır. Bekleme ve iptalin nasıl ele alınabileceğini <a href=\"/blog/vinc-kiralama-odeme-kapora-iptal-bekleme-bedeli\">ödeme, iptal ve bekleme bedeli</a> yazımızda anlattık. Gecikmeyi fark eder etmez haber vermeniz, makineyi o aralıkta başka bir kısa işe yönlendirip sizin işinize zamanında geri döndürmemizi kolaylaştırır."
+    },
+    {
+      "type": "h2",
+      "text": "Duruşta vinç ve platform maliyetini ne belirler?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Makine tipi ve sayısı: aynı gün vinç ve platformun birlikte gerekip gerekmediği.",
+        "Süre modeli: tek tek saatlik işler mi, günlük veya duruş boyunca sahada kalma mı.",
+        "Konum değişikliği sayısı: makinenin tesis içinde kaç kez kurulup toplanacağı.",
+        "Mesai dışı çalışma: gece, hafta sonu veya resmî tatil.",
+        "Mesafe ve nakliye: tesisin merkeze uzaklığı, makinenin kendi tekerleğiyle gelip gelmediği.",
+        "Bekleme: iş hazır olmadığı için makinenin sahada durduğu süre."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Rakam vermeden önce işi görmek isteriz; iş listesi ve fotoğraflar geldiğinde fiyatı baştan net söyleriz."
+    },
+    {
+      "type": "h2",
+      "text": "Şanlıurfa'da bakım duruşu için vinç ve platform nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Şanlıurfa merkezdeki ve ilçelerdeki tesisler için duruş planını birlikte çıkarabiliriz. Organize sanayi bölgelerinde çalışmanın kendine özgü kurallarını <a href=\"/blog/sanliurfa-osb-vinc-hizmeti\">Şanlıurfa OSB'lerinde vinç</a> yazımızda ele aldık. Bize WhatsApp'tan şunları göndermeniz yeterli:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Duruşun tarih aralığı ve vardiya saatleri,",
+        "İş paketleri listesi (yukarıdaki tablo gibi; Excel veya fotoğraf olabilir),",
+        "Kaldırılacak ekipmanların etiket veya katalog fotoğrafları,",
+        "Makinenin kurulacağı alanların ve hol kapılarının fotoğrafı, mümkünse ölçüsü,",
+        "Tesisin konumu ve iş güvenliği biriminin irtibat bilgisi."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "0542 488 98 08'i arayabilir veya aynı numaraya WhatsApp'tan yazabilirsiniz; keşif için tesise geliriz ve uygun tonajı, platform tipini ve sırayı işe göre belirleriz."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Bakım duruşu için vinci ne kadar önceden ayırtmalıyım?",
+      "a": "Duruş tarihi kesinleştiği anda. Kesin iş listesini beklemeden tarih aralığını ve kabaca makine ihtiyacını bildirmeniz yeterli; ayrıntılar netleştikçe rezervasyonu gün ve saat bazında güncelleriz."
+    },
+    {
+      "q": "Duruşta vinç ve sepetli platform aynı anda gerekir mi?",
+      "a": "Çoğu zaman evet. Yükü vinç kaldırırken bağlantıyı yapan ekip platformda çalışır. İkisinin aynı gün ve aynı noktada planlanması bekleme süresini azaltır."
+    },
+    {
+      "q": "Çalışma iznini kim düzenler?",
+      "a": "Çalışma izni tesisin kendi sistemiyle, tesisin yetkilisi tarafından düzenlenir. Biz operatör ve makine bilgilerini izne girecek şekilde önceden iletiriz ve izin kapsamında çalışırız."
+    },
+    {
+      "q": "Ağırlığını bilmediğimiz bir parça için ne yapmalıyız?",
+      "a": "Etiket, katalog, sevk irsaliyesi veya üretici dokümanından ağırlığı bulmaya çalışın; bulunamıyorsa listeye not edin. Keşifte parçayı görüp ölçülerini alarak güvenli tarafta kalan bir makine seçeriz."
+    },
+    {
+      "q": "Duruş gece de devam ediyorsa vinç gece çalışır mı?",
+      "a": "Çalışabilir. Gece çalışmasında aydınlatma, işaretçinin görüşü ve operatör değişimi önceden planlanır; mesai dışı çalışma fiyatı etkileyen kalemlerden biridir."
+    },
+    {
+      "q": "Duruş uzarsa makine sahada kalır mı?",
+      "a": "Program kayarsa rezervasyonu birlikte güncelleriz. Gecikmeyi erken bildirmeniz, makinenin bekleme süresini ve buna bağlı maliyeti azaltır."
+    }
+  ]
+}
