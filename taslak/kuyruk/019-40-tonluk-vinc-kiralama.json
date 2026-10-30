@@ -1,0 +1,268 @@
+{
+ "slug": "40-tonluk-vinc-kiralama",
+ "_hedef": "40 tonluk vinç kiralama, 40 ton vinç, 40 tonluk vinç kaç ton kaldırır, 40 tonluk mobil vinç, 40 tonluk vinç bom uzunluğu",
+ "title": "40 Tonluk Vinç Kiralama: Kaç Ton Kaldırır? | AZY Vinç",
+ "ogTitle": "40 Tonluk Vinç Kiralama: Gerçek Yük Tablosu, Karşı Ağırlık Etkisi ve Doğru Sınıf Seçimi",
+ "h1": "40 Tonluk Vinç Kiralama: Gerçek Kapasite, Ölçüler ve Uygun İşler",
+ "desc": "40 tonluk vinç 10-15 metrede kaç ton kaldırır? Gerçek yük tablosu, karşı ağırlığın etkisi, araç ölçüleri ve uygun işler. İşi anlatın, vinci ve fiyatı söyleyelim.",
+ "image": "celik-konstruksiyon-cati-kiris-montaj-agir-yuk-vinc.jpeg",
+ "imageAlt": "Çelik konstrüksiyon çatı kirişi montajında çalışan operatörlü vinç",
+ "caption": "Orta ağırlıkta yük, orta mesafe: 40 ton sınıfının en sık seçildiği iş tipi.",
+ "intro": "Kısa cevap: 40 tonluk vinç 40 tonu yalnızca 2,5 metrede, en kısa bomla ve aracın arkasına doğru kaldırır; örnek bir modelin yük tablosuna göre 10 metrede yaklaşık 9 ton, 15 metrede 5 ton, 20 metrede 3 ton kalır. Bu sınıfın 25 tonluktan farkı orta mesafede belirgin fazla pay bırakması, 50 tonluktan farkı ise daha kısa ve hafif bir araç olmasıdır. Dikkat edilmesi gereken bir nokta var: bu sınıfta karşı ağırlığın bir kısmı ayrı gelir ve gelmezse kapasite belirgin düşer. Aşağıda bunu üretici tablosuyla gösteriyoruz.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "40 tonluk vinç kaç ton kaldırır? Gerçek yük tablosu"
+  },
+  {
+   "type": "p",
+   "text": "Örnek model Liebherr LTM 1040-2.1: 40 ton azami kapasiteli, iki akslı, 35 metre teleskopik bomlu bir mobil vinç. Değerler <a href=\"https://www.liebherr.com/en-int/mobile-and-crawler-cranes/mobile-cranes/ltm-mobile-cranes/ltm-1040-2-1-5387253\" target=\"_blank\" rel=\"noopener\">Liebherr'in LTM 1040-2.1 teknik veri föyünden</a>; ayaklar tam açık ve 360° dönüş içindir. Her satırda o yarıçaptaki en yüksek değeri yazdık. İki sütun, iki farklı karşı ağırlık durumunu gösteriyor: 6,5 ton (tam karşı ağırlık) ve 1,5 ton (araç yolda giderken üstünde taşıdığı kısım)."
+  },
+  {
+   "type": "table",
+   "head": [
+    "Yarıçap",
+    "6,5 t karşı ağırlıkla",
+    "Yalnızca 1,5 t karşı ağırlıkla"
+   ],
+   "rows": [
+    [
+     "3 m",
+     "30,6 t",
+     "30,3 t"
+    ],
+    [
+     "5 m",
+     "21,6 t",
+     "20,3 t"
+    ],
+    [
+     "8 m",
+     "13,0 t",
+     "9,3 t"
+    ],
+    [
+     "10 m",
+     "9,1 t",
+     "6,4 t"
+    ],
+    [
+     "12 m",
+     "6,9 t",
+     "4,7 t"
+    ],
+    [
+     "15 m",
+     "4,9 t",
+     "3,1 t"
+    ],
+    [
+     "20 m",
+     "3,0 t",
+     "1,7 t"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Tablonun mesajı açık: yakın mesafede karşı ağırlık pek fark yaratmıyor, ama 8 metreden sonra tam karşı ağırlık yüzde 40'tan fazla, 20 metrede ise yaklaşık yüzde 75 daha fazla kapasite demek. 40 tonluk değerin kendisi yalnızca 2,5 metrede ve aracın arkasına doğru çalışırken geçerli. Liebherr, tablodaki değerlerden kanca bloğu ve kanca ağırlığının düşülmesi gerektiğini ayrıca not ediyor. Bu sayılar yalnızca bu model içindir; sahaya gelen vincin kendi yük tablosu esastır. Karşı ağırlığın nasıl çalıştığını <a href=\"/blog/vinc-karsi-agirlik-kontrpuan-nedir\">karşı ağırlık (kontrpuan) nedir</a> yazımızda anlattık."
+  },
+  {
+   "type": "h2",
+   "text": "Araç ölçüleri ve kurulum alanı"
+  },
+  {
+   "type": "p",
+   "text": "Aynı föyden LTM 1040-2.1'in yol ve kurulum ölçüleri:"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Özellik",
+    "LTM 1040-2.1"
+   ],
+   "rows": [
+    [
+     "Aks sayısı",
+     "2"
+    ],
+    [
+     "Toplam uzunluk (bomla)",
+     "Yaklaşık 10,9 m"
+    ],
+    [
+     "Genişlik",
+     "2,55 m"
+    ],
+    [
+     "Yol ağırlığı",
+     "En fazla 24 t, aks başına 12 t (üstünde 1,5 t karşı ağırlıkla)"
+    ],
+    [
+     "Tam karşı ağırlık",
+     "6,5 t; kalan kısım ek karşı ağırlık olarak ayrıca getirilir"
+    ],
+    [
+     "Ayak açıklığı",
+     "Yaklaşık 6,0 m (enine) × 6,3 m (boyuna)"
+    ],
+    [
+     "Teleskopik bom",
+     "10,5–35 m"
+    ],
+    [
+     "Azami kanca yüksekliği",
+     "44 m (üretici sayfası, uzatma ile)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "İki aks ve 11 metreye yakın boy, bu sınıfı şehir içinde 25 tonluk kamyon tipi vinçlerden bile daha çevik yapabilir. Ama ayaklar tam açıldığında yaklaşık 6 metreye 6,3 metrelik bir alan ve altına plakalar gerekir. Ek karşı ağırlık getirilecekse onu taşıyan aracın da vincin yanına yanaşabileceği bir yer olmalıdır; dar bir sokakta bu ikinci araç için yer yoksa iş ya yalnızca 1,5 tonla planlanır ya da vincin konumu değiştirilir. Zeminde neye dikkat edildiğini <a href=\"/blog/vinc-ayak-outrigger-zemin-basinci-sedye-plakasi\">vinç ayakları ve zemin basıncı</a> yazımızda bulabilirsiniz."
+  },
+  {
+   "type": "h2",
+   "text": "Hangi işler için 40 ton seçilir?"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Çelik konstrüksiyon yapılarda geniş açıklıklı kiriş ve makas montajı",
+    "Fabrika veya AVM çatısına 10–15 metre yarıçapta klima santrali, soğutma ünitesi çıkarmak",
+    "OSB'de makine, kalıp veya tezgâh indirme ve yer değiştirme",
+    "Prefabrik beton elemanların (hafif kiriş, panel) yerine konması",
+    "Kule vincin küçük parçalarının montaj ve sökümünde yardımcı vinç olarak",
+    "Silo, tank ve endüstriyel ekipmanların orta yükseklikte montajı"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Bu işlerde ortak nokta, yükün birkaç ton olup vincin yüke 10–15 metreden yakın duramamasıdır. 25 tonluk vincin bu mesafede kalan payı yetmediğinde 40 ton doğal bir sonraki adımdır."
+  },
+  {
+   "type": "h2",
+   "text": "40 ton mu, 25 mi, 50 mi?"
+  },
+  {
+   "type": "p",
+   "text": "Aşağıdaki karşılaştırmada 25 ton için <a href=\"https://www.sanyglobal.com/d/file/product/crane-mobile/2019-11-12/279299a492358c541b7c1989f0e34759.pdf\" target=\"_blank\" rel=\"noopener\">Sany STC250</a> tablosunu, 40 ton için LTM 1040-2.1'in tam karşı ağırlıklı tablosunu kullandık. 50 ton sütunu ise aynı üreticinin LTM 1050-3.1 modelinin 9 ton karşı ağırlıklı tablosundandır."
+  },
+  {
+   "type": "table",
+   "head": [
+    "Yarıçap",
+    "25 t (STC250)",
+    "40 t (LTM 1040-2.1)",
+    "50 t (LTM 1050-3.1)"
+   ],
+   "rows": [
+    [
+     "8 m",
+     "10,0 t",
+     "13,0 t",
+     "18,6 t"
+    ],
+    [
+     "10 m",
+     "7,5 t",
+     "9,1 t",
+     "13,4 t"
+    ],
+    [
+     "12 m",
+     "5,5 t",
+     "6,9 t",
+     "10,1 t"
+    ],
+    [
+     "20 m",
+     "2,05 t",
+     "3,0 t",
+     "4,4 t"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Kaba bir karar kuralı: yük aparatla birlikte 10 metrede 6–7 tonu, 15 metrede 3,5–4 tonu geçmiyorsa 40 ton çoğu zaman yeterlidir. Bunun üstündeyse ya vinci yüke yaklaştırmanın yolu aranır ya da 50 tona geçilir. Yük 2–3 ton ve vinç 8 metreye kadar yaklaşabiliyorsa 40 ton gereğinden büyük olabilir. Bu tür bir hesabın adım adım nasıl yapıldığını <a href=\"/blog/vinc-tonaji-ile-gercek-kapasite-farki\">vinç tonajı ile gerçek kapasite farkı</a> yazımızda çözülmüş bir örnekle gösterdik."
+  },
+  {
+   "type": "p",
+   "text": "Somut bir örnek: bir depo çatısına 4 tonluk bir soğutma ünitesi konacak, aparatlarla kancadaki yük 4,4 ton ve vinç binaya en fazla 12 metreye yaklaşabiliyor. Örnek 25 tonluk vincin 12 metredeki değeri 5,5 ton; pay çok dar. 40 tonluk örnek model tam karşı ağırlıkla 6,9 ton veriyor; iş rahatlıkla yapılır. Ama aynı vinç yalnızca 1,5 ton karşı ağırlıkla gelirse 12 metrede 4,7 ton kalıyor ve iş yine sınıra dayanıyor. Yani bu işte doğru cevap yalnızca \"40 ton\" değil, \"tam karşı ağırlıklı 40 ton\"dur."
+  },
+  {
+   "type": "h2",
+   "text": "Fiyatı ne belirler?"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Karşı ağırlık: tam karşı ağırlık gerekiyorsa onu getiren ikinci aracın yolu ve süresi",
+    "Kurulum ve söküm süresi: karşı ağırlık takılacaksa kurulum uzar",
+    "Saatlik ya da günlük çalışma; montaj işlerinde parçalar arası bekleme",
+    "Sahaya mesafe ve güzergâh: köy yolu, köprü, şantiye girişi",
+    "Yol veya kaldırım kapatma izni, gece ya da hafta sonu çalışma"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Fiyatı netleştirmeden önce işin tam karşı ağırlık isteyip istemediğine bakarız; çoğu zaman bu tek soru, 40 tonun mu yoksa bir alt ya da üst sınıfın mı daha ekonomik olduğunu belirler."
+  },
+  {
+   "type": "h2",
+   "text": "Şanlıurfa'da 40 tonluk vinç nasıl ayarlanır?"
+  },
+  {
+   "type": "p",
+   "text": "İhtiyacınız olan tonajda operatörlü mobil vinç sağlarız. Şanlıurfa merkez, OSB ve ilçelerdeki işlerde doğru sınıfı ve karşı ağırlık ihtiyacını baştan belirleyebilmemiz için WhatsApp'tan şunları gönderin:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Yükün ağırlığı ve ölçüsü, kaç parça olduğu",
+    "Vincin duracağı nokta ile yükün ineceği nokta arasındaki yatay mesafe",
+    "Yükün çıkacağı yükseklik ve arada aşılması gereken saçak, duvar ya da hat",
+    "Vincin duracağı yerin ve sahaya girişin fotoğrafları",
+    "Konum ve tarih"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "0542 488 98 08'i arayabilir ya da aynı numaradan WhatsApp'a yazabilirsiniz. Hizmetimizin kapsamı <a href=\"/hizmetler/mobil-vinc-kiralama\">mobil vinç kiralama</a> sayfamızda."
+  },
+  {
+   "type": "p",
+   "text": "Fotoğraf ve ölçüleri gördükten sonra işin 40 tonla mı yoksa bir alt ya da üst sınıfla mı daha güvenli ve ekonomik yapılacağını açıkça söyleriz. Urfa genelindeki saha koşulları ve hizmet bölgelerimiz için <a href=\"/\">Şanlıurfa vinç kiralama</a> sayfamıza bakabilirsiniz."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "40 tonluk vinç kaç ton kaldırır?",
+   "a": "40 tonu yalnızca 2,5 metrede, kısa bomla kaldırır. Örnek model LTM 1040-2.1 tam karşı ağırlıkla 10 metrede 9,1 ton, 15 metrede 4,9 ton, 20 metrede 3 ton kaldırıyor. Kesin değer gelen aracın tablosundadır."
+  },
+  {
+   "q": "40 tonluk vincin bomu kaç metre?",
+   "a": "Örnek modelde teleskopik bom 35 metredir; üretici uzatma ile 44 metre kanca yüksekliği veriyor. Bom uzadıkça kaldırılan yük azalır."
+  },
+  {
+   "q": "40 tonluk vinç kaç akslıdır, sokağa sığar mı?",
+   "a": "Örnek model iki akslı, 2,55 metre genişliğinde ve yaklaşık 10,9 metre boyundadır. Çalışırken yaklaşık 6 × 6,3 metrelik ayak alanı ister; sokağın bu alanı boş bırakıp bırakmadığına fotoğrafla bakarız."
+  },
+  {
+   "q": "Karşı ağırlık ayrı mı gelir?",
+   "a": "Örnek modelde araç yolda 1,5 ton karşı ağırlıkla gider; 6,5 tonluk tam karşı ağırlığın kalanı ayrıca getirilir. Tam karşı ağırlık olmadan 10 metrede kapasite 9,1 tondan 6,4 tona düşer."
+  },
+  {
+   "q": "40 tonluk vinç için hangi ehliyet gerekir?",
+   "a": "İş makinesi olarak tescilli mobil vinçlerde G sınıfı sürücü belgesi ve mobil vinç operatörlük belgesi gerekir. Operatörlü kiralamada bu bizim sorumluluğumuzdadır."
+  },
+  {
+   "q": "40 ton mu, 50 ton mu almalıyım?",
+   "a": "Aynı üreticinin örnek modellerinde 10 metrede 40 ton 9,1 ton, 50 ton 13,4 ton kaldırıyor. Yükünüz bu aralıktaysa ya da 15–20 metre yarıçap gerekiyorsa 50 ton daha güvenli pay bırakır."
+  },
+  {
+   "q": "Günlük mü, saatlik mi kiralanır?",
+   "a": "Tek kaldırmalık işler saatlik ve minimum süreyle, montaj işleri günlük fiyatlanır. Karşı ağırlık getirilecekse kurulum süresi de hesaba girer."
+  }
+ ]
+}

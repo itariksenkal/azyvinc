@@ -1,0 +1,268 @@
+{
+  "slug": "80-tonluk-vinc-kiralama",
+  "_hedef": "80 tonluk vinç kiralama, 80 ton vinç, 90 tonluk vinç kiralama, 70 tonluk vinç kiralama, 80 tonluk vinç kaç ton kaldırır",
+  "title": "80 Tonluk Vinç Kiralama: Kaç Ton Kaldırır? | AZY Vinç",
+  "ogTitle": "80 Tonluk Vinç Kiralama: 70–90 Ton Sınıfı Gerçekte Ne Kaldırır, Ne Zaman Gerekir?",
+  "h1": "80 Tonluk Vinç Kiralama: 70–90 Ton Sınıfı Rehberi",
+  "desc": "80 tonluk vinç kiralama: 70–90 ton sınıfının 10–30 metrede gerçek kapasitesi, ayak alanı ve karşı ağırlık. Yükü ve mesafeyi yazın, uygun vinci netleştirelim.",
+  "image": "tp-akaryakit-totem-mobil-vinc-sepetli-platform.jpeg",
+  "imageAlt": "Akaryakıt istasyonunda totem montajında çalışan mobil vinç",
+  "caption": "Mobil vinçte doğru sınıfı, yükün ağırlığı kadar vinçten ne kadar uzağa gideceği belirler.",
+  "intro": "Kısa cevap: 80 tonluk vinç (pratikte 70–90 ton sınıfı) adındaki tonajı yalnızca vincin dibinde, 3 metre civarında kaldırır; üretici yük tablolarına göre 20 metre uzakta bu sınıfın kaldırdığı yük yaklaşık 6–10 tona, 30 metrede 3–5 tona iner. Bu sınıf, 50 tonluk vincin yetmediği ama 100 tonun gereksiz kaldığı işler içindir: çelik hal ve çatı makasları, prefabrik elemanlar, uzak yarıçapta trafo veya makine, kule vinç kurulumu. Aşağıda iki gerçek modelin yük tablosundan alınmış değerlerle bu sınıfın neyi kaldırdığını, sahada ne kadar yer istediğini ve ne zaman bir üst sınıfa geçmek gerektiğini anlatıyoruz. İhtiyacınız olan tonajda operatörlü mobil vinci biz sağlarız; işinizi anlatmanız yeterli.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "80 tonluk vinç gerçekte kaç ton kaldırır?"
+    },
+    {
+      "type": "p",
+      "text": "Piyasada \"80 tonluk vinç\" diye aranan makineler genellikle 70 ile 90 ton arasındaki dört akslı mobil vinçlerdir. Aşağıdaki tablo, bu aralığın iki ucunu temsil eden iki modelin üretici teknik veri föylerindeki yük tablolarından alınmıştır: <a href=\"https://www.liebherr.com/en-int/mobile-and-crawler-cranes/mobile-cranes/ltm-mobile-cranes/ltm-1070-4-2-5387257\" target=\"_blank\" rel=\"noopener\">Liebherr LTM 1070-4.2</a> (70 t, 50 m teleskopik bom, 14,5 t karşı ağırlık) ve <a href=\"https://www.liebherr.com/en-int/mobile-and-crawler-cranes/mobile-cranes/ltm-mobile-cranes/ltm-1090-4-2-5387258\" target=\"_blank\" rel=\"noopener\">Liebherr LTM 1090-4.2</a> (90 t, 60 m teleskopik bom, 22,5 t karşı ağırlık). Değerler ayaklar tam açık, tam karşı ağırlık ve 360° dönüş koşulu içindir; her yarıçap için tablodaki en uygun bom boyunun değeri yazılmıştır."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Yarıçap (m)",
+        "LTM 1070-4.2 (14,5 t karşı ağırlık)",
+        "LTM 1090-4.2 (22,5 t karşı ağırlık)"
+      ],
+      "rows": [
+        [
+          "5",
+          "39,3 t",
+          "47,6 t"
+        ],
+        [
+          "8",
+          "23,6 t",
+          "31,6 t"
+        ],
+        [
+          "10",
+          "18,2 t",
+          "24,7 t"
+        ],
+        [
+          "12",
+          "13,9 t",
+          "19,9 t"
+        ],
+        [
+          "16",
+          "8,9 t",
+          "13,8 t"
+        ],
+        [
+          "20",
+          "6,4 t",
+          "9,9 t"
+        ],
+        [
+          "24",
+          "4,8 t",
+          "7,4 t"
+        ],
+        [
+          "30",
+          "3,1 t",
+          "4,9 t"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Tablodan iki ders çıkıyor. Birincisi, adındaki tonaj yalnızca birkaç metrede görünür, sonra hızla düşer: 90 tonluk model 10 metrede 25 tonun altına, 20 metrede 10 tonun altına iner. İkincisi, aynı sınıf içindeki fark uzak yarıçapta büyür: 20 metrede 90 tonluk model 70 tonluğa göre yaklaşık yüzde elli daha fazla kaldırır ve bu farkın önemli kısmı karşı ağırlıktan gelir. Bu rakamlar yalnızca örnek modellere aittir; kanca bloğu ve sapanların ağırlığı bu değerlerden düşülür ve kesin hesap her zaman sahaya gelecek makinenin kendi yük tablosuyla yapılır. Tablonun mantığını <a href=\"/blog/vinc-yuk-tablosu-load-chart-nasil-okunur\">yük tablosu nasıl okunur</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Bu sınıf sahada ne kadar yer ister?"
+    },
+    {
+      "type": "p",
+      "text": "70–90 ton sınıfı yolda 2,55 metre genişliğinde dört akslı bir araçtır; çalışırken ise çok daha geniş bir alan kaplar. Aynı teknik föylerden alınan ölçüler:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Ölçü",
+        "LTM 1070-4.2",
+        "LTM 1090-4.2"
+      ],
+      "rows": [
+        [
+          "Aks sayısı",
+          "4",
+          "4"
+        ],
+        [
+          "Yol hâlinde genişlik",
+          "2,55 m",
+          "2,55 m"
+        ],
+        [
+          "Araç boyu (yol hâli)",
+          "yaklaşık 12,4 m",
+          "yaklaşık 13,1 m"
+        ],
+        [
+          "Ayaklar tam açıkken (boy × en)",
+          "yaklaşık 8,0 × 6,3 m",
+          "yaklaşık 7,4 × 7,3 m"
+        ],
+        [
+          "Kuyruk dönüş yarıçapı",
+          "3,46 m",
+          "3,77 m (geniş konumda 4,71 m)"
+        ],
+        [
+          "Toplam karşı ağırlık",
+          "14,5 t",
+          "22,5 t"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Pratik anlamı şu: ayakların tamamen açılabilmesi için yaklaşık 7–8 metre genişliğinde, sağlam ve düz bir alan gerekir; buna karşı ağırlığın arkada döndüğü 3,5–5 metrelik kuyruk mesafesi eklenir. Dar bir sokakta ayaklar kısmen açılabilir, ama o zaman geçerli olan, kapasitesi daha düşük ayrı bir yük tablosudur. Site veya fabrika kapısından girişte ise aracın 12–13 metrelik boyu ve dönüş yarıçapı belirleyicidir. Bir OSB parselinde vinç çoğu zaman bina ile çevre duvarı arasına kurulur; o boşluğun genişliğini önceden ölçmek sahada sürprizi önler. Kontrol listesi için <a href=\"/blog/vinc-araci-olculeri-sokaga-sigar-mi\">vinç aracı sokağa sığar mı</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "h3",
+      "text": "Karşı ağırlık araçla mı gelir, ayrı mı?"
+    },
+    {
+      "type": "p",
+      "text": "LTM 1090-4.2'nin föyüne göre araç karşı ağırlık olmadan 40 tonla (10 tonluk aks yüküyle) ya da bir kısım karşı ağırlığı üzerinde taşıyarak 48 tonla (12 tonluk aks yüküyle) yola çıkabiliyor; 22,5 tonluk tam karşı ağırlığın geri kalanı ayrı bir araçla gelir ve sahada takılır. Uzak yarıçaplı işlerde tam karşı ağırlık gerektiği için bu sınıfta ikinci aracın da sahaya girip durabileceği yer planlanır. Konunun ayrıntısı <a href=\"/blog/vinc-karsi-agirlik-kontrpuan-nedir\">karşı ağırlık (kontrpuan)</a> yazımızda."
+    },
+    {
+      "type": "h2",
+      "text": "Hangi işlerde 80 tonluk sınıf seçilir?"
+    },
+    {
+      "type": "p",
+      "text": "Bu sınıfı seçtiren şey çoğu zaman yükün ağırlığı değil, yükle vinç arasındaki mesafedir. Sahada en sık karşılaştığımız durumlar:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Çelik hal ve çatı makası: 3–6 tonluk makasın binanın ortasına, 16–20 metre yarıçapa bırakılması. Tablodaki 16 ve 20 metre satırları tam bu işin sınırını gösterir.",
+        "Prefabrik beton eleman: kolon ve kirişler ağırdır ve çoğu zaman vincin tek bir noktasından uzak yarıçaplara dağıtılır.",
+        "Kule vinç kurulumu ve sökümü: kule ve bom parçalarını yükseğe çıkarmak uzun bom ister; 50–60 metrelik teleskop bu sınıfı uygun kılar.",
+        "Trafo, jeneratör, soğutma grubu: yük 10–20 ton arasındaysa ve vinç yükün dibine yanaşamıyorsa.",
+        "Yüksek montaj: çatı üstü ekipman, baca parçası veya cephe elemanının 40 metrenin üzerine çıkarılması."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bu tonaj mı, bir üstü mü, bir altı mı?"
+    },
+    {
+      "type": "p",
+      "text": "Karar için yükü ve yarıçapı birlikte okumak gerekir. Aşağıdaki tablo yukarıdaki örnek yük tablolarından türetilmiş kaba bir yön gösterir; kesin seçim keşifte, kanca ve sapan ağırlığı da eklenerek yapılır."
+    },
+    {
+      "type": "table",
+      "head": [
+        "İşin özeti",
+        "Genellikle yeten sınıf",
+        "Neden"
+      ],
+      "rows": [
+        [
+          "5 tona kadar yük, 10–12 m yarıçap",
+          "50–60 ton sınıfı",
+          "Bu mesafede 70–90 ton sınıfı gereğinden büyük kalır; küçük araç daha az yer ister."
+        ],
+        [
+          "5–8 ton yük, 16–20 m yarıçap",
+          "70–90 ton sınıfı",
+          "Örnek tablolarda 20 m'de 6,4–9,9 t; güvenlik payıyla bu aralık bu sınıfın işidir."
+        ],
+        [
+          "8–10 ton yük, 16–18 m yarıçap",
+          "90 ton sınıfı, pay dar kalırsa 100 ton",
+          "70 tonluk model 16 m'de 8,9 t'da kalır; 90 tonluk model ancak tam karşı ağırlıkla yeter."
+        ],
+        [
+          "12 tonun üstünde yük, 16 m ve üzeri yarıçap",
+          "100 ton ve üzeri",
+          "90 tonluk model 16 m'de 13,8 t kaldırır; kanca ve sapanla pay kalmaz."
+        ],
+        [
+          "Yük hafif ama kanca 45 m üstüne çıkacak",
+          "60 m bomlu 90 ton sınıfı veya kafes uzatmalı vinç",
+          "Burada belirleyici olan bom boyudur, tonaj değil."
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "80 tonluk vinç kiralama fiyatını ne belirler?"
+    },
+    {
+      "type": "p",
+      "text": "Rakam vermiyoruz, çünkü bu sınıfta fiyatı makinenin adı kadar işin kurgusu belirler. Bu sınıfa özgü kalemler şunlardır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Karşı ağırlık nakli: tam karşı ağırlık gerekiyorsa ikinci bir araç ve onun yol süresi.",
+        "Kurulum süresi: karşı ağırlığın takılması, ayakların tam açılması ve gerekiyorsa kafes uzatmanın (jib) monte edilmesi küçük vince göre daha uzun sürer.",
+        "Zemin ve ayak plakası: tek ayağa düşen yük büyüdükçe sedye plakası ve zemin iyileştirmesi gündeme gelir.",
+        "Mesafe: ilçe veya il dışı işlerde intikal süresi.",
+        "Süre: saatlik mi, günlük mü; bu sınıfta kurulum ve söküm de süreye girdiği için işler çoğu zaman yarım günü aşar.",
+        "Yol kapatma veya işgaliye izni: aracın ayak açacağı yer yol ya da kaldırımsa."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Şanlıurfa'da 80 tonluk vinç nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "AZY Vinç olarak Şanlıurfa merkezde (Haliliye, Eyyübiye, Karaköprü) ve ilçelerde ihtiyacınız olan tonajda operatörlü mobil vinç sağlarız; uygun tonajı işe göre birlikte belirleriz. Doğru sınıfı ilk görüşmede söyleyebilmemiz için WhatsApp'tan şunları gönderin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Yükün ağırlığı (etiket, irsaliye veya üretici föyü) ve ölçüleri",
+        "Vincin durabileceği nokta ile yükün ineceği nokta arasındaki yatay mesafe",
+        "Yükün çıkacağı yükseklik ve arada aşılacak engel (çatı saçağı, duvar, enerji hattı)",
+        "Sahanın iki üç fotoğrafı ve konum",
+        "Tarih, saat ve işin tahmini süresi"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu bilgilerle hangi sınıfın yeteceğini, karşı ağırlığın ayrıca gelip gelmeyeceğini ve fiyatı baştan netleştiririz. Hizmetin ayrıntısı <a href=\"/hizmetler/mobil-vinc-kiralama\">mobil vinç kiralama</a> sayfamızda; Şanlıurfa genelindeki işler için <a href=\"/\">Şanlıurfa vinç kiralama</a> sayfamıza bakabilirsiniz. Telefon ve WhatsApp: 0542 488 98 08."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "80 tonluk vinç kaç ton kaldırır?",
+      "a": "Adındaki tonajı yalnızca vincin dibinde, birkaç metre yarıçapta kaldırır. Örnek olarak 90 tonluk Liebherr LTM 1090-4.2'nin tablosunda tam karşı ağırlıkla 10 metrede 24,7 ton, 20 metrede 9,9 ton, 30 metrede 4,9 ton yazar. Kesin değer sahaya gelecek makinenin kendi yük tablosundan okunur."
+    },
+    {
+      "q": "80 tonluk vincin bomu kaç metre?",
+      "a": "Bu sınıfta teleskopik bom genellikle 50–60 metredir; örnek modellerde LTM 1070-4.2'de 50 m, LTM 1090-4.2'de 60 m. Kafes uzatma (jib) takılınca kanca daha da yükselir, ama uzun bomda kaldırılabilen yük düşer."
+    },
+    {
+      "q": "80 tonluk vinç dar sokağa girer mi?",
+      "a": "Aracın genişliği 2,55 metredir, yani çoğu sokağa girer. Asıl soru ayakların açılmasıdır: tam açık ayaklar için yaklaşık 7–8 metre genişlik gerekir. Daha dar yerde ayaklar kısmen açılır ve kapasite düşer; bu durumda vinci başka bir noktaya koymak veya daha büyük bir vinçle uzaktan çalışmak değerlendirilir."
+    },
+    {
+      "q": "80 tonluk vinci hangi ehliyetle kim kullanır?",
+      "a": "Operatörlü kiralamada aracı belgeli operatörümüz sürer ve kullanır. Mobil vinçler genellikle iş makinesi olarak tescillidir ve yolda G sınıfı sürücü belgesi ister; sahada ayrıca operatörlük belgesi aranır."
+    },
+    {
+      "q": "80 tonluk vinç saatlik mi, günlük mü kiralanır?",
+      "a": "İkisi de mümkündür, ama bu sınıfta kurulum ve karşı ağırlık işlemleri zaman aldığı için işler çoğunlukla yarım gün veya günlük planlanır. Kısa bir kaldırmada bile kurulum ve söküm süresi hesaba girer; teklifi işin tamamına göre veririz."
+    },
+    {
+      "q": "70 tonluk ile 90 tonluk vinç arasında fark var mı?",
+      "a": "Yakın mesafede fark küçük görünür, uzaklaştıkça büyür. Örnek tablolarda 20 metrede 70 tonluk model 6,4 ton, 90 tonluk model 9,9 ton kaldırıyor. Yükünüz bu ikisi arasındaysa sınıfı yarıçap belirler."
+    },
+    {
+      "q": "Karşı ağırlık için ayrı araç gelir mi?",
+      "a": "Uzak yarıçaplı işlerde çoğu zaman evet. Örneğin LTM 1090-4.2 karşı ağırlığın bir kısmını üzerinde taşıyarak yola çıkar, kalanı ayrı araçla gelir. Bu yüzden sahada ikinci aracın da durabileceği bir yer planlanır."
+    }
+  ]
+}

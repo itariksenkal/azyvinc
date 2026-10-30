@@ -1,0 +1,300 @@
+{
+ "slug": "25-30-tonluk-vinc-kiralama",
+ "_hedef": "25 tonluk vinç kiralama, 25 ton vinç, 30 tonluk vinç kiralama, 25 tonluk vinç kaç ton kaldırır, 25 tonluk vinç bom uzunluğu",
+ "title": "25-30 Tonluk Vinç Kiralama: Kaç Ton Kaldırır? | AZY Vinç",
+ "ogTitle": "25–30 Tonluk Vinç Kiralama: Gerçek Yük Tablosu, Araç Ölçüleri ve Doğru Sınıf Seçimi",
+ "h1": "25–30 Tonluk Vinç Kiralama: Ne Kaldırır, Hangi İşe Yeter?",
+ "desc": "25 tonluk vinç 10 metrede kaç ton kaldırır? Gerçek yük tablosu, araç ölçüleri, ayak alanı ve uygun işler. Yükü ve mesafeyi gönderin, vinci ve fiyatı söyleyelim.",
+ "image": "mobil-vinc-saha-azy-vinc.jpeg",
+ "imageAlt": "Açık arazide ayakları açılmış operatörlü vinç",
+ "caption": "Bu sınıfın gücü: karşı ağırlığını üstünde getirir, tek araçla kurulur.",
+ "intro": "Kısa cevap: 25 tonluk vinç 25 tonu yalnızca 3 metre yarıçapta kaldırır; örnek bir modelin yük tablosuna göre 10 metrede 7,5 ton, 15 metrede 3,7 ton, 20 metrede yaklaşık 2 ton kalır. Bu sınıf en sık kiralanan vinç sınıflarından biridir, çünkü tek araçla gelir, karşı ağırlığını üstünde taşır ve şehir içi ile şantiye işlerinin büyük kısmını karşılar. Aşağıda üretici yük tablosunu, aracın ölçülerini, ayak alanını ve bir üst sınıfa ne zaman geçmek gerektiğini anlatıyoruz.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "25 tonluk vinç kaç ton kaldırır? Gerçek yük tablosu"
+  },
+  {
+   "type": "p",
+   "text": "Örnek olarak kamyon tipi, üç akslı Sany STC250'yi aldık. Değerler <a href=\"https://www.sanyglobal.com/d/file/product/crane-mobile/2019-11-12/279299a492358c541b7c1989f0e34759.pdf\" target=\"_blank\" rel=\"noopener\">Sany STC250 üretici broşüründeki</a> yük tablosundan; ayaklar tam açık (6,2 m), 3,8 ton karşı ağırlık ve 360° dönüş için geçerlidir. Üretici tabloya kanca ağırlığını dahil ettiğini yazıyor (ana kanca 320 kg); yani yükünüz, sapan ve aparatlarla birlikte bu değerin altında kalmalıdır."
+  },
+  {
+   "type": "table",
+   "head": [
+    "Yarıçap",
+    "Kaldırma kapasitesi",
+    "Bu değeri veren bom"
+   ],
+   "rows": [
+    [
+     "3 m",
+     "25,0 t",
+     "10,65 m"
+    ],
+    [
+     "5 m",
+     "18,9 t",
+     "10,65 m"
+    ],
+    [
+     "6 m",
+     "15,8 t",
+     "10,65 m"
+    ],
+    [
+     "8 m",
+     "10,0 t",
+     "14,5 m"
+    ],
+    [
+     "10 m",
+     "7,5 t",
+     "14,5 m"
+    ],
+    [
+     "12 m",
+     "5,5 t",
+     "14,5 m"
+    ],
+    [
+     "15 m",
+     "3,7 t",
+     "33,5 m"
+    ],
+    [
+     "20 m",
+     "2,05 t",
+     "25,9 m"
+    ],
+    [
+     "25 m",
+     "1,1 t",
+     "33,5 m"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Tablodaki en önemli satır 10–12 metredir: sahadaki işlerin çoğu bu mesafede yapılır ve 25 tonluk vincin burada verdiği değer 5–7,5 ton aralığındadır. 30 tonluk vinçlerde tablo bir miktar yukarı kayar ama mantık aynı kalır; 30 ton da yalnızca en kısa yarıçapta geçerlidir. Bu sayılar yalnızca bu model içindir; gelen her vincin kendi yük tablosu esastır. Adındaki tonajla sahadaki kapasite arasındaki farkı çözülmüş bir örnekle <a href=\"/blog/vinc-tonaji-ile-gercek-kapasite-farki\">vinç tonajı ile gerçek kapasite farkı</a> yazımızda anlattık."
+  },
+  {
+   "type": "h2",
+   "text": "Araç ölçüleri ve kurulum alanı"
+  },
+  {
+   "type": "p",
+   "text": "Bu sınıfta iki örnek modelin üretici verileri şöyle (XCMG verisi <a href=\"https://www.xcmgglobal.com/product/pro-detail-1193609.htm\" target=\"_blank\" rel=\"noopener\">XCMG XCT25_Y1 ürün sayfasından</a>):"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Özellik",
+    "Sany STC250",
+    "XCMG XCT25_Y1"
+   ],
+   "rows": [
+    [
+     "Toplam uzunluk",
+     "12,8 m",
+     "12,21 m"
+    ],
+    [
+     "Genişlik",
+     "2,5 m",
+     "2,5 m"
+    ],
+    [
+     "Yükseklik",
+     "4,0 m",
+     "3,45 m"
+    ],
+    [
+     "Aks",
+     "3 (biri dümen, ikisi çekici)",
+     "3"
+    ],
+    [
+     "Yol ağırlığı",
+     "30 t (ön aks 6,5 t, arka akslar 23,5 t)",
+     "24,5 t"
+    ],
+    [
+     "Teleskopik bom",
+     "10,65–33,5 m (jib ile 48,1 m)",
+     "33,5 m"
+    ],
+    [
+     "Karşı ağırlık",
+     "3,8 t, araçla birlikte gelir",
+     "Belirtilmemiş"
+    ],
+    [
+     "Ayak açıklığı",
+     "5,3 × 6,2 m (boyuna × enine)",
+     "Belirtilmemiş"
+    ],
+    [
+     "Kuyruk dönüş yarıçapı",
+     "3,37 m",
+     "Belirtilmemiş"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Pratikte bunun anlamı şu: vinç çalışırken 6 metreyi aşan bir genişliğe ayak açar, altına konan plakalarla bu alan daha da genişler. İki yanına araç park edilmiş bir mahalle sokağında bu alan çoğu zaman yoktur; sokak önceden boşaltılır ya da vinç sokak başına konup daha uzun bomla çalışır. 12–13 metrelik araç boyu, OSB parsellerinde ve şantiye kapılarında dönüş alanı ister. Buna karşılık karşı ağırlığın araçla birlikte gelmesi bu sınıfın en büyük avantajıdır: ayrı bir karşı ağırlık kamyonu beklenmez, kurulum kısa sürer. Ayak altına gelen yükü ve plaka seçimini <a href=\"/blog/vinc-ayak-outrigger-zemin-basinci-sedye-plakasi\">vinç ayakları ve zemin basıncı</a> yazımızda anlattık."
+  },
+  {
+   "type": "h2",
+   "text": "Hangi işler için 25–30 ton seçilir?"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Tek katlı depo, ahır ve sera gibi yapılarda çelik çatı makası ve kiriş montajı",
+    "Konteyner ve küçük prefabrik birimlerin kamyondan indirilip yerine konması",
+    "Jeneratör, kompresör ve makinelerin kısa yarıçapta kaldırılıp yerleştirilmesi",
+    "Çatıya klima santrali veya su deposu çıkarmak (yarıçap 10–12 metreyi geçmiyorsa)",
+    "Büyük ağaç, peyzaj taşı, havuz ekipmanı gibi tek parça ağır yükler",
+    "Fabrika içinde ya da OSB'de makine yer değiştirme ve kamyona yükleme"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Bu işlerin ortak noktası, yükün birkaç ton ile 10 ton arasında olması ve vincin yüke 10–12 metreden fazla uzak kalmamasıdır."
+  },
+  {
+   "type": "h2",
+   "text": "25–30 ton mu, bir üstü mü?"
+  },
+  {
+   "type": "p",
+   "text": "Aşağıdaki karar tablosu yukarıdaki STC250 değerlerine göre hazırlandı. \"Sınırda\" dediğimiz yerlerde tablo değerine çok yaklaşılıyor; sahada rüzgâr, zemin ve aparat payı için bu kadar yakın çalışmak istemeyiz."
+  },
+  {
+   "type": "table",
+   "head": [
+    "Yük (aparatla)",
+    "Yarıçap",
+    "25 tonda tablo değeri",
+    "Öneri"
+   ],
+   "rows": [
+    [
+     "5 t",
+     "8 m",
+     "10,0 t",
+     "25 ton rahat yeter"
+    ],
+    [
+     "3 t",
+     "10 m",
+     "7,5 t",
+     "25 ton yeter"
+    ],
+    [
+     "5 t",
+     "12 m",
+     "5,5 t",
+     "Sınırda; 40–50 ton sınıfı"
+    ],
+    [
+     "3 t",
+     "15 m",
+     "3,7 t",
+     "Sınırda; 40–50 ton sınıfı"
+    ],
+    [
+     "2 t",
+     "20 m",
+     "2,05 t",
+     "Yetmez; daha büyük sınıf"
+    ],
+    [
+     "1 t",
+     "Bina önü, 8 m",
+     "10,0 t",
+     "Fazla; 10–15 ton sınıfı yeterli olabilir"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Bir alt sınıfın yeterli olduğu dar sokak ve kat işlerinde 25 tonluk vinç gereksiz büyük kalabilir; tersine yük binanın arkasına gidecekse 25 ton sahada yetmeyebilir. Tonaj seçiminin genel mantığını <a href=\"/blog/kac-tonluk-vinc-gerekir\">kaç tonluk vinç gerekir</a> yazımızda anlattık."
+  },
+  {
+   "type": "h2",
+   "text": "Fiyatı ne belirler?"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Çalışma süresi: kısa işler saatlik ve minimum süreyle, gün boyu işler günlük fiyatlanır",
+    "Sahaya mesafe: Şanlıurfa merkez ile ilçeler arasında yol süresi fiyata girer",
+    "Ayak alanının hazırlanması: sokağın boşaltılması, zemin ve plaka ihtiyacı",
+    "Yol veya kaldırım kapatma gerekiyorsa izin ve bekleme",
+    "Gece, hafta sonu veya acil çalışma"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Bu sınıfta karşı ağırlık araçla geldiği için çoğu işte ikinci bir araç maliyeti oluşmaz; büyük sınıflara göre fiyatı öngörmek bu yüzden daha kolaydır. Rakam vermeden önce işi dinlemek isteriz, çünkü doğru tonaj fiyatın kendisinden daha çok tasarruf sağlar."
+  },
+  {
+   "type": "h2",
+   "text": "Şanlıurfa'da 25 tonluk vinç nasıl ayarlanır?"
+  },
+  {
+   "type": "p",
+   "text": "İhtiyacınız olan tonajda operatörlü mobil vinç sağlarız. Şanlıurfa merkezde Haliliye, Eyyübiye ve Karaköprü'de, OSB'de ve ilçelerdeki şantiyelerde bu sınıfla sık çalışırız. Uygun vinci ve net fiyatı söyleyebilmemiz için WhatsApp'tan şunları gönderin:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Yükün ağırlığı ve ölçüsü; biliniyorsa sapan ve aparat bilgisi",
+    "Vincin park edebileceği nokta ile yükün ineceği nokta arasındaki yatay mesafe",
+    "Yükün çıkacağı yükseklik ve aradaki engeller (saçak, duvar, ağaç, elektrik hattı)",
+    "Vincin duracağı yerin ve sahaya girişin fotoğrafı",
+    "Konum ve tarih"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "0542 488 98 08'i arayabilir ya da aynı numaradan WhatsApp'a yazabilirsiniz. Hizmetin kapsamı için <a href=\"/hizmetler/mobil-vinc-kiralama\">mobil vinç kiralama</a> sayfamıza bakabilirsiniz."
+  },
+  {
+   "type": "p",
+   "text": "Mesafeyi ölçmek zorsa uydu haritasında vincin duracağı yeri ve yükün ineceği yeri işaretleyip ekran görüntüsü göndermeniz de yeterli bir başlangıçtır. Yük 25 tonluk vincin tablosuna sığmıyorsa bunu size baştan söyleriz ve işe uygun büyüklükte vinçle geliriz; sahada \"bu vinç yetmedi\" sürprizi, hem sizin hem bizim için en pahalı durumdur. Urfa genelindeki saha koşullarını <a href=\"/\">Şanlıurfa vinç kiralama</a> sayfamızda özetledik."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "25 tonluk vinç kaç ton kaldırır?",
+   "a": "25 tonu yalnızca 3 metre yarıçapta ve en kısa bomla kaldırır. Örnek model Sany STC250'de 8 metrede 10 ton, 10 metrede 7,5 ton, 15 metrede 3,7 ton, 20 metrede yaklaşık 2 ton. Kesin değer gelen aracın yük tablosundadır."
+  },
+  {
+   "q": "25 tonluk vincin bomu kaç metre?",
+   "a": "Örnek modellerde teleskopik bom 33,5 metredir; Sany STC250'de jib ile 48,1 metreye kadar çıkar. Bom uzadıkça kapasite düşer; jib erişim kazandırır, kapasite kazandırmaz."
+  },
+  {
+   "q": "25 ile 30 tonluk vinç arasında büyük fark var mı?",
+   "a": "Aynı yarıçapta 30 tonluk vinç biraz daha fazla pay bırakır ama iki sınıf da benzer işleri görür. Asıl sıçrama, orta mesafede belirgin şekilde daha fazla kaldıran 40–50 ton sınıfına geçildiğinde olur."
+  },
+  {
+   "q": "25 tonluk vinç sokağa sığar mı?",
+   "a": "Araç 2,5 metre genişliğinde ve 12–13 metre boyundadır; çalışırken 6 metreyi aşan bir genişliğe ayak açar. Sokak boşaltılabiliyorsa çoğu ana caddede çalışır; dar mahalle sokaklarında daha kompakt bir sınıf ya da farklı konum gerekebilir."
+  },
+  {
+   "q": "25 tonluk vinç için hangi ehliyet gerekir?",
+   "a": "İş makinesi olarak tescilli mobil vinçlerde G sınıfı sürücü belgesi ve mobil vinç operatörlük belgesi gerekir. Operatörlü kiralamada belge ve sorumluluk bizdedir."
+  },
+  {
+   "q": "Günlük mü, saatlik mi kiralanır?",
+   "a": "Tek bir kaldırmalık işler saatlik ve minimum süreyle, montaj gibi gün boyu süren işler günlük fiyatlanır. İşi anlatırsanız hangisinin daha uygun olduğunu baştan söyleriz."
+  },
+  {
+   "q": "Karşı ağırlık için ayrı araç gelir mi?",
+   "a": "Bu sınıfta genellikle hayır; örnek model Sany STC250'nin 3,8 tonluk karşı ağırlığı araçla birlikte gelir. Ayrı karşı ağırlık aracı daha büyük sınıfların konusudur."
+  }
+ ]
+}
