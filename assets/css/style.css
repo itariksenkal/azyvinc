@@ -284,6 +284,9 @@ a.tag:hover { background: rgba(255,255,255,.12); }
 .footer__brand .brand small { color: #7e8ea0; }
 .footer li { margin-bottom: 9px; }
 .footer__bottom { border-top: 1px solid rgba(255,255,255,.08); margin-top: 36px; padding-top: 18px; text-align: center; color: #6c7c8f; font-size: .85rem; }
+.footer__credit { display: block; margin-top: 6px; font-size: .8rem; }
+.footer__credit a { display: inline-flex; align-items: center; gap: 5px; vertical-align: -3px; }
+.footer__credit img { width: 16px; height: 16px; opacity: .8; }
 .footer .li-ic { width: 15px; height: 15px; vertical-align: -3px; margin-right: 6px; }
 
 /* ---------- Sosyal medya ---------- */
