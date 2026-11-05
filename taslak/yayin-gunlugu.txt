@@ -50,3 +50,4 @@
 2026-11-03 cam-balkon-pvc-pencere-montaji-sepetli-platform
 2026-11-04 sandvic-panel-cati-ve-cephe-montaji-vinc
 2026-11-05 tiny-house-mobil-ev-tasima-yerlestirme-vinc
+2026-11-06 urfa-tasi-blok-ve-palet-yukleme-hiyap-vinc
