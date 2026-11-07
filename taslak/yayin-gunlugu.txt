@@ -52,3 +52,4 @@
 2026-11-05 tiny-house-mobil-ev-tasima-yerlestirme-vinc
 2026-11-06 urfa-tasi-blok-ve-palet-yukleme-hiyap-vinc
 2026-11-07 yilbasi-ve-ramazan-sokak-susleme-isik-montaji-sepetli-platform
+2026-11-08 akaryakit-istasyonu-tank-yerlestirme-vinc
