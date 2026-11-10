@@ -55,3 +55,4 @@
 2026-11-08 akaryakit-istasyonu-tank-yerlestirme-vinc
 2026-11-09 karakopru-yuksek-katli-sitelerde-vinc-ve-sepetli-platform
 2026-11-10 fabrika-bakim-durusu-vinc-ve-sepetli-platform-planlama
+2026-11-11 yuruyen-merdiven-eskalator-montaji-vinc
