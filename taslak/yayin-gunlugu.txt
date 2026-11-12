@@ -57,3 +57,4 @@
 2026-11-10 fabrika-bakim-durusu-vinc-ve-sepetli-platform-planlama
 2026-11-11 yuruyen-merdiven-eskalator-montaji-vinc
 2026-11-12 led-ekran-dev-ekran-montaji-vinc
+2026-11-13 fabrika-depo-tavan-aydinlatma-led-donusumu-platform
