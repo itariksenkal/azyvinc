@@ -59,3 +59,4 @@
 2026-11-12 led-ekran-dev-ekran-montaji-vinc
 2026-11-13 fabrika-depo-tavan-aydinlatma-led-donusumu-platform
 2026-11-14 kamera-cctv-direk-montaji-sepetli-platform
+2026-11-15 cati-olugu-temizligi-ve-kiremit-tamiri-sepetli-platform
