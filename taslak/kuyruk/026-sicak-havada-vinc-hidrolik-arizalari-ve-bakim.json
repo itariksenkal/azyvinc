@@ -1,0 +1,215 @@
+{
+  "slug": "sicak-havada-vinc-hidrolik-arizalari-ve-bakim",
+  "_hedef": "vinç hidrolik yağ ısınması / sıcakta vinç yavaşlıyor / hiyap yağ ısınıyor / yaz vinç bakımı",
+  "title": "Sıcak Havada Vinç Hidrolik Arızaları: Yağ, Hortum, Keçe",
+  "ogTitle": "Sıcak havada vinç ve hiyap hidrolik arızaları: Şanlıurfa yazında yağın ısınması, hortum ve keçe yıpranması, belirtiler, ne zaman durmalı ve yaz öncesi bakım listesi",
+  "h1": "Sıcak havada vinç hidrolik arızaları: yağ ısınması, hortum ve keçeler",
+  "desc": "Şanlıurfa yazında vinç ve hiyap neden yavaşlar? Hidrolik yağın ısınması, hortum ve keçe yıpranması; belirtiler, ne zaman durmalı, yaz öncesi bakım listesi.",
+  "image": "piazza-avm-sanliurfa-cephe-tabela-sepetli-vinc.jpeg",
+  "imageAlt": "Açık mavi gökyüzü altında AVM cephesindeki tabelalara uzanan beyaz kamyon üstü sepetli vinç",
+  "caption": "Yaz öğleden sonrası, hidrolik sistemin en çok zorlandığı saatlerdir.",
+  "intro": "Sıcak havada vincin yavaşlaması, güç kaybetmesi ya da yağ kaçırmaya başlaması çoğu zaman aynı kaynaktan gelir: hidrolik yağın normal çalışma sıcaklığını aşması. Yağ ısındıkça incelir, iç kaçaklar artar; uzun süre sıcak çalışan hortum ve keçeler de daha çabuk yıpranır. Hiab, hidrolik yağın çalışma sıcaklığının 70 °C'nin altında tutulmasını güçlü biçimde önerir ve sıcak iklimde yağın daha sık değiştirilmesi gerekebileceğini yazar. Şanlıurfa'da temmuz ve ağustosun ortalama en yüksek sıcaklığı 38 °C'nin üzerindedir. Aşağıda belirtileri, nedenlerini, ne zaman durmanız gerektiğini ve yaz öncesi bakım listesini bulacaksınız.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Şanlıurfa yazı makineye ne yapar?"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://www.mgm.gov.tr/veridegerlendirme/il-ve-ilceler-istatistik.aspx?m=SANLIURFA\" target=\"_blank\" rel=\"noopener\">Meteoroloji Genel Müdürlüğü'nün Şanlıurfa istatistiklerine</a> göre (ölçüm dönemi 1929–2025) ortalama en yüksek sıcaklık haziranda 34,8 °C, temmuzda 38,8 °C, ağustosta 38,4 °C, eylülde 34,0 °C'dir. Ölçülen en yüksek değer temmuzda 46,8 °C'dir. Bu, havanın sıcaklığıdır; güneş altındaki koyu renkli bir yağ deposu, motorun yanından geçen bir hortum ya da asfalttan yansıyan ısı makinenin yüzeyini bunun da üzerine çıkarır."
+    },
+    {
+      "type": "p",
+      "text": "Sıcaklık tek başına arıza yapmaz; arızayı öne çeker. Kılavuzlar bunu açıkça söyler. <a href=\"https://csapps.jlg.com/OnlineManuals/Manuals/JLG/JLG%20Boom%20Lifts/600S_600SJ_660SJ/Operation%20Manuals/PVC%202001/31215033_C_600S,660SJ_JLG_Operation_English.pdf\" target=\"_blank\" rel=\"noopener\">JLG'nin kullanım kılavuzu</a> yüksek ortam sıcaklığında makine performansının düşebileceğini ve motor soğutma suyu sıcaklığının artabileceğini yazar. <a href=\"https://www.gates.com/content/dam/documents-library/operating-manuals/safe-hydraulics-pocket-guide-en.pdf\" target=\"_blank\" rel=\"noopener\">Gates'in hidrolik güvenlik rehberi</a> yüksek ortam sıcaklığının hortum ömrünü kısalttığını, hortumların sıcak parçalardan uzak tutulmasını ister."
+    },
+    {
+      "type": "h2",
+      "text": "Belirti, olası neden, ne yapmalı"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Belirti",
+        "Olası neden",
+        "Ne yapmalı"
+      ],
+      "rows": [
+        [
+          "Öğleden sonra hareketler yavaşlıyor, vinç güçsüzleşiyor",
+          "Yağ ısınıp incelmiş, iç kaçak artmış",
+          "Makineyi rölantide soğumaya bırakın; ağır kaldırmaları sabaha alın. Sürerse yağ ve soğutucuya baktırın"
+        ],
+        [
+          "Bom ya da sepet beklerken konumu değişiyor",
+          "Silindirlerde ısıyla genleşme; ya da valf ve keçede iç kaçak",
+          "Sıcaklık farkıyla az bir değişim olağandır. Sürekli iniyorsa arızadır; çalışmayı bırakın"
+        ],
+        [
+          "Yağ deposu ve hortumlar elle tutulamayacak kadar sıcak",
+          "Yağ soğutucusu kirli ya da yetersiz; motor devri yüksek; silindir sonunda kol tutulmuş",
+          "Çalışmayı durdurun. Soğutucu peteklerini temizletin, devri ve kullanım alışkanlığını düzeltin"
+        ],
+        [
+          "Rakor ve bağlantılarda yeni sızıntılar",
+          "O-ring ve contalar ısıyla bozulmuş",
+          "Sistem kapalıyken kontrol; bağlantı sökülüp O-ring yenilenir"
+        ],
+        [
+          "Hortum dış kılıfında çatlak ya da kabarma",
+          "Isı kaynağına yakın güzergâh; yağla uyumsuz ya da eskimiş hortum",
+          "Hortum değişir, güzergâh ısı kaynağından uzaklaştırılır ya da ısı koruyucu kılıf takılır"
+        ],
+        [
+          "Silindir milinde yağ izi",
+          "Keçe sertleşmiş ya da aşınmış; mil tozdan çizilmiş",
+          "Silindir tamiri gerekir"
+        ],
+        [
+          "Yağ koyulaşmış, rengi koyulaşmış ya da yanık kokuyor",
+          "Yağ uzun süre yüksek sıcaklıkta çalışmış",
+          "Yağ analizi ya da değişimi; filtreler de değişir"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Yağı ısıtan alışkanlıklar"
+    },
+    {
+      "type": "p",
+      "text": "Isınmanın bir kısmı havadan değil, kullanımdan gelir. <a href=\"https://cms.hiab.com/contentassets/b93afbc7c799473598ff867912a91063/hiab---x-duo-044-112---operators-manual.pdf\" target=\"_blank\" rel=\"noopener\">Hiab X-Duo operatör kılavuzu</a> üç noktaya dikkat çeker:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Yüksek devir:</strong> PTO devri gereğinden yüksekse hidrolik yağ aşırı ısınabilir.",
+        "<strong>Silindir sonunda kol tutmak:</strong> silindir hareket sonuna geldiğinde kol bırakılmazsa aşırı ısınma olabilir.",
+        "<strong>Boşta basınç:</strong> Hiab'ın otomatik boşaltma fonksiyonu, kol 3 saniye oynatılmadığında yağı depoya yönlendirerek yağın aşırı ısınmasını önler. Bu tür fonksiyonların kapatılmaması gerekir."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Yağın kendisi de önemlidir. Hiab kılavuzundaki tabloya göre yağın vizkozite sınıfı çalışma sıcaklığı aralığına göre seçilir ve gerekirse yağ soğutucusu düşünülmelidir. Hangi yağın kullanılacağı makinenin kılavuzunda yazar; “elde ne varsa” yağ eklemek yaz sorunlarını büyütür."
+    },
+    {
+      "type": "h2",
+      "text": "Ne zaman çalışmayı bırakmalı?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Bom, uzatma ya da ayak yük altında kendiliğinden iniyorsa.",
+        "Yağ fışkırıyor, sis hâlinde püskürüyor ya da sıcak bir parçanın üzerine damlıyorsa; hidrolik yağların çoğu yanıcıdır.",
+        "Pompa ses yapmaya başladıysa.",
+        "Soğutma suyu ya da yağ sıcaklığı ikazı yandıysa.",
+        "Sepetteki ya da yerdeki ekipte baş dönmesi, bulantı gibi sıcak çarpması belirtileri varsa; sıcakta dikkat düşer ve hataların çoğu buradan çıkar."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Sıcak yağa dokunmayın: <a href=\"https://www.customtruck.com/wp-content/uploads/2019/03/Versalift-VST-39-43-50-55-TN.pdf\" target=\"_blank\" rel=\"noopener\">Versalift'in araç üstü platform kılavuzu</a> sıcak hidrolik yağın ciddi yanıklara yol açabileceğini, basınçlı yağın deriyi delebileceğini yazar. Kaçak arıyorsanız makine soğuduktan sonra, elle değil karton ya da kâğıtla arayın. Yük düşmesine yol açan diğer nedenleri <a href=\"/blog/vincte-yuk-dusmesi-nedenleri\">vinçte yük düşmesi</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Yaz öncesi bakım listesi"
+    },
+    {
+      "type": "p",
+      "text": "Mayıs sonu, ilk sıcaklar gelmeden şu işleri yaptırmak yazın arıza riskini azaltır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Hidrolik yağın durumunu kontrol ettirin: değişim zamanı geldiyse değiştirin ya da yağ analizi yaptırın.",
+        "Filtreleri kılavuzdaki aralığa göre değiştirin; filtre göstergesi kırmızıysa beklemeyin.",
+        "Yağ soğutucusunun ve radyatörün peteklerini temizletin; tozlu sahada petekler çabuk kapanır.",
+        "Bütün hortumlara bakın: çatlak, kabarma, sürtünme izi, sıcak parçaya yakın güzergâh.",
+        "Silindir millerini temizleyin; Hiab kılavuzu kirli ortamda millerin düzenli temizlenip yağlanmasını ister.",
+        "Depo havalandırma kapağının temiz olduğundan emin olun.",
+        "Uzaktan kumandalı makinelerde kumanda aküsünü gölgede tutun; Hiab kumanda aküsü için 0 ile +45 °C arası çalışma sıcaklığı verir.",
+        "Bakımı kayda geçirin; Yönetmelik bütün bakım ve onarımların kaydedilip makinenin ömrü boyunca saklanmasını ister (<a href=\"https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.18318.pdf\" target=\"_blank\" rel=\"noopener\">Ek-III, 1.3.4</a>)."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Sahada ısıyı azaltan pratik önlemler"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Ağır ve uzun kaldırmaları sabah erken saatlere alın.",
+        "Makineyi mümkünse gölgede, en azından depo tarafı güneşe bakmayacak şekilde konumlayın.",
+        "Uzun çevrimlerin arasında makineye dinlenme payı bırakın.",
+        "Isınan asfaltta ayak pabuçları gömülebilir; geniş sedye plakası kullanın."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Gece ve erken sabah çalışmanın düzenini <a href=\"/blog/gece-vinc-calismasi-yaz-sicagi-vardiya\">gece vinç çalışması ve yaz sıcağı</a> yazımızda ayrıntılı anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Şanlıurfa'da sıcakla gelen arıza için ne gönderilir?"
+    },
+    {
+      "type": "p",
+      "text": "AZY Vinç vinç, hiyap ve sepetli platform için arıza tespiti, tamir ve bakım yapıyor. <a href=\"tel:+905424889808\">0542 488 98 08</a> numarasını arayın ya da <a href=\"https://wa.me/905424889808?text=Merhaba%2C%20vincimde%20ariza%20var.%20Arizanin%20fotografini%20ve%20videosunu%2C%20vincin%20tipini%20ve%20markasini%2C%20konumumu%20gonderiyorum.\" target=\"_blank\" rel=\"noopener\">WhatsApp'tan yazın</a>:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Arızanın fotoğrafı ve videosu:</strong> yavaşlayan hareketin videosu, kaçak ya da çatlak hortumun yakın çekimi, ikaz ışıkları.",
+        "<strong>Vincin tipi ve markası:</strong> marka, model; biliyorsanız kullanılan yağın adı.",
+        "<strong>Konum:</strong> WhatsApp konumu.",
+        "<strong>Zamanlama:</strong> sorun sabah da var mı, yoksa yalnızca öğleden sonra mı başlıyor."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "İşin yerinde mi yoksa bizde mi yapılacağını arızaya göre birlikte belirleriz. Ayrıntı <a href=\"/hizmetler/vinc-tamiri-bakim\">vinç tamiri ve bakım</a> sayfamızda; makineniz tamirdeyken işiniz için <a href=\"/\">Şanlıurfa vinç kiralama</a> sayfamıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Maliyeti ne belirler?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Yağ ve filtre:</strong> depo hacmi, yağ türü, filtre sayısı.",
+        "<strong>Soğutucu:</strong> temizlik mi, onarım ya da değişim mi.",
+        "<strong>Hortum ve keçe:</strong> değişecek hortum sayısı ve özellikleri, silindirin sökülmesi.",
+        "<strong>İşin yeri ve zamanı:</strong> yerinde müdahale, mesafe, mesai dışı çalışma."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Vinç sıcak havada neden yavaşlar?",
+      "a": "Hidrolik yağ ısındıkça incelir ve sistemdeki iç kaçaklar artar; hareketler yavaşlar, güç düşer. Kirli soğutucu, yüksek devir ve yanlış yağ bu durumu ağırlaştırır."
+    },
+    {
+      "q": "Hidrolik yağ kaç dereceyi geçmemeli?",
+      "a": "Makinenin kılavuzuna bakılır. Örneğin Hiab, hidrolik yağın çalışma sıcaklığının 70 °C'nin altında tutulmasını güçlü biçimde önerir ve gerekirse yağ soğutucusu kullanılmasını söyler."
+    },
+    {
+      "q": "Sıcak iklimde hidrolik yağ daha sık mı değişir?",
+      "a": "Gerekebilir. Hiab kılavuzu, sıcak iklimde çalışan vincin yağının daha sık değiştirilmesi gerekebileceğini yazar. Yağ analizi, değişim zamanını netleştirmenin yoludur."
+    },
+    {
+      "q": "Şanlıurfa'da yaz sıcaklıkları ne kadar?",
+      "a": "Meteoroloji Genel Müdürlüğü verilerine göre (1929–2025) ortalama en yüksek sıcaklık temmuzda 38,8 °C, ağustosta 38,4 °C'dir; ölçülen en yüksek değer 46,8 °C'dir."
+    },
+    {
+      "q": "Sıcakta hortumlar neden çatlar?",
+      "a": "Yüksek sıcaklık hortum ömrünü kısaltır. Hortum motor ya da egzoz gibi sıcak bir parçanın yanından geçiyorsa daha çabuk yıpranır; hortum değiştirilir ve güzergâh ısı kaynağından uzaklaştırılır."
+    },
+    {
+      "q": "Bom beklerken kendiliğinden biraz oynuyorsa arıza mıdır?",
+      "a": "Silindirler sıcaklıkla genleşip büzüldüğü için az bir değişim olağandır. Bom ya da sepet sürekli iniyorsa arızadır; çalışma bırakılır ve tamir ettirilir."
+    },
+    {
+      "q": "Yaz öncesi vincin bakımında neler yapılmalı?",
+      "a": "Yağ kontrolü ya da değişimi, filtreler, soğutucu peteklerinin temizliği, hortum kontrolü, silindir millerinin temizliği ve depo havalandırma kapağı. Şanlıurfa'da bakım için 0542 488 98 08'i arayın."
+    }
+  ]
+}

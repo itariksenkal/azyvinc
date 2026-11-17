@@ -29,7 +29,16 @@ def esc(t):
 WA = ("https://wa.me/905424889808?text=Merhaba%2C%20bir%20is%20icin%20vinc%20lazim.%20Isin%20"
       "fotografini%20ve%20konumumu%20gonderiyorum%3B%20uygun%20fiyat%20ve%20ne%20zaman%20"
       "gelebileceginizi%20ogrenebilir%20miyim%3F")
+WA_TAMIR = ("https://wa.me/905424889808?text=Merhaba%2C%20vinc%20tamiri%20icin%20yaziyorum.%20Arizanin%20"
+            "fotografini%20veya%20videosunu%2C%20vincin%20tipini%20ve%20konumumu%20gonderiyorum%3B%20"
+            "ne%20yapilabilecegini%20ogrenebilir%20miyim%3F")
+CTA_WA = {"tamir": WA_TAMIR}  # konuya özel WhatsApp ön metni; listede yoksa genel WA kullanılır
 CTA_KONU = [
+    # Tamir/bakım yazıları ilk sırada: "hiyap-arizalari-…" ya da "sepetli-platform-…-bakimi" gibi
+    # slug'lar da bu kutuyu alır. Kiralama konulu üç yazı bilerek dışarıda tutulur:
+    # …-kiremit-tamiri-… (çatı işi), fabrika-bakim-durusu-… ve ges-ve-res-tesislerinde-vinc-bakim.
+    ("tamir", re.compile(r"(?<!kiremit-)tamir|ariza|(?<!tesislerinde-vinc-)bakim(?!-durusu)|"
+                         r"revizyon|hidrolik|kacak")),
     ("hiyap", re.compile(r"hiyap|hiab|hiup")),
     ("fatura", re.compile(r"tevkifat|fatura|kdv|muhasebe|hakedis|birim-fiyat|sozlesme|ihale|"
                           r"sartname|evrak|kurumsal|puantaj|kapora|teklif|ceza|hukuki|sigorta|"
@@ -39,6 +48,11 @@ CTA_KONU = [
                            r"cephe|budama|boya|branda|tabela")),
 ]
 CTA_KUTU = {
+    "tamir": ("Vinç tamiri ve bakım — arızayı anlatın",
+              "Vinç, hiyap ve sepetli platform için arıza tespiti, tamir ve bakım yapıyoruz. Arızanın "
+              "fotoğrafını ya da videosunu, vincin tipini ve markasını gönderin; işin yerinde mi yoksa "
+              "bizde mi yapılacağını birlikte belirleyelim.",
+              ("/hizmetler/vinc-tamiri-bakim", "Vinç tamiri ve bakım")),
     "fatura": ("Faturalı, sözleşmeli, operatörlü — İSG dosyası hazır",
                "Kurumsal işlerde yazılı teklif, sözleşme ve faturayla çalışırız; operatör belgeleri "
                "ve İSG evrakları sahaya girmeden önce elinizde olur.",
@@ -76,7 +90,7 @@ def cta_kutu(slug):
             '    <a class="btn btn--accent" href="tel:+905424889808">Hemen Ara</a>\n'
             '    <a class="btn btn--wa" href="%s" target="_blank" rel="noopener">WhatsApp\'tan yaz</a>\n'
             '  </div>%s\n'
-            '</aside>\n' % (konu, baslik, metin, WA, more))
+            '</aside>\n' % (konu, baslik, metin, CTA_WA.get(konu, WA), more))
 
 
 def cta_ekle(article, slug):

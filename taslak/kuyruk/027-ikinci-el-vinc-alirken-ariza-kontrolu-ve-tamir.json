@@ -1,0 +1,202 @@
+{
+  "slug": "ikinci-el-vinc-alirken-ariza-kontrolu-ve-tamir",
+  "_hedef": "ikinci el vinç alırken dikkat edilecekler / ikinci el hiyap kontrol / ikinci el vinç ekspertiz",
+  "title": "İkinci El Vinç Alırken Arıza Kontrolü: Satın Alma Listesi",
+  "ogTitle": "İkinci el vinç, hiyap ya da sepetli platform alırken arıza kontrolü: belgeler, yapı, hidrolik, güvenlik sistemleri, deneme kaldırması ve satın aldıktan sonra beklenen tamir ihtiyaçları",
+  "h1": "İkinci el vinç alırken arıza kontrolü: satın almadan önce bakılacaklar",
+  "desc": "İkinci el vinç ya da hiyap alırken belge, çatlak, yağ kaçağı, yük tutma ve güvenlik sistemleri nasıl kontrol edilir? Satın alma sonrası beklenen tamirler.",
+  "image": "tp-akaryakit-totem-mobil-vinc-sepetli-platform.jpeg",
+  "imageAlt": "Akaryakıt istasyonu totem tabelasında birlikte çalışan sarı araç üstü vinç ve beyaz kamyon üstü sepetli platform",
+  "caption": "İkinci el makinede asıl soru “çalışıyor mu” değil, “nasıl kullanılmış”tır.",
+  "intro": "İkinci el vinç alırken üç şeye bakılır: belgeler, makinenin yapısı ve yük altında nasıl davrandığı. Kâğıt tarafında son periyodik kontrol raporu ile bakım ve onarım kayıtlarını isteyin; makinede bom, kolon ve ayaklarda çatlak, kaynak izi, yağ kaçağı ve pim boşluğu arayın; sonra yüklü bir deneme yaptırıp bomun yükü tutup tutmadığını, güvenlik sistemlerinin çalışıp çalışmadığını görün. JLG gibi üreticiler, ikinci el alınan makinenin işe başlamadan ayrıntılı kontrolden geçirilmesini kılavuzlarında ayrıca şart koşar. Aşağıda adım adım kontrol listesini ve satın aldıktan sonra en sık çıkan tamir ihtiyaçlarını bulacaksınız.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Önce kâğıtlar: hangi belgeleri istemeli?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Son periyodik kontrol raporu:</strong> <a href=\"https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.18318.pdf\" target=\"_blank\" rel=\"noopener\">İş Ekipmanları Yönetmeliği</a>ne göre seyyar iş ekipmanı işletme dışında kullanıldığında son periyodik kontrol raporu ekipmanla birlikte bulundurulur (madde 7). Rapordaki kusurlara bakın; ağır kusurlu makine kusur giderilmeden çalıştırılamaz, giderilmemiş hafif kusurlar da bir sonraki kontrolde ağır kusur sayılır (Ek-III, 1.9.1).",
+        "<strong>Bakım ve onarım kayıtları:</strong> Yönetmelik bunların makinenin kullanım ömrü boyunca saklanmasını ister (Ek-III, 1.3.4). Kayıt yoksa makinenin geçmişi bilinmiyor demektir.",
+        "<strong>Kullanım kılavuzu ve yük tablosu:</strong> makinenin seri numarasına uyan kılavuz ve yük tablosu. Yoksa üreticiden ya da bayisinden temin edilip edilemeyeceğini sorun.",
+        "<strong>İmalatçı etiketi:</strong> marka, model, seri numarası, imal yılı okunuyor mu; belgelerle uyuşuyor mu.",
+        "<strong>Çalışma saati:</strong> bazı vinçlerin ekranı toplam çalışma saatini ve kaldırma sayısını gösterir; Hiab kılavuzu bu sayaçları servis zamanını izlemek için tarif eder."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Kiralamak mı satın almak mı sorusu henüz netleşmediyse <a href=\"/blog/vinc-kiralama-mi-satin-alma-mi-2026\">vinç kiralamak mı satın almak mı</a> yazımıza bakın."
+    },
+    {
+      "type": "h2",
+      "text": "Makine kapalıyken: gözle kontrol listesi"
+    },
+    {
+      "type": "p",
+      "text": "Kontrolü düz zeminde, vinç taşıma konumundayken ve gün ışığında yapın. Liste, <a href=\"https://cms.hiab.com/contentassets/b93afbc7c799473598ff867912a91063/hiab---x-duo-044-112---operators-manual.pdf\" target=\"_blank\" rel=\"noopener\">Hiab</a> ve <a href=\"https://www.customtruck.com/wp-content/uploads/2019/03/Versalift-VST-39-43-50-55-TN.pdf\" target=\"_blank\" rel=\"noopener\">Versalift</a> kılavuzlarındaki günlük kontrol maddelerinden derlendi:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Ne görürseniz",
+        "Olası anlamı",
+        "Ne yapmalı"
+      ],
+      "rows": [
+        [
+          "Bomda, kolonda, ayak kirişlerinde kılcal çatlak ya da kaynak dikişinde pas izi",
+          "Yorulma çatlağı",
+          "Ciddi bulgu. Yetkili kişiye tahribatsız muayene yaptırmadan almayın"
+        ],
+        [
+          "Bom ya da şaside sonradan yapılmış kaynak, takviye levhası",
+          "Geçmişte onarım; kayda geçmemişse belirsizlik",
+          "Onarım kaydını ve sonrasında yapılan periyodik kontrolü isteyin"
+        ],
+        [
+          "Silindir millerinde yağ izi, çizik, pas",
+          "Keçe aşınması; mil hasarı",
+          "Silindir tamiri beklenir; fiyata yansıtın"
+        ],
+        [
+          "Hortumlarda çatlak, kabarma, sürtünme, rakorlarda ıslaklık",
+          "Eskimiş hortum; kaçak",
+          "Hortum değişimi beklenir"
+        ],
+        [
+          "Pim ve burçlarda boşluk, ovalleşmiş delikler",
+          "Gresleme aksatılmış, aşınma",
+          "Pim-burç yenilemesi beklenir"
+        ],
+        [
+          "Valflerdeki mühür telleri kopuk",
+          "Yük tutma ya da boşaltma valflerine müdahale edilmiş olabilir",
+          "Servis kontrolü şart; Hiab bu durumda servise başvurulmasını ister"
+        ],
+        [
+          "Taşıyıcı cıvatalarda işaret kayması, eksik cıvata",
+          "Gevşeme",
+          "Dönüş yatağı ve gövde bağlantıları kontrol edilmeli"
+        ],
+        [
+          "Kancada açılma, emniyet mandalı çalışmıyor; halatta kopuk tel, ezilme",
+          "Aşınma ya da aşırı yük geçmişi",
+          "Kanca ya da halat değişimi beklenir"
+        ],
+        [
+          "Depodaki yağ koyu, köpüklü ya da seviyesi düşük",
+          "Bakım aksamış; kaçak",
+          "Yağ analizi isteyin"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Hiab kılavuzu halat için şu ölçütü verir: anma çapında yüzde 10'dan fazla azalma, ezilme, bükülme, kuş kafesi oluşumu ya da tek tel kopukları görüldüğünde halat değiştirilir."
+    },
+    {
+      "type": "h2",
+      "text": "Makine çalışırken: deneme ve yük altında kontrol"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Soğuk ilk çalıştırma:</strong> pompadan ses geliyor mu; Hiab kılavuzu pompa sesinde vincin hemen durdurulmasını ister.",
+        "<strong>Bütün hareketler tam yol:</strong> ayaklar, kaldırma, uzatma, dönüş. Takılma, sarsıntı, düzensiz ses var mı; uzatmalar sırasını bozuyor mu.",
+        "<strong>Kumanda:</strong> kollar bırakınca nötre dönüyor mu, hareket hemen duruyor mu; stop butonları ve uzaktan kumanda çalışıyor mu.",
+        "<strong>Güvenlik sistemleri:</strong> açılışta hata kodu var mı, aşırı yük koruması devrede mi. Bir sistemin köprülendiğini ya da susturulduğunu görürseniz bu ciddi bir uyarıdır.",
+        "<strong>Yük tutma denemesi:</strong> bilinen ağırlıkta, kapasitenin rahatça içinde bir yükü kaldırıp bomu bir süre bekletin. Bom, uzatma ya da ayak kendiliğinden hareket ediyorsa yük tutma valfi ya da silindirde iç kaçak vardır.",
+        "<strong>Isınmış hâlde tekrar:</strong> makine yarım saat çalıştıktan sonra aynı denemeyi yineleyin; bazı iç kaçaklar ancak yağ ısınınca ortaya çıkar."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Yük denemesini makineyi tanıyan bir operatör yapmalı; kapasite sınırında test yapmak satıcının da alıcının da işi değildir. Yük testi gerekiyorsa bu, periyodik kontrol yapmaya yetkili kişinin işidir (Ek-III, 2.2.1)."
+    },
+    {
+      "type": "h2",
+      "text": "Satın aldıktan sonra: en sık çıkan tamir ihtiyaçları"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Hidrolik yağ ve filtre değişimi; geçmiş bilinmiyorsa ilk yapılacak iş.",
+        "Hortum takımlarının yenilenmesi.",
+        "Silindir keçe takımları.",
+        "Pim ve burç yenilemesi, ardından düzenli gresleme.",
+        "Elektrik bağlantıları, sensörler ve kumanda arızaları.",
+        "Halat, kanca ve kaldırma aksesuarları."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "JLG kılavuzu ikinci el alınan makinenin işe girmeden ayrıntılı kontrolden geçirilmesini ister; üç aydan uzun beklemiş makine için de aynı şartı koyar. Makineyi işinizde kullanmaya başladığınızda bakımını ve periyodik kontrollerini yaptırmak işveren olarak sizin yükümlülüğünüzdür (Yönetmelik madde 6). Kontrolün ayrıntısını <a href=\"/blog/2026-vinc-periyodik-kontrol-fenni-muayene-zorunlulugu\">vinç periyodik kontrol</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Şanlıurfa'da ikinci el vinç için arıza kontrolü ve tamir"
+    },
+    {
+      "type": "p",
+      "text": "AZY Vinç vinç, hiyap ve sepetli platform için arıza tespiti, tamir ve bakım yapıyor. Almayı düşündüğünüz ya da yeni aldığınız makine için <a href=\"tel:+905424889808\">0542 488 98 08</a> numarasını arayın veya <a href=\"https://wa.me/905424889808?text=Merhaba%2C%20ikinci%20el%20bir%20vinc%20icin%20ariza%20kontrolu%20ve%20tamir%20konusunda%20bilgi%20almak%20istiyorum.%20Fotograflari%20ve%20konumu%20gonderiyorum.\" target=\"_blank\" rel=\"noopener\">WhatsApp'tan yazın</a>; şunları gönderin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Fotoğraf ve video:</strong> imalatçı etiketi, bom ve kolonun genel görünümü, silindirler, hortumlar, kanca; makine çalışırken bütün hareketlerin videosu ve pompa sesi.",
+        "<strong>Vincin tipi ve markası:</strong> marka, model, imal yılı, çalışma saati.",
+        "<strong>Belgeler:</strong> son periyodik kontrol raporunun ve varsa bakım kayıtlarının fotoğrafı.",
+        "<strong>Konum:</strong> makinenin bulunduğu yer."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Gördüğümüz arızaları ve beklenen tamir ihtiyaçlarını konuşur, işin yerinde mi yoksa bizde mi yapılacağını birlikte belirleriz. Ayrıntı <a href=\"/hizmetler/vinc-tamiri-bakim\">vinç tamiri ve bakım</a> sayfamızda. Satın almak yerine kiralamayı düşünüyorsanız <a href=\"/\">Şanlıurfa vinç kiralama</a> sayfamıza bakın; hiyap tarafında <a href=\"/blog/hiyap-nedir-kac-ton-kaldirir-kiralama\">hiyap nedir, kaç ton kaldırır</a> yazısı da işinize yarar."
+    },
+    {
+      "type": "h2",
+      "text": "Satın alma sonrası tamir maliyetini ne belirler?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Bulunan arızaların sayısı ve yeri.</strong>",
+        "<strong>Makinenin yaşı ve çalışma saati:</strong> yaşlı makinede parça bulmak zorlaşabilir.",
+        "<strong>Bakım geçmişi:</strong> kayıt yoksa ilk bakım daha kapsamlı olur.",
+        "<strong>Yapısal onarım:</strong> bom ya da şasi kaynağı önemli onarım sayılır ve ardından yetkili kontrol gerekir (Yönetmelik madde 6/A ve 7).",
+        "<strong>İşin yeri:</strong> yerinde mi yapılacak, makine taşınacak mı."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "İkinci el vinç alırken hangi belgeler istenmeli?",
+      "a": "Son periyodik kontrol raporu, bakım ve onarım kayıtları, seri numarasına uyan kullanım kılavuzu ve yük tablosu. İmalatçı etiketindeki bilgilerin belgelerle uyuştuğuna da bakın."
+    },
+    {
+      "q": "İkinci el hiyapta en önemli kontrol nedir?",
+      "a": "Yük tutma denemesi. Bilinen bir yükü kaldırıp bomu bekletin; bom, uzatma ya da ayak kendiliğinden hareket ediyorsa yük tutma valfinde ya da silindirde arıza vardır. Denemeyi makine ısındıktan sonra tekrarlayın."
+    },
+    {
+      "q": "Bomda kaynak izi varsa vinç alınır mı?",
+      "a": "Onarımın ne zaman ve kim tarafından yapıldığı, sonrasında yetkili kişilerce kontrol edilip edilmediği belgelenmiyorsa risklidir. Yönetmelik taşıyıcı kısımlardaki kaynağı önemli onarım sayar."
+    },
+    {
+      "q": "Valflerdeki mühür telleri kopuksa ne anlama gelir?",
+      "a": "Yük tutma ya da boşaltma valflerine müdahale edilmiş olabilir. Hiab kılavuzu mühür teli kopmuşsa servise başvurulmasını ister; satın almadan önce kontrol ettirin."
+    },
+    {
+      "q": "İkinci el vinci aldıktan sonra periyodik kontrol gerekir mi?",
+      "a": "Vinçlerde periyodik kontrol, standartta başka süre yoksa en geç yılda bir yapılır ve makineyi çalıştıran işverenin yükümlülüğüdür; raporun süresine ve kusurlarına bakın. JLG gibi üreticiler de ikinci el alınan makinenin işe girmeden ayrıntılı kontrolünü ister."
+    },
+    {
+      "q": "Satın aldıktan sonra en çok hangi tamirler çıkar?",
+      "a": "Yağ ve filtre değişimi, hortum yenilemesi, silindir keçeleri, pim-burç boşlukları, elektrik ve sensör arızaları, halat ve kanca değişimi."
+    },
+    {
+      "q": "Şanlıurfa'da ikinci el vinç için arıza kontrolü yaptırabilir miyim?",
+      "a": "AZY Vinç vinç, hiyap ve sepetli platform için arıza tespiti, tamir ve bakım yapıyor. Fotoğraf, video, marka-model ve konumu 0542 488 98 08 numarasına WhatsApp'tan gönderin."
+    }
+  ]
+}

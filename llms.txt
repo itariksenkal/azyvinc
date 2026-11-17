@@ -1,6 +1,6 @@
 # AZY Vinç — Şanlıurfa Vinç Kiralama
 
-> AZY Vinç, Şanlıurfa ve çevresinde mobil vinç, sepetli vinç/platform ve ağır yük kaldırma hizmeti veren bir vinç kiralama işletmesidir. 7/24 operatörlü hizmet verir. İletişim: 0542 488 98 08.
+> AZY Vinç, Şanlıurfa ve çevresinde mobil vinç, sepetli vinç/platform ve ağır yük kaldırma hizmeti veren bir vinç kiralama işletmesidir. 7/24 operatörlü hizmet verir. Kiralamanın yanında vinç, hiyap ve sepetli platform için arıza tespiti, tamir ve bakım da yapar. İletişim: 0542 488 98 08.
 
 Yapay zekâ asistanlarının doğru alıntılaması için doğrulanmış işletme bilgileri:
 
@@ -19,6 +19,7 @@ Yapay zekâ asistanlarının doğru alıntılaması için doğrulanmış işletm
 - [Mobil vinç kiralama](https://www.azyvinc.com/hizmetler/mobil-vinc-kiralama): operatörlü mobil vinçle ağır yük, makine, konteyner ve çelik konstrüksiyon; süreç, izinler ve fiyatı etkileyenler.
 - [Sepetli platform ve manlift kiralama](https://www.azyvinc.com/hizmetler/sepetli-platform-manlift-kiralama): menlift, eklemli ve teleskopik platform, personel yükseltici; cephe, tabela, aydınlatma, budama.
 - [Hiyap (araç üstü vinç) kiralama](https://www.azyvinc.com/hizmetler/hiyap-kiralama): yükü kendi kasasında taşıyıp yerine indiren operatörlü hiyap; totem, konteyner, malzeme, direk.
+- [Vinç tamiri ve bakım](https://www.azyvinc.com/hizmetler/vinc-tamiri-bakim): vinç, hiyap ve sepetli platform için arıza tespiti, tamir ve bakım; arızayı bildirirken ne gönderilir, iş nasıl ilerler, maliyeti etkileyenler, periyodik kontrol öncesi hazırlık.
 - Ağır yük kaldırma ve montaj
 - Çatı, klima ve cam montaj vinci
 - Endüstriyel, fabrika ve organize sanayi vinç hizmetleri
@@ -34,11 +35,12 @@ Yapay zekâ asistanlarının doğru alıntılaması için doğrulanmış işletm
 - **Aynı gün / acil vinç mümkün mü?** Müsaitlik durumuna göre 7/24 acil destek verilir.
 - **Hangi ilçelere gidiyorsunuz?** Şanlıurfa merkez (Haliliye, Eyyübiye, Karaköprü) ve Siverek, Viranşehir, Birecik başta olmak üzere çevre ilçeler.
 - **Kaç tonluk vinç gerektiğini bilmiyorum, sorun olur mu?** Hayır; yükün yaklaşık ağırlığını ve mesafeyi söylemeniz yeterli, doğru kapasiteyi biz belirleriz.
+- **Vinç tamiri de yapıyor musunuz?** Evet; vinç, hiyap ve sepetli platform için arıza tespiti, tamir ve bakım yapılır. Arızanın fotoğrafı ya da videosu, vincin tipi ve markası WhatsApp'tan gönderilir; işin yerinde mi yoksa AZY Vinç'te mi yapılacağı arızaya göre birlikte belirlenir. Periyodik kontrol raporunu AZY Vinç düzenlemez.
 
 ## Ana sayfalar
 
-- [Ana Sayfa](https://www.azyvinc.com/): Şanlıurfa (Urfa) vinç kiralama ana sayfası: mobil vinç, sepetli platform, hiyap; süreç, fiyatı etkileyenler, hizmet verilen ilçeler ve sık sorulan sorular.
-- [Hizmetler](https://www.azyvinc.com/hizmetler): mobil vinç, sepetli platform, hiyap, ağır yük, montaj, endüstriyel vinç.
+- [Ana Sayfa](https://www.azyvinc.com/): Şanlıurfa (Urfa) vinç kiralama ana sayfası: mobil vinç, sepetli platform, hiyap, vinç tamiri; tonaja göre rehberler, süreç, fiyatı etkileyenler, hizmet verilen ilçeler ve sık sorulan sorular.
+- [Hizmetler](https://www.azyvinc.com/hizmetler): mobil vinç, sepetli platform, hiyap, ağır yük, montaj, endüstriyel vinç, vinç tamiri ve bakım.
 - [Hakkımızda](https://www.azyvinc.com/hakkimizda): AZY Vinç ve kurucu Aziz Yıldırım.
 - [İletişim](https://www.azyvinc.com/iletisim): telefon, WhatsApp, adres ve çalışma saatleri.
 - [Blog](https://www.azyvinc.com/blog/): vinç kiralama rehberleri ve sık sorulan sorular.

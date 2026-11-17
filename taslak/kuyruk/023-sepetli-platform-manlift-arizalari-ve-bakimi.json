@@ -1,0 +1,195 @@
+{
+  "slug": "sepetli-platform-manlift-arizalari-ve-bakimi",
+  "_hedef": "sepetli platform arızası / manlift arızaları / manlift bakımı / sepetli platform tamiri",
+  "title": "Sepetli Platform ve Manlift Arızaları: Belirtiler ve Bakım",
+  "ogTitle": "Sepetli platform ve manlift arızaları ile bakımı: sepet seviyesi (terazi), acil indirme, sensör ve emniyet devresi sorunları, günlük kontroller ve bakım aralıkları",
+  "h1": "Sepetli platform ve manlift arızaları: sepet seviyesi, acil indirme, sensörler ve bakım",
+  "desc": "Sepetli platform ve manliftte sepet terazide durmuyor, acil indirme çalışmıyor, sensör ikaz veriyor mu? Belirti tablosu, günlük kontrol ve Şanlıurfa'da tamir.",
+  "image": "cadde-tabela-aydinlatma-sepetli-platform.jpeg",
+  "imageAlt": "Cadde üzerinde ayaklarını açmış sepetli platformun sepetinde asma yazıya uzanan iki çalışan",
+  "caption": "Sepette insan varken arızanın ilk sorusu tamir değil, indirmedir.",
+  "intro": "Sepetli platform ve manliftte arıza, yük yerine insan taşındığı için vinçten farklı ele alınır: şüpheli bir durumda sepete kimse çıkmaz; sepette biri varsa önce o indirilir, tamir sonra konuşulur. En sık karşılaşılan üç arıza grubu sepet seviyesi (terazi), acil indirme ve sensör-emniyet devreleridir. Bunların hiçbiri “bugün idare eder” denecek arızalar değildir, çünkü üçü de sepetteki kişiyi koruyan donanımlardır. Aşağıda belirtileri, sepette biri varken yapılacakları ve arızayı azaltan günlük kontrolleri bulacaksınız.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Sepette biri varken arıza olursa"
+    },
+    {
+      "type": "p",
+      "text": "Sıra şudur: önce insan, sonra makine. <a href=\"https://www.customtruck.com/wp-content/uploads/2019/03/Versalift-VST-39-43-50-55-TN.pdf\" target=\"_blank\" rel=\"noopener\">Versalift'in araç üstü platform kılavuzu</a> ile <a href=\"https://csapps.jlg.com/OnlineManuals/Manuals/JLG/JLG%20Boom%20Lifts/600S_600SJ_660SJ/Operation%20Manuals/PVC%202001/31215033_C_600S,660SJ_JLG_Operation_English.pdf\" target=\"_blank\" rel=\"noopener\">JLG'nin kullanım ve güvenlik kılavuzu</a> aynı mantığı izler:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Elektrik teması:</strong> platform bir enerji hattına değmiş olabilir mi? Değmiş olabilecekse araca ve platforma yerden dokunmayın.",
+        "<strong>Alt kumanda:</strong> sepetteki kişi kumanda edemiyorsa seçici anahtarla kumanda yerdeki panele alınır ve sepet oradan indirilir.",
+        "<strong>Yedek güç:</strong> motor ya da ana pompa durduysa, varsa aküyle çalışan yedek pompa kullanılır. Bu pompa kısa süreli çalışma içindir; kılavuzlar aynı anda tek hareket yapılmasını ve pompanın uzun süre kesintisiz çalıştırılmamasını ister.",
+        "<strong>Elle indirme:</strong> hidrolik tamamen devre dışıysa bazı platformlarda silindirlerin üzerindeki tahliye noktalarından bom kontrollü indirilebilir. Bu işi yalnızca makineyi tanıyan kişi yapar; sıcak yağ çıkar ve bomun iniş yolunda kimse durmamalıdır.",
+        "<strong>Başka bir makine:</strong> platform hiç çalışmıyorsa sepetteki kişi başka bir sepetli platformla alınır."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Kişi indikten sonra makine, arıza bulunup giderilmeden yeniden kullanılmaz. <a href=\"https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.18318.pdf\" target=\"_blank\" rel=\"noopener\">İş Ekipmanları Yönetmeliği</a> de insan kaldıran ekipmanlarda, kabinde mahsur kalan çalışanın tehlikeye maruz kalmamasını ve kurtarılmasını şart koşar (Ek-I, 3.2.4)."
+    },
+    {
+      "type": "h2",
+      "text": "Belirti, olası neden, ne yapmalı"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Belirti",
+        "Olası neden",
+        "Ne yapmalı"
+      ],
+      "rows": [
+        [
+          "Sepet öne ya da yana yatıyor, terazide durmuyor",
+          "Seviyeleme sistemi: ana ve uydu silindir, hortum ve bağlantıları",
+          "Sepete çıkmayın. Tamir gerekir"
+        ],
+        [
+          "Sepet beklerken hafifçe yer değiştirmiş",
+          "Hidrolik silindirlerde ısıyla genleşme ve büzülme",
+          "Sıcaklık farkında olağandır. Sürekli iniyorsa arızadır; çalışmayı bırakın"
+        ],
+        [
+          "Eğim ikazı çalıyor, hareketler yavaşladı ya da kesildi",
+          "Şasi izin verilen eğimin dışında; ayak altındaki zemin oturmuş",
+          "Bomu toplayıp sepeti indirin, aracı düz zemine alın. Düz zeminde de çalıyorsa sensöre baktırın"
+        ],
+        [
+          "Ayaklar basılı ama bom kalkmıyor",
+          "Ayak-bom kilitlemesi ayağın yere bastığını algılamıyor; ayak şalteri ya da valf",
+          "Ayakları yeniden basın. Sürerse tamir gerekir; kilitlemeyi köprülemeyin"
+        ],
+        [
+          "Aşırı yük ikazı yanıyor",
+          "Sepette fazla yük; boş sepette de yanıyorsa yük algılama sistemi",
+          "Yükü azaltın. Boş sepette sürüyorsa tamir gerekir"
+        ],
+        [
+          "Üst kumanda çalışmıyor, alt kumanda çalışıyor",
+          "Seçici anahtar alt konumda, acil stop basılı ya da kablo bağlantısı sorunlu",
+          "Anahtara ve stop butonlarına bakın. Geçmezse tamir gerekir"
+        ],
+        [
+          "Acil indirme ya da yedek pompa çalışmıyor",
+          "Akü zayıf; pompa, motor ya da şalter arızalı",
+          "Platformu kullanmayın. Tamir gerekir"
+        ],
+        [
+          "Uzatma takılarak ya da ses yaparak çıkıyor",
+          "Uzatma sisteminde ayar, aşınma ya da gevşeme",
+          "Sepeti indirin, makineyi kapatın. Tamir gerekir"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Sepet seviyesi neden bozulur?"
+    },
+    {
+      "type": "p",
+      "text": "Sepet, bom hangi açıda olursa olsun yere paralel kalmalıdır. Hidrolik seviyelemeli araç üstü platformlarda bunu birbirine bağlı iki silindir yapar: bomun dibindeki ana silindir bomun açısını izler, sepetin altındaki uydu silindir sepeti buna göre düzeltir. Bu devrede kaçak, hasarlı hortum ya da yıpranmış silindir varsa sepet yatmaya başlar. Sepetteki seviye kumandası arızayı gidermek için değildir; JLG kılavuzu bu kumandanın yalnızca küçük düzeltmeler için kullanılmasını, yanlış kullanımın sepettekilerin düşmesine yol açabileceğini yazar."
+    },
+    {
+      "type": "h2",
+      "text": "Sensör ve emniyet devreleri: susturmak çözüm değil"
+    },
+    {
+      "type": "p",
+      "text": "Eğim ikazı, aşırı yük algılama ve ayak-bom kilitlemesi devrilmeye karşı konmuş korumalardır. Versalift kılavuzuna göre kilitleme, ayaklar yere basmadan bomun çalışmasını ve bom toplanmadan ayakların kapanmasını engeller. İkaz veren sensörün fişini çekmek ya da devreyi köprülemek arızayı gidermez, yalnızca korumayı ortadan kaldırır. Devrilme nedenlerini <a href=\"/blog/manlift-devrilir-mi-sepetli-platform-devrilme\">manlift devrilir mi</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Günlük kontrol ve bakım aralıkları"
+    },
+    {
+      "type": "p",
+      "text": "Versalift kılavuzu her gün şunlara bakılmasını ister:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Taşıyıcı cıvatalar: gevşeme belirtisi var mı.",
+        "Kaynak dikişleri: pas ve kılcal çatlak yorulma belirtisidir.",
+        "Hidrolik hatlar: gevşek bağlantı, yıpranmış kılıf; özellikle sepet tarafındaki esneyen hortumlar.",
+        "Yağ kaçağı ve yağ seviyesi.",
+        "Kumandalar: bütün hareketler tam yol denenir.",
+        "Uzatma ve seviyeleme sistemi: hareket düzgün mü, alışılmadık ses var mı.",
+        "Eğim göstergeleri, ikaz ışıkları ve sesli ikazlar."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Aralıklar makineye göre değişir. Örnek olarak JLG 600S ve 660SJ için kılavuzdaki takvim şöyledir: her gün ve operatör değiştiğinde ön kontrol; üç ayda ya da 150 çalışma saatinde bir, hangisi önce dolarsa, ayrıntılı kontrol; yılda bir, en geç 13 ay içinde yıllık makine kontrolü. Üç aydan uzun süre kullanılmamış makine de işe girmeden ayrıntılı kontrolden geçirilir. Bunlar üreticinin bakım takvimidir; ayrıca Yönetmelik yükseltilebilen seyyar iş platformlarının periyodik kontrolünü en geç yılda bir, yetkili kişilerce ister (Ek-III, Tablo-2). Günlük kontrol listesini <a href=\"/blog/manlift-sepetli-platform-gunluk-kontrol-formu\">sepetli platform günlük kontrol formu</a> yazımızda bulabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Şanlıurfa'da sepetli platform tamiri nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "AZY Vinç sepetli platform ve manlift için arıza tespiti, tamir ve bakım yapıyor. <a href=\"tel:+905424889808\">0542 488 98 08</a> numarasını arayın ya da <a href=\"https://wa.me/905424889808?text=Merhaba%2C%20vincimde%20ariza%20var.%20Arizanin%20fotografini%20ve%20videosunu%2C%20vincin%20tipini%20ve%20markasini%2C%20konumumu%20gonderiyorum.\" target=\"_blank\" rel=\"noopener\">WhatsApp'tan yazın</a> ve şunları gönderin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Arızanın fotoğrafı ve videosu:</strong> sepetin o anki duruşu, yanan ikaz lambaları, ekrandaki hata kodu; ses varsa kısa video.",
+        "<strong>Makinenin tipi ve markası:</strong> araç üstü sepetli platform mu, eklemli ya da makaslı manlift mi; marka ve model.",
+        "<strong>Konum:</strong> WhatsApp konumu; makine toplanabiliyor mu, yürüyebiliyor mu.",
+        "<strong>Durum:</strong> sepette biri kaldı mı, alt kumanda çalışıyor mu."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "İşin yerinde mi yoksa bizde mi yapılacağını arızaya göre birlikte belirleriz. Şanlıurfa merkez ve bütün ilçelerden 7/24 ulaşabilirsiniz; ayrıntı <a href=\"/hizmetler/vinc-tamiri-bakim\">vinç tamiri ve bakım</a> sayfamızda. Platformunuz tamirdeyken işiniz bekliyorsa <a href=\"/hizmetler/sepetli-platform-manlift-kiralama\">operatörlü sepetli platform kiralama</a> ya da <a href=\"/\">Şanlıurfa vinç kiralama</a> ile sürdürebilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Maliyeti ne belirler?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Arızanın yeri:</strong> hidrolik mi, elektrik-sensör mü, mekanik mi.",
+        "<strong>Parça:</strong> silindir keçesi, hortum, sensör ya da kumanda kartı gibi gereken parçanın türü.",
+        "<strong>Erişim:</strong> arızalı parçaya ulaşmak için bomun ya da sepetin sökülmesi gerekip gerekmediği.",
+        "<strong>Makinenin tipi ve yüksekliği:</strong> büyük platformda işçilik artar.",
+        "<strong>İşin yeri ve zamanı:</strong> yerinde müdahale, mesafe, mesai dışı çalışma."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Sepetli platformda sepet neden terazide durmaz?",
+      "a": "Çoğunlukla seviyeleme sistemindeki bir sorundan: ana ya da uydu silindirde kaçak, hasarlı hortum ya da bağlantı. Sepet yatıyorsa içine çıkılmaz ve platform tamir edilmeden kullanılmaz."
+    },
+    {
+      "q": "Sepette biri varken platform arızalanırsa ne yapılır?",
+      "a": "Önce elektrik teması olmadığından emin olunur. Sonra sepet alt kumandadan, olmazsa yedek pompayla indirilir. Makine hiç çalışmıyorsa kişi başka bir sepetli platformla alınır."
+    },
+    {
+      "q": "Acil indirme sistemi ne sıklıkla denenmeli?",
+      "a": "Günlük kontrolün parçası olarak denenmelidir. Acil indirme ya da yedek pompa çalışmıyorsa platform kullanılmaz."
+    },
+    {
+      "q": "Eğim ikazı düz zeminde de çalıyorsa ne yapmalı?",
+      "a": "Önce aracın gerçekten terazide olup olmadığına bakın. Terazideyse sensör ya da bağlantısı arızalı olabilir; sensörü devre dışı bırakmayın, arıza tespiti yaptırın."
+    },
+    {
+      "q": "Manlift bakımı ne zaman yapılır?",
+      "a": "Makinenin kullanım kılavuzundaki takvime göre. Örnek olarak JLG 600S için her gün ön kontrol, üç ayda ya da 150 saatte bir ayrıntılı kontrol ve yılda bir yıllık kontrol öngörülür. Yönetmeliğe göre periyodik kontrol de en geç yılda bir yapılır."
+    },
+    {
+      "q": "Sepet beklerken kendiliğinden biraz oynaması normal mi?",
+      "a": "Hidrolik silindirler ısıyla genleşip büzüldüğü için bekleyen makinede sepetin konumu biraz değişebilir. Sepet sürekli iniyor ya da yatıyorsa bu arızadır."
+    },
+    {
+      "q": "Şanlıurfa'da sepetli platform tamiri için ne göndermeliyim?",
+      "a": "Arızanın fotoğrafını ve videosunu, makinenin tipini ve markasını, konumunuzu 0542 488 98 08 numarasına WhatsApp'tan gönderin. İşin yerinde mi yoksa bizde mi yapılacağını arızaya göre birlikte belirleriz."
+    }
+  ]
+}

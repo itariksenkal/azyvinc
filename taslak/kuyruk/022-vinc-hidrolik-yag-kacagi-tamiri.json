@@ -1,0 +1,217 @@
+{
+  "slug": "vinc-hidrolik-yag-kacagi-tamiri",
+  "_hedef": "vinç hidrolik yağ kaçağı / hiyap yağ kaçırıyor / hidrolik silindir yağ kaçağı tamiri",
+  "title": "Vinçte Hidrolik Yağ Kaçağı: Nereden Gelir, Ne Zaman Durmalı?",
+  "ogTitle": "Vinç, hiyap ve sepetli platformda hidrolik yağ kaçağı tamiri: kaçak nereden gelir, sahada güvenli ilk adımlar nelerdir, ne zaman çalışma tamamen durur, maliyeti ne belirler",
+  "h1": "Vinçte hidrolik yağ kaçağı: nereden gelir, hangisi güvenli, ne zaman durmalı?",
+  "desc": "Vinç ya da hiyapta hidrolik yağ kaçağı: rakor, hortum, silindir keçesi, valf. Güvenli ilk adımlar, ne zaman durmalı ve Şanlıurfa'da kaçak tamiri nasıl ayarlanır.",
+  "image": "celik-konstruksiyon-cati-kiris-montaj-agir-yuk-vinc.jpeg",
+  "imageAlt": "Prefabrik beton kirişi yerine indiren araç üstü vincin bomu, silindirleri ve hidrolik hatları",
+  "caption": "Bom boyunca uzanan her hortum ve rakor, olası bir kaçak noktasıdır.",
+  "intro": "Vinçte hidrolik yağ kaçağı gördüğünüzde ilk iş kaçağı aramak değildir: vinci yere ya da kasaya dayayın, kumanda sistemini kapatın, PTO'yu ayırın ve kaçağa elinizle dokunmayın. Kaçaklar çoğunlukla beş yerden gelir: rakorlar, hortumlar, silindir keçeleri, valf bloğu ve pompa-depo tarafı. Gevşemiş bir rakor sistem kapalıyken sıkılabilir; hortum, silindir ve valf kaçakları ise tamir işidir. Hangisinde vinci toplayıp gidebileceğinizi, hangisinde olduğunuz yerde durmanız gerektiğini aşağıda ayırıyoruz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Yağ kaçağı neden bekletilmez?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Yaralanma:</strong> hidrolik sistemdeki yağ yüksek basınç altındadır. <a href=\"https://www.customtruck.com/wp-content/uploads/2019/03/Versalift-VST-39-43-50-55-TN.pdf\" target=\"_blank\" rel=\"noopener\">Versalift'in araç üstü platform kılavuzu</a> basınçlı yağ spreyinin deriyi delip altına girebileceğini, göze de zarar verebileceğini ve bu durumların acil tıbbi yardım gerektirdiğini yazar.",
+        "<strong>Makine hasarı:</strong> kaçak giderilmezse depodaki yağ azalır ve pompa zarar görebilir.",
+        "<strong>Kayma ve yangın:</strong> yere dökülen yağ kaygan bir yüzey oluşturur; hidrolik yağların çoğu yanıcıdır ve sıcak yağ yakar."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Aynı kılavuzun ifadesiyle, aracın kasasına ya da yere damlayan yağ yaklaşan bir sorunun işaretidir."
+    },
+    {
+      "type": "h2",
+      "text": "Kaçak nereden gelir?"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Kaçağın yeri",
+        "Olası neden",
+        "Ne yapmalı"
+      ],
+      "rows": [
+        [
+          "Rakor ve bağlantı ucu",
+          "Gevşeme; O-ring eksik ya da ısıdan bozulmuş; dişte ya da oturma yüzeyinde hasar; aşırı ya da eksik sıkma",
+          "Sistem kapalıyken anahtarla sıkın. Geçmezse bağlantı sökülüp incelenir"
+        ],
+        [
+          "Hortumla rakorun birleştiği yer",
+          "Hortum ucu hatalı preslenmiş ya da tam oturmamış",
+          "Sıkmakla geçmez; hortum takımı değişir"
+        ],
+        [
+          "Hortum gövdesi",
+          "Sürtünme, ısıdan çatlama, burulma, dış kılıfta kabarma",
+          "Hortum değişir; güzergâh düzeltilir ya da koruyucu kılıf takılır"
+        ],
+        [
+          "Silindir mili çevresi",
+          "Keçe aşınması; mil yüzeyinde çizik ya da pas",
+          "Silindir tamiri gerekir"
+        ],
+        [
+          "Valf bloğu ve kumanda kolları",
+          "Conta ve O-ring yıpranması",
+          "Tamir gerekir"
+        ],
+        [
+          "Pompa, depo ve filtre çevresi",
+          "Keçe, kapak ya da filtre bağlantısı",
+          "Yağ seviyesine bakın; pompa ses yapıyorsa hemen durun"
+        ],
+        [
+          "Dışarıda yağ yok ama bom iniyor",
+          "Silindirde iç kaçak ya da yük tutma valfi",
+          "Yük kaldırmayın; tamir gerekir"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "İlk üç satır <a href=\"https://www.gates.com/content/dam/documents-library/operating-manuals/safe-hydraulics-pocket-guide-en.pdf\" target=\"_blank\" rel=\"noopener\">Gates'in hidrolik güvenlik rehberindeki</a> hortum arıza listesine dayanır: rehber, hortumla rakorun birleştiği yerdeki sızıntıda takımın değiştirilmesi gerektiğini, hortum çatlaklarında ise ısı kaynağının bulunup hortumun ondan uzaklaştırılmasını söyler."
+    },
+    {
+      "type": "h2",
+      "text": "Sahada güvenli ilk adımlar"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://cms.hiab.com/contentassets/b93afbc7c799473598ff867912a91063/hiab---x-duo-044-112---operators-manual.pdf\" target=\"_blank\" rel=\"noopener\">Hiab X-Duo operatör kılavuzu</a> yağ kaçağında şu sırayı verir:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Vinci yere ya da aracın kasasına dayayın.",
+        "Kumanda sistemini kapatın.",
+        "PTO'yu ayırın.",
+        "Kaçak rakordaysa anahtarla sıkın; sıkmak işe yaramazsa bırakın.",
+        "Hat ya da hortumda küçük bir kaçaksa vinci park konumuna alıp alamayacağınıza bakın. Alabiliyorsanız toplayıp tamire götürün; alamıyorsanız olduğu yerde yardım isteyin."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Kaçağın yerini ararken elinizi kullanmayın. <a href=\"https://csapps.jlg.com/OnlineManuals/Manuals/JLG/JLG%20Boom%20Lifts/600S_600SJ_660SJ/Operation%20Manuals/PVC%202001/31215033_C_600S,660SJ_JLG_Operation_English.pdf\" target=\"_blank\" rel=\"noopener\">JLG'nin kullanım ve güvenlik kılavuzu</a> kaçağı bir karton ya da kâğıt parçasıyla aramayı ve eldiven takmayı önerir. Yeri bulunca fotoğrafını çekin, yere dökülen yağı toplayın."
+    },
+    {
+      "type": "h2",
+      "text": "Yapılmaması gerekenler"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Makine çalışırken ya da sistem basınç altındayken rakor sıkmayın, hortum sökmeyin.",
+        "Sistem kapalı diye hattın boş olduğunu varsaymayın; kılavuzlar, güç kesildikten sonra da hatta basınç kalabileceği konusunda uyarır.",
+        "Kaçağın üzerine bez ya da bant sarıp işe devam etmeyin.",
+        "Depoya yağ ekleyerek kaçakla çalışmayı sürdürmeyin; yağ eklemek yalnızca makineyi güvenle toplamak içindir.",
+        "Sıcak yağa çıplak elle dokunmayın."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Ne zaman tamamen durmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Şu durumlarda vinci toplamaya da uğraşmayın; alanı boşaltın, sistemi kapatın ve arayın:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Yağ damlamıyor, fışkırıyor ya da sis hâlinde püskürüyorsa.",
+        "Kaçak, bomu ya da ayağı taşıyan silindirde veya ona giden hortumdaysa ve yük askıdaysa.",
+        "Depodaki seviye gözle görülür biçimde düşüyor ya da pompa ses yapmaya başladıysa.",
+        "Yağ egzoz gibi sıcak bir parçanın üzerine damlıyorsa."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Yük askıdayken hortum patlarsa panik yapmayın: silindirlerdeki yük tutma valfleri bomu yerinde tutacak şekilde tasarlanmıştır. Yükün altını boşaltın, yükü gözetimsiz bırakmayın ve yardım isteyin. Yükün düşmesine yol açan diğer nedenleri <a href=\"/blog/vincte-yuk-dusmesi-nedenleri\">vinçte yük düşmesi</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Kaçağı önleyen kontroller"
+    },
+    {
+      "type": "p",
+      "text": "Kaçakların çoğu günlük kontrolde yakalanır. Hiab kılavuzu her gün hortum, hat ve bağlantılarda kaçak olup olmadığına ve depodaki yağ seviyesine bakılmasını, ayda bir de açıkta kalan piston millerinin temizlenip yağlanmasını ister. Gates rehberi, üreticinin bir önerisi yoksa hareketli makinelerde hortumların 400–600 çalışma saatinde ya da üç ayda bir, hangisi önce dolarsa, kontrol edilmesini önerir ve yüksek ortam sıcaklığının hortum ömrünü kısalttığını hatırlatır. Kendi listenizi hazırlamak için <a href=\"/blog/mobil-vinc-gunluk-kontrol-formu\">mobil vinç günlük kontrol formu</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Şanlıurfa'da yağ kaçağı tamiri nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "AZY Vinç vinç, hiyap ve sepetli platform için arıza tespiti, tamir ve bakım yapıyor. <a href=\"tel:+905424889808\">0542 488 98 08</a> numarasını arayın ya da <a href=\"https://wa.me/905424889808?text=Merhaba%2C%20vincimde%20ariza%20var.%20Arizanin%20fotografini%20ve%20videosunu%2C%20vincin%20tipini%20ve%20markasini%2C%20konumumu%20gonderiyorum.\" target=\"_blank\" rel=\"noopener\">WhatsApp'tan yazın</a> ve şunları gönderin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Arızanın fotoğrafı ve videosu:</strong> kaçağın yakın çekimi, makinenin neresinde olduğunu gösteren uzak çekim, damlama anının kısa videosu, yerdeki lekenin büyüklüğü.",
+        "<strong>Vincin tipi ve markası:</strong> mobil vinç, hiyap ya da sepetli platform; marka ve model.",
+        "<strong>Konum:</strong> WhatsApp konumu.",
+        "<strong>Durum:</strong> kaçak hangi harekette artıyor, vinç toplanabiliyor mu, araç yürüyebiliyor mu, yük askıda mı."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "İşin yerinde mi yoksa bizde mi yapılacağını arızaya göre birlikte belirleriz. Şanlıurfa merkez ve bütün ilçelerden 7/24 ulaşabilirsiniz. Hizmetin ayrıntısı <a href=\"/hizmetler/vinc-tamiri-bakim\">vinç tamiri ve bakım</a> sayfamızda; makineniz tamirdeyken bekleyen işiniz için <a href=\"/\">Şanlıurfa vinç kiralama</a> sayfamıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Kaçak tamirinde maliyeti ne belirler?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Kaçağın yeri:</strong> rakor, hortum, silindir ya da valf; her biri ayrı bir iştir.",
+        "<strong>Hortumun özelliği:</strong> boyu, çapı, basınç sınıfı ve uç tipi.",
+        "<strong>Silindir işleri:</strong> silindirin sökülmesi gerekip gerekmediği ve milin durumu.",
+        "<strong>Yağ ve filtre:</strong> eksilen yağın tamamlanması; yağ kirlendiyse değişimi.",
+        "<strong>İşin yeri ve zamanı:</strong> yerinde müdahale, mesafe, mesai dışı çalışma."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Kaçağı görüp ne yapılacağı netleşince maliyeti işe başlamadan önce konuşuruz."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Vinçte yağ kaçağı varken çalışmaya devam edilir mi?",
+      "a": "Hayır. Vinç yere ya da kasaya dayanır, kumanda sistemi kapatılır ve PTO ayrılır. Gevşemiş bir rakor sıkılarak geçmiyorsa ya da kaçak hortum, silindir veya valfteyse vinç tamir edilmeden kullanılmaz."
+    },
+    {
+      "q": "Hidrolik yağ kaçağına elle dokunmak neden tehlikeli?",
+      "a": "Sistemdeki yağ yüksek basınç altındadır; ince bir delikten çıkan yağ deriyi delip altına girebilir. Böyle bir temas acil tıbbi yardım gerektirir. Kaçak el yerine bir karton ya da kâğıt parçasıyla aranır."
+    },
+    {
+      "q": "Rakordan sızan yağı kendim giderebilir miyim?",
+      "a": "Sistem kapalı ve basınçsızken rakoru anahtarla bir kez sıkabilirsiniz. Sızıntı sürüyorsa zorlamayın; O-ring ya da oturma yüzeyi hasarlı olabilir ve bağlantının sökülüp incelenmesi gerekir."
+    },
+    {
+      "q": "Hortum patlarsa bom düşer mi?",
+      "a": "Silindirlerdeki yük tutma valfleri, hortum patlasa bile bomu yerinde tutacak şekilde tasarlanır. Yine de yükün altı boşaltılır, yük gözetimsiz bırakılmaz ve vinç tamir edilmeden kullanılmaz."
+    },
+    {
+      "q": "Silindirden yağ sızması neyi gösterir?",
+      "a": "Çoğunlukla keçenin aşındığını ya da mil yüzeyinin çizildiğini gösterir. Silindirin sökülüp keçe takımının yenilenmesi, mil hasarlıysa onun da ele alınması gerekir."
+    },
+    {
+      "q": "Hidrolik hortumlar ne sıklıkla kontrol edilmeli?",
+      "a": "Her gün gözle kaçak ve hasar kontrolü yapılır. Ayrıntılı kontrol için önce makinenin kılavuzuna bakılır; kılavuzda öneri yoksa Gates rehberi hareketli makinelerde 400–600 çalışma saatinde ya da üç ayda bir kontrol önerir."
+    },
+    {
+      "q": "Şanlıurfa'da yağ kaçağı tamiri için ne göndermeliyim?",
+      "a": "Kaçağın fotoğrafını ve kısa bir videosunu, vincin tipini ve markasını, konumunuzu 0542 488 98 08 numarasına WhatsApp'tan gönderin. İşin yerinde mi yoksa bizde mi yapılacağını arızaya göre birlikte belirleriz."
+    }
+  ]
+}

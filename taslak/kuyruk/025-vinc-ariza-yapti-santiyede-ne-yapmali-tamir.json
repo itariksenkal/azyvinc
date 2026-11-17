@@ -1,0 +1,183 @@
+{
+  "slug": "vinc-ariza-yapti-santiyede-ne-yapmali-tamir",
+  "_hedef": "vinç arıza yaptı ne yapmalı / şantiyede vinç bozuldu / vinç yükü havada kaldı / acil vinç tamiri",
+  "title": "Vinç Şantiyede Arıza Yaptı: Yük Havadaysa Ne Yapmalı?",
+  "ogTitle": "Vinç iş ortasında arıza yaptı: askıdaki yükü güvene almak, kimi aramak, ne göndermek, tamir ve yedek vinç; şantiye için adım adım yol haritası",
+  "h1": "Vinç şantiyede arıza yaptı: yükü güvene almak, kimi aramak, yedek vinç",
+  "desc": "Vinç iş ortasında bozuldu, yük havada mı kaldı? Önce alanı boşaltın, yükü gözetimsiz bırakmayın. Adım adım ne yapmalı, kimi aramalı, tamir ve yedek vinç.",
+  "image": "sanliurfa-dergah-tarihi-alan-vinc.jpeg",
+  "imageAlt": "Şanlıurfa'da taş duvarlı tarihi yapının önünde ayaklarını açmış, sepeti yukarıda kamyon üstü vinç",
+  "caption": "Arıza anında ilk iş, yükün ve sepetin altındaki alanı boşaltmaktır.",
+  "intro": "Vinç iş ortasında arıza yaptıysa ilk iş tamir değildir: yükün altındaki ve vincin çevresindeki alanı hemen boşaltın, yükü gözetimsiz bırakmayın ve vinci zorlamayın. Yük güvenle indirilebiliyorsa operatör onu en kısa yoldan yere alır; indirilemiyorsa alan kapalı tutulur ve yardım gelene kadar biri başında bekler. Sonra arızanın fotoğrafını ve videosunu çekip vincin sahibini ya da tamirciyi arayın. İş beklemiyorsa yedek vinç aynı anda ayarlanabilir. Aşağıda bu sırayı ayrıntısıyla anlatıyoruz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "İlk dakikalar: beş adım"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>1. Alanı boşaltın.</strong> Yükün, bomun ve sepetin altında, ayrıca vincin dönüş alanında kimse kalmasın. Şerit ya da bariyerle kapatın. <a href=\"https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.18318.pdf\" target=\"_blank\" rel=\"noopener\">İş Ekipmanları Yönetmeliği</a> zaten kaldırılan yükün altında insan bulunmamasını ister (Ek-II, 3.1.3).",
+        "<strong>2. Yükü gözetimsiz bırakmayın.</strong> Yönetmeliğe göre tehlikeli bölgeye giriş engellenmedikçe ya da yükün güvenle askıda kalması sağlanmadıkça askıdaki yük gözetimsiz bırakılmaz (Ek-II, 3.2.6). Yük havadaysa bir kişi başında bekler.",
+        "<strong>3. Vinci zorlamayın.</strong> Kollarla oynamak, aynı hareketi tekrar tekrar denemek, güvenlik sistemini devre dışı bırakmak arızayı büyütür.",
+        "<strong>4. Enerji hattını kontrol edin.</strong> Bom ya da sepet bir hatta değmiş olabilirse vince ve yüke dokunmayın, elektrik idaresini arayın. Mesafe kurallarını <a href=\"/blog/vinc-elektrik-hattina-yaklasma-guvenlik-mesafesi\">elektrik hattına yaklaşma mesafesi</a> yazımızda anlattık.",
+        "<strong>5. Yaralı varsa 112.</strong> Kaza varsa ilk müdahale sırası ayrıdır; <a href=\"/blog/santiyede-vinc-kazasi-ilk-mudahale\">şantiyede vinç kazası ilk müdahale</a> yazımıza bakın."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Yük havadayken: indirilir mi, beklenir mi?"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Belirti",
+        "Olası neden",
+        "Ne yapmalı"
+      ],
+      "rows": [
+        [
+          "Vinç çalışıyor ama aşırı yük ikazı verip hareket kesti",
+          "Aşırı yük koruması devrede; yük momenti sınırda",
+          "Yük momentini azaltan hareketle (indirme, yaklaştırma) yükü yere alın"
+        ],
+        [
+          "Motor stop etti ya da PTO düştü",
+          "Yakıt, akü, motor arızası",
+          "Operatör makineyi yeniden çalıştırmayı dener; çalışırsa yükü yalnızca indirmek için kullanın"
+        ],
+        [
+          "Bom ya da uzatma yük altında yavaşça iniyor",
+          "Yük tutma valfi ya da silindirde iç kaçak",
+          "Alanı boşaltın; yükü en kısa yoldan ve yavaşça yere ya da sağlam bir desteğe indirin"
+        ],
+        [
+          "Hortum patladı, yağ fışkırıyor",
+          "Hortum ya da rakor arızası",
+          "Herkes kaçaktan uzaklaşır; sistem durdurulur. Yük tutma valfleri bomu tutar; yük gözetimde bekler"
+        ],
+        [
+          "Ayak yük altında kaçırıyor ya da zemin oturuyor",
+          "Silindir iç kaçağı ya da zemin çökmesi",
+          "Hiçbir yükseltme ya da dönüş hareketi yapmayın; yükü yalnızca dikey indirin"
+        ],
+        [
+          "Sepetli platformda sepette kişi kaldı",
+          "Motor, pompa ya da kumanda arızası",
+          "Alt kumanda, yedek pompa ya da başka bir platformla kişi indirilir"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Acil durum düzenekleri yalnızca makineyi güvenli konuma almak içindir. <a href=\"https://cms.hiab.com/contentassets/b93afbc7c799473598ff867912a91063/hiab---x-duo-044-112---operators-manual.pdf\" target=\"_blank\" rel=\"noopener\">Hiab X-Duo operatör kılavuzu</a> acil çalıştırma valfinin kullanımını “son derece tehlikeli” diye tarif eder, çünkü o sırada vincin bütün güvenlik sistemleri devre dışıdır; işe devam etmek için kullanılmaz. Aynı kılavuz, asılı yükün üzerine yük eklenmesinin yük tutma valfini açabileceği uyarısını da yapar."
+    },
+    {
+      "type": "p",
+      "text": "Hava şartları da hesaba girer: Yönetmelik, hava güvenli kullanımı engelleyecek şekilde bozulursa askıda serbest yük kaldıran ekipmanın açık havada kullanımının durdurulmasını ister (Ek-II, 3.2.7). Rüzgâr artıyorsa yükü indirmek beklemekten daha güvenlidir."
+    },
+    {
+      "type": "h2",
+      "text": "Kimi aramalı?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Kiralık vinçse:</strong> vinç firmasını arayın; tamir ve gerekiyorsa yedek araç onların işidir. Operatörlü kiralamada makineyi operatör bilir; ona müdahale etmeyin.",
+        "<strong>Kendi vincinizse:</strong> tamir edecek kişiyi ya da servisi arayın.",
+        "<strong>İş güvenliği tarafı:</strong> şantiyenin İSG uzmanına haber verin; olay kayda geçer.",
+        "<strong>Yol ya da kaldırımı kapatıyorsa:</strong> trafik ve belediye tarafı ayrıca düşünülür."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Şanlıurfa'da arıza anında ne gönderilir?"
+    },
+    {
+      "type": "p",
+      "text": "AZY Vinç vinç, hiyap ve sepetli platform için arıza tespiti, tamir ve bakım yapıyor; 7/24 ulaşılabilir, acil arızalar dahil. <a href=\"tel:+905424889808\">0542 488 98 08</a> numarasını arayın; konuşurken ya da hemen ardından <a href=\"https://wa.me/905424889808?text=Merhaba%2C%20vincimde%20ariza%20var.%20Arizanin%20fotografini%20ve%20videosunu%2C%20vincin%20tipini%20ve%20markasini%2C%20konumumu%20gonderiyorum.\" target=\"_blank\" rel=\"noopener\">WhatsApp'tan</a> şunları gönderin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Arızanın fotoğrafı ve videosu:</strong> yükün ve vincin bütününü gösteren uzak çekim, arızalı yerin yakın çekimi, ses ya da kendiliğinden hareket varsa kısa video, ekrandaki hata kodu.",
+        "<strong>Vincin tipi ve markası:</strong> mobil vinç, hiyap ya da sepetli platform; marka ve model.",
+        "<strong>Konum:</strong> WhatsApp konumu ve sahaya araçla nereden girildiği.",
+        "<strong>Yükün durumu:</strong> yük askıda mı, yaklaşık ağırlığı ne, altında ne var, sepette kişi var mı."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu bilgilerle işin yerinde mi yoksa bizde mi yapılacağını arızaya göre birlikte belirleriz. Ayrıntı <a href=\"/hizmetler/vinc-tamiri-bakim\">vinç tamiri ve bakım</a> sayfamızda."
+    },
+    {
+      "type": "h2",
+      "text": "Yedek vinç: iş durmasın"
+    },
+    {
+      "type": "p",
+      "text": "Arıza giderilene kadar beklemek her zaman mümkün olmaz: beton dökülüyor olabilir, yol kapalı olabilir, yük yarı yolda kalmış olabilir. AZY Vinç kiralama da yaptığı için tamir ile yedek makineyi aynı telefonda konuşabilirsiniz. Operatörlü mobil vinç, hiyap ve sepetli platform veriyoruz; ihtiyacınız olan tonajda vinç sağlarız. Yedek vinç için yükün ağırlığını, mesafeyi ve sahanın fotoğrafını gönderin; <a href=\"/blog/acil-ayni-gun-vinc-kiralama\">acil ve aynı gün vinç</a> yazımızda süreci anlattık. Genel kiralama bilgisi <a href=\"/\">Şanlıurfa vinç kiralama</a> sayfamızda."
+    },
+    {
+      "type": "p",
+      "text": "Askıdaki bir yükü başka bir vinçle almak ise ayrı bir planlama ister: iki vincin aynı yükte çalışması Yönetmelikte operatörler arası eşgüdüm gerektiren bir iştir (Ek-II, 3.2.5). Bunu sahada doğaçlama değil, planla yaparız."
+    },
+    {
+      "type": "h2",
+      "text": "Tamirden sonra: vinç ne zaman yeniden çalışır?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Arıza giderilmeden makine işe dönmez. Yönetmelik çatlak, aşırı aşınma ve benzeri tespit edilen ekipmanın kullanım dışı bırakılmasını ve derhal periyodik kontrole tabi tutulmasını ister (Ek-III, 1.3.2).",
+        "Kaza, aşırı yük gibi güvenliği bozabilecek olaylardan ve önemli bakım-onarımdan sonra makine yetkili kişilerce yeniden kontrol edilir (madde 7).",
+        "Yapılan tamir kayda geçirilir ve makinenin dosyasında saklanır (Ek-III, 1.3.4).",
+        "İşe dönmeden önce operatör günlük kontrolü ve bütün hareketlerin denemesini yeniden yapar."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Arıza anındaki maliyeti ne belirler?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Arızanın türü ve yeri.</strong>",
+        "<strong>Aciliyet ve saat:</strong> gece, hafta sonu ya da yük askıdayken müdahale.",
+        "<strong>Yedek vinç:</strong> gereken tonaj, süre ve sahaya mesafe.",
+        "<strong>Yükün kurtarılması:</strong> ikinci bir vinçle yük almak gerekiyorsa planlama ve ekipman.",
+        "<strong>Sonrasındaki kontrol:</strong> önemli onarım sonrası yetkili kontrol ayrı bir kalemdir."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Vinç yük havadayken bozulursa ne yapılır?",
+      "a": "Yükün altındaki ve vincin çevresindeki alan boşaltılır, yük gözetimsiz bırakılmaz. Vinç güvenle çalışabiliyorsa yük yalnızca indirmek için en kısa yoldan yere alınır; çalışmıyorsa alan kapalı tutulup yardım beklenir."
+    },
+    {
+      "q": "Askıdaki yük bırakılıp gidilebilir mi?",
+      "a": "Hayır. İş Ekipmanları Yönetmeliği'ne göre tehlikeli bölgeye giriş engellenmedikçe ya da yükün güvenle askıda kalması sağlanmadıkça askıdaki yük gözetimsiz bırakılmaz."
+    },
+    {
+      "q": "Hortum patlarsa yük düşer mi?",
+      "a": "Silindirlerdeki yük tutma valfleri, hortum patlasa bile bomun çökmesini önleyecek şekilde tasarlanır. Yine de herkes kaçaktan ve yükün altından uzaklaştırılır, sistem durdurulur."
+    },
+    {
+      "q": "Acil çalıştırma valfiyle işe devam edilebilir mi?",
+      "a": "Hayır. Acil çalıştırma yalnızca vinci güvenli konuma almak içindir; bu sırada bütün güvenlik sistemleri devre dışıdır."
+    },
+    {
+      "q": "Vinç bozulunca yedek vinç bulunabilir mi?",
+      "a": "AZY Vinç kiralama da yapıyor; operatörlü mobil vinç, hiyap ve sepetli platform veriyor, ihtiyacınız olan tonajda vinç sağlıyor. Tamiri ve yedek makineyi aynı telefonda konuşabilirsiniz."
+    },
+    {
+      "q": "Arıza anında WhatsApp'tan ne göndermeliyim?",
+      "a": "Arızanın fotoğrafını ve videosunu, vincin tipini ve markasını, konumunuzu ve yükün durumunu (askıda mı, ağırlığı, altında ne var) 0542 488 98 08 numarasına gönderin."
+    },
+    {
+      "q": "Tamirden sonra vinç hemen çalışabilir mi?",
+      "a": "Arıza giderildikten sonra operatör günlük kontrolü ve hareket denemesini yapar. Kaza, aşırı yük ya da önemli onarım sonrasında ayrıca yetkili kişilerin kontrolü gerekir."
+    }
+  ]
+}

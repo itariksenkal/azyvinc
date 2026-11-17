@@ -1,0 +1,226 @@
+{
+  "slug": "vinc-periyodik-bakim-ne-zaman-yapilir",
+  "_hedef": "vinç bakımı ne zaman yapılır / vinç periyodik bakım / hiyap bakımı / vinç yağ değişimi",
+  "title": "Vinç Bakımı Ne Zaman Yapılır? Günlük, Aylık, Yıllık Takvim",
+  "ogTitle": "Vinç periyodik bakımı ne zaman yapılır? Üretici kılavuzlarına göre günlük, haftalık, aylık ve yıllık bakım takvimi; vinç sahibinin kendi kontrol edebilecekleri ve periyodik kontrol farkı",
+  "h1": "Vinç bakımı ne zaman yapılır? Üretici kılavuzlarına göre bakım takvimi",
+  "desc": "Vinç bakımı ne zaman yapılır? Hiab, Grove ve JLG kılavuzlarına göre günlük, aylık, yıllık bakım; sahibin kendi bakabilecekleri ve periyodik kontrolden farkı.",
+  "image": "elektrik-diregi-hiyap-vinc-kis.jpeg",
+  "imageAlt": "Karlı arazide elektrik direğine uzanan kırmızı hiyap vinç ve yanında kazı yapan iş makinesi",
+  "caption": "Bakım takvimini makinenin kılavuzu belirler; iklim ve kullanım yoğunluğu aralığı kısaltabilir.",
+  "intro": "Vinç bakımının ne zaman yapılacağını makinenin kendi kullanım kılavuzu belirler; tek bir genel takvim yoktur. Kılavuzların çoğu aynı iskeleti izler: her gün operatör kontrolü, ayda bir gresleme ve ayrıntılı kontrol, yılda en az bir kez serviste genel bakım ve yağ-filtre işleri. Örneğin Hiab, vincin yılda en az bir kez servise götürülmesini ve filtrenin ilk 50 saatte, sonra her 1000 saatte ya da en az yılda bir değiştirilmesini ister. Bakım, yasal periyodik kontrolle aynı şey değildir; ikisi ayrı kişilerce yapılır. Aşağıda örnek takvimleri, sizin kendi yapabileceğiniz kontrolleri ve bakımın ne zaman öne çekilmesi gerektiğini bulacaksınız.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Bakım ile periyodik kontrol aynı şey mi?"
+    },
+    {
+      "type": "p",
+      "text": "Hayır. <a href=\"https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.18318.pdf\" target=\"_blank\" rel=\"noopener\">İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği</a> ikisini ayırır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Bakım</strong> (günlük, haftalık, aylık, üç aylık, altı aylık ve benzeri), standartlarda ya da imalatçının belirlediği şekilde, imalatçının yetkilendirdiği servislerce veya işyerinin görevlendirdiği kişilerce yapılır (Ek-III, 1.2). Ekipman, standartların ve imalatçının belirlediği kriter ve aralıklara göre bakıma tabi tutulur (Ek-III, 1.3.3).",
+        "<strong>Periyodik kontrol</strong> yetkili kişilerce yapılır ve rapora bağlanır. Vinçler (mobil, yükleyici ve benzeri) ile yükseltilebilen seyyar iş platformları için azami süre, standartta belirtilmemişse 1 yıldır (Ek-III, Tablo-2).",
+        "Bakımı yapan kişi, bakımını yaptığı ekipmanın periyodik kontrolünü yapamaz (madde 14/A)."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Periyodik kontrolün kapsamını ve belgesini <a href=\"/blog/2026-vinc-periyodik-kontrol-fenni-muayene-zorunlulugu\">vinç periyodik kontrol ve fenni muayene</a> yazımızda anlattık. Bu yazı bakım tarafına odaklanıyor."
+    },
+    {
+      "type": "h2",
+      "text": "Üreticiler ne diyor? Üç örnek takvim"
+    },
+    {
+      "type": "p",
+      "text": "Aşağıdaki örnekler üç üreticinin yayımladığı belgelerden alındı. Kendi makinenizin takvimi farklı olabilir; esas olan makinenizin seri numarasına uyan kılavuzdur."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Belge",
+        "Günlük",
+        "Haftalık / aylık",
+        "Yıllık ve saat esaslı"
+      ],
+      "rows": [
+        [
+          "<a href=\"https://cms.hiab.com/contentassets/b93afbc7c799473598ff867912a91063/hiab---x-duo-044-112---operators-manual.pdf\" target=\"_blank\" rel=\"noopener\">Hiab X-Duo operatör kılavuzu</a> (araç üstü vinç)",
+          "Etiketler, kilitler, pim ve burçlar, stop butonları, kollar, yapı, kanca, hidrolik kaçak, yağ seviyesi, filtre göstergesi",
+          "Ayda bir: piston millerinin temizlenip yağlanması, pim ve burç boşlukları, cıvata sıkılığı, kablo ve sensörler, gresleme; gresleme noktalarına göre 16 ve 50 saatte bir",
+          "Yılda en az bir kez serviste bakım: hidrolik yağ değişimi ya da yağ analizi, filtreler, dönüş kutusu yağı. Filtre: ilk 50 saat, sonra her 1000 saat ya da en az yılda bir"
+        ],
+        [
+          "<a href=\"https://www.manitowoc.com/media/191/download\" target=\"_blank\" rel=\"noopener\">Grove arazi tipi vinç muayene ve yağlama kayıt defteri</a>",
+          "Günlük ya da 10 saatte bir kontrol listesi",
+          "Haftalık ya da 50 saatte bir; aylık ya da 250 saatte bir",
+          "3, 6, 12 ay ya da 500 saat; 6, 12, 24 ay ya da 1000, 2000, 4000 saat listeleri"
+        ],
+        [
+          "<a href=\"https://csapps.jlg.com/OnlineManuals/Manuals/JLG/JLG%20Boom%20Lifts/600S_600SJ_660SJ/Operation%20Manuals/PVC%202001/31215033_C_600S,660SJ_JLG_Operation_English.pdf\" target=\"_blank\" rel=\"noopener\">JLG 600S / 660SJ kullanım kılavuzu</a> (manlift)",
+          "Her gün ve operatör değiştiğinde ön kontrol",
+          "Üç ayda ya da 150 saatte bir ayrıntılı kontrol; dönüş yatağı gresi aynı aralıkta",
+          "Yılda bir (en geç 13 ay) yıllık kontrol; hidrolik filtreler ilk 50 saat, sonra 6 ayda ya da 300 saatte bir; hidrolik yağ 2 yılda ya da 1200 saatte bir"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Ortak noktaya dikkat edin: aralıklar hem takvimle hem çalışma saatiyle verilir ve hangisi önce dolarsa o geçerlidir. Yoğun çalışan bir vinç, takvimden önce saat sınırına ulaşır."
+    },
+    {
+      "type": "h2",
+      "text": "Yağ değişimi: sabit aralık mı, analiz mi?"
+    },
+    {
+      "type": "p",
+      "text": "Hidrolik yağ konusunda üreticiler arasında fark var. Hiab yağın yılda bir değiştirilmesini ya da bir atölyede test ettirilmesini ister. <a href=\"https://www.palfinger.com/en/services/lubricants\" target=\"_blank\" rel=\"noopener\">Palfinger'in yağlayıcı sayfası</a> ise kendi yağlarıyla yıllık yağ değişiminin artık gerekmediğini, bunun yerine yılda bir yağ analizi yaptırılmasını ve değişimin analiz sonucuna göre yapılmasını söyler. İkisinde de ortak olan yıllık kontroldür: yağ ya değişir ya da durumu ölçülür. Hangi yağın kullanılacağı da kılavuzda yazar; farklı yağları karıştırmak önerilmez."
+    },
+    {
+      "type": "h2",
+      "text": "Bakımı ne zaman öne çekmeli?"
+    },
+    {
+      "type": "p",
+      "text": "Kılavuzlar, ağır koşullarda aralıkların kısalacağını açıkça yazar:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Sıcak iklim:</strong> Hiab kılavuzuna göre sıcak iklimde çalışan vincin yağının daha sık değiştirilmesi gerekebilir. Şanlıurfa yazı bunun tipik örneğidir.",
+        "<strong>Çok vardiya ve zorlu ortam:</strong> JLG kılavuzu, çok vardiyalı kullanımda ya da zorlu ortamlarda yağlama sıklığının artırılması gerektiğini yazar. Toz ve çamur bu kapsamdadır.",
+        "<strong>Uzun bekleme:</strong> Hiab, bir ay ya da daha uzun süre kullanılmayacak vincin iyice greslenip taşıma konumunda park edilmesini ister. JLG'de üç aydan uzun bekleyen makine işe girmeden ayrıntılı kontrolden geçer.",
+        "<strong>Kaza, aşırı yük ya da tamir sonrası:</strong> Yönetmelik bu gibi durumlardan sonra yetkili kişilerce kontrol ister (madde 7)."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Vinç sahibi kendi neyi kontrol edebilir?"
+    },
+    {
+      "type": "p",
+      "text": "Belirti → olası neden → ne yapmalı mantığıyla, bakım zamanının geldiğini gösteren işaretler:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Belirti",
+        "Olası neden",
+        "Ne yapmalı"
+      ],
+      "rows": [
+        [
+          "Filtre göstergesi kırmızı",
+          "Filtre dolmuş",
+          "Filtreyi değiştirin ya da değiştirtin"
+        ],
+        [
+          "Yağ seviyesi sık sık düşüyor",
+          "Bir yerde kaçak var",
+          "Kaçağı bulup tamir ettirin; sadece yağ eklemeyin"
+        ],
+        [
+          "Yağ koyulaşmış, rengi değişmiş, köpüklü",
+          "Yağ eskimiş, ısınmış ya da içine su veya hava karışmış",
+          "Yağ analizi ya da değişimi"
+        ],
+        [
+          "Pimlerde ve burçlarda boşluk, gıcırtı",
+          "Gresleme aksamış, aşınma başlamış",
+          "Gresleyin; boşluk sürüyorsa servise"
+        ],
+        [
+          "Hareketler yavaşladı, makine çabuk ısınıyor",
+          "Yağ ya da filtre zamanı geçmiş, soğutucu kirli",
+          "Bakımı öne çekin"
+        ],
+        [
+          "Cıvatalarda gevşeme, kaynakta kılcal çatlak",
+          "Yorulma",
+          "Makineyi kullanmayın; servise"
+        ]
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Günlük kontrol listesini her gün doldurun ve saklayın.",
+        "Çalışma saatini haftada bir not edin; saat esaslı bakımı bununla takip edersiniz.",
+        "Yağ seviyesine makine düz zeminde ve vinç taşıma konumundayken bakın.",
+        "Yapılan her bakımı yazın: Yönetmelik bütün bakım ve onarımların kayda geçirilmesini ve makinenin ömrü boyunca saklanmasını ister (Ek-III, 1.3.4); bakım defteri olan makinelerde işlemler günü gününe deftere işlenir (Ek-I, 2.13.1)."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Günlük kontrol listesi için <a href=\"/blog/mobil-vinc-gunluk-kontrol-formu\">mobil vinç günlük kontrol formu</a> yazımıza bakabilirsiniz. Bakım sırasında makine kapalı, enerjisi kesik ve bütün hareketleri durmuş olmalıdır (Ek-I, 2.13)."
+    },
+    {
+      "type": "h2",
+      "text": "Şanlıurfa'da vinç bakımı nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "AZY Vinç vinç, hiyap ve sepetli platform için bakım, arıza tespiti ve tamir yapıyor. <a href=\"tel:+905424889808\">0542 488 98 08</a> numarasını arayın ya da <a href=\"https://wa.me/905424889808?text=Merhaba%2C%20vincim%20icin%20bakim%20ayarlamak%20istiyorum.%20Vincin%20tipini%20ve%20markasini%2C%20calisma%20saatini%20ve%20konumumu%20gonderiyorum.\" target=\"_blank\" rel=\"noopener\">WhatsApp'tan yazın</a> ve şunları gönderin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Vincin tipi ve markası:</strong> marka, model ve mümkünse imalatçı etiketinin fotoğrafı.",
+        "<strong>Çalışma saati ve son bakım:</strong> saat sayacının fotoğrafı, son bakımın tarihi ve neler yapıldığı.",
+        "<strong>Fark ettikleriniz:</strong> varsa kaçak, ses ya da yavaşlamanın fotoğrafı veya videosu.",
+        "<strong>Konum:</strong> WhatsApp konumu."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bakımın yerinde mi yoksa bizde mi yapılacağını makineye ve yapılacak işe göre birlikte belirleriz. Ayrıntı <a href=\"/hizmetler/vinc-tamiri-bakim\">vinç tamiri ve bakım</a> sayfamızda. Makineniz bakımdayken bekleyen işiniz için <a href=\"/\">Şanlıurfa vinç kiralama</a> sayfamıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Bakım maliyetini ne belirler?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Bakımın kapsamı:</strong> gresleme ve kontrol mü, yağ ve filtre değişimi mi, yıllık genel bakım mı.",
+        "<strong>Sarf malzemesi:</strong> yağ miktarı (depo hacmi), filtre sayısı ve türü.",
+        "<strong>Makinenin tipi ve büyüklüğü.</strong>",
+        "<strong>Bakımda çıkan arızalar:</strong> kontrol sırasında bulunan sorunlar ayrıca konuşulur.",
+        "<strong>İşin yeri:</strong> yerinde mi yapılacak, mesafe."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Vinç bakımı ne sıklıkla yapılır?",
+      "a": "Makinenin kullanım kılavuzuna göre. Çoğu kılavuz her gün operatör kontrolü, ayda bir gresleme ve ayrıntılı kontrol, yılda en az bir kez servis bakımı öngörür. Aralıklar takvim ve çalışma saatiyle verilir; hangisi önce dolarsa o geçerlidir."
+    },
+    {
+      "q": "Hiyap hidrolik yağı ne zaman değişir?",
+      "a": "Hiab kılavuzuna göre yılda bir; ya da yağ bir atölyede test ettirilir. Sıcak iklimde daha sık değişim gerekebilir. Palfinger kendi yağlarında yıllık yağ analizi önerir ve değişimi analiz sonucuna bağlar."
+    },
+    {
+      "q": "Vinç bakımı ile periyodik kontrol aynı şey mi?",
+      "a": "Hayır. Bakım üreticinin takvimine göre servis ya da görevli kişilerce yapılır. Periyodik kontrol yetkili kişilerce, vinçlerde en geç yılda bir yapılır ve rapora bağlanır. Bakımı yapan kişi aynı makinenin periyodik kontrolünü yapamaz."
+    },
+    {
+      "q": "Hidrolik filtre ne zaman değiştirilir?",
+      "a": "Kılavuza göre. Hiab ilk 50 saatte, sonra her 1000 saatte ya da en az yılda bir değişim ister; JLG 600S'te ilk 50 saatten sonra 6 ayda ya da 300 saatte bir. Filtre göstergesi kırmızıysa beklemeden değiştirilir."
+    },
+    {
+      "q": "Uzun süre çalışmayan vinç için ne yapılmalı?",
+      "a": "Hiab bir ay ya da daha uzun beklemeden önce vincin iyice greslenip taşıma konumunda park edilmesini ister. JLG'de üç aydan uzun bekleyen makine işe girmeden ayrıntılı kontrolden geçer."
+    },
+    {
+      "q": "Bakım kayıtları saklanmalı mı?",
+      "a": "Evet. İş Ekipmanları Yönetmeliği bütün bakım ve onarımların kayda geçirilmesini ve makinenin kullanım ömrü boyunca saklanmasını ister."
+    },
+    {
+      "q": "Şanlıurfa'da vinç bakımı için ne göndermeliyim?",
+      "a": "Vincin tipini ve markasını, saat sayacının fotoğrafını, son bakım bilgisini ve konumunuzu 0542 488 98 08 numarasına WhatsApp'tan gönderin. Bakımın yerinde mi yoksa bizde mi yapılacağını birlikte belirleriz."
+    }
+  ]
+}
