@@ -62,3 +62,4 @@
 2026-11-15 cati-olugu-temizligi-ve-kiremit-tamiri-sepetli-platform
 2026-11-16 tabela-firmalari-icin-operatorlu-sepetli-ve-hiyap-is-ortakligi
 2026-11-17 klima-cam-elektrik-firmalari-icin-vinc-destegi
+2026-11-18 sanliurfa-vinc-tamiri-nasil-ayarlanir
