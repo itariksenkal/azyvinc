@@ -64,3 +64,4 @@
 2026-11-17 klima-cam-elektrik-firmalari-icin-vinc-destegi
 2026-11-18 sanliurfa-vinc-tamiri-nasil-ayarlanir
 2026-11-19 hiyap-arizalari-belirtiler-ve-tamir
+2026-11-20 vinc-hidrolik-yag-kacagi-tamiri
